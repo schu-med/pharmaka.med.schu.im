@@ -1,0 +1,3 @@
+[submodule "themes/about-blank"]
+	path = themes/about-blank
+	url = https://github.com/schu/about-blank

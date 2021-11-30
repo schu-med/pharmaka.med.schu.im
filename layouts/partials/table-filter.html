@@ -1,0 +1,24 @@
+<script>
+// Adapted from https://stackoverflow.com/a/51187875
+const tableFilter = () => {
+  const trs = Array.from(document.querySelectorAll('#pharmakologie tr')).filter(
+    item => !item.querySelector('th')
+  );
+  const filter = document.querySelector('#filter').value
+  const regex = new RegExp(filter, 'i')
+  const isFoundInTds = td => regex.test(td.innerHTML)
+  const isFound = childrenArr => childrenArr.some(isFoundInTds)
+  const setTrStyleDisplay = ({ style, children }) => {
+    style.display = isFound([
+      ...children // <-- All columns
+    ]) ? '' : 'none'
+  }
+  trs.forEach(setTrStyleDisplay)
+}
+</script>
+
+<div class="row mb-2">
+  <div class="col">
+    <input type="text" id="filter" onkeyup="tableFilter()" placeholder="Filter ...">
+  </div>
+</div>

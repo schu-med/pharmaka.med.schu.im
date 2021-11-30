@@ -1,0 +1,11 @@
+baseURL = 'https://pharmakologie.med.schu.im/'
+languageCode = 'de-de'
+title = 'pharmakologie.med.schu.im'
+theme = "about-blank"
+enableGitInfo = true
+
+[params]
+disableMenu = true
+
+[markup.goldmark.renderer]
+unsafe= true
