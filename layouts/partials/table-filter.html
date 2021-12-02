@@ -1,7 +1,7 @@
 <script>
 // Adapted from https://stackoverflow.com/a/51187875
 const tableFilter = () => {
-  const trs = Array.from(document.querySelectorAll('#pharmakologie tr')).filter(
+  const trs = Array.from(document.querySelectorAll('#pharmaka tr')).filter(
     item => !item.querySelector('th')
   );
   const filter = document.querySelector('#filter').value

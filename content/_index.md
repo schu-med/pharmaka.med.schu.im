@@ -1,5 +1,5 @@
 +++
-title = "pharmakologie.med.schu.im"
+title = "pharmaka.med.schu.im"
 layout = "indexpage-fluid"
 +++
 
@@ -7,7 +7,7 @@ layout = "indexpage-fluid"
 
 {{< partial "table-filter" >}}
 
-{{<table id="pharmakologie" class="table table-striped table-hover" >}}
+{{<table id="pharmaka" class="table table-striped table-hover" >}}
 
 | System | Kategorie | Wirkstoff | Wirkung | Indikation | UAW | Wechselwirkungen | Kontraindikation | Sonstiges |
 |--------|-----------|-----------|---------|------------|-----|------------------|------------------|-----------|

@@ -1,6 +1,6 @@
-baseURL = 'https://pharmakologie.med.schu.im/'
+baseURL = 'https://pharmaka.med.schu.im/'
 languageCode = 'de-de'
-title = 'pharmakologie.med.schu.im'
+title = 'pharmaka.med.schu.im'
 theme = "about-blank"
 enableGitInfo = true
 
