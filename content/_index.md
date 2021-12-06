@@ -19,11 +19,23 @@ layout = "indexpage-fluid"
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie, Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Opioide | WHO3 | Levomethadon | analgetisch, 3- bis 4-fach stärker als Morphin, langsamer Wirkeintritt, lange Wirkdauer (lipohil -> Gewebeeinlagerung) | Substitutionstherapie bei Heroinabhängigkeit | Gefahr Kammerflimmern bei hohen Dosen | CYP3A4 | | |
 | Opioide | WHO3 | Fentanyl | analgetisch, 100-fach stärker als Morphin | Notfallmedizin, starke chronische Schmerzen | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | CYP3A4 Inhibitoren | | |
+| Opioide | | Sufentanil, Alfentanil, Remifentanil | Fentanyl-Derivate | hochpotent, schneller Wirkeintritt, kurze HWZ, Infustion peri- oder postoperativ | | | | |
 | Opioide | WHO3 | Oxycodon | analgetisch, 1,5-fach stärker als Morphin, hohes Suchtpotential durch schnelles Anfluten | | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | | | Retardtabletten + Naloxon |
-| Opioide | | Pirithramid | analgetisch, Wirkstärke 70% von Morphin | auschließlich parenteral, postoperativ | | | | Methadonderivat |
+| Opioide | WHO3 | Hydromorphon (Dihydromorphin) | analgetisch, 7,5-fach stärker als Morphin | starke bis sehr starke Schmerzen | | | | Retardkapseln |
+| Opioide | WHO2 | Codein | geringe Affinität zu MOP | | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
+| Opioide | | Piritramid (Dipidolor) | analgetisch, Wirkstärke 70% von Morphin | auschließlich parenteral, postoperativ | | | | Methadonderivat |
 | Opioide | | Tilidin | analgetisch, Wirkstärke 15% von Morphin, Prodrug | | | | | in Kombination mit Naloxon |
+| Opioide | | Pethidin | Wirkstärke 1/5 von Morphin, orale Bioverfügbarkeit 50% | | Kumulationsgefahr bei chronischer Gabe -> nur akut | | | |
+| Opioide | | Loperamid | Pethidin-Derivat, hohe Affinität zu MOP | Antidiarrhoikum | | | | |
+| Opioide | Partielle Agonisten | Buprenorphin | Partialagonist an MOP, Antagonist an DOP, langsame Dissoziation vom Rezeptor, hoher First-Pass-Effekt | Applikation sublingual oder als Pflaster bei starken Schmerzen, Substitutionstherapie mit Naloxon | | | | |
+| Opioide | Partielle Agonisten | Nalbuphin | Partialagonist an MOP, Antagonist an KOP | Analgesie bei Geburtshilfe | | | | |
 | Opioide | Antagonisten | Naloxon | Antidot | Intoxikation | | | | |
 | Opioide | Antagonisten | Naltrexon | Antidot, wie Nalaxon aber mit längerer HWZ (24-48h) | Rückfallprophylaxe | Hepatotoxizität | | | |
+| RAAS Inhibitoren | Renin-Inhibitoren | Aliskiren | hemmmt Renin Freisetzung | Hypertonie | Hyperkaliämie, Diarrhoe, Schwindel, Arthralgie | ACE-Hemmer, AT1-Antagonisten | | |
+| RAAS Inhibitoren | ACE Inhibitoren | Suffix *-pril* | Funktionelle SH-Gruppe, die das Zink des ACE bindet -> weniger Angiotensin-II, mehr Bradykinin | Hypertonie, HI, post MI, diabetische Nephropathie | Hypotension, trockener Husten, Hyperkaliämie, Nierenschaden | Wirkungsabschwächung durch NSAR | Nierenarterienstenose, Schwangerschaft | in allen NYHA Stadien eingesetzt |
+| RAAS Inhibitoren | Angiotensin-II-Rezeptor Antagonisten | Suffix *-sartan* | Bindung an AT1-Rezeptor | Hypertonie, HI | Hyperkaliämie, GFR reduziert | | Nierenstenose, Schwangerschaft | |
+| RAAS Inhibitoren | Aldosteron Antagonisten | Spironolacton, Epleronon | hemmt Wirkung von Aldosteron | Hyperaldosteronismus, HI NYHA 2 + 3 | Hyperkaliämie, Amenorrhoe, Gynäkomastie | | Hyperkaliämie, Hyponatriämie, Hypovolämie, NI, Schwangerschaft | Nicht für antihypertensive Therapie zugelassen! |
+| Ca++ Kanalblocker | Wirkung auf glatte Muskulatur | Dihydropyridin (Nifedipin-Typ) | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) | Hypertonie, stabile AP, vasospastische AP, Raynaud-Syndrom | Reflex-Tachykardie, Kopfschmerzen, Flush, Wärmegefühl, Schwindel, Müdigkeit, Beinödeme | Andere Hypertensiva, CYP3A4 | | |
 | Antibiotika | Penicilline (Aminopenicillin) | Ampizillin, Amoxizillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | (G+), G- | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Penicilline (Acylaminopenicillin) | Azlocillin, Piperacillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G-, Aa | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Glykopeptide | Vancomycin, Teicoplanin | Zellwand- und Membransynthesehemmstoff, Bindung an D-Ala-D-Ala | G+ | Nephrotoxizität, Ototoxizität, Hypotonie | Res.: verändertes Peptid (D-Ser oder D-Lact) | | Reserve-AB für MRSA, pseudomembranöse Colitis |
