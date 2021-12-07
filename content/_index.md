@@ -17,25 +17,37 @@ layout = "indexpage-fluid"
 | Thrombozyten-aggregationshemmer | ADP Rezeptorantagonist | Ticagrelor | Reversible P2Y12 Hemmung, schneller Wirkeintritt, schneller Wirkverlust | ACS, Prophylaxe ACS, TIA, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | |
 | Thrombozyten-aggregationshemmer | ADP Rezeptorantagonist | Cangrelor | Reversible P2Y12 Hemmung, schneller Wirkeintritt, schneller Wirkverlust | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | |
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie, Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
+| Opioide | WHO3 | Morphin | analgetisch | | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | | | |
 | Opioide | WHO3 | Levomethadon | analgetisch, 3- bis 4-fach stärker als Morphin, langsamer Wirkeintritt, lange Wirkdauer (lipohil -> Gewebeeinlagerung) | Substitutionstherapie bei Heroinabhängigkeit | Gefahr Kammerflimmern bei hohen Dosen | CYP3A4 | | |
 | Opioide | WHO3 | Fentanyl | analgetisch, 100-fach stärker als Morphin | Notfallmedizin, starke chronische Schmerzen | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | CYP3A4 Inhibitoren | | |
 | Opioide | | Sufentanil, Alfentanil, Remifentanil | Fentanyl-Derivate | hochpotent, schneller Wirkeintritt, kurze HWZ, Infustion peri- oder postoperativ | | | | |
 | Opioide | WHO3 | Oxycodon | analgetisch, 1,5-fach stärker als Morphin, hohes Suchtpotential durch schnelles Anfluten | | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | | | Retardtabletten + Naloxon |
 | Opioide | WHO3 | Hydromorphon (Dihydromorphin) | analgetisch, 7,5-fach stärker als Morphin | starke bis sehr starke Schmerzen | | | | Retardkapseln |
 | Opioide | WHO2 | Codein | geringe Affinität zu MOP | | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
-| Opioide | | Piritramid (Dipidolor) | analgetisch, Wirkstärke 70% von Morphin | auschließlich parenteral, postoperativ | | | | Methadonderivat |
-| Opioide | | Tilidin | analgetisch, Wirkstärke 15% von Morphin, Prodrug | | | | | in Kombination mit Naloxon |
-| Opioide | | Pethidin | Wirkstärke 1/5 von Morphin, orale Bioverfügbarkeit 50% | | Kumulationsgefahr bei chronischer Gabe -> nur akut | | | |
-| Opioide | | Loperamid | Pethidin-Derivat, hohe Affinität zu MOP | Antidiarrhoikum | | | | |
-| Opioide | Partielle Agonisten | Buprenorphin | Partialagonist an MOP, Antagonist an DOP, langsame Dissoziation vom Rezeptor, hoher First-Pass-Effekt | Applikation sublingual oder als Pflaster bei starken Schmerzen, Substitutionstherapie mit Naloxon | | | | |
+| Opioide | WHO2 | Tramadol | analgetisch, Wirkstärke 10% von Morphin, Metabolit ist Wiederaufnahmehemmer von Serotonin/NA -> deszendierene Schmerzhemmung | | | Metabolisierung zum aktiven Metabolit durch CYP2D6 | | |
+| Opioide | WHO2 | Dihydrocodein | analgetisch, 1,5-fach stärker als Codein | Antitussivum | | Metabolisierung zu Dihydromorphin durch CYP2D6 | | |
+| Opioide | WHO3 | Piritramid (Dipidolor) | analgetisch, Wirkstärke 70% von Morphin | auschließlich parenteral, postoperativ | | | | Methadonderivat |
+| Opioide | WHO3 | Pethidin | Wirkstärke 1/5 von Morphin, orale Bioverfügbarkeit 50% | | Kumulationsgefahr bei chronischer Gabe -> nur akut | | | |
+| Opioide | WHO3 | Loperamid | Pethidin-Derivat, hohe Affinität zu MOP | Antidiarrhoikum | | | | |
+| Opioide | WHO3 / Partielle Agonisten | Buprenorphin | Partialagonist an MOP, Antagonist an DOP, langsame Dissoziation vom Rezeptor, hoher First-Pass-Effekt | Applikation sublingual oder als Pflaster bei starken Schmerzen, Substitutionstherapie mit Naloxon | | | | |
 | Opioide | Partielle Agonisten | Nalbuphin | Partialagonist an MOP, Antagonist an KOP | Analgesie bei Geburtshilfe | | | | |
+| Opioide | | Tilidin | analgetisch, Wirkstärke 15% von Morphin, Prodrug | | | | | in Kombination mit Naloxon |
 | Opioide | Antagonisten | Naloxon | Antidot | Intoxikation | | | | |
 | Opioide | Antagonisten | Naltrexon | Antidot, wie Nalaxon aber mit längerer HWZ (24-48h) | Rückfallprophylaxe | Hepatotoxizität | | | |
+| Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | ASS | Hemmung COX1/COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | GI, Blutung, Niere | | Kinder | |
+| Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | ASS, Ibuprofen, Naproxen, Diclofenac | Hemmung COX1/COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
+| Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | *-coxibe* | Hemmung COX2 | Arthrose, rheumatische Arthritis, postoperativ | MI, Apoplex | | | |
+| Nicht-Opioid Analgetika | Antipyretisch | Metamizol | unklar, spasmolytisch | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | Agranulozytose, Anaphylaktischer Schock bei oraler Gabe | | | |
+| Koanalgetika | Kortikoide | | antiödematös, antiphlogistisch, antiemetisch, Appetit anregend | ödembedingte Nervenkompression z.B. durch Tumor, Hirnödem | | | | |
+| Koanalgetika | Bisphosphonate | | | Tumor-induzierte Hypercalcämie, Metastasen-bedingte Knochenschmerzen | | | | |
 | RAAS Inhibitoren | Renin-Inhibitoren | Aliskiren | hemmmt Renin Freisetzung | Hypertonie | Hyperkaliämie, Diarrhoe, Schwindel, Arthralgie | ACE-Hemmer, AT1-Antagonisten | | |
 | RAAS Inhibitoren | ACE Inhibitoren | Suffix *-pril* | Funktionelle SH-Gruppe, die das Zink des ACE bindet -> weniger Angiotensin-II, mehr Bradykinin | Hypertonie, HI, post MI, diabetische Nephropathie | Hypotension, trockener Husten, Hyperkaliämie, Nierenschaden | Wirkungsabschwächung durch NSAR | Nierenarterienstenose, Schwangerschaft | in allen NYHA Stadien eingesetzt |
 | RAAS Inhibitoren | Angiotensin-II-Rezeptor Antagonisten | Suffix *-sartan* | Bindung an AT1-Rezeptor | Hypertonie, HI | Hyperkaliämie, GFR reduziert | | Nierenstenose, Schwangerschaft | |
 | RAAS Inhibitoren | Aldosteron Antagonisten | Spironolacton, Epleronon | hemmt Wirkung von Aldosteron | Hyperaldosteronismus, HI NYHA 2 + 3 | Hyperkaliämie, Amenorrhoe, Gynäkomastie | | Hyperkaliämie, Hyponatriämie, Hypovolämie, NI, Schwangerschaft | Nicht für antihypertensive Therapie zugelassen! |
 | Ca++ Kanalblocker | Wirkung auf glatte Muskulatur | Dihydropyridin (Nifedipin-Typ) | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) | Hypertonie, stabile AP, vasospastische AP, Raynaud-Syndrom | Reflex-Tachykardie, Kopfschmerzen, Flush, Wärmegefühl, Schwindel, Müdigkeit, Beinödeme | Andere Hypertensiva, CYP3A4 | | |
+| Diuretika | Carboanhydrase-Hemmer | Acetazolamid | Hemmung der CA -> weniger H+ Sekretion, mehr Na+ und HCO3- Aussscheidung, Erhöhung der Ausscheidung um 5-8% des Glomerulusfiltrats | Cystein- / Uratsteine | Metabolische Azidose, Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie | | LI, NI, Hyponatriämie, Schwangerschaft | |
+| Diuretika | Carboanhydrase-Hemmer | Brinzolamid, Dorzolamid | Hemmung der CA -> weniger H+ Sekretion, mehr Na+ und HCO3- Aussscheidung, Erhöhung der Ausscheidung um bis zu 5-8% des Glomerulusfiltrats | Glaukom | Metabolische Azidose, Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie | Corticosteroide und Laxantien -> verstärkte Hypokaliämie, Antidiabetike, Harnsäure-senkende Pharmaka, Blutdruck-senkene Pharmaka, Lithium | LI, NI, Hyponatriämie, Hypokaliämie, Hypovolämie, Gicht, Sulfonamidallergie | |
+| Diuretika | Schleifendiuretika | Furosemid, Bumetanid, Torasemid | luminale Inhibition des Na+/K+/Cl-- Cotransporter -> gesteigerte Exkretion, geringere H2O Absorption, erhöhte Mg++ und Ca++ Ausscheidung, verringerte Harnkonzentration, Erhöhung der Ausscheidung um bis zu 5-8% des Glomerulusfiltrats | Ödeme bei HI/NI, Lungenödem, Hypertensive Krise, Intoxikation | Hypovolämie, Dehydration, Hypotonie, bei längerer Gabe auch: Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie, ... | Blutdruck-senkene Pharmaka, oto-/nephrotoxische Pharmaka (würde verstärkt werden), Digitali (bei Hypokaliämie), Corticosteroide und Laxantien, NSAR, Lithium, Antidiabetike, Harnsäure-senkende Pharmaka | LI, NI, Hyponatriämie, Hypokaliämie, Hypovolämie, Schwangerschaft, Gicht, Sulfonamidallergie | |
 | Antibiotika | Penicilline (Aminopenicillin) | Ampizillin, Amoxizillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | (G+), G- | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Penicilline (Acylaminopenicillin) | Azlocillin, Piperacillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G-, Aa | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Glykopeptide | Vancomycin, Teicoplanin | Zellwand- und Membransynthesehemmstoff, Bindung an D-Ala-D-Ala | G+ | Nephrotoxizität, Ototoxizität, Hypotonie | Res.: verändertes Peptid (D-Ser oder D-Lact) | | Reserve-AB für MRSA, pseudomembranöse Colitis |
@@ -53,5 +65,6 @@ layout = "indexpage-fluid"
 | Antibiotika | Nitroimidazole | Metronidazol | DNA-Schädigung durch reaktive Metaboliten (anaerob) | Aa | Neuropathie, Geschmacksstörungen, Alkoholunverträglichkeit| Res.: Stoffwechseländerung, Inaktivierung der Metaboliten | | |
 | Antibiotika | Nitrofurane | Nitrofurantoin | DNA-Schädigung durch reaktive Metaboliten | G- | allergische pulmonale Infiltration, GI, Hepatotoxizität| Res.: Stoffwechseländerung, aktiver Auswärtstransport | | |
 | Antibiotika | Folsäuresynthesehemmer | Sulfonamide, Trimethroprim (in Kombination: Cotrimoxazol) | Hemmung der Tetrahydrofolsäure-Synthese | (G+), (G-) | Hautreaktionen, Photosensibilisierung, Blutbildungsstörung| Res.: veränderte Enzyme | | |
+| | | | | | | | | |
 
 {{</table >}}
