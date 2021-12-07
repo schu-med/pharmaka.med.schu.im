@@ -1,0 +1,10 @@
+{{ $htmlTable := .Inner | markdownify }}
+{{ $id := .Get "id" }}
+{{ $class := .Get "class" }}
+{{ $old := "<table>" }}
+{{ $new := printf "<table id=\"%s\" class=\"%s\">" $id $class }}
+{{ $htmlTable := replace $htmlTable $old $new }}
+{{ $oldTh := "<th>" }}
+{{ $newTh := "<th style=\"position: sticky; top: 0; background: #ffffff;\" scope=\"col\">" }}
+{{ $htmlTable := replace $htmlTable $oldTh $newTh }}
+{{ $htmlTable | safeHTML }}
