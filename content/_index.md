@@ -26,6 +26,14 @@ layout = "indexpage-fluid"
 | Indirekte Antikoagulantien | Heparine | Fondaparinux | Komplexbildung mit Antithrombin -> Inaktivierung von Xa | Thromboseprophylaxe, ACS | weniger | | HIT II | |
 | Indirekte Antikoagulantien | Heparinoide | Danaparoid | Komplexbildung mit Antithrombin -> Inaktivierung von Xa >> IIa | HIT II | | | | Kein Antidot verfügbar! |
 | Indirekte Antikoagulantien | Cumarine | Phenprocoumon, Acenocoumarol, Warfarin | Hemmung der Vitamin K abhängigen Gerinnungsfaktoren ("1972"), unselektiver kompetitiver Antagonist der Vitamin-K-Epoxid-Reduktase | Thrombosen, Embolien | Blutungsrisiko, Nekrosen, Allergien | Antazida ↓, Barbiturate ↓, Vit-K-haltige Nahrungsmittel ↓, AB ↓ | Schwangerschaft | Erfordert "Bridging" mit Heparin, da Cumarin Wirkung verzögert und mit unterschiedlichen t1/2 Zeiten für Faktoren "1972" und Protein C/S einhergeht. |
+| Direkte Antikoagulantien | NOAK | Dabigatran | Direkter Thrombin-Inhibitor, reversibel und kompetitiv | TVT (Tiefe Venenthrombose), Vorhofflimmern | Blutungsrisiko, LI, NI | | | Antidot: Idarucizumab |
+| Direkte Antikoagulantien | NOAK | Rivaroxaban, Apixaban, Edoxaban | Direkter Faktor Xa Inhibitor, reversibel und kompetitiv  | TVT (Tiefe Venenthrombose), Vorhofflimmern | Blutungsrisiko, LI, NI | | | Antidot: Andexanet alfa |
+| Parasympathomimetika | AChE-Inhibitoren | Physostigmin | ein Carbamat, ZNS-gängig | Antidot bei zentralen Vergiftungen | Bradykardie, GI | | | |
+| Parasympathomimetika | AChE-Inhibitoren | Neostigmin | nicht ZNS-gängig | Darm-/Blasenatonie, Intoxikation, Glaukom, Myasthenia gravis | | | | |
+| Parasympathomimetika | AChE-Inhibitoren | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer | | | | |
+| Parasympatholytika | | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch | | | | |
+| Parasympatholytika | | Butylscopolamin | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
+| Parasympatholytika | | Ipratropium | nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie, Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Opioide | WHO3 | Morphin | analgetisch | | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | | | |
 | Opioide | WHO3 | Levomethadon | analgetisch, 3- bis 4-fach stärker als Morphin, langsamer Wirkeintritt, lange Wirkdauer (lipohil -> Gewebeeinlagerung) | Substitutionstherapie bei Heroinabhängigkeit | Gefahr Kammerflimmern bei hohen Dosen | CYP3A4 | | |
