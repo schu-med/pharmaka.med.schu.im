@@ -98,14 +98,14 @@ layout = "indexpage-fluid"
 | Antibiotika | Fluorchinolone | Levofloxacin, Ciprofloxacin, Moxifloxacin | DNA/RNA-Hemmstoffe, Hemmung der Gyrase | (G+), G-, atypische | GI, Neurotoxizität, Tendo-/Arthropathie, CYP1A2 Hemmung| Res.: Aktiver Auswärtstransport ("Effluxpumpe"), veränderte Topoisomerase | | |
 | Antibiotika | Nitroimidazole | Metronidazol | DNA-Schädigung durch reaktive Metaboliten (anaerob) | Aa | Neuropathie, Geschmacksstörungen, Alkoholunverträglichkeit| Res.: Stoffwechseländerung, Inaktivierung der Metaboliten | | |
 | Antibiotika | Nitrofurane | Nitrofurantoin | DNA-Schädigung durch reaktive Metaboliten | G- | allergische pulmonale Infiltration, GI, Hepatotoxizität| Res.: Stoffwechseländerung, aktiver Auswärtstransport | | |
-| Antibiotika | Folsäuresynthesehemmer | Sulfonamide, Trimethroprim (in Kombination: Cotrimoxazol) | Hemmung der Tetrahydrofolsäure-Synthese | (G+), (G-), e.g. Pneumocystis Jirovechii Infektion | Hautreaktionen, Photosensibilisierung, Blutbildungsstörung| Res.: veränderte Enzyme | | |
+| Antibiotika | Folsäuresynthesehemmer | Sulfonamide, Trimethroprim (in Kombination: Cotrimoxazol) | Hemmung der Tetrahydrofolsäure-Synthese | (G+), (G-), e.g. Pneumocystis Jirovechii Infektion | Hautreaktionen, Photosensibilisierung, Blutbildungsstörung| Res.: veränderte Enzyme | | wird hochdosiert zur Therapie von Pneumocystis-jirovecii-Pneumonie eingesetzt |
 | Antimykotika | Polyene | Nystatin, Amphotericin B | Bindung an Ergosterol | | | | | |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Azole | Suffix *-conazol*, Ketoconazol, Fluconazol, Itraconazol, Voriconazol, Posaconazol, Isavuconazol | | | | | | |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Allylamine | Terbinafin, Naftifin | | | | | | |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Morpholine | Amorolfin | | | | | | |
 | Antimykotika | Glukansynthese Inhibitoren - Echinocandine | Caspofungin, Anidulafungin, Micafungin | | | | | | |
 | Antimykotika | DNA-, Proteinsyntheseinhibition | 5-Flucytosin (Ancotil) | | | | | | |
-| Antimykotika | Multiple Angriffspunkte | Ciclopirox (Batrafen; ein Pyridon Derivat ) | | Dermatomykosen, vaginale Pilzinfektionen | | | | |
+| Antimykotika | Multiple Angriffspunkte | Ciclopirox (Batrafen; ein Pyridon Derivat) | | Dermatomykosen, vaginale Pilzinfektionen | | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Aciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Herpesviren: Herpes-simplex-Virus und Varizella-Zoster-Virus | selten: NI, allergische Reaktionen | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ganciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Cytomegalievirus: Erkrankung und Prävention, Herpes-simplex-Keratitis | diverse und teils schwere Nebenwirkungen: GI, Blutbildveränderungen, LI, NI, ... | | | |
 | | | | | | | | | |
