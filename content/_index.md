@@ -87,7 +87,7 @@ layout = "indexpage-fluid"
 | Antibiotika | Lipopeptide | Daptomycin | Porenbildung in Zellmembran, bakterizid | G+ | Myotoxizität, GI, allergische Reaktionen | Res.: Veränderung der Membran | | S. aureus Infekte |
 | Antibiotika | Polypeptide | Colistin, Polymixin B | Schädigung der Membran von G- Bakterien, bakterizid | G- | Neurotoxizität, Nephrotoxizität, allergische Reaktionen | Res.: Veränderung von LPS (durch MCR-1) in der äußeren Membran | | Reserve-AB für Pseudomonas- und Klebsellien-Infekte |
 | Antibiotika | Oxazolidinone | Linezolid | Hemmung der Bildung des Initiationskomplex | G+ | GI, Hepatotoxizität  | Res.: Veränderung der 23S-rRNA | | Reserve-AB für MRSA- und VRE-Infekte |
-| Antibiotika | Aminoglykoside | Gentamycin, Amicacin, Tobramycin | Bindung an 30S-UE, bakterizid | (G+), G-, nur Aerobier | Neurotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
+| Antibiotika | Aminoglykoside | Gentamycin, Amicacin, Tobramycin, Paromomycin | Bindung an 30S-UE, bakterizid | (G+), G-, nur Aerobier | Neurotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
 | Antibiotika | Tetracycline | Doxycyclin, Minocyclin, Tigecyclin (Tetracyclin-Derivat), Oxytetracyclin | Bindung an 30S-UE, bakteriostatisch | (G+), (G-), atypische (Mykoplasmen, Chlamydien, Legionellen) | GI, Phototoxizität, Einlagerung in Knochen und Zähne, Hepato- / Nephrotoxizität | Res.: Aktiver Auswärtstransport, Veränderung des 30S-Ribosoms | Schwangerschaft, Stillzeit, Kinder bis zum 8. Lebensjahr, Leber- / Niereninsuffizienz | bei Atemwegsinfektionen, Urogenitalinfektionen, Borreliose, Cholera |
 | Antibiotika | Amphenicole | Chloramphenicol | Proteinsynthesehemmstoff, Bindung an 50S-UE | G+, G-, Aa, atypische | Knochenmarksschädigung, Neurotoxizität | Veränderung des AB | | Reserve-AB für lebensbedrohliche Erkrankungen |
 | Antibiotika | Makrolide | Erythromycin, Clarithromycin, Azithromycin | Proteinsynthesehemmstoff, Bindung an 50S-UE | G+ Kokken und Stäbchen, (G- Kokken), atypische | GI, CYP34A4 Hemmung | | | |
@@ -108,6 +108,9 @@ layout = "indexpage-fluid"
 | Antimykotika | Multiple Angriffspunkte | Ciclopirox (Batrafen; ein Pyridon Derivat) | | Dermatomykosen, vaginale Pilzinfektionen | | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Aciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Herpesviren: Herpes-simplex-Virus und Varizella-Zoster-Virus | selten: NI, allergische Reaktionen | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ganciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Cytomegalievirus: Erkrankung und Prävention, Herpes-simplex-Keratitis | diverse und teils schwere Nebenwirkungen: GI, Blutbildveränderungen, LI, NI, ... | | | |
+| Antiprotozoikum | | Artesunat | | Malaria tropica (Plasmodium falciparum) | | | | |
+| Antiprotozoikum | | Melarsoprol, Suramin, Nifurtimox, Benznidazol | | | | | | |
+| Antiparasitika | | Pyrimethamin | | Malaria, Toxoplasmose | | | | |
 | | | | | | | | | |
 
 {{</table >}}
