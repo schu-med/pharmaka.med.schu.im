@@ -111,6 +111,10 @@ layout = "indexpage-fluid"
 | Antiprotozoikum | | Artesunat | | Malaria tropica (Plasmodium falciparum) | | | | |
 | Antiprotozoikum | | Melarsoprol, Suramin, Nifurtimox, Benznidazol | | | | | | |
 | Antiparasitika | | Pyrimethamin | | Malaria, Toxoplasmose | | | | |
+| Antiparasitika | | Ivermectin | | | | | | |
+| Antihelmintika | Benzimidazolcarbamate | Albendazol | | | | | | |
+| Antihelmintika | Piperazinderivat | Diethylcarbamazin | | | | | | |
+| Antihelmintika | | Praziquantel | | | | | | |
 | | | | | | | | | |
 
 {{</table >}}
