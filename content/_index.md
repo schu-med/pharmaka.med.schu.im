@@ -34,16 +34,18 @@ layout = "indexpage-fluid"
 | Parasympatholytika | | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch | | | | |
 | Parasympatholytika | | Butylscopolamin | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
 | Parasympatholytika | | Ipratropium | nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
+| Sympatholytika | beta-Blocker, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | |
+| Sympatholytika | beta-Blocker | Carvedilol | blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | **auch: Ca++ Antagonist** |
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie, Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
+| Opioide | WHO2 | Codein | geringe Affinität zu MOP | | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
+| Opioide | WHO2 | Tramadol | analgetisch, Wirkstärke 10% von Morphin, Metabolit ist Wiederaufnahmehemmer von Serotonin/NA -> deszendierene Schmerzhemmung | | | Metabolisierung zum aktiven Metabolit durch CYP2D6 | | |
+| Opioide | WHO2 | Dihydrocodein | analgetisch, 1,5-fach stärker als Codein | Antitussivum | | Metabolisierung zu Dihydromorphin durch CYP2D6 | | |
 | Opioide | WHO3 | Morphin | analgetisch | | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | | | |
 | Opioide | WHO3 | Levomethadon | analgetisch, 3- bis 4-fach stärker als Morphin, langsamer Wirkeintritt, lange Wirkdauer (lipohil -> Gewebeeinlagerung) | Substitutionstherapie bei Heroinabhängigkeit | Gefahr Kammerflimmern bei hohen Dosen | CYP3A4 | | |
 | Opioide | WHO3 | Fentanyl | analgetisch, 100-fach stärker als Morphin | Notfallmedizin, starke chronische Schmerzen | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | CYP3A4 Inhibitoren | | |
 | Opioide | | Sufentanil, Alfentanil, Remifentanil | Fentanyl-Derivate | hochpotent, schneller Wirkeintritt, kurze HWZ, Infustion peri- oder postoperativ | | | | |
 | Opioide | WHO3 | Oxycodon | analgetisch, 1,5-fach stärker als Morphin, hohes Suchtpotential durch schnelles Anfluten | | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | | | Retardtabletten + Naloxon |
 | Opioide | WHO3 | Hydromorphon (Dihydromorphin) | analgetisch, 7,5-fach stärker als Morphin | starke bis sehr starke Schmerzen | | | | Retardkapseln |
-| Opioide | WHO2 | Codein | geringe Affinität zu MOP | | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
-| Opioide | WHO2 | Tramadol | analgetisch, Wirkstärke 10% von Morphin, Metabolit ist Wiederaufnahmehemmer von Serotonin/NA -> deszendierene Schmerzhemmung | | | Metabolisierung zum aktiven Metabolit durch CYP2D6 | | |
-| Opioide | WHO2 | Dihydrocodein | analgetisch, 1,5-fach stärker als Codein | Antitussivum | | Metabolisierung zu Dihydromorphin durch CYP2D6 | | |
 | Opioide | WHO3 | Piritramid (Dipidolor) | analgetisch, Wirkstärke 70% von Morphin | auschließlich parenteral, postoperativ | | | | Methadonderivat |
 | Opioide | WHO3 | Pethidin | Wirkstärke 1/5 von Morphin, orale Bioverfügbarkeit 50% | | Kumulationsgefahr bei chronischer Gabe -> nur akut | | | |
 | Opioide | WHO3 | Loperamid | Pethidin-Derivat, hohe Affinität zu MOP | Antidiarrhoikum | | | | |
@@ -72,6 +74,7 @@ layout = "indexpage-fluid"
 | Diuretika | Kalium-sparende Diuretika, Aldosteronantagonisten | Epleronon, Spironolacton, Canrenon | | | | | | |
 | Diuretika | Kalium-sparende Diuretika, Hemmer des epithelialen Natrium-Kanals | Triamteren, Amilorid | | | | | | |
 | Glucocorticoide | Inhalativ | Beclomethason, Fluticason, Budesonid | antiphlogistisch, Steigerung der mukoziliären Clearance, verstärkte Wirkung von beta2-Sympathomimetika (Kombi-Therapie) | i.V. bei akutem Asthmaanfall | Mundtrockenheit | | | |
+| Antidiarrhoikum | Opioid | Loperamid | m-Agonist, nicht ZNS-gängig | Durchfall | Somnolenz, Obstipation, Übelkeit | | | |
 | Antibiotika | Penicilline (Benzylpenicilline) | Penicillin G und V | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+ | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Penicilline (Isoxazolylpenicillin) | Oxacillin, Flucloxacillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | Staphylococcus aureus Infekte | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Penicilline (Aminopenicillin) | Ampicillin, Amoxicillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | (G+), G- | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
