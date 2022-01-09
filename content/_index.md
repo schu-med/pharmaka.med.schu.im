@@ -127,6 +127,19 @@ layout = "indexpage-fluid"
 | Immunsuppresiva | Purin-Analogon | Azathioprin | Einbau als falsche Base -> Störung der DNA-Replikation | | | | | |
 | Immunsuppresiva | B-Zell-Depletion | Rituximab | | | | | | |
 | Zytostatika | Oxazaphosphorine | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | | | | |
+| Orale Antidiabetika | Biguanide | Metformin | Hemmung der hepatischen Glukoseproduktion; auch: Senkung VLDL, Erhöhung HDL, antithrombotischer Effekt -> Schutz vor makrovaskulären Komplikationen (Schlaganfall, MI, KHK) | | Laktatazidose (speziell bei NI/LI), GI | | | keine Gewichtszunahme, anti-kanzerogener Effekt, anti-aging Effekt (?) |
+| Orale Antidiabetika | Sulfonylharnstoffe | | | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
+| Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | | | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
+| Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DDP4-Inhibitoren, Gliptine) | Linagliptin | | | | | LI, HI | |
+| Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DDP4-Inhibitoren, Gliptine) | Saxagliptin, Vildagliptin | | | | | NI, LI, HI | |
+| Orale Antidiabetika | SGLT2-Inhibitoren | Dapagliflozin, Canagliflozin, Empagliflozin, Suffix *-gliflozin* | verhindern Glukoseresorption im proximalen Konvolut aus Primärharn | HbA1c Senkung um 0,7-0,8%, Gewichtsabahme, Blutdrucksenkung, geringes Hypoglykämie-Risiko | HWI, GI | | NI, Überempfindlichkeit | |
+| Orale Antidiabetika | alpha-Glucosidase-Inihibitoren | Acarbose, Miglitol | Hemmen Enzym in Membran der Enterozyten -> Verhinderung der Spaltung von Oligo- und Disacchariden, Verzögerung der Resorption | | GI, Unwohlsein | | | nur geringer Effekt auf HbA1c |
+| Nicht-orale Antidiabetika | Inkretinmimetika (GLP-1-Analoga) | Exenatid, Lixisenatid, Liraglutid | | | | | | Liraglutid und Semaglutid führen zu einer signifikanten Verbesserung der kardiovaskulären Morbidität und Mortalität (SP Marso et al) |
+| Nicht-orale Antidiabetika | Inkretinmimetika (GLP-1-Analoga), langwirksam | Exenatid LAR, Dulaglutid, Albiglutid, Semaglutid | | | | | | |
+| Insuline | Normalinsulin | Normalinsulin | kurze Wirkdauer (4-6h), passiert Endothel als Monomer, verzögerte Resorption -> 20-30min Spritz-Ess-Abstand | | | | | |
+| Insuline | schnellwirksam | Insulin Lispro, Insulin Aspart, Insulin Glulisin | Beginn 5-15min, Dauer ca. 2-3h | | | | | |
+| Insuline | langwirksam | Insulin Detemir (Fettsäure, bindet an Albumin), Insulin Glargin (Bildung von Präzipitaten an Injektionsstelle), Insulin Degludeg (Threonin B30 entfernt, mit Fettsäuremodifikation) | Beginn ca. 2-4h, Dauer ca. 24h | | | | | |
+| Insuline | Neutral Protamin Hagedorn (NPH) | NPH | ebenfalls 10-20h langwirksam | | | | | |
 | | | | | | | | | |
 
 {{</table >}}
