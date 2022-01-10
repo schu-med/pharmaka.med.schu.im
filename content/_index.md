@@ -44,10 +44,11 @@ layout = "indexpage-fluid"
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie, Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
 | Methylxanthine | | Theophylin | Antagonistisch an Adenosinrezeptoren, kompetitive Hemmung der PDE -> Erhöhung cAMP | | | Abbau durch CYP450 in Leber -> Wechselwirkungen e.g. mit AB | | |
-| PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP, Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | | COPD, teils Asthma | | | |
-| Glucocorticoide | | Beclomethason, Fluticason, Budesonid | | | Mundtrockenheit, Heiserkeit, orale Candidose | | | |
+| PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Aussscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | | COPD, teils Asthma | | | |
 | Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor; Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | | |
 | "Mastzellstabilisatoren" | | Cromiglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
+| IgE-Antikörper | | Omalizumab | | schweres persistierendes Asthma | | | | |
+| IL-5-Antikörper | | Mepolizumab | | schweres persistierendes Asthma | | | | |
 | Opioide | WHO2 | Codein | geringe Affinität zu MOP | | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
 | Opioide | WHO2 | Tramadol | analgetisch, Wirkstärke 10% von Morphin, Metabolit ist Wiederaufnahmehemmer von Serotonin/NA -> deszendierene Schmerzhemmung | | | Metabolisierung zum aktiven Metabolit durch CYP2D6 | | |
 | Opioide | WHO2 | Dihydrocodein | analgetisch, 1,5-fach stärker als Codein | Antitussivum | | Metabolisierung zu Dihydromorphin durch CYP2D6 | | |
@@ -133,7 +134,10 @@ layout = "indexpage-fluid"
 | Immunsuppresiva | Glucocorticoide | Dexamethason, Prednisolon | | | | | | |
 | Immunsuppresiva | Purin-Analogon | Azathioprin | Einbau als falsche Base -> Störung der DNA-Replikation | | | | | |
 | Immunsuppresiva | B-Zell-Depletion | Rituximab | | | | | | |
-| Zytostatika | Oxazaphosphorine | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | | | | |
+| Immunsuppresiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
+| Immunsuppresiva | | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
+| Immunsuppresiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
+| Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | | | | |
 | Orale Antidiabetika | Biguanide | Metformin | Hemmung der hepatischen Glukoseproduktion; auch: Senkung VLDL, Erhöhung HDL, antithrombotischer Effekt -> Schutz vor makrovaskulären Komplikationen (Schlaganfall, MI, KHK) | | Laktatazidose (speziell bei NI/LI), GI | | | keine Gewichtszunahme, anti-kanzerogener Effekt, anti-aging Effekt (?) |
 | Orale Antidiabetika | Sulfonylharnstoffe | | | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
 | Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | | | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
