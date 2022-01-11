@@ -44,9 +44,9 @@ layout = "indexpage-fluid"
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie, Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
 | Methylxanthine | | Theophylin | Antagonistisch an Adenosinrezeptoren, kompetitive Hemmung der PDE -> Erhöhung cAMP | | | Abbau durch CYP450 in Leber -> Wechselwirkungen e.g. mit AB | | |
-| PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Aussscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | | COPD, teils Asthma | | | |
-| Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor; Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | | |
-| "Mastzellstabilisatoren" | | Cromiglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
+| PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Aussscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | | COPD | | | |
+| Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor (CYSLTR1); Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | | |
+| "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
 | IgE-Antikörper | | Omalizumab | | schweres persistierendes Asthma | | | | |
 | IL-5-Antikörper | | Mepolizumab | | schweres persistierendes Asthma | | | | |
 | Opioide | WHO2 | Codein | geringe Affinität zu MOP | | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
@@ -87,6 +87,7 @@ layout = "indexpage-fluid"
 | Diuretika | Kalium-sparende Diuretika, Hemmer des epithelialen Natrium-Kanals | Triamteren, Amilorid | | | | | | |
 | Glucocorticoide | Inhalativ | Beclomethason, Fluticason, Budesonid | antiphlogistisch, Steigerung der mukoziliären Clearance, verstärkte Wirkung von beta2-Sympathomimetika (Kombi-Therapie) | i.V. bei akutem Asthmaanfall | Mundtrockenheit | | | |
 | Antidiarrhoikum | Opioid | Loperamid | m-Agonist, nicht ZNS-gängig | Durchfall | Somnolenz, Obstipation, Übelkeit | | | |
+| Bradykininrezeptorantagonisten | | Icatibant | selektive und kompetitive Hemmung des Bradykinin-B2-Rezeptoren | Therapie des hereditärem Angioödem (HAE) | | | | |
 | Antibiotika | Penicilline (Benzylpenicilline) | Penicillin G und V | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+ | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Penicilline (Isoxazolylpenicillin) | Oxacillin, Flucloxacillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | Staphylococcus aureus Infekte | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Penicilline (Aminopenicillin) | Ampicillin, Amoxicillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | (G+), G- | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
