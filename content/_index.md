@@ -39,7 +39,8 @@ layout = "indexpage-fluid"
 | Sympathomimetika | beta2-Agonist, LABA | Bambuterol, Formoterol, Salmeterol | | | | | | |
 | Sympatholytika | beta-Blocker, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | |
 | Sympatholytika | beta2-Antagonisten | Salbutamol, Terbutalin, Suffix *-terol* | | Asthma | | | | |
-| Sympatholytika | beta-Blocker | Carvedilol | blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | **auch: Ca++ Antagonist** |
+| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Propranolol | | Hypertonie, KHK, chronische HI | | | | |
+| Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | **auch: Ca++ Antagonist** |
 | Sympatholytika | alpha-Blocker | Phenoxybenzamin | irreversible alpha1- und alpha2-Blockade | präoperativ bei Phäochromozytom | | | | |
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie, Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
@@ -49,6 +50,21 @@ layout = "indexpage-fluid"
 | "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
 | IgE-Antikörper | | Omalizumab | | schweres persistierendes Asthma | | | | |
 | IL-5-Antikörper | | Mepolizumab | | schweres persistierendes Asthma | | | | |
+| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Amitriptylin-Typ | Amitriptylin, Trimipramin, Doxepin | stark sedierend, stark anticholinerg | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
+| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Desipramin-Typ | Desipramin, Nortriptylin | Antriebssteigernd, Unruhe | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
+| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Imipramin-Typ | Imipramin, Clomipramin | geringer Einfluss auf Antrieb | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
+| Selektive Serotonin-Rückaufname-Inhibitoren (SSRI) | | Fluoxetin, Paroxetin, Citalopram, Escitalopram, Sertralin, Fluvoxamin | Antriebssteigernd, Unruhe | | große therapeutische Breite, Übelkeit, Erregung / Unruhe, Suizidalität, serotonerges Syndrom | | | |
+| Selektive Noradrenalin-Rückaufname-Inhibitoren (SNRI) | | Reboxetin | | | | | | |
+| Selektive Serotonin- und Noradrenalin-Rückaufname-Inhibitoren (SSNRI) | | Venlafaxin, Duloxetin | Antriebssteigernd | | | | | |
+| alpha2-Antagonisten / Tetrazyklische Antidepressiva | | Mianserin, Mirtazapin | | | | | | |
+| Monoaminooxidase-Hemmer (MAO-Hemmer) | | Moclobemid, Tranylcypromin | Antriebssteigernd | | Schwindel, Agitiertheit, Blutdruckschwankunen (Tranylcypromin-Abbau) | | Kombination mit anderen Antidepressiva | |
+| Antipsychotika (Neuroleptikum) | Phnehothiazine | Fluphenazin, Perphenazin | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
+| Antipsychotika (Neuroleptikum) | Thioxanthene | Flupentixol | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
+| Antipsychotika (Neuroleptikum) | Butyrophenone | Haloperidol | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
+| Antipsychotika (Neuroleptikum) | | Levomepromazin, Thioridazin, Chlorprothixen, Sulpirid | niederpotent, Dopamin-D2-Antagonist | | | | | |
+| Atypische Antipsychotika | Trizyklische | Clozapin, Quetiapin, Risperidon | Dopamin- / Serotonin-Antagonist | | Agranylozytose (insb. bei Clozapin) | | | |
+| Atypische Antipsychotika | Trizyklische | Olanzapin | Dopamin- / Serotonin-Antagonist | | sehr starke Gewichtszunahme | | | |
+| Atypische Antipsychotika | Benzamide | Amisulprid | Dopamin- / Serotonin-Antagonist | | | | | |
 | Opioide | WHO2 | Codein | geringe Affinität zu MOP | | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
 | Opioide | WHO2 | Tramadol | analgetisch, Wirkstärke 10% von Morphin, Metabolit ist Wiederaufnahmehemmer von Serotonin/NA -> deszendierene Schmerzhemmung | | | Metabolisierung zum aktiven Metabolit durch CYP2D6 | | |
 | Opioide | WHO2 | Dihydrocodein | analgetisch, 1,5-fach stärker als Codein | Antitussivum | | Metabolisierung zu Dihydromorphin durch CYP2D6 | | |
