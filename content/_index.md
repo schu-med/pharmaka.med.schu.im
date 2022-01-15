@@ -132,6 +132,7 @@ layout = "indexpage-fluid"
 | Antibiotika | Nitrofurane | Nitrofurantoin | DNA-Schädigung durch reaktive Metaboliten | G- | allergische pulmonale Infiltration, GI, Hepatotoxizität| Res.: Stoffwechseländerung, aktiver Auswärtstransport | | |
 | Antibiotika | Folsäuresynthesehemmer | Sulfonamide, Trimethroprim (in Kombination: Cotrimoxazol) | Hemmung der Tetrahydrofolsäure-Synthese, bakteriostatisch | (G+), (G-), e.g. Pneumocystis Jirovechii Infektion | Hautreaktionen, Photosensibilisierung, Blutbildungsstörung| Res.: veränderte Enzyme | | wird hochdosiert zur Therapie von Pneumocystis-jirovecii-Pneumonie eingesetzt |
 | Antibiotika | Folsäuresynthesehemner (PABA-Analoga)| Dapson | | | | | | |
+| Antibiotika | Tuberkulostatika | Isoniazid, Pyrazinamid, Ethambutol, (Streptomycin - second-line) | | Tuberkulose | | | | Isoniazid auch präventiv einsetzbar |
 | Antimykotika | Polyene | Nystatin, Amphotericin B | Bindung an Ergosterol | | | | | |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Azole | Suffix *-conazol*, Ketoconazol, Fluconazol, Itraconazol, Voriconazol, Posaconazol, Isavuconazol | | | | | | |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Allylamine | Terbinafin, Naftifin | | | | | | |
