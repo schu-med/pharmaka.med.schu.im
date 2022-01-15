@@ -65,6 +65,22 @@ layout = "indexpage-fluid"
 | Atypische Antipsychotika | Trizyklische | Clozapin, Quetiapin, Risperidon | Dopamin- / Serotonin-Antagonist | | Agranylozytose (insb. bei Clozapin) | | | |
 | Atypische Antipsychotika | Trizyklische | Olanzapin | Dopamin- / Serotonin-Antagonist | | sehr starke Gewichtszunahme | | | |
 | Atypische Antipsychotika | Benzamide | Amisulprid | Dopamin- / Serotonin-Antagonist | | | | | |
+| Benzodiazepine (positive allosterische Modulation von GABA-Rezeptoren -> erhöhte Öffnungswahrscheinlichkeit, verstärkte Wirkung von GABA (Chlorid-Einstrom -> Hyperpolarisation)) | kurzanhaltend | Brotizolam, Triazolam | | Anästhesiologie, Schlafstörung | | | | |
+| Benzodiazepine | kurzanhaltend | Midazolam (Dormicum) | | Anästhesiologie, Schlafstörung | Atemdepression | | | |
+| Benzodiazepine | mittellanganhaltend | Bromazepam, Flunitrazepam, Lormetazepam, Termazepam | | | | | | |
+| Benzodiazepine | mittellanganhaltend | Alprazolam | | anxiolytisch | | | | |
+| Benzodiazepine | mittellanganhaltend | Lorazepam (Tavor) | | anxiolytisch | | | | |
+| Benzodiazepine | mittellanganhaltend | Oxazepam | | anxiolytisch | | | | |
+| Benzodiazepine | langanhaltend | Chloridazepoxid, Clobazam, Nitrazepam, Tetrazepam (seit 2013 nicht mehr zugelassen) | | | | | | |
+| Benzodiazepine | langanhaltend | Clotiazepam, Flurazepam | lange HWZ der Metabolite | | | | | |
+| Benzodiazepine | langanhaltend | Clonazepam | antikonvulsiv | | | | | |
+| Benzodiazepine | langanhaltend | Diazepam (Valium) | antikonvulsiv | | | Cimetidin (Antihistaminikum) erhöht Diazepam Plasmaspiegel | | |
+| Benzodiazepine | Z-Substanzen | Zolpidem, Zopiclon, Zaleplon | binden nicht an alpha2 Rezeptorsubtyp -> nicht anxiolytisch oder muskelrelaxierend, kurze HWZ, geringes Abhängigkeitspotential | Schlafstörungen | | | | |
+| Benzodiazepin-Antidot | | Flumazenil | Antagonist der Benzodiazepin-Bindungsstelle des GABA-Rezeptors | Narkosebeendigung, Antidot bei Benzodiazepin-Überdosierung | | | | |
+| Lithium | | Lithium | "Mood Stabilizer", Alkalimetall, wird als Verbindung verabreicht (e.g. Carbonat), Wirkmechanismus nicht vollumfänglich geklärt | Manie Akuttherapie, Phaseprophylaxe, Augmentation von Antidepressiva, Lanzeitprohylaxe | Müdigkeit, Lethargie, Tremor, GI, Polyurie, Dehydration, Nephrotoxizität, Gewichtszunahme, Euthyreotes Struma, **geringe therapeutische Breite** | | | |
+| Mood Stabilizer | Antiepileptika | Valproat | | | | | Schwangerschaft | |
+| Mood Stabilizer | Antiepileptika | Lamotrigin | | | | | |
+| Mood Stabilizer | Antiepileptika | Carbamazepin | | | | | | |
 | Opioide | WHO2 | Codein | geringe Affinität zu MOP | | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
 | Opioide | WHO2 | Tramadol | analgetisch, Wirkstärke 10% von Morphin, Metabolit ist Wiederaufnahmehemmer von Serotonin/NA -> deszendierene Schmerzhemmung | | | Metabolisierung zum aktiven Metabolit durch CYP2D6 | | |
 | Opioide | WHO2 | Dihydrocodein | analgetisch, 1,5-fach stärker als Codein | Antitussivum | | Metabolisierung zu Dihydromorphin durch CYP2D6 | | |
@@ -151,7 +167,7 @@ layout = "indexpage-fluid"
 | Antihelmintika | | Praziquantel | | | | | | |
 | Immunsuppresiva | Glucocorticoide | Dexamethason, Prednisolon | | | | | | |
 | Immunsuppresiva | Purin-Analogon | Azathioprin | Einbau als falsche Base -> Störung der DNA-Replikation | | | | | |
-| Immunsuppresiva | B-Zell-Depletion | Rituximab | | | | | | |
+| Immunsuppresiva | B-Zell-Depletion | Rituximab | Anti-CD20-AK -> B-Zell-Untergang | | | | | |
 | Immunsuppresiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
 | Immunsuppresiva | | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
 | Immunsuppresiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
