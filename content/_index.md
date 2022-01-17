@@ -45,7 +45,7 @@ layout = "indexpage-fluid"
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie, Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
 | Methylxanthine | | Theophylin | Antagonistisch an Adenosinrezeptoren, kompetitive Hemmung der PDE -> Erhöhung cAMP | | | Abbau durch CYP450 in Leber -> Wechselwirkungen e.g. mit AB | | |
-| PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Aussscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | | COPD | | | |
+| PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Aussscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | COPD | | | | |
 | Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor (CYSLTR1); Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | | |
 | "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
 | IgE-Antikörper | | Omalizumab | | schweres persistierendes Asthma | | | | |
@@ -110,7 +110,7 @@ layout = "indexpage-fluid"
 | RAAS Inhibitoren | Angiotensin-II-Rezeptor Antagonisten | Suffix *-sartan* | Bindung an AT1-Rezeptor | Hypertonie, HI | Hyperkaliämie, GFR reduziert | | Nierenstenose, Schwangerschaft | |
 | RAAS Inhibitoren | Aldosteron Antagonisten | Spironolacton, Epleronon | hemmt Wirkung von Aldosteron | Hyperaldosteronismus, HI NYHA 2 + 3 | Hyperkaliämie, Amenorrhoe, Gynäkomastie | | Hyperkaliämie, Hyponatriämie, Hypovolämie, NI, Schwangerschaft | Nicht für antihypertensive Therapie zugelassen! |
 | Ca++ (Calcium) Kanalblocker | Dihydropyridin | Nifedipin, Nitrendipin, Nisoldipin, Amlodipin | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) | Hypertonie, stabile AP, vasospastische AP, Raynaud-Syndrom | Reflex-Tachykardie, Kopfschmerzen, Flush, Wärmegefühl, Schwindel, Müdigkeit, Beinödeme | Andere Hypertensiva, CYP3A4 | | |
-| Ca++ (Calcium) Kanalblocker | Phenylalkylamine | Verapimil, Gallopamil | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal), Herz | | | | |
+| Ca++ (Calcium) Kanalblocker | Phenylalkylamine | Verapamil, Gallopamil | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal), Herz | | | HI, AV-Block | |
 | Ca++ (Calcium) Kanalblocker | Benzothiazepin | Diltiazem | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal), Herz | | | | |
 | Diuretika | Carboanhydrase-Hemmer | Acetazolamid (alternativ: Azetazolamid) | Hemmung der CA -> weniger H+ Sekretion, mehr Na+ und HCO3- Aussscheidung, Erhöhung der Ausscheidung um 5-8% des Glomerulusfiltrats | Cystein- / Uratsteine | Metabolische Azidose, Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie | | LI, NI, Hyponatriämie, Schwangerschaft | |
 | Diuretika | Carboanhydrase-Hemmer | Brinzolamid, Dorzolamid | Hemmung der CA -> weniger H+ Sekretion, mehr Na+ und HCO3- Aussscheidung, Erhöhung der Ausscheidung um bis zu 5-8% des Glomerulusfiltrats | Glaukom | Metabolische Azidose, Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie | Corticosteroide und Laxantien -> verstärkte Hypokaliämie, Antidiabetike, Harnsäure-senkende Pharmaka, Blutdruck-senkene Pharmaka, Lithium | LI, NI, Hyponatriämie, Hypokaliämie, Hypovolämie, Gicht, Sulfonamidallergie | |
@@ -193,8 +193,17 @@ layout = "indexpage-fluid"
 | Insuline | schnellwirksam | Insulin Lispro, Insulin Aspart, Insulin Glulisin | Beginn 5-15min, Dauer ca. 2-3h | | | | | |
 | Insuline | langwirksam | Insulin Detemir (Fettsäure, bindet an Albumin), Insulin Glargin (Bildung von Präzipitaten an Injektionsstelle), Insulin Degludeg (Threonin B30 entfernt, mit Fettsäuremodifikation) | Beginn ca. 2-4h, Dauer ca. 24h | | | | | |
 | Insuline | Neutral Protamin Hagedorn (NPH) | NPH | ebenfalls 10-20h langwirksam | | | | | |
-| Antazida (Antazidum) | H2-Rezeptorantagonist | Ranitidin, Famotidin, Nizatidin, Roxatidinacetat, Cimetidin (obolet wg. UEW) | | | | | | |
+| Antazida (Antazidum) | H2-Rezeptorantagonist | Ranitidin, Famotidin, Nizatidin, Roxatidinacetat, Cimetidin (obsolet wg. UEW) | | | | | | |
+| Antazida (Antazidum) | PPI | Omeprazol, Pantoprazol, Lansoprazol, Rabeprazol | | | | | | |
 | Antiemetika | 5-HT3-Rezeptorantagonisten (Setrone) | Granisetron, Ondansetron, Tropisetron, Palonosetron | | Zytostatika- und Strahlentherapie-induziertes Erbrechen, postoperatives Erbrechen, (Hyperemesis gravidarum) | | | | |
+| Laxantien | Anorganische Salze (Osmotika) | Bittersalz, Glaubersalz, NaH2PO4 + NaHPO4 | | | Belastung mit Na+/Mg++ Ionen | | | |
+| Laxantien | Zucker, Zuckeralkohole | Lactose, Lactulose, Lacitol, Sorbitol, Mannitol | | | Blähungen | | | |
+| Laxantien | Polyethylenglykole | Macrogol 3350 und 4000 | werden nicht resorbiert -> osmotisch wirksam | | | | | |
+| Laxantien | Quellstoffe | Indische Flohsamen, Leinsamen, Weizenkleie | Ballaststoffe, werden kaum verdaut und resorbiert | | | | | |
+| Laxantien | Antiresorptiv und sekretagog wirksame | Ricinusöl | | | | | | **sehr schnell bzw. am schnellesten wirksam** |
+| Laxantien | Antiresorptiv und sekretagog wirksame – Antrachinonderivate | Sennoside | | | | | | |
+| Laxantien | Antiresorptiv und sekretagog wirksame – Diphenylmethanderivate | Bisacodyl, Natriumpicosulfat | | | | | | |
+| Gleitmittel | | Glycerin | | | | | | **bei Säuglingen und Kleinkindern Mittel der Wahl** |
 | | | | | | | | | |
 
 {{</table >}}
