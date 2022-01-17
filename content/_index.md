@@ -78,6 +78,11 @@ layout = "indexpage-fluid"
 | Benzodiazepine | Z-Substanzen | Zolpidem, Zopiclon, Zaleplon | binden nicht an alpha2 Rezeptorsubtyp -> nicht anxiolytisch oder muskelrelaxierend, kurze HWZ, geringes Abhängigkeitspotential | Schlafstörungen | | | | |
 | Benzodiazepin-Antidot | | Flumazenil | Antagonist der Benzodiazepin-Bindungsstelle des GABA-Rezeptors | Narkosebeendigung, Antidot bei Benzodiazepin-Überdosierung | | | | |
 | Lithium | | Lithium | "Mood Stabilizer", Alkalimetall, wird als Verbindung verabreicht (e.g. Carbonat), Wirkmechanismus nicht vollumfänglich geklärt | Manie Akuttherapie, Phaseprophylaxe, Augmentation von Antidepressiva, Lanzeitprohylaxe | Müdigkeit, Lethargie, Tremor, GI, Polyurie, Dehydration, Nephrotoxizität, Gewichtszunahme, Euthyreotes Struma, **geringe therapeutische Breite** | | | |
+| Antikonvulsiva | GABAerg | Phenobarbital (Barbiturat), allg. Benzodiazepine, Vigabatrin, Tiagabine, Valproat | | | | | | |
+| Antikonvulsiva | Na-Kanal-Inhibitor | Phenytoin | geringe therapeutische Breite | | | | | Eines der meistverwendeten Antiepileptika in den USA |
+| Antikonvulsiva | Na-Kanal-Inhibitor | Carbamazepine, Oxacarbazepine, Lamotrigine, Zonisamide, Valproate | | | | Carbamazepine reduziert Spiegel von Antikonzeptiva | | |
+| Antikonvulsiva | Ca-Kanal-Inhibitor | Valproate, Gabapentin, Ethosuximide | | | | | | |
+| Antikonvulsiva | Ca-Kanal-Inhibitor | Levitiracepam, Brivaracetam | nicht vollständig klar; Bindung an SV2A; vermutlich Herabsetzung der neuronalen Reizweiterleutung und Glutamatfreisetzung sowie partielle Inhibitation der Calcium Spiegel intrazellulär | | | | | |
 | Mood Stabilizer | Antiepileptika | Valproat | | | | | Schwangerschaft | |
 | Mood Stabilizer | Antiepileptika | Lamotrigin | | | | | |
 | Mood Stabilizer | Antiepileptika | Carbamazepin | | | | | | |
@@ -152,6 +157,7 @@ layout = "indexpage-fluid"
 | Antibiotika | Folsäuresynthesehemmer | Sulfonamide, Trimethroprim (in Kombination: Cotrimoxazol) | Hemmung der Tetrahydrofolsäure-Synthese, bakteriostatisch | (G+), (G-), e.g. Pneumocystis Jirovechii Infektion | Hautreaktionen, Photosensibilisierung, Blutbildungsstörung| Res.: veränderte Enzyme | | wird hochdosiert zur Therapie von Pneumocystis-jirovecii-Pneumonie eingesetzt |
 | Antibiotika | Folsäuresynthesehemner (PABA-Analoga)| Dapson | | | | | | |
 | Antibiotika | Tuberkulostatika | Isoniazid, Pyrazinamid, Ethambutol, (Streptomycin - second-line) | | Tuberkulose | | | | Isoniazid auch präventiv einsetzbar |
+| Antibiotika | Sulfonamide | Sulfadiazin | | Therapie von durch Protozoen (e.g. Toxoplasma gondii, Plasmodien) verursachten Krankheiten, Pneumocystis jiroveci | | | | |
 | Antimykotika | Polyene | Nystatin, Amphotericin B | Bindung an Ergosterol | | | | | |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Azole | Suffix *-conazol*, Ketoconazol, Fluconazol, Itraconazol, Voriconazol, Posaconazol, Isavuconazol | | | | | | Antimykotische Prophylaxe bei schwerer Neutropenie: Posaconazol, Voriconazol |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Allylamine | Terbinafin, Naftifin | | | | | | |
@@ -162,6 +168,7 @@ layout = "indexpage-fluid"
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Aciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Herpesviren: Herpes-simplex-Virus und Varizella-Zoster-Virus | selten: NI, allergische Reaktionen | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ganciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Cytomegalievirus: Erkrankung und Prävention, Herpes-simplex-Keratitis | diverse und teils schwere Nebenwirkungen: GI, Blutbildveränderungen, LI, NI, ... | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ribavirin | | Hepatitis C | | | | |
+| Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Lamivudin, Entecavir, Telbivudin, Adefovir (nur noch in Ausnahme), Tenofovir | | Hepatitis B | | | | |
 | Virostatikum | Neuraminidase-Hemmer | Oseltamivir | | Influanza A und B | | | | |
 | Virostatikum | Proteaseinhibitoren | Asunaprevir, Glecaprevir | Hemmung der Serinprotease des Hepatitic C Virus | Hepatitis C | | | | |
 | Virostatikum | | Amantadin | Influenza: M2-Membranproteinhemmer -> Ionenkanal blockiert -> verhindert "Uncoating" und Übernahme der Wirtszelle; Parkinson: nicht vollständig geklärt, vermutlich Hemmung des NMDA-Rezeptor -> Reduzierte Überaktivität von Interneuronen | Influenza A, Parkinson | | | | |
@@ -169,10 +176,11 @@ layout = "indexpage-fluid"
 | Antiprotozoikum | | Artesunat | | Malaria tropica (Plasmodium falciparum) | | | | |
 | Antiprotozoikum | | Melarsoprol, Suramin, Nifurtimox, Benznidazol | | | | | | |
 | Antiparasitika | | Pyrimethamin | | Malaria, Toxoplasmose | | | | |
-| Antiparasitika | | Ivermectin | | | | | | |
-| Antihelmintika | Benzimidazolcarbamate | Albendazol | | | | | | |
+| Antiparasitika | | Ivermectin | | Strongyloides Befall | | | | |
+| Antihelmintika | Benzimidazolcarbamate | Albendazol, Mebendazol | | | | | | |
 | Antihelmintika | Piperazinderivat | Diethylcarbamazin | | | | | | |
-| Antihelmintika | | Praziquantel | | | | | | |
+| Antihelmintika | Salicylamidderivat | Niclosamid | | | | | | |
+| Antihelmintika | | Praziquantel | | Taenia saginata und solium | | | | |
 | Immunsuppresiva | Glucocorticoide | Dexamethason, Prednisolon | | | | | | |
 | Immunsuppresiva | Purin-Analogon | Azathioprin | Einbau als falsche Base -> Störung der DNA-Replikation | | | | | |
 | Immunsuppresiva | B-Zell-Depletion | Rituximab | Anti-CD20-AK -> B-Zell-Untergang | | | | | |
@@ -193,9 +201,14 @@ layout = "indexpage-fluid"
 | Insuline | schnellwirksam | Insulin Lispro, Insulin Aspart, Insulin Glulisin | Beginn 5-15min, Dauer ca. 2-3h | | | | | |
 | Insuline | langwirksam | Insulin Detemir (Fettsäure, bindet an Albumin), Insulin Glargin (Bildung von Präzipitaten an Injektionsstelle), Insulin Degludeg (Threonin B30 entfernt, mit Fettsäuremodifikation) | Beginn ca. 2-4h, Dauer ca. 24h | | | | | |
 | Insuline | Neutral Protamin Hagedorn (NPH) | NPH | ebenfalls 10-20h langwirksam | | | | | |
-| Antazida (Antazidum) | H2-Rezeptorantagonist | Ranitidin, Famotidin, Nizatidin, Roxatidinacetat, Cimetidin (obsolet wg. UEW) | | | | | | |
-| Antazida (Antazidum) | PPI | Omeprazol, Pantoprazol, Lansoprazol, Rabeprazol | | | | | | |
+| Säurehemmer | H2-Rezeptorantagonisten | Ranitidin, Famotidin, Nizatidin, Roxatidinacetat, Cimetidin (obsolet wg. UEW) | | Magensäuresenkung (Mittel 2. Wahl) | Kopfschmerz, Übelkeit, Erbrechen, Juckreiz, Libidoverlust, Gynäkomastie, Hemmung CYP450 | | | |
+| Säurehemmer | PPI | Omeprazol, Pantoprazol, Lansoprazol, Rabeprazol | | Dyspepsie, Ulcus duodeni und ventriculi, Refluxösophagitis, Zollinger-Ellison-Syndrom (Übersekretion von Gastrin) | | | CYP2C19 / CYP3A4 Interaktion | |
+| Säurehemmer | Antazida (Antazidum) | Natriumhydrogencarbonat, Magnesiumcarbonat, Calciumcarbonat, Aluminiumhydroxid, Magensiumhydroxig, Al-Mg-Silikathydrat (Komplexverbindungen, Schichtgitterantazida) | | | | | | |
+| Säurehemmer | Protein-Komplexbildner | Sucralfat | bildet Komplexverbindung auf Ulcusoberfläche, verhindert Angriff von HCL | | Obstipation | Tetrazyklin-Komplexe nicht resorbierbar | NI, Enzephalopathie | |
+| Säurehemmer | | Misoprostol | PGE2-Analogon, hemmt HCL-Sekretion, verstärkt Schleimsekretion | | Durchfälle, Magen- und Darmkrämpfe | | Schwangerschaft | |
+| Säurehemmer | | Proglumid | Gastrinantagonist (therapeutischer Wert umstritten) | | | | | |
 | Antiemetika | 5-HT3-Rezeptorantagonisten (Setrone) | Granisetron, Ondansetron, Tropisetron, Palonosetron | | Zytostatika- und Strahlentherapie-induziertes Erbrechen, postoperatives Erbrechen, (Hyperemesis gravidarum) | | | | |
+| Antiemetika | Dopaminrezeptor-Antagonisten - Neuroleptika | Haloperiodol, Droperiodol, Perphenzin, Promethazin, Sulpirid, Prochlorperazin | | Übelkeit und Ebrechen (bei Nichtwirksamkeit von Alternativen), Opioid-indziertes Erbrechen, postoperatives Erbrechen, Morbus Meniere | | | | |
 | Laxantien | Anorganische Salze (Osmotika) | Bittersalz, Glaubersalz, NaH2PO4 + NaHPO4 | | | Belastung mit Na+/Mg++ Ionen | | | |
 | Laxantien | Zucker, Zuckeralkohole | Lactose, Lactulose, Lacitol, Sorbitol, Mannitol | | | Blähungen | | | |
 | Laxantien | Polyethylenglykole | Macrogol 3350 und 4000 | werden nicht resorbiert -> osmotisch wirksam | | | | | |
@@ -204,6 +217,7 @@ layout = "indexpage-fluid"
 | Laxantien | Antiresorptiv und sekretagog wirksame – Antrachinonderivate | Sennoside | | | | | | |
 | Laxantien | Antiresorptiv und sekretagog wirksame – Diphenylmethanderivate | Bisacodyl, Natriumpicosulfat | | | | | | |
 | Gleitmittel | | Glycerin | | | | | | **bei Säuglingen und Kleinkindern Mittel der Wahl** |
+| Enkepahinase-Inhibitoren | | Racecadotrili | | Diarrhoe | | | | |
 | | | | | | | | | |
 
 {{</table >}}
