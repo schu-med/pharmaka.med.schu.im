@@ -143,15 +143,15 @@ layout = "indexpage-fluid"
 | Antibiotika | Lipopeptide | Daptomycin | Porenbildung in Zellmembran, bakterizid (primär) | G+ | Myotoxizität, GI, allergische Reaktionen | Res.: Veränderung der Membran | | S. aureus Infekte |
 | Antibiotika | Polypeptide | Colistin, Polymyxin B | Schädigung der Membran von G- Bakterien, bakterizid (primär) | G- | Neurotoxizität, Nephrotoxizität, allergische Reaktionen | Res.: Veränderung von LPS (durch MCR-1) in der äußeren Membran | | Reserve-AB für Pseudomonas- und Klebsellien-Infekte |
 | Antibiotika | Oxazolidinone | Linezolid | Hemmung der Bildung des Initiationskomplex | G+ | GI, Hepatotoxizität  | Res.: Veränderung der 23S-rRNA | | Reserve-AB für MRSA- und VRE-Infekte |
-| Antibiotika | Aminoglykoside | Gentamycin, Amicacin, Tobramycin, Paromomycin | Bindung an 30S-UE, bakterizid (primär) | (G+), G-, nur Aerobier | Neurotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
+| Antibiotika | Aminoglykoside | Gentamycin, Amicacin, Tobramycin, Paromomycin | Bindung an 30S-UE, bakterizid (primär) | (G+), G-, **nur Aerobier** | Neurotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
 | Antibiotika | Tetracycline | Doxycyclin, Minocyclin, Tigecyclin (Tetracyclin-Derivat), Oxytetracyclin | Bindung an 30S-UE, bakteriostatisch | (G+), (G-), atypische (Mykoplasmen, Chlamydien, Legionellen) | GI, Phototoxizität, Einlagerung in Knochen und Zähne, Hepato- / Nephrotoxizität | Res.: Aktiver Auswärtstransport, Veränderung des 30S-Ribosoms | Schwangerschaft, Stillzeit, **Kinder bis zum 8. Lebensjahri**, Leber- / Niereninsuffizienz | bei Atemwegsinfektionen, Urogenitalinfektionen, Borreliose, Cholera |
 | Antibiotika | Amphenicole | Chloramphenicol | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, G-, Aa, atypische | Knochenmarksschädigung, Neurotoxizität | Veränderung des AB | | Reserve-AB für lebensbedrohliche Erkrankungen |
 | Antibiotika | Makrolide | Erythromycin, Clarithromycin, Azithromycin | Proteinsynthesehemmstoff, Bindung an 50S-UE | G+ Kokken und Stäbchen, (G- Kokken), atypische | GI, CYP3A4 Hemmung | | | |
 | Antibiotika | Lincosamide | Clindamycin | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, Aa | GI, pseudomembranöse Colitis, Osteomyelitis (Clindamycin **erreicht hohe Konzentrationen im Knochen**) | Methylierung der 23S-rRNA, aktiver Auswärtstransport | | |
 | Antibiotika | Streptogramine | Dalfopristin, Quinopristin | Proteinsynthesehemmstoff, Bindung an 50S-UE | G+ | GI, Myalgie / Arthralgie, CYP3A4 Hemmung | Methylierung der 23S-rRNA | | Reserve-AB für Infektionen mit multiresistenten G+ |
 | Antibiotika | Pleuromutiline | Lefamulin | Proteinsynthesehemmstoff, Bindung an 50S-UE | G+, (G-), atypische | GI, Vorhofflimmern | Veränderung des Ribosoms | | Reserve-AB für ambulant erworbene Pneumonien |
-| Antibiotika | Ansamycine | Rifampicin | Hemmung der DNA-abhängigen RNA-Polymerase (i.e. der Transkription) | G+, atypische, M. tuberculosis | GI, Thrombozytopenie, Hepatotoxizität, Neurotoxizität | | LI, Schwangerschaft, Stillzeit | Reserve-AB |
-| Antibiotika | Fluorchinolone | Levofloxacin, Ciprofloxacin, Moxifloxacin | DNA/RNA-Hemmstoffe, Hemmung der Gyrase | (G+), G-, atypische | GI, Neurotoxizität, Tendo-/Arthropathie, CYP1A2 Hemmung| Res.: Aktiver Auswärtstransport ("Effluxpumpe"), veränderte Topoisomerase | | |
+| Antibiotika | Ansamycine | Rifampicin | Hemmung der DNA-abhängigen RNA-Polymerase (i.e. der Transkription) | G+, atypische, M. tuberculosis, Rifampicin zur Prophylaxe bei Meningokokken-Meningitis im sozialen Umfeld | GI, Thrombozytopenie, Hepatotoxizität, Neurotoxizität | | LI, Schwangerschaft, Stillzeit | Reserve-AB |
+| Antibiotika | Fluorchinolone | Levofloxacin, Ciprofloxacin, Moxifloxacin | DNA/RNA-Hemmstoffe, Hemmung der Gyrase | (G+), G-, atypische, Ciprofloxacin zur Prophylaxe bei Meningokokken-Meningitis im sozialen Umfeld | GI, Neurotoxizität, Tendo-/Arthropathie, CYP1A2 Hemmung| Res.: Aktiver Auswärtstransport ("Effluxpumpe"), veränderte Topoisomerase | | |
 | Antibiotika | Nitroimidazole | Metronidazol | DNA-Schädigung durch reaktive Metaboliten (anaerob) | Aa | Neuropathie, Geschmacksstörungen, Alkoholunverträglichkeit| Res.: Stoffwechseländerung, Inaktivierung der Metaboliten | | |
 | Antibiotika | Nitrofurane | Nitrofurantoin | DNA-Schädigung durch reaktive Metaboliten | G- | allergische pulmonale Infiltration, GI, Hepatotoxizität| Res.: Stoffwechseländerung, aktiver Auswärtstransport | | |
 | Antibiotika | Folsäuresynthesehemmer | Sulfonamide, Trimethroprim (in Kombination: Cotrimoxazol) | Hemmung der Tetrahydrofolsäure-Synthese, bakteriostatisch | (G+), (G-), e.g. Pneumocystis Jirovechii Infektion | Hautreaktionen, Photosensibilisierung, Blutbildungsstörung| Res.: veränderte Enzyme | | wird hochdosiert zur Therapie von Pneumocystis-jirovecii-Pneumonie eingesetzt |
@@ -167,12 +167,12 @@ layout = "indexpage-fluid"
 | Antimykotika | Multiple Angriffspunkte | Ciclopirox (Batrafen; ein Pyridon Derivat) | | Dermatomykosen, vaginale Pilzinfektionen | | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Aciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Herpesviren: Herpes-simplex-Virus und Varizella-Zoster-Virus | selten: NI, allergische Reaktionen | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ganciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Cytomegalievirus: Erkrankung und Prävention, Herpes-simplex-Keratitis | diverse und teils schwere Nebenwirkungen: GI, Blutbildveränderungen, LI, NI, ... | | | |
-| Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ribavirin | | Hepatitis C | | | | |
+| Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ribavirin | dadurch Hemmung der Polymerase | Hepatitis C | | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Lamivudin, Entecavir, Telbivudin, Adefovir (nur noch in Ausnahme), Tenofovir | | Hepatitis B | | | | |
 | Virostatikum | Neuraminidase-Hemmer | Oseltamivir | | Influanza A und B | | | | |
 | Virostatikum | Proteaseinhibitoren | Asunaprevir, Glecaprevir | Hemmung der Serinprotease des Hepatitic C Virus | Hepatitis C | | | | |
 | Virostatikum | | Amantadin | Influenza: M2-Membranproteinhemmer -> Ionenkanal blockiert -> verhindert "Uncoating" und Übernahme der Wirtszelle; Parkinson: nicht vollständig geklärt, vermutlich Hemmung des NMDA-Rezeptor -> Reduzierte Überaktivität von Interneuronen | Influenza A, Parkinson | | | | |
-| Zytokine | Interferone | Interferon-alpha (IFN-alpha) | | Hepatitis B und C, malignes Melanom | | | | |
+| Zytokine | Interferone | Interferon-alpha (IFN-alpha) | Bindet an Interferon-Rezeptor (IFNR) und induziert Transkription versch. antiviraler Gene | Hepatitis B und C, malignes Melanom | | | | Interferon heute kein Therapiestandard mehr |
 | Antiprotozoikum | | Artesunat | | Malaria tropica (Plasmodium falciparum) | | | | |
 | Antiprotozoikum | | Melarsoprol, Suramin, Nifurtimox, Benznidazol | | | | | | |
 | Antiparasitika | | Pyrimethamin | | Malaria, Toxoplasmose | | | | |
@@ -185,7 +185,7 @@ layout = "indexpage-fluid"
 | Immunsuppresiva | Purin-Analogon | Azathioprin | Einbau als falsche Base -> Störung der DNA-Replikation | | | | | |
 | Immunsuppresiva | B-Zell-Depletion | Rituximab | Anti-CD20-AK -> B-Zell-Untergang | | | | | |
 | Immunsuppresiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
-| Immunsuppresiva | | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
+| Immunsuppresiva | Calcineurin-Inhibitoren | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
 | Immunsuppresiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
 | Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | | | | |
 | Orale Antidiabetika | Biguanide | Metformin | Hemmung der hepatischen Glukoseproduktion; auch: Senkung VLDL, Erhöhung HDL, antithrombotischer Effekt -> Schutz vor makrovaskulären Komplikationen (Schlaganfall, MI, KHK) | | Laktatazidose (speziell bei NI/LI), GI | | | keine Gewichtszunahme, anti-kanzerogener Effekt, anti-aging Effekt (?) |
