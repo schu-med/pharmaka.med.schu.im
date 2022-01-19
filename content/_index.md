@@ -150,13 +150,13 @@ layout = "indexpage-fluid"
 | Antibiotika | Lincosamide | Clindamycin | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, Aa | GI, pseudomembranöse Colitis, Osteomyelitis (Clindamycin **erreicht hohe Konzentrationen im Knochen**) | Methylierung der 23S-rRNA, aktiver Auswärtstransport | | |
 | Antibiotika | Streptogramine | Dalfopristin, Quinopristin | Proteinsynthesehemmstoff, Bindung an 50S-UE | G+ | GI, Myalgie / Arthralgie, CYP3A4 Hemmung | Methylierung der 23S-rRNA | | Reserve-AB für Infektionen mit multiresistenten G+ |
 | Antibiotika | Pleuromutiline | Lefamulin | Proteinsynthesehemmstoff, Bindung an 50S-UE | G+, (G-), atypische | GI, Vorhofflimmern | Veränderung des Ribosoms | | Reserve-AB für ambulant erworbene Pneumonien |
-| Antibiotika | Ansamycine | Rifampicin | Hemmung der DNA-abhängigen RNA-Polymerase (i.e. der Transkription) | G+, atypische, M. tuberculosis, Rifampicin zur Prophylaxe bei Meningokokken-Meningitis im sozialen Umfeld | GI, Thrombozytopenie, Hepatotoxizität, Neurotoxizität | | LI, Schwangerschaft, Stillzeit | Reserve-AB |
+| Antibiotika | Ansamycine | Rifampicin | Hemmung der DNA-abhängigen RNA-Polymerase (i.e. der Transkription) | G+, atypische, **M. tuberculosis**, Rifampicin zur Prophylaxe bei Meningokokken-Meningitis im sozialen Umfeld | GI, Thrombozytopenie, Hepatotoxizität, Neurotoxizität | | LI, Schwangerschaft, Stillzeit | Reserve-AB |
 | Antibiotika | Fluorchinolone | Levofloxacin, Ciprofloxacin, Moxifloxacin | DNA/RNA-Hemmstoffe, Hemmung der Gyrase | (G+), G-, atypische, Ciprofloxacin zur Prophylaxe bei Meningokokken-Meningitis im sozialen Umfeld | GI, Neurotoxizität, Tendo-/Arthropathie, CYP1A2 Hemmung| Res.: Aktiver Auswärtstransport ("Effluxpumpe"), veränderte Topoisomerase | | |
-| Antibiotika | Nitroimidazole | Metronidazol | DNA-Schädigung durch reaktive Metaboliten (anaerob) | Aa | Neuropathie, Geschmacksstörungen, Alkoholunverträglichkeit| Res.: Stoffwechseländerung, Inaktivierung der Metaboliten | | |
+| Antibiotika | Nitroimidazole | Metronidazol (Handelsname: Clont) | DNA-Schädigung durch reaktive Metaboliten (anaerob) | Aa | Neuropathie, Geschmacksstörungen, Alkoholunverträglichkeit| Res.: Stoffwechseländerung, Inaktivierung der Metaboliten | | |
 | Antibiotika | Nitrofurane | Nitrofurantoin | DNA-Schädigung durch reaktive Metaboliten | G- | allergische pulmonale Infiltration, GI, Hepatotoxizität| Res.: Stoffwechseländerung, aktiver Auswärtstransport | | |
 | Antibiotika | Folsäuresynthesehemmer | Sulfonamide, Trimethroprim (in Kombination: Cotrimoxazol) | Hemmung der Tetrahydrofolsäure-Synthese, bakteriostatisch | (G+), (G-), e.g. Pneumocystis Jirovechii Infektion | Hautreaktionen, Photosensibilisierung, Blutbildungsstörung| Res.: veränderte Enzyme | | wird hochdosiert zur Therapie von Pneumocystis-jirovecii-Pneumonie eingesetzt |
-| Antibiotika | Folsäuresynthesehemner (PABA-Analoga)| Dapson | | | | | | |
-| Antibiotika | Tuberkulostatika | Isoniazid, Pyrazinamid, Ethambutol, (Streptomycin - second-line) | | Tuberkulose | | | | Isoniazid auch präventiv einsetzbar |
+| Antibiotika | Folsäuresynthesehemmer (PABA-Analoga)| Dapson | | | | | | |
+| Antibiotika | Tuberkulostatika | Isoniazid (INH), Pyrazinamid, Ethambutol, (Streptomycin - second-line) | | Tuberkulose | | | | Isoniazid auch präventiv einsetzbar |
 | Antibiotika | Sulfonamide | Sulfadiazin | | Therapie von durch Protozoen (e.g. Toxoplasma gondii, Plasmodien) verursachten Krankheiten, Pneumocystis jiroveci | | | | |
 | Antimykotika | Polyene | Nystatin, Amphotericin B | Bindung an Ergosterol | | | | | |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Azole | Suffix *-conazol*, Ketoconazol, Fluconazol, Itraconazol, Voriconazol, Posaconazol, Isavuconazol | | | | | | Antimykotische Prophylaxe bei schwerer Neutropenie: Posaconazol, Voriconazol |
@@ -188,6 +188,7 @@ layout = "indexpage-fluid"
 | Immunsuppresiva | Calcineurin-Inhibitoren | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
 | Immunsuppresiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
 | Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | | | | |
+| Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat | Hemmung der Thymidin-Synthese | | | | | |
 | Orale Antidiabetika | Biguanide | Metformin | Hemmung der hepatischen Glukoseproduktion; auch: Senkung VLDL, Erhöhung HDL, antithrombotischer Effekt -> Schutz vor makrovaskulären Komplikationen (Schlaganfall, MI, KHK) | | Laktatazidose (speziell bei NI/LI), GI | | | keine Gewichtszunahme, anti-kanzerogener Effekt, anti-aging Effekt (?) |
 | Orale Antidiabetika | Sulfonylharnstoffe | | | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
 | Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | | | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
@@ -213,11 +214,12 @@ layout = "indexpage-fluid"
 | Laxantien | Zucker, Zuckeralkohole | Lactose, Lactulose, Lacitol, Sorbitol, Mannitol | | | Blähungen | | | |
 | Laxantien | Polyethylenglykole | Macrogol 3350 und 4000 | werden nicht resorbiert -> osmotisch wirksam | | | | | |
 | Laxantien | Quellstoffe | Indische Flohsamen, Leinsamen, Weizenkleie | Ballaststoffe, werden kaum verdaut und resorbiert | | | | | |
-| Laxantien | Antiresorptiv und sekretagog wirksame | Ricinusöl | | | | | | **sehr schnell bzw. am schnellesten wirksam** |
+| Laxantien | Antiresorptiv und sekretagog wirksame | Ricinusöl | | | | | | **sehr schnell bzw. am schnellsten wirksam** |
 | Laxantien | Antiresorptiv und sekretagog wirksame – Antrachinonderivate | Sennoside | | | | | | |
 | Laxantien | Antiresorptiv und sekretagog wirksame – Diphenylmethanderivate | Bisacodyl, Natriumpicosulfat | | | | | | |
 | Gleitmittel | | Glycerin | | | | | | **bei Säuglingen und Kleinkindern Mittel der Wahl** |
 | Enkepahinase-Inhibitoren | | Racecadotrili | | Diarrhoe | | | | |
+| Antimikrobielle Peptide | Cathelicidine | | | | | | | https://de.wikipedia.org/wiki/Cathelicidine |
 | | | | | | | | | |
 
 {{</table >}}
