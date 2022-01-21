@@ -220,6 +220,16 @@ layout = "indexpage-fluid"
 | Gleitmittel | | Glycerin | | | | | | **bei Säuglingen und Kleinkindern Mittel der Wahl** |
 | Enkepahinase-Inhibitoren | | Racecadotrili | | Diarrhoe | | | | |
 | Antimikrobielle Peptide | Cathelicidine | | | | | | | https://de.wikipedia.org/wiki/Cathelicidine |
+| Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Clomifen | | Ovaluatiosinduktion | | | | |
+| Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Tamoxifen, Toremifen | | Adjuvant Mamma-Ca | Thromboembolie | | | |
+| Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Raloxifen | | östrogenagonistische Wirkung zur Osteoporosebehandlung | Thromboembolie, Apoplex | | | |
+| Estrogen-Inhibitoren | Aromatasehemmer | Formestan, Exemestan | | | | | | |
+| Androgene | Synthetisch | Testosteron**enantat** | lipophiler, intramuskuläre Injektion | | | | | |
+| Androgene | Synthetisch | Testosteron**undecanoat** | noch lipophiler, oral wirksam oder intramuskuläre Injektion | | | | | |
+| Androgen-Inhibitoren | Antiandrogene Gestagenderivate | Cyproteronacetat | | | | | | |
+| Androgen-Inhibitoren | Androgen-Biosynthese-Inhibitor | Abirateronacetat | | | | | | |
+| Androgen-Inhibitoren | Androgen-Rezeptorantagonisten | Flutamid, Biclutamid, Enzalutamid | | | | | | |
+| Androgen-Inhibitoren | 5alpha-Redukate-Hemmer | Finasterid, Dutasterid | | | | | | |
 | | | | | | | | | |
 
 {{</table >}}
