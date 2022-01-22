@@ -39,15 +39,19 @@ layout = "indexpage-fluid"
 | Parasympatholytika | | Butylscopolamin | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
 | Parasympatholytika | | Ipratropium | SAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
 | Parasympatholytika | | Tiotriopium | LAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
+| Parasympatholytika | Curare | Tubocurarin, Atracurium | kompetetive Hemmer des Acetylcholins an nikotinergen Rezeptoren der mot. Endplatte | | | | | |
 | Sympathomimetika | alpha-Agonisten | Naphazolin, Xylometazolin, Oxymetazolin | | Allergische Konjunktivitis, Sinusitis, Nasopharyngitis | Schleimhautschädigend | | Säuglinge, Kleinkinder, Hypertoniker | |
 | Sympathomimetika | beta2-Agonist, LABA | Bambuterol, Formoterol, Salmeterol | | | | | | |
+| Sympathomimetika | beta2-Agonist, LABA | Fenoterol | | Tokolyse (Wehenhemmung) | | | | |
+| Sympatholytika | alpha2-Agonist | Clonidin | | | | | | |
 | Sympatholytika | beta-Blocker, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | |
 | Sympatholytika | beta2-Antagonisten | Salbutamol, Terbutalin, Suffix *-terol* | | Asthma | | | | |
 | Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Propranolol | | Hypertonie, KHK, chronische HI | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | **auch: Ca++ Antagonist** |
 | Sympatholytika | alpha-Blocker | Phenoxybenzamin | irreversible alpha1- und alpha2-Blockade | präoperativ bei Phäochromozytom | | | | |
-| Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie, Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
+| Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie (keine 1. Wahl!), Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
+| Herzglykoside | | Digoxin | | | | | | |
 | Methylxanthine | | Theophylin | Antagonistisch an Adenosinrezeptoren, kompetitive Hemmung der PDE -> Erhöhung cAMP | | | Abbau durch CYP450 in Leber -> Wechselwirkungen e.g. mit AB | | |
 | PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Ausscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | COPD | | | | |
 | Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor (CYSLTR1); Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | als Kombinationspräparat mit inhalativen Corticosterioiden bei Asthma und allergischer Rhinits; Neurodermitis, Urtikaria | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | |
@@ -57,7 +61,7 @@ layout = "indexpage-fluid"
 | Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Amitriptylin-Typ | Amitriptylin, Trimipramin, Doxepin | stark sedierend, stark anticholinerg | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
 | Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Desipramin-Typ | Desipramin, Nortriptylin | Antriebssteigernd, Unruhe | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
 | Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Imipramin-Typ | Imipramin, Clomipramin | geringer Einfluss auf Antrieb | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
-| Selektive Serotonin-Rückaufname-Inhibitoren (SSRI) | | Fluoxetin, Paroxetin, Citalopram, Escitalopram, Sertralin, Fluvoxamin | Antriebssteigernd, Unruhe | | große therapeutische Breite, Übelkeit, Erregung / Unruhe, Suizidalität, serotonerges Syndrom | | | |
+| Selektive Serotonin-Rückaufname-Inhibitoren (SSRI) | | Fluoxetin, Paroxetin, Citalopram, Escitalopram, Sertralin, Fluvoxamin | Antriebssteigernd, Unruhe | | große therapeutische Breite, Übelkeit, Erregung / Unruhe, Schlafstörung, Suizidalität, serotonerges Syndrom | | | |
 | Selektive Noradrenalin-Rückaufname-Inhibitoren (SNRI) | | Reboxetin | | | | | | |
 | Selektive Serotonin- und Noradrenalin-Rückaufname-Inhibitoren (SSNRI) | | Venlafaxin, Duloxetin | Antriebssteigernd | | | | | |
 | alpha2-Antagonisten / Tetrazyklische Antidepressiva | | Mianserin, Mirtazapin | | | | | | |
@@ -111,7 +115,7 @@ layout = "indexpage-fluid"
 | Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | ASS, Ibuprofen, Naproxen, Diclofenac | Hemmung COX1/COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
 | Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | *-coxibe* | Hemmung COX2 | Arthrose, rheumatische Arthritis, postoperativ | MI, Apoplex | | | |
 | Nicht-Opioid Analgetika | Antipyretisch, Analgetisch | Paracetamol | unklar | | Hepatotoxizität | | | |
-| Nicht-Opioid Analgetika | Antipyretisch | Metamizol | unklar, spasmolytisch | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | Agranulozytose, Anaphylaktischer Schock bei oraler Gabe | | | |
+| Nicht-Opioid Analgetika | Antipyretisch | Metamizol | unklar, **spasmolytisch** | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | Agranulozytose, Anaphylaktischer Schock bei oraler Gabe | | | |
 | Koanalgetika | Kortikoide | | antiödematös, antiphlogistisch, antiemetisch, Appetit anregend | ödembedingte Nervenkompression z.B. durch Tumor, Hirnödem | | | | |
 | Koanalgetika | Bisphosphonate | | | Tumor-induzierte Hypercalcämie, Metastasen-bedingte Knochenschmerzen | | | | |
 | RAAS Inhibitoren | Renin-Inhibitoren | Aliskiren | hemmmt Renin Freisetzung | Hypertonie | Hyperkaliämie, Diarrhoe, Schwindel, Arthralgie | ACE-Hemmer, AT1-Antagonisten | | |
@@ -148,7 +152,7 @@ layout = "indexpage-fluid"
 | Antibiotika | Lipopeptide | Daptomycin | Porenbildung in Zellmembran, bakterizid (primär) | G+ | Myotoxizität, GI, allergische Reaktionen | Res.: Veränderung der Membran | | S. aureus Infekte |
 | Antibiotika | Polypeptide | Colistin, Polymyxin B | Schädigung der Membran von G- Bakterien, bakterizid (primär) | G- | Neurotoxizität, Nephrotoxizität, allergische Reaktionen | Res.: Veränderung von LPS (durch MCR-1) in der äußeren Membran | | Reserve-AB für Pseudomonas- und Klebsellien-Infekte |
 | Antibiotika | Oxazolidinone | Linezolid | Hemmung der Bildung des Initiationskomplex | G+ | GI, Hepatotoxizität  | Res.: Veränderung der 23S-rRNA | | Reserve-AB für MRSA- und VRE-Infekte |
-| Antibiotika | Aminoglykoside | Gentamycin, Amicacin, Tobramycin, Paromomycin | Bindung an 30S-UE, bakterizid (primär) | (G+), G-, **nur Aerobier** | Neurotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
+| Antibiotika | Aminoglykoside | Gentamycin, Amicacin, Tobramycin, Paromomycin, Streptomycin | Bindung an 30S-UE, bakterizid (primär) | (G+), G-, **nur Aerobier** | Neurotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
 | Antibiotika | Tetracycline | Doxycyclin, Minocyclin, Tigecyclin (Tetracyclin-Derivat), Oxytetracyclin | Bindung an 30S-UE, bakteriostatisch | (G+), (G-), atypische (Mykoplasmen, Chlamydien, Legionellen) | GI, Phototoxizität, Einlagerung in Knochen und Zähne, Hepato- / Nephrotoxizität | Res.: Aktiver Auswärtstransport, Veränderung des 30S-Ribosoms | Schwangerschaft, Stillzeit, **Kinder bis zum 8. Lebensjahri**, Leber- / Niereninsuffizienz | bei Atemwegsinfektionen, Urogenitalinfektionen, Borreliose, Cholera |
 | Antibiotika | Amphenicole | Chloramphenicol | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, G-, Aa, atypische | Knochenmarksschädigung, Neurotoxizität | Veränderung des AB | | Reserve-AB für lebensbedrohliche Erkrankungen |
 | Antibiotika | Makrolide | Erythromycin, Clarithromycin, Azithromycin | Proteinsynthesehemmstoff, Bindung an 50S-UE | G+ Kokken und Stäbchen, (G- Kokken), atypische | GI, CYP3A4 Hemmung | | | |
@@ -192,9 +196,24 @@ layout = "indexpage-fluid"
 | Immunsuppresiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
 | Immunsuppresiva | Calcineurin-Inhibitoren | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
 | Immunsuppresiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
+| Immunsuppresiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid, Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom | | | | |
 | Zytostatika | Platinverbindungen | Cisplatin, Carboplatin, Oxaliplatin | | | | | | |
 | Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | | | | |
 | Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat | Hemmung der Thymidin-Synthese | | | | | |
+| Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | | Vinca-Alkaloide, Estramustin, Ixabepilon, Eribulin | | | | | | |
+| Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Taxane: Paclitaxel, Docetaxel, Cabazitaxel | | | | | | |
+| Zytostatika | Antimetaboliten | Mercaptopurin | Purinanaloga | Leukämien, Lymphome, Mamma-/Ovarialkarzinom | | | | |
+| Zytostatika | Antimetaboliten | Fluorouracil | Pyrimidinanaloga | | | | | |
+| Zytostatika | N-Lost Abkömmlinge | Thiotepa | | lokal bei Blasenkarzinom, Konditionierung vor Stammzelltransplantation | | | | |
+| Zytostatika | N-Lost Abkömmlinge | Thiotepa | | palliative Kombinationstherapie | | | | |
+| Zytostatika | Andere Alkylantien | Busulfan | starke Myelosuppresion | CML | | | | |
+| Zytostatika | Andere Alkylantien | Nitrosoharnstoffe | sehr liophil, kann daher Blut-Hirn-Schranke durchdringen | Hirntumoren | | | | |
+| Zytostatika | Topoisomerase-I-Inhibitoren | Tropotecan, Irinotecan | Colonkarzinom, kleinzellige Bronchialkarzinome | Myelopsuppression | | | |
+| Zytostatika | Topoisomerase-II-Inhibitoren | Etoposid, Teniposid | Etoposid: Bronchial-, Ovarial-, Hodenkarzinom; Teniposid: vorwiegend Lymphome | Myelosuppression, hohes Risiko für Zweittumore | | | |
+| Zytostatika | Hydroxyharnstoffe | Hydroxyharnstoffe | | myeloproliferative Erkrankungen, Erhöhung der Strahlensensitivität | KM-Depression, Megaloblastose | | | |
+| Zytostatika | Proteasom-Inhibitoren | Bortezomib, Carfilzomib | | Multiples Myelom, Mantelzellkarzinom | Neuropathie, Diarrhoe, Thrombozytopenie | | | |
+| Signalweg-Inhibitoren | Proteintyrosinkinase-Inhibitoren | Imatinib | Hemmung der Abl-Kinase | CML, AML | Neutropenie, Thrombopenie | | | |
+| Signalweg-Inhibitoren | Proteintyrosinkinase-Inhibitoren | Erlotinib, Gefitinib, Afatinib, Osimertinib | EGF Hemmung | nicht-kleinzellige Lungenkarzinome, Hirnmetastasen | Hautaussschläge, schwere Diarrhoe, Transaminase-Erhöhung | | | |
 | Orale Antidiabetika | Biguanide | Metformin | Hemmung der hepatischen Glukoseproduktion; auch: Senkung VLDL, Erhöhung HDL, antithrombotischer Effekt -> Schutz vor makrovaskulären Komplikationen (Schlaganfall, MI, KHK) | | Laktatazidose (speziell bei NI/LI), GI | | | keine Gewichtszunahme, anti-kanzerogener Effekt, anti-aging Effekt (?) |
 | Orale Antidiabetika | Sulfonylharnstoffe | | | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
 | Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | | | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
@@ -208,7 +227,7 @@ layout = "indexpage-fluid"
 | Insuline | schnellwirksam | Insulin Lispro, Insulin Aspart, Insulin Glulisin | Beginn 5-15min, Dauer ca. 2-3h | | | | | |
 | Insuline | langwirksam | Insulin Detemir (Fettsäure, bindet an Albumin), Insulin Glargin (Bildung von Präzipitaten an Injektionsstelle), Insulin Degludeg (Threonin B30 entfernt, mit Fettsäuremodifikation) | Beginn ca. 2-4h, Dauer ca. 24h | | | | | |
 | Insuline | Neutral Protamin Hagedorn (NPH) | NPH | ebenfalls 10-20h langwirksam | | | | | |
-| Säurehemmer | H2-Rezeptorantagonisten | Ranitidin, Famotidin, Nizatidin, Roxatidinacetat, Cimetidin (obsolet wg. UEW) | | Magensäuresenkung (Mittel 2. Wahl) | Kopfschmerz, Übelkeit, Erbrechen, Juckreiz, Libidoverlust, Gynäkomastie, Hemmung CYP450 | | | |
+| Säurehemmer | HT2-Rezeptorantagonisten | Ranitidin, Famotidin, Nizatidin, Roxatidinacetat, Cimetidin (obsolet wg. UEW) | | Magensäuresenkung (Mittel 2. Wahl) | Kopfschmerz, Übelkeit, Erbrechen, Juckreiz, Libidoverlust, Gynäkomastie, Hemmung CYP450 | | | |
 | Säurehemmer | PPI | Suffix *-prazol*, Omeprazol, Pantoprazol, Lansoprazol, Rabeprazol | | Dyspepsie, Ulcus duodeni und ventriculi, Refluxösophagitis, Zollinger-Ellison-Syndrom (Übersekretion von Gastrin) | | | CYP2C19 / CYP3A4 Interaktion | |
 | Säurehemmer | Antazida (Antazidum) | Natriumhydrogencarbonat, Magnesiumcarbonat, Calciumcarbonat, Aluminiumhydroxid, Magensiumhydroxig, Al-Mg-Silikathydrat (Komplexverbindungen, Schichtgitterantazida) | | | | | | |
 | Säurehemmer | Protein-Komplexbildner | Sucralfat | bildet Komplexverbindung auf Ulcusoberfläche, verhindert Angriff von HCL | | Obstipation | Tetrazyklin-Komplexe nicht resorbierbar | NI, Enzephalopathie | |
@@ -230,16 +249,23 @@ layout = "indexpage-fluid"
 | Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Tamoxifen, Toremifen | | Adjuvant Mamma-Ca | Thromboembolie | | | |
 | Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Raloxifen | | östrogenagonistische Wirkung zur Osteoporosebehandlung | Thromboembolie, Apoplex | | | |
 | Estrogen-Inhibitoren | Aromatasehemmer | Formestan, Exemestan | | | | | | |
+| Estrogene | Synthetisch | Estradiolvalerat | | | | | | |
 | Androgene | Synthetisch | Testosteron**enantat** | lipophiler, intramuskuläre Injektion | | | | | |
 | Androgene | Synthetisch | Testosteron**undecanoat** | noch lipophiler, oral wirksam oder intramuskuläre Injektion | | | | | |
 | Androgen-Inhibitoren | Antiandrogene Gestagenderivate | Cyproteronacetat | | | | | | |
 | Androgen-Inhibitoren | Androgen-Biosynthese-Inhibitor | Abirateronacetat | | | | | | |
-| Androgen-Inhibitoren | Androgen-Rezeptorantagonisten | Flutamid, Biclutamid, Enzalutamid | | | | | | |
+| Androgen-Inhibitoren | Androgen-Rezeptorantagonisten | Flutamid, Biclutamid, Enzalutamid | | Prostatakarzinom, Hypersexualität, bei Frauen: androgenetische Alopezie, Hirsutismus | | | | |
 | Androgen-Inhibitoren | 5alpha-Redukate-Hemmer | Finasterid, Dutasterid | | | | | | |
+| Gestagene | Progesteronderivate | Cyproteronacetat, Medroxyprogacetat, Megestrolacetat | | | | | | |
+| Gestagene | Synthetisch | Levonorgestrel | | | | | | |
+| Gestagen-Inhibitoren | Selektive Progesteron Rezeptor-Modulatoren (SPRM) | Mifepriston ("Abtreibungspille"), Ulipristalacetat (Notfallkontrazeption) | | | | | | |
 | Toxizitätsprophylaxe | | Mesna, Amifostin | | adjuvante Gabe bei Chemotherapie | | | | |
-| Mikrotubuli-Inhibitoren (MT-Inhibitoren) | | Vinca-Alkaloide, Taxane, Estramustin, Ixabepilon, Eribulin | | | | | | |
 | Lipidsenker | Statine | Lovastatin, Simvastatin, Atorvastatin, Cerivastatin, Rovusastatin, Fluvastatin, Pravastatin | Hemmung der HMG-CoA-Reduktase -> Reduktion des verfügbaren Cholesterin -> positiver Effekt auf Gefäße | | | | | |
 | Heparin-Antidot | | Protamin | 1g neutralisiert 100 I.E. Heparin | | | | | |
+| Lokalanästhetika | Kokain | Procain | wirkt bis zu 30-60 Minuten | | | | | |
+| Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten | | | | | |
+| Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten | | | | | |
+| Alkohol-Dehydrogenase-Inhibitor (ADH-Inhibitor) | | Fomepizol | | Methanol- / Ethylenglykolintox | | | | |
 | | | | | | | | | |
 
 {{</table >}}
