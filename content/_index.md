@@ -32,25 +32,37 @@ layout = "indexpage-fluid"
 | Direkte Antikoagulantien | Hirudin | Hirudin | Faktor IIa Hemmung | | | | | |
 | Direkte Antikoagulantien | Hirudin | Desirudin | irreversible Faktor IIa Hemmung | Thromboseprophylaxe | | | | |
 | Direkte Antikoagulantien | Hirudin | Bivalirudin | reversible Faktor IIa Hemmung | perkutane Koronarintervention | | | | |
-| Parasympathomimetika | AChE-Inhibitoren | Physostigmin | ein Carbamat, ZNS-gängig | Antidot bei zentralen Vergiftungen | Bradykardie, GI | | | |
+| Parasympathomimetika | Muskarinrezeptor-Agonisten | Arecolin | ZNS-gängig | | | | | |
+| Parasympathomimetika | Muskarinrezeptor-Agonisten | Carbachol, Bethanechol | | Darm- und Blasenantonie | | | | |
+| Parasympathomimetika | Muskarinrezeptor-Agonisten | Pilocarpin | wirkt insbesondere auf Schweiß- und Speicheldrüsen | Glaukom, Schweißtest bei V.a. Mukoviszidose | | | | |
+| Parasympathomimetika | AChE-Inhibitoren | Physostigmin | ein Carbamat, ZNS-gängig | Einzigste Indikation: Antidot bei zentralen Vergiftungen, "anticholinerges Syndrom" | Bradykardie, GI | | | |
 | Parasympathomimetika | AChE-Inhibitoren | Neostigmin | nicht ZNS-gängig | Darm-/Blasenatonie, Intoxikation, Glaukom, Myasthenia gravis | | | | |
 | Parasympathomimetika | AChE-Inhibitoren | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer | | | | |
-| Parasympatholytika | | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch | | | | |
-| Parasympatholytika | | Butylscopolamin | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
-| Parasympatholytika | | Ipratropium | SAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
-| Parasympatholytika | | Tiotriopium | LAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
-| Parasympatholytika | Curare | Tubocurarin, Atracurium | kompetetive Hemmer des Acetylcholins an nikotinergen Rezeptoren der mot. Endplatte | | | | | |
+| Parasympathomimetika | Organophosphate | | Phosphorylierende Inhibitoren: irreversible Blockade der AChE | hohe Dosen Atropin, Acetylcholin-Vergiftung | | | | |
+| Parasympatholytika | | Hemicholinium | Cholin-Wiederaufnahme Hemmer -> Acetylcholin kann weniger schnell neu bereitgestellt werden | | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonisten | Atropin | | | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Butylscopolamin | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Ipratropium | SAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Tiotriopium | LAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
+| Parasympatholytika / Muskelrelaxantien | Curare (Kompetitive ACh-Rezeptoren-Hemmer) | Tubocurarin, Atracurium, Mivaucurium | kompetetive Hemmer des Acetylcholins an nikotinergen Rezeptoren der mot. Endplatte | | | | | Antidot: Chlolinesterase-Hemmer, Neostigmin |
+| Muskelrelaxantien | Depolarisierende Relaxantien | Succinylcholin | | RSI | | | | |
+| Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Mivacurium | kurz-wirksam | | | | | |
+| Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Rocuronium, Atracurium, Cis-Atracurium, Vecuronium | Mittellang wirksam | | | | | |
+| Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Pancuronium | lang-wirksam | | | | | |
 | Sympathomimetika | alpha-Agonisten | Naphazolin, Xylometazolin, Oxymetazolin | | Allergische Konjunktivitis, Sinusitis, Nasopharyngitis | Schleimhautschädigend | | Säuglinge, Kleinkinder, Hypertoniker | |
-| Sympathomimetika | beta2-Agonist, LABA | Bambuterol, Formoterol, Salmeterol | | | | | | |
+| Sympathomimetika | beta2-Agonist, LABA | Bambuterol, Clenbuterol, Formoterol, Salmeterol | langwirkend (12-24h) | | | | | |
 | Sympathomimetika | beta2-Agonist, LABA | Fenoterol | | Tokolyse (Wehenhemmung) | | | | |
+| Sympathomimetika | beta2-Agonist, SABA | Pirbuterol, Reproterol, Salbutamol, Terbutalin, Tulobuterol | kurzwirkend (4-6h) | Asthma | | | | |
 | Sympatholytika | alpha2-Agonist | Clonidin | | | | | | |
-| Sympatholytika | beta-Blocker, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | |
-| Sympatholytika | beta2-Antagonisten | Salbutamol, Terbutalin, Suffix *-terol* | | Asthma | | | | |
-| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Propranolol | | Hypertonie, KHK, chronische HI | | | | |
-| Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | **auch: Ca++ Antagonist** |
 | Sympatholytika | alpha-Blocker | Phenoxybenzamin | irreversible alpha1- und alpha2-Blockade | präoperativ bei Phäochromozytom | | | | |
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie (keine 1. Wahl!), Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
+| Sympatholytika | beta-Blocker, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | |
+| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Propranolol | | Hypertonie, KHK, chronische HI | | | | |
+| Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | **auch Ca-Antagonsist**, blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | |
+| Sympatholytika | beta-Blocker, 3. Generation | Celiprolol | **auch NO Donator** -> vasodilatierend | | | | | |
+| Sympatholytika | beta-Blocker, 3. Generation | Nebivolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Herzglykoside | | Digoxin | | | | | | |
 | Methylxanthine | | Theophylin | Antagonistisch an Adenosinrezeptoren, kompetitive Hemmung der PDE -> Erhöhung cAMP | | | Abbau durch CYP450 in Leber -> Wechselwirkungen e.g. mit AB | | |
 | PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Ausscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | COPD | | | | |
@@ -111,11 +123,15 @@ layout = "indexpage-fluid"
 | Opioide | | Tilidin | analgetisch, Wirkstärke 15% von Morphin, Prodrug | | | | | in Kombination mit Naloxon |
 | Opioide | Antagonisten | Naloxon | Antidot | Intoxikation | | | | |
 | Opioide | Antagonisten | Naltrexon | Antidot, wie Nalaxon aber mit längerer HWZ (24-48h) | Rückfallprophylaxe | Hepatotoxizität | | | |
-| Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | ASS | Hemmung COX1/COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | GI, Blutung, Niere | | Kinder | |
-| Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | ASS, Ibuprofen, Naproxen, Diclofenac | Hemmung COX1/COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
+| Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | ASS | Irreversible Hemmung COX1/COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | GI, Blutung, Niere | | Kinder | Kinetik nullter Ordnung -> Kumulationsgefahr |
+| Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | ASS, Ibuprofen, Naproxen, Diclofenac (Voltaren) | Hemmung COX1/COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
 | Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | *-coxibe* | Hemmung COX2 | Arthrose, rheumatische Arthritis, postoperativ | MI, Apoplex | | | |
-| Nicht-Opioid Analgetika | Antipyretisch, Analgetisch | Paracetamol | unklar | | Hepatotoxizität | | | |
+| Nicht-Opioid Analgetika | Antipyretisch, Analgetisch | Paracetamol | unklar; Anwendung in: Pädiatrie, Schwangerschaft, Stillzeit | | Hepatotoxizität | | | |
 | Nicht-Opioid Analgetika | Antipyretisch | Metamizol | unklar, **spasmolytisch** | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | Agranulozytose, Anaphylaktischer Schock bei oraler Gabe | | | |
+| Nicht-Opioid Analgetika | Analgetisch | Flupirtin | | | Hepatotoxizität | | | Seit 2018 nicht mehr zugelassen! |
+| Nicht-Opioid Analgetika | Analgetisch | Capsaicin | TRPV1-Agonist -> Freisetzung von Substanz P (Hitzegefühlt) -> Desensitierung | lokale Schmerzbehandlung, neuropatische Schmerzen | Hautrötung, Brennschmerz | | | |
+| Nicht-Opioid Analgetika | Conotoxin | Ziconotid | Ca-Kanal-Block | Schwere chronische Schmerzen | | | | |
+| Nicht-Opioid Analgetika | Cannabinoid | Nabiximols (Sativex), Dronabinol | | | | | | |
 | Koanalgetika | Kortikoide | | antiödematös, antiphlogistisch, antiemetisch, Appetit anregend | ödembedingte Nervenkompression z.B. durch Tumor, Hirnödem | | | | |
 | Koanalgetika | Bisphosphonate | | | Tumor-induzierte Hypercalcämie, Metastasen-bedingte Knochenschmerzen | | | | |
 | RAAS Inhibitoren | Renin-Inhibitoren | Aliskiren | hemmmt Renin Freisetzung | Hypertonie | Hyperkaliämie, Diarrhoe, Schwindel, Arthralgie | ACE-Hemmer, AT1-Antagonisten | | |
@@ -123,7 +139,7 @@ layout = "indexpage-fluid"
 | RAAS Inhibitoren | Angiotensin-II-Rezeptor Antagonisten | Suffix *-sartan* | Bindung an AT1-Rezeptor | Hypertonie, HI | Hyperkaliämie, GFR reduziert | | Nierenstenose, Schwangerschaft | |
 | RAAS Inhibitoren | Aldosteron Antagonisten | Spironolacton, Eplerenon | hemmt Wirkung von Aldosteron | Hyperaldosteronismus, HI NYHA 2 + 3 | Hyperkaliämie, Amenorrhoe, Gynäkomastie | | Hyperkaliämie, Hyponatriämie, Hypovolämie, NI, Schwangerschaft | Nicht für antihypertensive Therapie zugelassen! |
 | Neprilysin-Inhibitor | | Sacubitril | Neprilysin baut u.a. ANP und BNP ab, Sacubitril inhibiert indirekt also diesen Abbau | Bei HI **in Kombination mit Valsartan** | | | | |
-| Ca++ (Calcium) Kanalblocker | Dihydropyridin | Nifedipin, Nitrendipin, Nisoldipin, Amlodipin | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) | Hypertonie, stabile AP, vasospastische AP, Raynaud-Syndrom | Reflex-Tachykardie, Kopfschmerzen, Flush, Wärmegefühl, Schwindel, Müdigkeit, Beinödeme | Andere Hypertensiva, CYP3A4 | | |
+| Ca++ (Calcium) Kanalblocker | Dihydropyridin | Suffix *-dipin*, Nifedipin, Nitrendipin, Nisoldipin, Amlodipin, Felodipin | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) | Hypertonie, stabile AP, vasospastische AP, Raynaud-Syndrom | Reflex-Tachykardie, Kopfschmerzen, Flush, Wärmegefühl, Schwindel, Müdigkeit, Beinödeme | Andere Hypertensiva, CYP3A4 | | Nifedipin unretadiert nicht als Monotherapie bei Hypertension, das nur kurz wirksam und schnell anflutend |
 | Ca++ (Calcium) Kanalblocker | Phenylalkylamine | Verapamil, Gallopamil | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal), Herz | | | HI, AV-Block | |
 | Ca++ (Calcium) Kanalblocker | Benzothiazepin | Diltiazem | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal), Herz | | | | |
 | Diuretika | Carboanhydrase-Hemmer | Acetazolamid (alternativ: Azetazolamid) | Hemmung der CA -> weniger H+ Sekretion, mehr Na+ und HCO3- Ausscheidung, Erhöhung der Ausscheidung um 5-8% des Glomerulusfiltrats | Cystein- / Uratsteine | Metabolische Azidose, Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie | | LI, NI, Hyponatriämie, Schwangerschaft | |
@@ -190,7 +206,7 @@ layout = "indexpage-fluid"
 | Antihelmintika | Piperazinderivat | Diethylcarbamazin | | | | | | |
 | Antihelmintika | Salicylamidderivat | Niclosamid | | | | | | |
 | Antihelmintika | | Praziquantel | | Taenia saginata und solium | | | | |
-| Immunsuppresiva | Glucocorticoide | Dexamethason, Prednisolon | | | | | | |
+| Immunsuppresiva | Glucocorticoide | Dexamethason, Betamethason, Prednisolon | | | | | | |
 | Immunsuppresiva | Purin-Analogon | Azathioprin | Einbau als falsche Base -> Störung der DNA-Replikation | | | | | |
 | Immunsuppresiva | B-Zell-Depletion | Rituximab | Anti-CD20-AK -> B-Zell-Untergang | | | | | |
 | Immunsuppresiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
@@ -233,6 +249,7 @@ layout = "indexpage-fluid"
 | Säurehemmer | Protein-Komplexbildner | Sucralfat | bildet Komplexverbindung auf Ulcusoberfläche, verhindert Angriff von HCL | | Obstipation | Tetrazyklin-Komplexe nicht resorbierbar | NI, Enzephalopathie | |
 | Säurehemmer | | Misoprostol | PGE2-Analogon, hemmt HCL-Sekretion, verstärkt Schleimsekretion | | Durchfälle, Magen- und Darmkrämpfe | | Schwangerschaft | |
 | Säurehemmer | | Proglumid | Gastrinantagonist (therapeutischer Wert umstritten) | | | | | |
+| Antiemetika | H1-Blocker | Dimenhydrinat | | | | | | |
 | Antiemetika | 5-HT3-Rezeptorantagonisten (Setrone) | Granisetron, Ondansetron, Tropisetron, Palonosetron | | Zytostatika- und Strahlentherapie-induziertes Erbrechen, postoperatives Erbrechen, (Hyperemesis gravidarum) | | | | |
 | Antiemetika | Dopaminrezeptor-Antagonisten - Neuroleptika | Haloperiodol, Droperiodol, Perphenzin, Promethazin, Sulpirid, Prochlorperazin | | Übelkeit und Ebrechen (bei Nichtwirksamkeit von Alternativen), Opioid-indziertes Erbrechen, postoperatives Erbrechen, Morbus Meniere | | | | |
 | Laxantien | Anorganische Salze (Osmotika) | Bittersalz, Glaubersalz, NaH2PO4 + NaHPO4 | | | Belastung mit Na+/Mg++ Ionen | | | |
@@ -260,12 +277,14 @@ layout = "indexpage-fluid"
 | Gestagene | Synthetisch | Levonorgestrel | | | | | | |
 | Gestagen-Inhibitoren | Selektive Progesteron Rezeptor-Modulatoren (SPRM) | Mifepriston ("Abtreibungspille"), Ulipristalacetat (Notfallkontrazeption) | | | | | | |
 | Toxizitätsprophylaxe | | Mesna, Amifostin | | adjuvante Gabe bei Chemotherapie | | | | |
+| Lipidsenker | Anionenaustauscherharze | Colestyramin, Colestipol | Hemmung der Gallensäurenresorption -> kompensatorischer LDL-Rezeptoranstieg in Leber + Induktion der HMG-CoA-Reduktase Aktivität | | | | | |
 | Lipidsenker | Statine | Lovastatin, Simvastatin, Atorvastatin, Cerivastatin, Rovusastatin, Fluvastatin, Pravastatin | Hemmung der HMG-CoA-Reduktase -> Reduktion des verfügbaren Cholesterin -> positiver Effekt auf Gefäße | | | | | |
 | Heparin-Antidot | | Protamin | 1g neutralisiert 100 I.E. Heparin | | | | | |
 | Lokalanästhetika | Kokain | Procain | wirkt bis zu 30-60 Minuten | | | | | |
 | Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten | | | | | |
 | Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten | | | | | |
 | Alkohol-Dehydrogenase-Inhibitor (ADH-Inhibitor) | | Fomepizol | | Methanol- / Ethylenglykolintox | | | | |
+| Aldosteronanalogon | | Fludricortison | bindet an Mineralkortikoidrezeptoren -> gesteigerte Reabsorption von Na+ und Cl- in Niere -> Blutvolumen und -druck Steigerung | Morbus Addison | | | | |
 | | | | | | | | | |
 
 {{</table >}}
