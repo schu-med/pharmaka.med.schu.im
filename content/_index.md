@@ -45,6 +45,7 @@ layout = "indexpage-fluid"
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Butylscopolamin | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Ipratropium | SAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Tiotriopium | LAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Biperiden | | Parkinson | | | | |
 | Parasympatholytika / Muskelrelaxantien | Curare (Kompetitive ACh-Rezeptoren-Hemmer) | Tubocurarin, Atracurium, Mivaucurium | kompetetive Hemmer des Acetylcholins an nikotinergen Rezeptoren der mot. Endplatte | | | | | Antidot: Chlolinesterase-Hemmer, Neostigmin |
 | Muskelrelaxantien | Depolarisierende Relaxantien | Succinylcholin | | RSI | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Mivacurium | kurz-wirksam | | | | | |
@@ -71,12 +72,17 @@ layout = "indexpage-fluid"
 | Sympatholytika | beta-Blocker, 3. Generation | Celiprolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Nebivolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Herzglykoside | | Digoxin | | | | | | |
-| Methylxanthine | | Theophylin | Antagonistisch an Adenosinrezeptoren, kompetitive Hemmung der PDE -> Erhöhung cAMP | | | Abbau durch CYP450 in Leber -> Wechselwirkungen e.g. mit AB | | |
+| Methylxanthine | | Theophylin | Antagonistisch an Adenosinrezeptoren, kompetitive Hemmung der PDE -> Erhöhung cAMP | Asthma, COPD | | Abbau durch CYP450 in Leber -> Wechselwirkungen e.g. mit AB | | |
 | PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Ausscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | COPD | | | | |
 | Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor (CYSLTR1); Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | als Kombinationspräparat mit inhalativen Corticosterioiden bei Asthma und allergischer Rhinits; Neurodermitis, Urtikaria | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | |
 | "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
 | IgE-Antikörper | | Omalizumab | | schweres persistierendes Asthma | | | | |
 | IL-5-Antikörper | | Mepolizumab | | schweres persistierendes Asthma | | | | |
+| Antikörper | | Trastuzumab | | Mamma-Ca | | | | |
+| Antikörper | | -omab | Maus AK | | | | | |
+| Antikörper | | -ximab | Chimärer AK | | | | | |
+| Antikörper | | -zumab | Humanisierter AK | | | | | |
+| Antikörper | | -mumab | Human AK | | | | | |
 | Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Amitriptylin-Typ | Amitriptylin, Trimipramin, Doxepin | stark sedierend, stark anticholinerg | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
 | Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Desipramin-Typ | Desipramin, Nortriptylin | Antriebssteigernd, Unruhe | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
 | Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Imipramin-Typ | Imipramin, Clomipramin | geringer Einfluss auf Antrieb | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
@@ -84,7 +90,8 @@ layout = "indexpage-fluid"
 | Selektive Noradrenalin-Rückaufname-Inhibitoren (SNRI) | | Reboxetin | | | | | | |
 | Selektive Serotonin- und Noradrenalin-Rückaufname-Inhibitoren (SSNRI) | | Venlafaxin, Duloxetin | Antriebssteigernd | | | | | |
 | alpha2-Antagonisten / Tetrazyklische Antidepressiva | | Mianserin, Mirtazapin | | | | | | |
-| Monoaminooxidase-Hemmer (MAO-Hemmer) | | Moclobemid, Tranylcypromin | Antriebssteigernd | | Schwindel, Agitiertheit, Blutdruckschwankunen (Tranylcypromin-Abbau) | | Kombination mit anderen Antidepressiva | |
+| Monoaminooxidase-Hemmer (MAO-Hemmer) | | Moclobemid | reversibler MAO-Hemmer, antriebssteigernd | | Schwindel, Agitiertheit, Blutdruckschwankunen (Tranylcypromin-Abbau) | | Kombination mit anderen Antidepressiva | |
+| Monoaminooxidase-Hemmer (MAO-Hemmer) | | Tranylcypromin | irreversibler MAO-Hemmer, antriebssteigernd | | Schwindel, Agitiertheit, Blutdruckschwankunen (Tranylcypromin-Abbau) | | Kombination mit anderen Antidepressiva | |
 | Antipsychotika (Neuroleptikum) | Phnehothiazine | Fluphenazin, Perphenazin | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
 | Antipsychotika (Neuroleptikum) | Thioxanthene | Flupentixol | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
 | Antipsychotika (Neuroleptikum) | Butyrophenone | Haloperidol | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
@@ -160,7 +167,7 @@ layout = "indexpage-fluid"
 | Diuretika | Kalium-sparende Diuretika, Aldosteronantagonisten | Epleronon, Spironolacton, Canrenon | | | | | | |
 | Diuretika | Kalium-sparende Diuretika, Hemmer des epithelialen Natrium-Kanals | Triamteren, Amilorid | | | | | | |
 | Diuretika | V2-Rezeptorantagonisten (Vaptane) | Tolvapten | | Hyponatriämie als sekundäre Folge des Syndroms der inadäquaten ADH Sekretion (SIADH), autosomal-dominante polyzystische Nierenerkrankung (ADPKD) | rasche Anstieg des Na-Spiegel, Durst, Übelkeit, Hypernatriämie, Hyperurikämie, selten Leberschädigung | | | |
-| Glucocorticoide | Inhalativ | Beclomethason, Fluticason, Budesonid | antiphlogistisch, Steigerung der mukoziliären Clearance, verstärkte Wirkung von beta2-Sympathomimetika (Kombi-Therapie) | i.V. bei akutem Asthmaanfall | Mundtrockenheit | | | |
+| Glucocorticoide | Inhalativ | Beclometason, Fluticason, Budesonid | antiphlogistisch, Steigerung der mukoziliären Clearance, verstärkte Wirkung von beta2-Sympathomimetika (Kombi-Therapie) | i.V. bei akutem Asthmaanfall | Mundtrockenheit | | | |
 | Antidiarrhoikum | Opioid | Loperamid | m-Agonist, nicht ZNS-gängig | Durchfall | Somnolenz, Obstipation, Übelkeit | | | |
 | Bradykininrezeptorantagonisten | | Icatibant | selektive und kompetitive Hemmung des Bradykinin-B2-Rezeptoren | Therapie des hereditärem Angioödem (HAE) | | | | |
 | Antibiotika | Penicilline (Benzylpenicilline) | Penicillin G und V | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+ | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
@@ -243,10 +250,10 @@ layout = "indexpage-fluid"
 | Signalweg-Inhibitoren | Proteintyrosinkinase-Inhibitoren | Imatinib | Hemmung der Abl-Kinase | CML, AML | Neutropenie, Thrombopenie | | | |
 | Signalweg-Inhibitoren | Proteintyrosinkinase-Inhibitoren | Erlotinib, Gefitinib, Afatinib, Osimertinib | EGF Hemmung | nicht-kleinzellige Lungenkarzinome, Hirnmetastasen | Hautaussschläge, schwere Diarrhoe, Transaminase-Erhöhung | | | |
 | Orale Antidiabetika | Biguanide | Metformin | Hemmung der hepatischen Glukoseproduktion; auch: Senkung VLDL, Erhöhung HDL, antithrombotischer Effekt -> Schutz vor makrovaskulären Komplikationen (Schlaganfall, MI, KHK) | | Laktatazidose (speziell bei NI/LI), GI | | | keine Gewichtszunahme, anti-kanzerogener Effekt, anti-aging Effekt (?) |
-| Orale Antidiabetika | Sulfonylharnstoffe | | | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
-| Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | | | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
-| Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DDP4-Inhibitoren, Gliptine) | Linagliptin | | | | | LI, HI | |
-| Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DDP4-Inhibitoren, Gliptine) | Saxagliptin, Sitagliptin, Vildagliptin | | | | | NI, LI, HI | |
+| Orale Antidiabetika | Sulfonylharnstoffe | Tolbutamide, Glipizide, Gliclazide, Glimepride, Glibenclamide, Chlorpropamidke, Repaglinide, Nateglinide | Blockade des K-ATP-Kanal in Pankreas -> Depolarisation -> Insulin-Ausschüttung | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | |
+| Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | | | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | |
+| Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DPP4-Inhibitoren, Gliptine) | Linagliptin | | | | | LI, HI | |
+| Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DPP4-Inhibitoren, Gliptine) | Saxagliptin, Sitagliptin, Vildagliptin | | | | | NI, LI, HI | |
 | Orale Antidiabetika | SGLT2-Inhibitoren | Dapagliflozin, Canagliflozin, Empagliflozin, Suffix *-gliflozin* | verhindern Glukoseresorption im proximalen Konvolut aus Primärharn | HbA1c Senkung um 0,7-0,8%, Gewichtsabahme, Blutdrucksenkung, geringes Hypoglykämie-Risiko | HWI, GI | | NI, Überempfindlichkeit | |
 | Orale Antidiabetika | alpha-Glucosidase-Inihibitoren | Acarbose, Miglitol | Hemmen Enzym in Membran der Enterozyten -> Verhinderung der Spaltung von Oligo- und Disacchariden, Verzögerung der Resorption | | GI, Unwohlsein | | | nur geringer Effekt auf HbA1c |
 | Nicht-orale Antidiabetika | Inkretinmimetika (GLP-1-Analoga) | Exenatid, Lixisenatid, Liraglutid | | | | | | Liraglutid und Semaglutid führen zu einer signifikanten Verbesserung der kardiovaskulären Morbidität und Mortalität (SP Marso et al) |
@@ -257,7 +264,7 @@ layout = "indexpage-fluid"
 | Insuline | Neutral Protamin Hagedorn (NPH) | NPH | ebenfalls 10-20h langwirksam | | | | | |
 | Säurehemmer | HT2-Rezeptorantagonisten | Ranitidin, Famotidin, Nizatidin, Roxatidinacetat, Cimetidin (obsolet wg. UEW) | | Magensäuresenkung (Mittel 2. Wahl) | Kopfschmerz, Übelkeit, Erbrechen, Juckreiz, Libidoverlust, Gynäkomastie, Hemmung CYP450 | | | |
 | Säurehemmer | PPI | Suffix *-prazol*, Omeprazol, Pantoprazol, Lansoprazol, Rabeprazol | | Dyspepsie, Ulcus duodeni und ventriculi, Refluxösophagitis, Zollinger-Ellison-Syndrom (Übersekretion von Gastrin) | | | CYP2C19 / CYP3A4 Interaktion | |
-| Säurehemmer | Antazida (Antazidum) | Natriumhydrogencarbonat, Magnesiumcarbonat, Calciumcarbonat, Aluminiumhydroxid, Magensiumhydroxig, Al-Mg-Silikathydrat (Komplexverbindungen, Schichtgitterantazida) | | | | | | |
+| Säurehemmer | Antazida (Antazidum) | Natriumhydrogencarbonat, Magnesiumcarbonat, Calciumcarbonat, Aluminiumhydroxid, Magnesiumhydroxid, Al-Mg-Silikathydrat (Komplexverbindungen, Schichtgitterantazida) | | | | | | |
 | Säurehemmer | Protein-Komplexbildner | Sucralfat | bildet Komplexverbindung auf Ulcusoberfläche, verhindert Angriff von HCL | | Obstipation | Tetrazyklin-Komplexe nicht resorbierbar | NI, Enzephalopathie | |
 | Säurehemmer | | Misoprostol | PGE2-Analogon, hemmt HCL-Sekretion, verstärkt Schleimsekretion | | Durchfälle, Magen- und Darmkrämpfe | | Schwangerschaft | |
 | Säurehemmer | | Proglumid | Gastrinantagonist (therapeutischer Wert umstritten) | | | | | |
@@ -292,6 +299,7 @@ layout = "indexpage-fluid"
 | Toxizitätsprophylaxe | | Mesna, Amifostin | | adjuvante Gabe bei Chemotherapie | | | | |
 | Lipidsenker | Anionenaustauscherharze | Colestyramin, Colestipol | Hemmung der Gallensäurenresorption -> kompensatorischer LDL-Rezeptoranstieg in Leber + Induktion der HMG-CoA-Reduktase Aktivität | | | | | |
 | Lipidsenker | Statine | Lovastatin, Simvastatin, Atorvastatin, Cerivastatin, Rovusastatin, Fluvastatin, Pravastatin | Hemmung der HMG-CoA-Reduktase -> Reduktion des verfügbaren Cholesterin -> positiver Effekt auf Gefäße | | | | | |
+| Lipidsenker | Cholesterin-Resorptionshemmer | Ezetimib | | | | | | |
 | Heparin-Antidot | | Protamin | 1g neutralisiert 100 I.E. Heparin | | | | | |
 | Lokalanästhetika | Kokain | Procain | wirkt bis zu 30-60 Minuten | | | | | |
 | Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten | | | | | |
