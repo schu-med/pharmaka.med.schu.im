@@ -51,16 +51,21 @@ layout = "indexpage-fluid"
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Rocuronium, Atracurium, Cis-Atracurium, Vecuronium | Mittellang wirksam | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Pancuronium | lang-wirksam | | | | | |
 | Sympathomimetika | alpha-Agonisten | Naphazolin, Xylometazolin, Oxymetazolin | | Allergische Konjunktivitis, Sinusitis, Nasopharyngitis | Schleimhautschädigend | | Säuglinge, Kleinkinder, Hypertoniker | |
+| Sympathomimetika | alpha2-Agonist | Moxonidin | reduziert peripher die Freisetzung von NA; hemmt im Ncl. solitarius sympathische Impulse durch Bindung an postsynaptische Rezeptoren | Hypertonie (2. Wahl) | | | | |
 | Sympathomimetika | beta2-Agonist, LABA | Bambuterol, Clenbuterol, Formoterol, Salmeterol | langwirkend (12-24h) | | | | | |
 | Sympathomimetika | beta2-Agonist, LABA | Fenoterol | | Tokolyse (Wehenhemmung) | | | | |
 | Sympathomimetika | beta2-Agonist, SABA | Pirbuterol, Reproterol, Salbutamol, Terbutalin, Tulobuterol | kurzwirkend (4-6h) | Asthma | | | | |
-| Sympatholytika | alpha2-Agonist | Clonidin | | | | | | |
+| Sympatholytika | alpha2-Agonist | Clonidin | Hemmt Noradrenalin Ausschüttung -> sympatholytisch | in Kombinationstherapie bei arterielle Hypertonie, Milderung von Entzugserscheinungen | | | | |
 | Sympatholytika | alpha-Blocker | Phenoxybenzamin | irreversible alpha1- und alpha2-Blockade | präoperativ bei Phäochromozytom | | | | |
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie (keine 1. Wahl!), Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
-| Sympatholytika | beta-Blocker, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | |
-| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Propranolol | | Hypertonie, KHK, chronische HI | | | | |
+| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA), Sotalol hemmt auch K-Kanal | Hypertonie, KHK, chronische HI | | | | |
+| Sympatholytika | beta-Blocker, 2. Generation, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | |
+| Sympatholytika | beta-Blocker, 3. Generation | Carteolol | **auch NO Donator** -> vasodilatierend, ISA | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | **auch Ca-Antagonsist**, blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | |
+| Sympatholytika | beta-Blocker, 3. Generation | Labetalol | auch alpha1-Blocker | | | | | |
+| Sympatholytika | beta-Blocker, 3. Generation | Metipranolol, Levobunolol | | | | | | |
+| Sympatholytika | beta-Blocker, 3. Generation | Betaxolol | auch Ca-Antagonist | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Celiprolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Nebivolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Herzglykoside | | Digoxin | | | | | | |
@@ -106,21 +111,23 @@ layout = "indexpage-fluid"
 | Mood Stabilizer | Antiepileptika | Valproat | | | | | Schwangerschaft | |
 | Mood Stabilizer | Antiepileptika | Lamotrigin | | | | | |
 | Mood Stabilizer | Antiepileptika | Carbamazepin | | | | | | |
-| Opioide | WHO2 | Codein | geringe Affinität zu MOP | | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
+| Opioide | WHO2 | Codein | geringe Affinität zu MOP | Antitussivum, Kombinationspräparat bei Analgesie | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
 | Opioide | WHO2 | Tramadol | analgetisch, Wirkstärke 10% von Morphin, Metabolit ist Wiederaufnahmehemmer von Serotonin/NA -> deszendierene Schmerzhemmung | | | Metabolisierung zum aktiven Metabolit durch CYP2D6 | | |
+| Opioide | WHO2 | Tapentadol | | in retadierter Form bei starken chronischen Schmerzen, **Wiederaufnahmehemmer von Noradrenalin** | GI, Suchtpotential | | | |
 | Opioide | WHO2 | Dihydrocodein | analgetisch, 1,5-fach stärker als Codein | Antitussivum | | Metabolisierung zu Dihydromorphin durch CYP2D6 | | |
+| Opioide | WHO2 | Tilidin | analgetisch, Wirkstärke 15% von Morphin, Prodrug | | | | | in Kombination mit Naloxon |
 | Opioide | WHO3 | Morphin | analgetisch | | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression, **Hautreaktion möglich** (wegen Histaminfreisetzung) | | | |
+| Opioide | WHO3 | Diacetylmorphin (Heroin) | rasche Aufnahme in Gehirn, "Kick"; hohe Suchtgefahr, keine therapeutische Verwendung | | | | | |
 | Opioide | WHO3 | Levomethadon | analgetisch, 3- bis 4-fach stärker als Morphin, langsamer Wirkeintritt, lange Wirkdauer (lipohil -> Gewebeeinlagerung) | Substitutionstherapie bei Heroinabhängigkeit | Gefahr Kammerflimmern bei hohen Dosen | CYP3A4 | | |
 | Opioide | WHO3 | Fentanyl | analgetisch, 100-fach stärker als Morphin | Notfallmedizin, starke chronische Schmerzen | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | CYP3A4 Inhibitoren | | |
-| Opioide | | Sufentanil, Alfentanil, Remifentanil | Fentanyl-Derivate | hochpotent, schneller Wirkeintritt, kurze HWZ, Infustion peri- oder postoperativ | | | | |
+| Opioide | | Sufentanil, Alfentanil, Remifentanil | Fentanyl-Derivate; hochpotent, schneller Wirkeintritt, kurze HWZ | Infusion peri- oder postoperativ | | | | |
 | Opioide | WHO3 | Oxycodon | analgetisch, 1,5-fach stärker als Morphin, hohes Suchtpotential durch schnelles Anfluten | | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | | | Retardtabletten + Naloxon |
 | Opioide | WHO3 | Hydromorphon (Dihydromorphin) | analgetisch, 7,5-fach stärker als Morphin | starke bis sehr starke Schmerzen | | | | Retardkapseln |
 | Opioide | WHO3 | Piritramid (Dipidolor) | analgetisch, Wirkstärke 70% von Morphin | auschließlich parenteral, postoperativ | | | | Methadonderivat |
-| Opioide | WHO3 | Pethidin | Wirkstärke 1/5 von Morphin, orale Bioverfügbarkeit 50% | | Kumulationsgefahr bei chronischer Gabe -> nur akut, **Hautreaktion möglich** (wegen Histaminfreisetzung) | | | |
+| Opioide | WHO3 | Pethidin | Wirkstärke 1/5 von Morphin, orale Bioverfügbarkeit 50% | Analgesie bei Geburtshilfe | Kumulationsgefahr bei chronischer Gabe -> nur akut, **Hautreaktion möglich** (wegen Histaminfreisetzung) | | | |
 | Opioide | WHO3 | Loperamid | Pethidin-Derivat, hohe Affinität zu MOP | Antidiarrhoikum | | | | |
 | Opioide | WHO3 / Partielle Agonisten | Buprenorphin | Partialagonist an MOP, Antagonist an DOP, langsame Dissoziation vom Rezeptor, hoher First-Pass-Effekt | Applikation sublingual oder als Pflaster bei starken Schmerzen, Substitutionstherapie mit Naloxon | | | | |
 | Opioide | Partielle Agonisten | Nalbuphin | Partialagonist an MOP, Antagonist an KOP | Analgesie bei Geburtshilfe | | | | |
-| Opioide | | Tilidin | analgetisch, Wirkstärke 15% von Morphin, Prodrug | | | | | in Kombination mit Naloxon |
 | Opioide | Antagonisten | Naloxon | Antidot | Intoxikation | | | | |
 | Opioide | Antagonisten | Naltrexon | Antidot, wie Nalaxon aber mit längerer HWZ (24-48h) | Rückfallprophylaxe | Hepatotoxizität | | | |
 | Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | ASS | Irreversible Hemmung COX1/COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | GI, Blutung, Niere | | Kinder | Kinetik nullter Ordnung -> Kumulationsgefahr |
@@ -135,13 +142,13 @@ layout = "indexpage-fluid"
 | Koanalgetika | Kortikoide | | antiödematös, antiphlogistisch, antiemetisch, Appetit anregend | ödembedingte Nervenkompression z.B. durch Tumor, Hirnödem | | | | |
 | Koanalgetika | Bisphosphonate | | | Tumor-induzierte Hypercalcämie, Metastasen-bedingte Knochenschmerzen | | | | |
 | RAAS Inhibitoren | Renin-Inhibitoren | Aliskiren | hemmmt Renin Freisetzung | Hypertonie | Hyperkaliämie, Diarrhoe, Schwindel, Arthralgie | ACE-Hemmer, AT1-Antagonisten | | |
-| RAAS Inhibitoren | ACE Inhibitoren | Suffix *-pril* | Funktionelle SH-Gruppe, die das Zink des ACE bindet -> weniger Angiotensin-II, mehr Bradykinin | Hypertonie, HI, post MI, diabetische Nephropathie | Hypotension, trockener Husten, Hyperkaliämie, Nierenschaden | Wirkungsabschwächung durch NSAR | Nierenarterienstenose, Schwangerschaft | in allen NYHA Stadien eingesetzt |
-| RAAS Inhibitoren | Angiotensin-II-Rezeptor Antagonisten | Suffix *-sartan* | Bindung an AT1-Rezeptor | Hypertonie, HI | Hyperkaliämie, GFR reduziert | | Nierenstenose, Schwangerschaft | |
+| RAAS Inhibitoren | ACE Inhibitoren | Suffix *-pril* | Funktionelle SH-Gruppe, die das Zink des ACE bindet -> weniger Angiotensin-II, mehr Bradykinin | Hypertonie, HI, post MI, diabetische Nephropathie | Hypotension, trockener Husten (vermutlich wegen Akkumulation von Bradykinin), Hyperkaliämie, Nierenschaden | Wirkungsabschwächung durch NSAR | Nierenarterienstenose, Schwangerschaft | in allen NYHA Stadien eingesetzt |
+| RAAS Inhibitoren | Angiotensin-II-Antagonisten (AT1-Rezeptor-Blocker!) | Suffix *-sartan* | Bindung an AT1-Rezeptor | Hypertonie, HI | Hyperkaliämie, GFR reduziert | | Nierenstenose, Schwangerschaft | |
 | RAAS Inhibitoren | Aldosteron Antagonisten | Spironolacton, Eplerenon | hemmt Wirkung von Aldosteron | Hyperaldosteronismus, HI NYHA 2 + 3 | Hyperkaliämie, Amenorrhoe, Gynäkomastie | | Hyperkaliämie, Hyponatriämie, Hypovolämie, NI, Schwangerschaft | Nicht für antihypertensive Therapie zugelassen! |
-| Neprilysin-Inhibitor | | Sacubitril | Neprilysin baut u.a. ANP und BNP ab, Sacubitril inhibiert indirekt also diesen Abbau | Bei HI **in Kombination mit Valsartan** | | | | |
-| Ca++ (Calcium) Kanalblocker | Dihydropyridin | Suffix *-dipin*, Nifedipin, Nitrendipin, Nisoldipin, Amlodipin, Felodipin | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) | Hypertonie, stabile AP, vasospastische AP, Raynaud-Syndrom | Reflex-Tachykardie, Kopfschmerzen, Flush, Wärmegefühl, Schwindel, Müdigkeit, Beinödeme | Andere Hypertensiva, CYP3A4 | | Nifedipin unretadiert nicht als Monotherapie bei Hypertension, das nur kurz wirksam und schnell anflutend |
-| Ca++ (Calcium) Kanalblocker | Phenylalkylamine | Verapamil, Gallopamil | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal), Herz | | | HI, AV-Block | |
-| Ca++ (Calcium) Kanalblocker | Benzothiazepin | Diltiazem | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal), Herz | | | | |
+| Neprilysin-Inhibitor | | Sacubitril | Neprilysin baut u.a. ANP und BNP ab, Sacubitril inhibiert indirekt diesen Abbau | Bei HI **in Kombination mit Valsartan** | | | | |
+| Ca++ (Calcium) Kanalblocker | Dihydropyridin | Suffix *-dipin*, Nifedipin, Nitrendipin, Nisoldipin, Amlodipin, Felodipin | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) | Hypertonie, stabile AP, vasospastische AP, Raynaud-Syndrom | Reflex-Tachykardie, Kopfschmerzen, Flush, Wärmegefühl, Schwindel, Müdigkeit, Beinödeme | Andere Hypertensiva, CYP3A4 | | Nifedipin unretadiert nicht als Monotherapie bei Hypertension, das nur kurz wirksam und schnell anflutend -> Reflextachykardie |
+| Ca++ (Calcium) Kanalblocker | Phenylalkylamine | Verapamil, Gallopamil | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) und Myokard | | | HI, AV-Block | |
+| Ca++ (Calcium) Kanalblocker | Benzothiazepin | Diltiazem | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) und Myokard | | | | |
 | Diuretika | Carboanhydrase-Hemmer | Acetazolamid (alternativ: Azetazolamid) | Hemmung der CA -> weniger H+ Sekretion, mehr Na+ und HCO3- Ausscheidung, Erhöhung der Ausscheidung um 5-8% des Glomerulusfiltrats | Cystein- / Uratsteine | Metabolische Azidose, Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie | | LI, NI, Hyponatriämie, Schwangerschaft | |
 | Diuretika | Carboanhydrase-Hemmer | Brinzolamid, Dorzolamid | Hemmung der CA -> weniger H+ Sekretion, mehr Na+ und HCO3- Ausscheidung, Erhöhung der Ausscheidung um bis zu 5-8% des Glomerulusfiltrats | Glaukom | Metabolische Azidose, Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie | Corticosteroide und Laxantien -> verstärkte Hypokaliämie, Antidiabetike, Harnsäure-senkende Pharmaka, Blutdruck-senkene Pharmaka, Lithium | LI, NI, Hyponatriämie, Hypokaliämie, Hypovolämie, Gicht, Sulfonamidallergie | |
 | Diuretika | Schleifendiuretika | Furosemid, Bumetanid, Torasemid, Piretanid | luminale Inhibition des Na+/K+/Cl-- Cotransporter -> gesteigerte Exkretion, geringere H2O Absorption, erhöhte Mg++ und Ca++ Ausscheidung, verringerte Harnkonzentration, Erhöhung der Ausscheidung um bis zu 30-40% des Glomerulusfiltrats | Ödeme bei HI/NI, Lungenödem, Hypertensive Krise, Intoxikation  (forcierte Diurese) | Hypovolämie, Dehydration, Hypotonie, bei längerer Gabe auch: Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie, ... | Blutdruck-senkene Pharmaka, oto-/nephrotoxische Pharmaka (würde verstärkt werden), Digitalis (bei Hypokaliämie), Corticosteroide und Laxantien, NSAR, Lithium, Antidiabetike, Harnsäure-senkende Pharmaka | LI, NI, Hyponatriämie, Hypokaliämie, Hypovolämie, Schwangerschaft, Gicht, Sulfonamidallergie | Vorteil des Toasemid: nur zu ca. 15% renal eliminiert -> Risiko einer Kumulation bei NI gering |
@@ -234,7 +241,7 @@ layout = "indexpage-fluid"
 | Orale Antidiabetika | Sulfonylharnstoffe | | | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
 | Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | | | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), Gewichtszunahme | | Typ-1-Diabetes, LI, NI | |
 | Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DDP4-Inhibitoren, Gliptine) | Linagliptin | | | | | LI, HI | |
-| Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DDP4-Inhibitoren, Gliptine) | Saxagliptin, Vildagliptin | | | | | NI, LI, HI | |
+| Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DDP4-Inhibitoren, Gliptine) | Saxagliptin, Sitagliptin, Vildagliptin | | | | | NI, LI, HI | |
 | Orale Antidiabetika | SGLT2-Inhibitoren | Dapagliflozin, Canagliflozin, Empagliflozin, Suffix *-gliflozin* | verhindern Glukoseresorption im proximalen Konvolut aus Primärharn | HbA1c Senkung um 0,7-0,8%, Gewichtsabahme, Blutdrucksenkung, geringes Hypoglykämie-Risiko | HWI, GI | | NI, Überempfindlichkeit | |
 | Orale Antidiabetika | alpha-Glucosidase-Inihibitoren | Acarbose, Miglitol | Hemmen Enzym in Membran der Enterozyten -> Verhinderung der Spaltung von Oligo- und Disacchariden, Verzögerung der Resorption | | GI, Unwohlsein | | | nur geringer Effekt auf HbA1c |
 | Nicht-orale Antidiabetika | Inkretinmimetika (GLP-1-Analoga) | Exenatid, Lixisenatid, Liraglutid | | | | | | Liraglutid und Semaglutid führen zu einer signifikanten Verbesserung der kardiovaskulären Morbidität und Mortalität (SP Marso et al) |
