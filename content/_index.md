@@ -51,21 +51,23 @@ layout = "indexpage-fluid"
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Rocuronium, Atracurium, Cis-Atracurium, Vecuronium | Mittellang wirksam | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Pancuronium | lang-wirksam | | | | | |
 | Sympathomimetika | alpha-Agonisten | Naphazolin, Xylometazolin, Oxymetazolin | | Allergische Konjunktivitis, Sinusitis, Nasopharyngitis | Schleimhautschädigend | | Säuglinge, Kleinkinder, Hypertoniker | |
-| Sympathomimetika | alpha2-Agonist | Moxonidin | reduziert peripher die Freisetzung von NA; hemmt im Ncl. solitarius sympathische Impulse durch Bindung an postsynaptische Rezeptoren | Hypertonie (2. Wahl) | | | | |
+| Sympathomimetika | alpha1-Agonist | Phenylephrin | Augentropfen, Nasenspray | | | | | |
+| Sympathomimetika | alpha2-Agonist | Clonidin, Moxonidin | reduziert peripher die Freisetzung von NA; hemmt im Ncl. solitarius sympathische Impulse durch Bindung an postsynaptische Rezeptoren | Hypertonie (2. Wahl) | | | | |
 | Sympathomimetika | beta2-Agonist, LABA | Bambuterol, Clenbuterol, Formoterol, Salmeterol | langwirkend (12-24h) | | | | | |
-| Sympathomimetika | beta2-Agonist, LABA | Fenoterol | | Tokolyse (Wehenhemmung) | | | | |
+| Sympathomimetika | beta2-Agonist, SABA | Fenoterol | | Asthma, Tokolyse (Wehenhemmung) | | | | |
 | Sympathomimetika | beta2-Agonist, SABA | Pirbuterol, Reproterol, Salbutamol, Terbutalin, Tulobuterol | kurzwirkend (4-6h) | Asthma | | | | |
+| Sympathomimetika | beta3-Agonist | Mirabegron | | überaktive Blase (OAB) | | | | |
 | Sympatholytika | alpha2-Agonist | Clonidin | Hemmt Noradrenalin Ausschüttung -> sympatholytisch | in Kombinationstherapie bei arterielle Hypertonie, Milderung von Entzugserscheinungen | | | | |
 | Sympatholytika | alpha-Blocker | Phenoxybenzamin | irreversible alpha1- und alpha2-Blockade | präoperativ bei Phäochromozytom | | | | |
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie (keine 1. Wahl!), Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
-| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA), Sotalol hemmt auch K-Kanal | Hypertonie, KHK, chronische HI | | | | |
-| Sympatholytika | beta-Blocker, 2. Generation, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | |
+| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA), Sotalol hemmt auch K-Kanal | Hypertonie, KHK, chronische HI; Timolol bei Glauhom-Therapie | | | | |
+| Sympatholytika | beta-Blocker, 2. Generation, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | Bisoprolol wird nicht über CYP2D6 verstoffwechselt |
 | Sympatholytika | beta-Blocker, 3. Generation | Carteolol | **auch NO Donator** -> vasodilatierend, ISA | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | **auch Ca-Antagonsist**, blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Labetalol | auch alpha1-Blocker | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Metipranolol, Levobunolol | | | | | | |
-| Sympatholytika | beta-Blocker, 3. Generation | Betaxolol | auch Ca-Antagonist | | | | | |
+| Sympatholytika | beta-Blocker, 3. Generation | Betaxolol | auch Ca-Antagonist | Glaukom | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Celiprolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Nebivolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Herzglykoside | | Digoxin | | | | | | |
@@ -151,12 +153,13 @@ layout = "indexpage-fluid"
 | Ca++ (Calcium) Kanalblocker | Benzothiazepin | Diltiazem | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) und Myokard | | | | |
 | Diuretika | Carboanhydrase-Hemmer | Acetazolamid (alternativ: Azetazolamid) | Hemmung der CA -> weniger H+ Sekretion, mehr Na+ und HCO3- Ausscheidung, Erhöhung der Ausscheidung um 5-8% des Glomerulusfiltrats | Cystein- / Uratsteine | Metabolische Azidose, Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie | | LI, NI, Hyponatriämie, Schwangerschaft | |
 | Diuretika | Carboanhydrase-Hemmer | Brinzolamid, Dorzolamid | Hemmung der CA -> weniger H+ Sekretion, mehr Na+ und HCO3- Ausscheidung, Erhöhung der Ausscheidung um bis zu 5-8% des Glomerulusfiltrats | Glaukom | Metabolische Azidose, Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie | Corticosteroide und Laxantien -> verstärkte Hypokaliämie, Antidiabetike, Harnsäure-senkende Pharmaka, Blutdruck-senkene Pharmaka, Lithium | LI, NI, Hyponatriämie, Hypokaliämie, Hypovolämie, Gicht, Sulfonamidallergie | |
-| Diuretika | Schleifendiuretika | Furosemid, Bumetanid, Torasemid, Piretanid | luminale Inhibition des Na+/K+/Cl-- Cotransporter -> gesteigerte Exkretion, geringere H2O Absorption, erhöhte Mg++ und Ca++ Ausscheidung, verringerte Harnkonzentration, Erhöhung der Ausscheidung um bis zu 30-40% des Glomerulusfiltrats | Ödeme bei HI/NI, Lungenödem, Hypertensive Krise, Intoxikation  (forcierte Diurese) | Hypovolämie, Dehydration, Hypotonie, bei längerer Gabe auch: Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie, ... | Blutdruck-senkene Pharmaka, oto-/nephrotoxische Pharmaka (würde verstärkt werden), Digitalis (bei Hypokaliämie), Corticosteroide und Laxantien, NSAR, Lithium, Antidiabetike, Harnsäure-senkende Pharmaka | LI, NI, Hyponatriämie, Hypokaliämie, Hypovolämie, Schwangerschaft, Gicht, Sulfonamidallergie | Vorteil des Toasemid: nur zu ca. 15% renal eliminiert -> Risiko einer Kumulation bei NI gering |
-| Diuretika | Thiazide | Hydrochlorothiazid, Bendroflumethiazid, Chlortalidon, Xipamid, Metolazon, ... | Inhibition des Na+/Cl- Cotransporter im frühdistalen Tubulus, Erhöhung der Ausscheidung um 8-10% der GFR, Abfall der GFR, längere HWZ | arterielle Hypertonie, chron. HI (NYHA I), Ödeme bei akuter HI, Lungenödem, Hyperkalziurie, Intoxikation (forcierte Diurese) | Hypokaliämie, Hypomagnesiämie, Harnsäureretention, geringe Glukosetoleranz, Hyperkalziämie, Hydrochlorothiazid: erhöhtes Hautkrebs-(Nicht-Melanom-)-Risiko | wie bei Schleifendiuretika ^^^ | Sulfonamidallergie, LI, Hyperkalziämie, Hypokaliämie, Hyponatriämie, Schwangerschaft | |
+| Diuretika | Schleifendiuretika | Furosemid, Bumetanid, Torasemid, Piretanid | luminale Inhibition des Na+/K+/Cl-- Cotransporter -> gesteigerte Exkretion, geringere H2O Absorption, erhöhte Mg++ und Ca++ Ausscheidung, verringerte Harnkonzentration, Erhöhung der Ausscheidung um bis zu 30-40% des Glomerulusfiltrats | Ödeme bei HI/NI, Lungenödem, Hypertensive Krise, Intoxikation  (forcierte Diurese) | Hypovolämie, Dehydration, Hypotonie, bei längerer Gabe auch: Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie, ... | Blutdruck-senkene Pharmaka, oto-/nephrotoxische Pharmaka (würde verstärkt werden), Digitalis (bei Hypokaliämie), Corticosteroide und Laxantien, NSAR, Lithium, Antidiabetike, Harnsäure-senkende Pharmaka | LI, NI, Hyponatriämie, Hypokaliämie, Hypovolämie, Schwangerschaft, Gicht, Sulfonamidallergie | **Vorteil des Torasemid: nur zu ca. 15% renal eliminiert** -> Risiko einer Kumulation bei NI gering |
+| Diuretika | Thiazide | Hydrochlorothiazid, Bendroflumethiazid, Chlortalidon, Xipamid, Metolazon, ... | Inhibition des Na+/Cl- Cotransporter im frühdistalen Tubulus, Erhöhung der Ausscheidung um 8-10% der GFR, Abfall der GFR, längere HWZ, **Chlortalidon mit Wirkdauer von 48-72h und HWZ von 35-54h** | arterielle Hypertonie, chron. HI (NYHA I), Ödeme bei akuter HI, Lungenödem, Hyperkalziurie, Intoxikation (forcierte Diurese) | Hypokaliämie, Hypomagnesiämie, Harnsäureretention, geringe Glukosetoleranz, Hyperkalziämie, Hydrochlorothiazid: erhöhtes Hautkrebs-(Nicht-Melanom-)-Risiko | wie bei Schleifendiuretika ^^^ | Sulfonamidallergie, LI, Hyperkalziämie, Hypokaliämie, Hyponatriämie, Schwangerschaft | |
 | Diuretika | Na+ Kanal Inhibitoren | Amilorid | Hemmt ENaC, reduziert folglich auch K+ Sekretion, 3% der GFR | Kardiale, renale und hepatische Ödeme, HI, Hypertonie, Kombinationspartner der Diuretika-Therapie zur Reduzierung von K+ Verlusten | Hyperkaliämie, GI, Impotenz | Blutdruck-senkende Pharmaka, Kalium und ACE-Hemmer, andere K+ sparende Diuretika, Digitalis, Lithium, NSAR | Hyperkaliämie, Hyponatriämie, Hypovolämie, NI, Schwangerschaft, Stillzeit | |
 | Diuretika | Osmodiuretika | Mannitol, Sorbit | erhöhen GFR aber keine tubuläre Rückresorption -> Diurese, wenig veränderte Elektrolytausschüttung | Akutes Hirnödem, Prophylaxe NI, Intoxikation (forcierte Diurese), akuter Glaukomanfall, Kombinationspartner der Diuretika-Therapie | akute Volumenbelastung des Kreislaufs | | kardiale Ödeme, manifeste HI, Lungenödem, Dehydration, intrakraniale Blutung, fortbestehende Oligo- / Anurie nach Testinfusion | |
 | Diuretika | Kalium-sparende Diuretika, Aldosteronantagonisten | Epleronon, Spironolacton, Canrenon | | | | | | |
 | Diuretika | Kalium-sparende Diuretika, Hemmer des epithelialen Natrium-Kanals | Triamteren, Amilorid | | | | | | |
+| Diuretika | V2-Rezeptorantagonisten (Vaptane) | Tolvapten | | Hyponatriämie als sekundäre Folge des Syndroms der inadäquaten ADH Sekretion (SIADH), autosomal-dominante polyzystische Nierenerkrankung (ADPKD) | rasche Anstieg des Na-Spiegel, Durst, Übelkeit, Hypernatriämie, Hyperurikämie, selten Leberschädigung | | | |
 | Glucocorticoide | Inhalativ | Beclomethason, Fluticason, Budesonid | antiphlogistisch, Steigerung der mukoziliären Clearance, verstärkte Wirkung von beta2-Sympathomimetika (Kombi-Therapie) | i.V. bei akutem Asthmaanfall | Mundtrockenheit | | | |
 | Antidiarrhoikum | Opioid | Loperamid | m-Agonist, nicht ZNS-gängig | Durchfall | Somnolenz, Obstipation, Übelkeit | | | |
 | Bradykininrezeptorantagonisten | | Icatibant | selektive und kompetitive Hemmung des Bradykinin-B2-Rezeptoren | Therapie des hereditärem Angioödem (HAE) | | | | |
@@ -213,7 +216,9 @@ layout = "indexpage-fluid"
 | Antihelmintika | Piperazinderivat | Diethylcarbamazin | | | | | | |
 | Antihelmintika | Salicylamidderivat | Niclosamid | | | | | | |
 | Antihelmintika | | Praziquantel | | Taenia saginata und solium | | | | |
-| Immunsuppresiva | Glucocorticoide | Dexamethason, Betamethason, Prednisolon | | | | | | |
+| Immunsuppresiva | Glucocorticoide, kurz-wirksam | Hydrocortison, Cortisol, Cortison | | | | | | |
+| Immunsuppresiva | Glucocorticoide, Mittellang wirksam | Prednison, Prednisolon, Methylprednisolon | | Morbus Addison | | | | |
+| Immunsuppresiva | Glucocorticoide, lang-wirksam | Dexamethason, Betamethason | | Dexamethason: Prophylaxe Frühgeburt | | | | |
 | Immunsuppresiva | Purin-Analogon | Azathioprin | Einbau als falsche Base -> Störung der DNA-Replikation | | | | | |
 | Immunsuppresiva | B-Zell-Depletion | Rituximab | Anti-CD20-AK -> B-Zell-Untergang | | | | | |
 | Immunsuppresiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
@@ -274,12 +279,13 @@ layout = "indexpage-fluid"
 | Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Raloxifen | | östrogenagonistische Wirkung zur Osteoporosebehandlung | Thromboembolie, Apoplex | | | |
 | Estrogen-Inhibitoren | Aromatasehemmer | Formestan, Exemestan | | | | | | |
 | Estrogene | Synthetisch | Estradiolvalerat | | | | | | |
-| Androgene | Synthetisch | Testosteron**enantat** | lipophiler, intramuskuläre Injektion | | | | | |
+| Estrogene | Synthetisch | Ethinylestradiol | | Orale Kontrazeption | | | | |
+| Androgene | Synthetisch | Testosteron**enantat** | lipophiler, intramuskuläre Injektion | Hypogonadismus | | | | |
 | Androgene | Synthetisch | Testosteron**undecanoat** | noch lipophiler, oral wirksam oder intramuskuläre Injektion | | | | | |
 | Androgen-Inhibitoren | Antiandrogene Gestagenderivate | Cyproteronacetat | | | | | | |
 | Androgen-Inhibitoren | Androgen-Biosynthese-Inhibitor | Abirateronacetat | | | | | | |
 | Androgen-Inhibitoren | Androgen-Rezeptorantagonisten | Flutamid, Biclutamid, Enzalutamid | | Prostatakarzinom, Hypersexualität, bei Frauen: androgenetische Alopezie, Hirsutismus | | | | |
-| Androgen-Inhibitoren | 5alpha-Redukate-Hemmer | Finasterid, Dutasterid | | | | | | |
+| Androgen-Inhibitoren | 5alpha-Reduktase-Hemmer | Finasterid, Dutasterid | | androgenetische Alopezie, benigne Prostatahyperplasie | | | | |
 | Gestagene | Progesteronderivate | Cyproteronacetat, Medroxyprogacetat, Megestrolacetat | | | | | | |
 | Gestagene | Synthetisch | Levonorgestrel | | | | | | |
 | Gestagen-Inhibitoren | Selektive Progesteron Rezeptor-Modulatoren (SPRM) | Mifepriston ("Abtreibungspille"), Ulipristalacetat (Notfallkontrazeption) | | | | | | |
@@ -292,6 +298,7 @@ layout = "indexpage-fluid"
 | Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten | | | | | |
 | Alkohol-Dehydrogenase-Inhibitor (ADH-Inhibitor) | | Fomepizol | | Methanol- / Ethylenglykolintox | | | | |
 | Aldosteronanalogon | | Fludricortison | bindet an Mineralkortikoidrezeptoren -> gesteigerte Reabsorption von Na+ und Cl- in Niere -> Blutvolumen und -druck Steigerung | Morbus Addison | | | | |
+| Vasodilatoren | | Minoxidil | antihypertonisch; enthält NO -> vasodilatierend; öffnet Kaliumkanäle | | | | | |
 | | | | | | | | | |
 
 {{</table >}}
