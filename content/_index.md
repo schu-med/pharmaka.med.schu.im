@@ -52,9 +52,11 @@ layout = "indexpage-fluid"
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Rocuronium, Atracurium, Cis-Atracurium, Vecuronium | Mittellang wirksam | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Pancuronium | lang-wirksam | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Dantrolen | Blockierung der Ryanodin-Rezeptors im Skelettmuskel -> reduzierte Ca-Freisetzung | Malignes neuroleptisches Syndrom | | | | |
+| Sympathomimetika | alpha1-/beta1-/beta2-Agonist | Dobutamim | | | | | | |
 | Sympathomimetika | alpha-Agonisten | Naphazolin, Xylometazolin, Oxymetazolin | | Allergische Konjunktivitis, Sinusitis, Nasopharyngitis | Schleimhautschädigend | | Säuglinge, Kleinkinder, Hypertoniker | |
 | Sympathomimetika | alpha1-Agonist | Phenylephrin | Augentropfen, Nasenspray | | | | | |
 | Sympathomimetika | alpha2-Agonist | Clonidin, Moxonidin | reduziert peripher die Freisetzung von NA; hemmt im Ncl. solitarius sympathische Impulse durch Bindung an postsynaptische Rezeptoren | Hypertonie (2. Wahl) | | | | |
+| Sympathomimetika | beta-Agonist | Isoprenalin | | | | | | |
 | Sympathomimetika | beta2-Agonist, LABA | Bambuterol, Clenbuterol, Formoterol, Salmeterol | langwirkend (12-24h) | | | | | |
 | Sympathomimetika | beta2-Agonist, SABA | Fenoterol | | Asthma, Tokolyse (Wehenhemmung) | | | | |
 | Sympathomimetika | beta2-Agonist, SABA | Pirbuterol, Reproterol, Salbutamol, Terbutalin, Tulobuterol | kurzwirkend (4-6h) | Asthma | | | | |
@@ -73,7 +75,7 @@ layout = "indexpage-fluid"
 | Sympatholytika | beta-Blocker, 3. Generation | Celiprolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Nebivolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Antisympathotonika | | Reserpin | Blockade der Wiederaufnahme von NA und Dopamin | | Orthostatische Dysregulation, Förderung Depression, GI | | | |
-| Herzglykoside | | Digoxin | | | | | | |
+| Herzglykoside | Cardenolide | Digoxin, Digitoxin | Hemmung der Na-K-ATPase -> mehr Na intrazellulär -> positiv inotrop, negativ dromotrop | HI, tachykardes Vorhofflimmern | | | | |
 | Methylxanthine | | Theophylin | Antagonistisch an Adenosinrezeptoren, kompetitive Hemmung der PDE -> Erhöhung cAMP | Asthma, COPD | | Abbau durch CYP450 in Leber -> Wechselwirkungen e.g. mit AB | | |
 | PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Ausscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | COPD | | | | |
 | Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor (CYSLTR1); Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | als Kombinationspräparat mit inhalativen Corticosterioiden bei Asthma und allergischer Rhinits; Neurodermitis, Urtikaria | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | |
@@ -117,14 +119,16 @@ layout = "indexpage-fluid"
 | Benzodiazepin-Antidot | | Flumazenil | Antagonist der Benzodiazepin-Bindungsstelle des GABA-Rezeptors | Narkosebeendigung, **Antidot bei Benzodiazepin-Überdosierung** (e.g. Midazolam) | | | | |
 | Lithium | | Lithium | "Mood Stabilizer", Alkalimetall, wird als Verbindung verabreicht (e.g. Carbonat), Wirkmechanismus nicht vollumfänglich geklärt | Manie Akuttherapie, Phaseprophylaxe, Augmentation von Antidepressiva, Lanzeitprohylaxe | Müdigkeit, Lethargie, Tremor, GI, Polyurie, Dehydration, Nephrotoxizität, Gewichtszunahme, Euthyreotes Struma, **geringe therapeutische Breite** | | | |
 | Antikonvulsiva | GABAerg | Phenobarbital (Barbiturat), allg. Benzodiazepine, Vigabatrin, Tiagabine, Valproat | | | | | | |
+| Antikonvulsiva | | Topiramat | Blockierung von AMPA-Rezeptoren, Bindung an GABA-Rezeptoren, Inaktivierung von Natriumkanälen | | | | | |
+| Antikonvulsiva | AMPA-Antagonist | Perampanel | selektiver, nicht-kompetitiver Antagonist des ionotropen AMPA-Rezeptors | | | | | |
 | Antikonvulsiva | Na-Kanal-Inhibitor | Phenytoin | geringe therapeutische Breite | | | | | Eines der meistverwendeten Antiepileptika in den USA |
-| Antikonvulsiva | Na-Kanal-Inhibitor | Carbamazepine, Oxacarbazepine, Lamotrigine, Zonisamide, Valproate | | | | Carbamazepine reduziert Spiegel von Antikonzeptiva | | |
-| Antikonvulsiva | Ca-Kanal-Inhibitor | Valproate, Gabapentin, Ethosuximide | | Ethosuximide + Valproat Mittel der 1. Wahl bei Absencen | | | | |
-| Antikonvulsiva | Ca-Kanal-Inhibitor | Levitiracepam, Brivaracetam | nicht vollständig klar; Bindung an SV2A; vermutlich Herabsetzung der neuronalen Reizweiterleutung und Glutamatfreisetzung sowie partielle Inhibitation der Calcium Spiegel intrazellulär | | | | | |
+| Antikonvulsiva | Na-Kanal-Inhibitor | Carbamazepine, Oxcarbazepine, Lamotrigine, Zonisamide, Valproate | | | | Carbamazepine reduziert Spiegel von Antikonzeptivai und anderen Arzneimitteln (CYP450 Inhibition) | | |
+| Antikonvulsiva | Ca-Kanal-Inhibitor | Valproate, Gabapentin, Ethosuximide | | Ethosuximide + Valproat Mittel der 1. Wahl bei Absencen, Gabapentin zur Behandlung von neuropathischem Schmerz | | | | |
+| Antikonvulsiva | Ca-Kanal-Inhibitor | Levetiracetam, Brivaracetam | nicht vollständig klar; inhibiert Ca-Kanäle; Bindung an synaptisches Vesikelprotein 2A (SV2A); vermutlich Herabsetzung der neuronalen Reizweiterleutung und Glutamatfreisetzung sowie partielle Inhibitation der Calcium Spiegel intrazellulär | fokale Krampfanfälle | | | | In Schwangerschaft gut toleriert, geringeres teratogenes Potential |
 | Mood Stabilizer | Antiepileptika | Valproat (Valproinsäure) | | | | | Schwangerschaft | |
 | Mood Stabilizer | Antiepileptika | Lamotrigin | | | | | |
 | Mood Stabilizer | Antiepileptika | Carbamazepin | | | | | | |
-| Opioide | WHO2 | Codein | geringe Affinität zu MOP | Antitussivum, Kombinationspräparat bei Analgesie | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
+| Opioide | WHO2 | Codein (Methylmorphin) | geringe Affinität zu MOP, Prodrug -> Umwandlung zu Morphin via CYP2D6 | Antitussivum, Kombinationspräparat bei Analgesie | | Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
 | Opioide | WHO2 | Tramadol | analgetisch, Wirkstärke 10% von Morphin, Metabolit ist Wiederaufnahmehemmer von Serotonin/NA -> deszendierene Schmerzhemmung | | | Metabolisierung zum aktiven Metabolit durch CYP2D6 | | |
 | Opioide | WHO2 | Tapentadol | | in retadierter Form bei starken chronischen Schmerzen, **Wiederaufnahmehemmer von Noradrenalin** | GI, Suchtpotential | | | |
 | Opioide | WHO2 | Dihydrocodein | analgetisch, 1,5-fach stärker als Codein | Antitussivum | | Metabolisierung zu Dihydromorphin durch CYP2D6 | | |
@@ -143,11 +147,12 @@ layout = "indexpage-fluid"
 | Opioide | Partielle Agonisten | Nalbuphin | Partialagonist an MOP, Antagonist an KOP | Analgesie bei Geburtshilfe | | | | |
 | Opioide | Antagonisten | Naloxon | Antidot | Intoxikation | | | | |
 | Opioide | Antagonisten | Naltrexon | Antidot, wie Nalaxon aber mit längerer HWZ (24-48h) | Rückfallprophylaxe | Hepatotoxizität | | | |
-| Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | ASS | Irreversible Hemmung COX1/COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | GI, Blutung, Niere | | Kinder | Kinetik nullter Ordnung -> Kumulationsgefahr |
-| Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | ASS, Ibuprofen, Naproxen, Diclofenac (Voltaren) | Hemmung COX1/COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
-| Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | *-coxibe* | Hemmung COX2 | Arthrose, rheumatische Arthritis, postoperativ | MI, Apoplex | | | |
-| Nicht-Opioid Analgetika | Antipyretisch, Analgetisch | Paracetamol | unklar; Anwendung in: Pädiatrie, Schwangerschaft, Stillzeit | | Hepatotoxizität | | | |
-| Nicht-Opioid Analgetika | Antipyretisch | Metamizol | unklar, **spasmolytisch** | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | Agranulozytose, Anaphylaktischer Schock bei oraler Gabe | | | |
+| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | ASS | Irreversible Hemmung präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | GI, Blutung, Niere | | Kinder | Kinetik nullter Ordnung -> Kumulationsgefahr |
+| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | ASS, Ibuprofen, Naproxen, Indometacin, Piroxicam | präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
+| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Analgetisch | Paracetamol | präferenziell COX2 | Anwendung in: Pädiatrie, Schwangerschaft, Stillzeit | Hepatotoxizität | | | |
+| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | Meloxicam, Diclofenac (Handelsname: Voltaren) | präferenziell COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
+| Nicht-Opioid Analgetika / NSAR | Antipyretisch | Metamizol (Handelsname: Novalgin) | unselektiv COX1/COX2, **spasmolytisch** | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | Agranulozytose, Anaphylaktischer Schock bei oraler Gabe | | | |
+| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | *-coxibe* | Selektive Hemmung COX2 | Arthrose, rheumatische Arthritis, postoperativ | MI, Apoplex | | | |
 | Nicht-Opioid Analgetika | Analgetisch | Flupirtin | | | Hepatotoxizität | | | Seit 2018 nicht mehr zugelassen! |
 | Nicht-Opioid Analgetika | Analgetisch | Capsaicin | TRPV1-Agonist -> Freisetzung von Substanz P (Hitzegefühlt) -> Desensitierung | lokale Schmerzbehandlung, neuropatische Schmerzen | Hautrötung, Brennschmerz | | | |
 | Nicht-Opioid Analgetika | Conotoxin | Ziconotid | Ca-Kanal-Block | Schwere chronische Schmerzen | | | | |
@@ -155,13 +160,13 @@ layout = "indexpage-fluid"
 | Koanalgetika | Kortikoide | | antiödematös, antiphlogistisch, antiemetisch, Appetit anregend | ödembedingte Nervenkompression z.B. durch Tumor, Hirnödem | | | | |
 | Koanalgetika | Bisphosphonate | | | Tumor-induzierte Hypercalcämie, Metastasen-bedingte Knochenschmerzen | | | | |
 | RAAS Inhibitoren | Renin-Inhibitoren | Aliskiren | hemmmt Renin Freisetzung | Hypertonie | Hyperkaliämie, Diarrhoe, Schwindel, Arthralgie | ACE-Hemmer, AT1-Antagonisten | | |
-| RAAS Inhibitoren | ACE Inhibitoren | Suffix *-pril* | Funktionelle SH-Gruppe, die das Zink des ACE bindet -> weniger Angiotensin-II, mehr Bradykinin | Hypertonie, HI, post MI, diabetische Nephropathie | Hypotension, trockener Husten (vermutlich wegen Akkumulation von Bradykinin), Hyperkaliämie, Nierenschaden | Wirkungsabschwächung durch NSAR | Nierenarterienstenose, Schwangerschaft | in allen NYHA Stadien eingesetzt |
+| RAAS Inhibitoren | ACE-Hemmer, ACE-Inhibitoren | Suffix *-pril* | Funktionelle SH-Gruppe, die das Zink des ACE bindet -> weniger Angiotensin-II, mehr Bradykinin | Hypertonie, HI, post MI, diabetische Nephropathie | Hypotension, trockener Husten (vermutlich wegen Akkumulation von Bradykinin), Hyperkaliämie, Nierenschaden | Wirkungsabschwächung durch NSAR | Nierenarterienstenose, Schwangerschaft | in allen NYHA Stadien eingesetzt |
 | RAAS Inhibitoren | Angiotensin-II-Antagonisten (AT1-Rezeptor-Blocker!) | Suffix *-sartan* | Bindung an AT1-Rezeptor | Hypertonie, HI | Hyperkaliämie, GFR reduziert | | Nierenstenose, Schwangerschaft | |
 | RAAS Inhibitoren | Aldosteron Antagonisten | Spironolacton, Eplerenon | hemmt Wirkung von Aldosteron | Hyperaldosteronismus, HI NYHA 2 + 3 | Hyperkaliämie, Amenorrhoe, Gynäkomastie | | Hyperkaliämie, Hyponatriämie, Hypovolämie, NI, Schwangerschaft | Nicht für antihypertensive Therapie zugelassen! |
 | Neprilysin-Inhibitor | | Sacubitril | Neprilysin baut u.a. ANP und BNP ab, Sacubitril inhibiert indirekt diesen Abbau | Bei HI **in Kombination mit Valsartan** | | | | |
 | Ca++ (Calcium) Kanalblocker | Dihydropyridin | Suffix *-dipin*, Nifedipin, Nitrendipin, Nisoldipin, Amlodipin, Felodipin | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) | Hypertonie, stabile AP, vasospastische AP, Raynaud-Syndrom | Reflex-Tachykardie, Kopfschmerzen, Flush, Wärmegefühl, Schwindel, Müdigkeit, Beinödeme | Andere Hypertensiva, CYP3A4 | | Nifedipin unretadiert nicht als Monotherapie bei Hypertension, das nur kurz wirksam und schnell anflutend -> Reflextachykardie |
-| Ca++ (Calcium) Kanalblocker | Phenylalkylamine | Verapamil, Gallopamil | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) und Myokard | | | HI, AV-Block | |
-| Ca++ (Calcium) Kanalblocker | Benzothiazepin | Diltiazem | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) und Myokard | | | | |
+| Ca++ (Calcium) Kanalblocker | Phenylalkylamine | Verapamil, Gallopamil | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) und Myokard | | HI, AV-Block | | |
+| Ca++ (Calcium) Kanalblocker | Benzothiazepin | Diltiazem | Wirkung auf vaskuläre glatte Muskulatur (L-Typ Ca-Kanal) und Myokard | | HI, AV-Block | | |
 | Diuretika | Carboanhydrase-Hemmer | Acetazolamid (alternativ: Azetazolamid) | Hemmung der CA -> weniger H+ Sekretion, mehr Na+ und HCO3- Ausscheidung, Erhöhung der Ausscheidung um 5-8% des Glomerulusfiltrats | Cystein- / Uratsteine | Metabolische Azidose, Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie | | LI, NI, Hyponatriämie, Schwangerschaft | |
 | Diuretika | Carboanhydrase-Hemmer | Brinzolamid, Dorzolamid | Hemmung der CA -> weniger H+ Sekretion, mehr Na+ und HCO3- Ausscheidung, Erhöhung der Ausscheidung um bis zu 5-8% des Glomerulusfiltrats | Glaukom | Metabolische Azidose, Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie | Corticosteroide und Laxantien -> verstärkte Hypokaliämie, Antidiabetike, Harnsäure-senkende Pharmaka, Blutdruck-senkene Pharmaka, Lithium | LI, NI, Hyponatriämie, Hypokaliämie, Hypovolämie, Gicht, Sulfonamidallergie | |
 | Diuretika | Schleifendiuretika | Furosemid, Bumetanid, Torasemid, Piretanid | luminale Inhibition des Na+/K+/Cl-- Cotransporter -> gesteigerte Exkretion, geringere H2O Absorption, erhöhte Mg++ und Ca++ Ausscheidung, verringerte Harnkonzentration, Erhöhung der Ausscheidung um bis zu 30-40% des Glomerulusfiltrats | Ödeme bei HI/NI, Lungenödem, Hypertensive Krise, Intoxikation  (forcierte Diurese) | Hypovolämie, Dehydration, Hypotonie, bei längerer Gabe auch: Hypokaliämie, verminderte Glukosetoleranz, Hyperglykämie, ... | Blutdruck-senkene Pharmaka, oto-/nephrotoxische Pharmaka (würde verstärkt werden), Digitalis (bei Hypokaliämie), Corticosteroide und Laxantien, NSAR, Lithium, Antidiabetike, Harnsäure-senkende Pharmaka | LI, NI, Hyponatriämie, Hypokaliämie, Hypovolämie, Schwangerschaft, Gicht, Sulfonamidallergie | **Vorteil des Torasemid: nur zu ca. 15% renal eliminiert** -> Risiko einer Kumulation bei NI gering |
@@ -183,6 +188,10 @@ layout = "indexpage-fluid"
 | Antibiotika | Cephalosporine Gruppe 3 | Cefotaxim, Cefixim, Ceftriaxon, Ceftazidim (Gruppe 3b, zusätzlich wirksam gegen Pseudomonas spp.) | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+, G-, Aa | allergische Rekationen, GI, Gerinnungsstörungen| Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Cephalosporine Gruppe 4 | Cefpirom, Cefepim | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+, G-, Aa | allergische Rekationen, GI, Gerinnungsstörungen| Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Cephalosporine Gruppe 5 | Ceftobiprol, Ceftarolin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+, G-, Aa, auch wirksam gegen MRSA | allergische Rekationen, GI, Gerinnungsstörungen| Res.: Bildung von beta-Lactamasen | | |
+| Betalactamase-Inhibitoren | | Sulbactam | | kombiniert mit Ampicillin | | | | |
+| Betalactamase-Inhibitoren | | Clavulansäure | | kombiniert mit Amoxicillin | | | | |
+| Betalactamase-Inhibitoren | | Tazobactam | | kombiniert mit Piperacillin | | | | |
+| Betalactamase-Inhibitoren | | Avibactam | | kombiniert mit Ceftazidim | | | | |
 | Antibiotika | Carbapeneme | Imipenem, Meropenem, Ertapenem | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+, G-, Aa | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | Reserve-AB für lebensbedrohliche Infekte, meist gegen 3-MRGN wirksam |
 | Antibiotika | Glykopeptide | Vancomycin, Teicoplanin | Zellwand- und Membransynthesehemmstoff, Bindung an D-Ala-D-Ala | G+ | Nephrotoxizität, Ototoxizität, Hypotonie | Res.: verändertes Peptid (D-Ser oder D-Lact) | | Reserve-AB für MRSA, pseudomembranöse Colitis |
 | Antibiotika | Epoxide | Fosfomycin | Zellwand- und Membransynthesehemmstoff, Hemmung der N-Acetyl-Muraminsäure Bildung (Mureinsynthese) | G+, G-, Einmalgabe bei HWI als Fosfomycin-Trometanol | GI | Res.: verminderte Aufnahme oder Inaktivierung von Fosfomycin | | Reserve-AB für lebensbedrohliche Infekte |
@@ -217,7 +226,7 @@ layout = "indexpage-fluid"
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Lamivudin, Entecavir, Telbivudin, Adefovir (nur noch in Ausnahme), Tenofovir | | Hepatitis B | | | | |
 | Virostatikum | Neuraminidase-Hemmer | Oseltamivir | | Influanza A und B | | | | |
 | Virostatikum | Proteaseinhibitoren | Asunaprevir, Glecaprevir | Hemmung der Serinprotease des Hepatitic C Virus | Hepatitis C | | | | |
-| Virostatikum | | Amantadin | Influenza: M2-Membranproteinhemmer -> Ionenkanal blockiert -> verhindert "Uncoating" und Übernahme der Wirtszelle; Parkinson: nicht vollständig geklärt, vermutlich Hemmung des NMDA-Rezeptor -> Reduzierte Überaktivität von Interneuronen | Influenza A, Parkinson | | | | |
+| Virostatikum (+ Parkinson Behandlung) | | Amantadin | Influenza: M2-Membranproteinhemmer -> Ionenkanal blockiert -> verhindert "Uncoating" und Übernahme der Wirtszelle; Parkinson: nicht vollständig geklärt, vermutlich Hemmung des NMDA-Rezeptor -> Reduzierte Überaktivität von Interneuronen | Influenza A, Parkinson | | | | |
 | Zytokine | Interferone | Interferon-alpha (IFN-alpha) | Bindet an Interferon-Rezeptor (IFNR) und induziert Transkription versch. antiviraler Gene | Hepatitis B und C, malignes Melanom | | | | Interferon heute kein Therapiestandard mehr |
 | Antiprotozoikum | | Artesunat | | Malaria tropica (Plasmodium falciparum) | | | | |
 | Antiprotozoikum | | Melarsoprol, Suramin, Nifurtimox, Benznidazol | | | | | | |
@@ -239,8 +248,8 @@ layout = "indexpage-fluid"
 | Zytostatika | Platinverbindungen | Cisplatin, Carboplatin, Oxaliplatin | | | | | | |
 | Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | | | | |
 | Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat | Hemmung der Thymidin-Synthese | | | | | |
-| Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | | Vinca-Alkaloide, Estramustin, Ixabepilon, Eribulin | | | | | | |
-| Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Taxane: Paclitaxel, Docetaxel, Cabazitaxel | | | | | | |
+| Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Vinca-Alkaloide (Vincristin, Vinblastin, Vindesin, Vinorelbin, Vinflunin) , Estramustin, Ixabepilon, Eribulin | | Neurotoxizität, Myelosuppression | | | | | |
+| Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Taxane: Paclitaxel, Docetaxel, Cabazitaxel | | Myelosuppression, Neurotoxizität | | | | |
 | Zytostatika | Antimetaboliten | Mercaptopurin | Purinanaloga | Leukämien, Lymphome, Mamma-/Ovarialkarzinom | | | | |
 | Zytostatika | Antimetaboliten | Fluorouracil | Pyrimidinanaloga | | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Thiotepa | | lokal bei Blasenkarzinom, Konditionierung vor Stammzelltransplantation | | | | |
@@ -308,9 +317,12 @@ layout = "indexpage-fluid"
 | Lokalanästhetika | Kokain | Procain | wirkt bis zu 30-60 Minuten | | | | | |
 | Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten | | | | | |
 | Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten | | | | | |
+| Anästhetikum | | Propofol | wirkt nur hypnotisch, nicht analgetisch | | | | | |
+| Anästhetikum | | Ketamin | Antagonismus am NMDA-Rezeptor (nicht-kompetitive Hemmung); auch analgetische Wirkkomponente | | | | | |
 | Alkohol-Dehydrogenase-Inhibitor (ADH-Inhibitor) | | Fomepizol | | Methanol- / Ethylenglykolintox | | | | |
 | Aldosteronanalogon | | Fludricortison | bindet an Mineralkortikoidrezeptoren -> gesteigerte Reabsorption von Na+ und Cl- in Niere -> Blutvolumen und -druck Steigerung | Morbus Addison | | | | |
 | Vasodilatoren | | Minoxidil | antihypertonisch; enthält NO -> vasodilatierend; öffnet Kaliumkanäle | | | | | |
+| Toxin | Zootoxin | Tetrodotoxin | Natriumkanalblocker, extrem starke Bindung -> Blockade des peripheren NS -> Atemstillstand, Blutdruckkrise | | | | | |
 | | | | | | | | | |
 
 {{</table >}}
