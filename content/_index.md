@@ -223,15 +223,15 @@ layout = "indexpage-fluid"
 | Antihelmintika | Piperazinderivat | Diethylcarbamazin | | | | | | |
 | Antihelmintika | Salicylamidderivat | Niclosamid | | | | | | |
 | Antihelmintika | | Praziquantel | | Taenia saginata und solium | | | | |
-| Immunsuppresiva | Glucocorticoide, kurz-wirksam | Hydrocortison, Cortisol, Cortison | | | | | | |
-| Immunsuppresiva | Glucocorticoide, Mittellang wirksam | Prednison, Prednisolon, Methylprednisolon | | Morbus Addison | | | | |
-| Immunsuppresiva | Glucocorticoide, lang-wirksam | Dexamethason, Betamethason | | Dexamethason: Prophylaxe Frühgeburt | | | | |
-| Immunsuppresiva | Purin-Analogon | Azathioprin | Einbau als falsche Base -> Störung der DNA-Replikation | | | | | |
-| Immunsuppresiva | B-Zell-Depletion | Rituximab | Anti-CD20-AK -> B-Zell-Untergang | | | | | |
-| Immunsuppresiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
-| Immunsuppresiva | Calcineurin-Inhibitoren | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
-| Immunsuppresiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
-| Immunsuppresiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid, Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom | | | | |
+| Immunsuppressiva | Glucocorticoide, kurz-wirksam | Hydrocortison, Cortisol, Cortison | | | | | | |
+| Immunsuppressiva | Glucocorticoide, Mittellang wirksam | Prednison, Prednisolon, Methylprednisolon | | Morbus Addison | | | | |
+| Immunsuppressiva | Glucocorticoide, lang-wirksam | Dexamethason, Betamethason | | Dexamethason: Prophylaxe Frühgeburt | | | | |
+| Immunsuppressiva | Purin-Analogon | Azathioprin | Einbau als falsche Base -> Störung der DNA-Replikation | | | | | |
+| Immunsuppressiva | B-Zell-Depletion | Rituximab | Anti-CD20-AK -> B-Zell-Untergang | | | | | |
+| Immunsuppressiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
+| Immunsuppressiva | Calcineurin-Inhibitoren | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
+| Immunsuppressiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
+| Immunsuppressiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid, Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom | | | | |
 | Zytostatika | Platinverbindungen | Cisplatin, Carboplatin, Oxaliplatin | | | | | | |
 | Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | | | | |
 | Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat | Hemmung der Thymidin-Synthese | | | | | |
