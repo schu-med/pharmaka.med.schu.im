@@ -35,7 +35,7 @@ layout = "indexpage-fluid"
 | Parasympathomimetika | Muskarinrezeptor-Agonisten | Arecolin | ZNS-gängig | | | | | |
 | Parasympathomimetika | Muskarinrezeptor-Agonisten | Carbachol, Bethanechol | | Darm- und Blasenantonie | | | | |
 | Parasympathomimetika | Muskarinrezeptor-Agonisten | Pilocarpin | wirkt insbesondere auf Schweiß- und Speicheldrüsen | Glaukom, Schweißtest bei V.a. Mukoviszidose | | | | |
-| Parasympathomimetika | AChE-Inhibitoren | Physostigmin | ein Carbamat, ZNS-gängig | Einzigste Indikation: Antidot bei zentralen Vergiftungen, "anticholinerges Syndrom" | Bradykardie, GI | | | |
+| Parasympathomimetika | AChE-Inhibitoren | Physostigmin | ein Carbamat, ZNS-gängig | Einzigste Indikation: **Antidot bei zentralen Vergiftungen, "anticholinerges Syndrom"** | Bradykardie, GI | | | |
 | Parasympathomimetika | AChE-Inhibitoren | Neostigmin | nicht ZNS-gängig | Darm-/Blasenatonie, Intoxikation, Glaukom, Myasthenia gravis | | | | |
 | Parasympathomimetika | AChE-Inhibitoren | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer | | | | |
 | Parasympathomimetika | Organophosphate | | Phosphorylierende Inhibitoren: irreversible Blockade der AChE | hohe Dosen Atropin, Acetylcholin-Vergiftung | | | | |
@@ -51,6 +51,7 @@ layout = "indexpage-fluid"
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Mivacurium | kurz-wirksam | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Rocuronium, Atracurium, Cis-Atracurium, Vecuronium | Mittellang wirksam | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Pancuronium | lang-wirksam | | | | | |
+| Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Dantrolen | Blockierung der Ryanodin-Rezeptors im Skelettmuskel -> reduzierte Ca-Freisetzung | Malignes neuroleptisches Syndrom | | | | |
 | Sympathomimetika | alpha-Agonisten | Naphazolin, Xylometazolin, Oxymetazolin | | Allergische Konjunktivitis, Sinusitis, Nasopharyngitis | Schleimhautschädigend | | Säuglinge, Kleinkinder, Hypertoniker | |
 | Sympathomimetika | alpha1-Agonist | Phenylephrin | Augentropfen, Nasenspray | | | | | |
 | Sympathomimetika | alpha2-Agonist | Clonidin, Moxonidin | reduziert peripher die Freisetzung von NA; hemmt im Ncl. solitarius sympathische Impulse durch Bindung an postsynaptische Rezeptoren | Hypertonie (2. Wahl) | | | | |
@@ -62,7 +63,7 @@ layout = "indexpage-fluid"
 | Sympatholytika | alpha-Blocker | Phenoxybenzamin | irreversible alpha1- und alpha2-Blockade | präoperativ bei Phäochromozytom | | | | |
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie (keine 1. Wahl!), Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
-| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA), Sotalol hemmt auch K-Kanal | Hypertonie, KHK, chronische HI; Timolol bei Glauhom-Therapie | | | | |
+| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA) und wird auch für Therapie bei Serotonoergem Syndrom genutzt; Sotalol hemmt auch K-Kanal | Hypertonie, KHK, chronische HI; Timolol bei Glauhom-Therapie | | | | |
 | Sympatholytika | beta-Blocker, 2. Generation, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | Bisoprolol wird nicht über CYP2D6 verstoffwechselt |
 | Sympatholytika | beta-Blocker, 3. Generation | Carteolol | **auch NO Donator** -> vasodilatierend, ISA | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | **auch Ca-Antagonsist**, blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | |
@@ -71,6 +72,7 @@ layout = "indexpage-fluid"
 | Sympatholytika | beta-Blocker, 3. Generation | Betaxolol | auch Ca-Antagonist | Glaukom | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Celiprolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Nebivolol | **auch NO Donator** -> vasodilatierend | | | | | |
+| Antisympathotonika | | Reserpin | Blockade der Wiederaufnahme von NA und Dopamin | | Orthostatische Dysregulation, Förderung Depression, GI | | | |
 | Herzglykoside | | Digoxin | | | | | | |
 | Methylxanthine | | Theophylin | Antagonistisch an Adenosinrezeptoren, kompetitive Hemmung der PDE -> Erhöhung cAMP | Asthma, COPD | | Abbau durch CYP450 in Leber -> Wechselwirkungen e.g. mit AB | | |
 | PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Ausscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | COPD | | | | |
@@ -83,41 +85,43 @@ layout = "indexpage-fluid"
 | Antikörper | | -ximab | Chimärer AK | | | | | |
 | Antikörper | | -zumab | Humanisierter AK | | | | | |
 | Antikörper | | -mumab | Human AK | | | | | |
-| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Amitriptylin-Typ | Amitriptylin, Trimipramin, Doxepin | stark sedierend, stark anticholinerg | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
-| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Desipramin-Typ | Desipramin, Nortriptylin | Antriebssteigernd, Unruhe | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
-| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Imipramin-Typ | Imipramin, Clomipramin | geringer Einfluss auf Antrieb | | geringe therapeutische Breite, anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
-| Selektive Serotonin-Rückaufname-Inhibitoren (SSRI) | | Fluoxetin, Paroxetin, Citalopram, Escitalopram, Sertralin, Fluvoxamin | Antriebssteigernd, Unruhe | | große therapeutische Breite, Übelkeit, Erregung / Unruhe, Schlafstörung, Suizidalität, serotonerges Syndrom | | | |
+| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Amitriptylin-Typ | Amitriptylin, Trimipramin, Doxepin | stark sedierend, stark anticholinerg, geringe therapeutische Breite | | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
+| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Desipramin-Typ | Desipramin, Nortriptylin | Antriebssteigernd, Unruhe, geringe therapeutische Breite | | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
+| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Imipramin-Typ | Imipramin, Clomipramin | geringer Einfluss auf Antrieb, geringe therapeutische Breite | | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
+| Selektive Serotonin-Rückaufname-Inhibitoren (SSRI) | | Fluoxetin, Paroxetin, Citalopram, Escitalopram, Sertralin, Fluvoxamin | Antriebssteigernd, Unruhe, größere therapeutische Breite (im Vergleich mit NSMRI oben) | | Übelkeit, Erregung / Unruhe, Schlafstörung, Suizidalität, serotonerges Syndrom, teils QT-Zeit-Verlängerung | | | Amboss Merkhilfe: "Ein depressives Paar zittert sehr flugs" – „Ein“ = Escitalopram; „Paar“ = Paroxetin; „zittert“ = Citalopram; „sehr“ = Sertralin; „flugs“ = Fluvoxamin/Fluoxetin |
 | Selektive Noradrenalin-Rückaufname-Inhibitoren (SNRI) | | Reboxetin | | | | | | |
 | Selektive Serotonin- und Noradrenalin-Rückaufname-Inhibitoren (SSNRI) | | Venlafaxin, Duloxetin | Antriebssteigernd | | | | | |
-| alpha2-Antagonisten / Tetrazyklische Antidepressiva | | Mianserin, Mirtazapin | | | | | | |
+| alpha2-Antagonisten / Tetrazyklische Antidepressiva | | Mianserin, Mirtazapin | Hemmung der NA-Wiederaufnahme im ZNS | | | | | |
 | Monoaminooxidase-Hemmer (MAO-Hemmer) | | Moclobemid | reversibler MAO-Hemmer, antriebssteigernd | | Schwindel, Agitiertheit, Blutdruckschwankunen (Tranylcypromin-Abbau) | | Kombination mit anderen Antidepressiva | |
 | Monoaminooxidase-Hemmer (MAO-Hemmer) | | Tranylcypromin | irreversibler MAO-Hemmer, antriebssteigernd | | Schwindel, Agitiertheit, Blutdruckschwankunen (Tranylcypromin-Abbau) | | Kombination mit anderen Antidepressiva | |
-| Antipsychotika (Neuroleptikum) | Phnehothiazine | Fluphenazin, Perphenazin | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
+| Antipsychotika (Neuroleptikum) | Phenothiazine | Fluphenazin, Perphenazin | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
 | Antipsychotika (Neuroleptikum) | Thioxanthene | Flupentixol | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
 | Antipsychotika (Neuroleptikum) | Butyrophenone | Haloperidol | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
-| Antipsychotika (Neuroleptikum) | | Levomepromazin, Thioridazin, Chlorprothixen, Sulpirid | niederpotent, Dopamin-D2-Antagonist | | | | | |
-| Atypische Antipsychotika | Trizyklische | Clozapin, Quetiapin, Risperidon | Dopamin- / Serotonin-Antagonist | | Agranylozytose (insb. bei Clozapin) | | | |
-| Atypische Antipsychotika | Trizyklische | Olanzapin | Dopamin- / Serotonin-Antagonist | | sehr starke Gewichtszunahme | | | |
+| Antipsychotika (Neuroleptikum) | | Levomepromazin, Thioridazin, Chlorprothixen, Sulpirid | niederpotent, Dopamin-D2-Antagonist | | (EPS) | | | |
+| Atypische Antipsychotika | Trizyklische | Clozapin, Quetiapin, Risperidon | Dopamin- / Serotonin-Antagonist | | Agranylozytose (insb. bei Clozapin), (EPS)| | | |
+| Atypische Antipsychotika | Trizyklische | Olanzapin | Dopamin- / Serotonin-Antagonist | | sehr starke Gewichtszunahme (da H1-Antagonist), (EPS) | | | |
 | Atypische Antipsychotika | Benzamide | Amisulprid | Dopamin- / Serotonin-Antagonist | | | | | |
+| Atypische Antipsychotika | | Aripiprazol | Dopamin- / Serotonin-Antagonist | | | | | |
+| Antidepressiva | | Brexanolon (aka Allopregnanolon) | | Postpartale Depression | | | | In den USA aber nicht Deutschland zugelassen |
 | Benzodiazepine (positive allosterische Modulation von GABA-Rezeptoren -> erhöhte Öffnungswahrscheinlichkeit, verstärkte Wirkung von GABA (Chlorid-Einstrom -> Hyperpolarisation)) | kurzanhaltend | Brotizolam, Triazolam | | Anästhesiologie, Schlafstörung | | | | |
 | Benzodiazepine | kurzanhaltend | Midazolam (Dormicum) | | Anästhesiologie, Schlafstörung | Atemdepression | | | |
 | Benzodiazepine | mittellanganhaltend | Bromazepam, Flunitrazepam, Lormetazepam, Termazepam | | | | | | |
 | Benzodiazepine | mittellanganhaltend | Alprazolam | | anxiolytisch | | | | |
-| Benzodiazepine | mittellanganhaltend | Lorazepam (Tavor) | | anxiolytisch | | | | |
+| Benzodiazepine | mittellanganhaltend | Lorazepam (Tavor) | | anxiolytisch, u.a. Therapie Serotonerges Syndrom | | | | |
 | Benzodiazepine | mittellanganhaltend | Oxazepam | | anxiolytisch | | | | |
 | Benzodiazepine | langanhaltend | Chloridazepoxid, Clobazam, Nitrazepam, Tetrazepam (seit 2013 nicht mehr zugelassen) | | | | | | |
 | Benzodiazepine | langanhaltend | Clotiazepam, Flurazepam | lange HWZ der Metabolite | | | | | |
 | Benzodiazepine | langanhaltend | Clonazepam | antikonvulsiv | | | | | |
 | Benzodiazepine | langanhaltend | Diazepam (Valium) | antikonvulsiv | | | Cimetidin (Antihistaminikum) erhöht Diazepam Plasmaspiegel | | |
 | Benzodiazepine | Z-Substanzen | Zolpidem, Zopiclon, Zaleplon | binden nicht an alpha2 Rezeptorsubtyp -> nicht anxiolytisch oder muskelrelaxierend, kurze HWZ, geringes Abhängigkeitspotential | Schlafstörungen | | | | |
-| Benzodiazepin-Antidot | | Flumazenil | Antagonist der Benzodiazepin-Bindungsstelle des GABA-Rezeptors | Narkosebeendigung, Antidot bei Benzodiazepin-Überdosierung | | | | |
+| Benzodiazepin-Antidot | | Flumazenil | Antagonist der Benzodiazepin-Bindungsstelle des GABA-Rezeptors | Narkosebeendigung, **Antidot bei Benzodiazepin-Überdosierung** (e.g. Midazolam) | | | | |
 | Lithium | | Lithium | "Mood Stabilizer", Alkalimetall, wird als Verbindung verabreicht (e.g. Carbonat), Wirkmechanismus nicht vollumfänglich geklärt | Manie Akuttherapie, Phaseprophylaxe, Augmentation von Antidepressiva, Lanzeitprohylaxe | Müdigkeit, Lethargie, Tremor, GI, Polyurie, Dehydration, Nephrotoxizität, Gewichtszunahme, Euthyreotes Struma, **geringe therapeutische Breite** | | | |
 | Antikonvulsiva | GABAerg | Phenobarbital (Barbiturat), allg. Benzodiazepine, Vigabatrin, Tiagabine, Valproat | | | | | | |
 | Antikonvulsiva | Na-Kanal-Inhibitor | Phenytoin | geringe therapeutische Breite | | | | | Eines der meistverwendeten Antiepileptika in den USA |
 | Antikonvulsiva | Na-Kanal-Inhibitor | Carbamazepine, Oxacarbazepine, Lamotrigine, Zonisamide, Valproate | | | | Carbamazepine reduziert Spiegel von Antikonzeptiva | | |
-| Antikonvulsiva | Ca-Kanal-Inhibitor | Valproate, Gabapentin, Ethosuximide | | | | | | |
+| Antikonvulsiva | Ca-Kanal-Inhibitor | Valproate, Gabapentin, Ethosuximide | | Ethosuximide + Valproat Mittel der 1. Wahl bei Absencen | | | | |
 | Antikonvulsiva | Ca-Kanal-Inhibitor | Levitiracepam, Brivaracetam | nicht vollständig klar; Bindung an SV2A; vermutlich Herabsetzung der neuronalen Reizweiterleutung und Glutamatfreisetzung sowie partielle Inhibitation der Calcium Spiegel intrazellulär | | | | | |
-| Mood Stabilizer | Antiepileptika | Valproat | | | | | Schwangerschaft | |
+| Mood Stabilizer | Antiepileptika | Valproat (Valproinsäure) | | | | | Schwangerschaft | |
 | Mood Stabilizer | Antiepileptika | Lamotrigin | | | | | |
 | Mood Stabilizer | Antiepileptika | Carbamazepin | | | | | | |
 | Opioide | WHO2 | Codein | geringe Affinität zu MOP | Antitussivum, Kombinationspräparat bei Analgesie | | Umwandundlung über CYP2D6 zu Morphin, Cave: Polymorphismus (veränderte Aktivität von CYP2D6) | | |
@@ -263,14 +267,14 @@ layout = "indexpage-fluid"
 | Insuline | langwirksam | Insulin Detemir (Fettsäure, bindet an Albumin), Insulin Glargin (Bildung von Präzipitaten an Injektionsstelle), Insulin Degludeg (Threonin B30 entfernt, mit Fettsäuremodifikation) | Beginn ca. 2-4h, Dauer ca. 24h | | | | | |
 | Insuline | Neutral Protamin Hagedorn (NPH) | NPH | ebenfalls 10-20h langwirksam | | | | | |
 | Säurehemmer | HT2-Rezeptorantagonisten | Ranitidin, Famotidin, Nizatidin, Roxatidinacetat, Cimetidin (obsolet wg. UEW) | | Magensäuresenkung (Mittel 2. Wahl) | Kopfschmerz, Übelkeit, Erbrechen, Juckreiz, Libidoverlust, Gynäkomastie, Hemmung CYP450 | | | |
-| Säurehemmer | PPI | Suffix *-prazol*, Omeprazol, Pantoprazol, Lansoprazol, Rabeprazol | | Dyspepsie, Ulcus duodeni und ventriculi, Refluxösophagitis, Zollinger-Ellison-Syndrom (Übersekretion von Gastrin) | | | CYP2C19 / CYP3A4 Interaktion | |
+| Säurehemmer | PPI | Suffix *-prazol*, Omeprazol, Pantoprazol, Lansoprazol, Rabeprazol | Prodrug: nach enteraler Resorption (Magensäure-resistente Kapseln) über Blut zu Belegzellen | Dyspepsie, Ulcus duodeni und ventriculi, Refluxösophagitis, Zollinger-Ellison-Syndrom (Übersekretion von Gastrin) | | | CYP2C19 / CYP3A4 Interaktion | |
 | Säurehemmer | Antazida (Antazidum) | Natriumhydrogencarbonat, Magnesiumcarbonat, Calciumcarbonat, Aluminiumhydroxid, Magnesiumhydroxid, Al-Mg-Silikathydrat (Komplexverbindungen, Schichtgitterantazida) | | | | | | |
 | Säurehemmer | Protein-Komplexbildner | Sucralfat | bildet Komplexverbindung auf Ulcusoberfläche, verhindert Angriff von HCL | | Obstipation | Tetrazyklin-Komplexe nicht resorbierbar | NI, Enzephalopathie | |
 | Säurehemmer | | Misoprostol | PGE2-Analogon, hemmt HCL-Sekretion, verstärkt Schleimsekretion | | Durchfälle, Magen- und Darmkrämpfe | | Schwangerschaft | |
 | Säurehemmer | | Proglumid | Gastrinantagonist (therapeutischer Wert umstritten) | | | | | |
-| Antiemetika | H1-Blocker | Dimenhydrinat | | | | | | |
+| Antiemetika | H1-Blocker | Dimenhydrinat (Handelsname: Vomex) | | | | | | |
 | Antiemetika | 5-HT3-Rezeptorantagonisten (Setrone) | Granisetron, Ondansetron, Tropisetron, Palonosetron | | Zytostatika- und Strahlentherapie-induziertes Erbrechen, postoperatives Erbrechen, (Hyperemesis gravidarum) | | | | |
-| Antiemetika | Dopaminrezeptor-Antagonisten - Neuroleptika | Haloperiodol, Droperiodol, Perphenzin, Promethazin, Sulpirid, Prochlorperazin | | Übelkeit und Ebrechen (bei Nichtwirksamkeit von Alternativen), Opioid-indziertes Erbrechen, postoperatives Erbrechen, Morbus Meniere | | | | |
+| Antiemetika | Dopaminrezeptor-Antagonisten - Neuroleptika | Haloperiodol, Droperidol, Perphenazin, Promethazin, Sulpirid, Prochlorperazin | | Übelkeit und Ebrechen (bei Nichtwirksamkeit von Alternativen), Opioid-indziertes Erbrechen, postoperatives Erbrechen, Morbus Meniere | | | | |
 | Laxantien | Anorganische Salze (Osmotika) | Bittersalz, Glaubersalz, NaH2PO4 + NaHPO4 | | | Belastung mit Na+/Mg++ Ionen | | | |
 | Laxantien | Zucker, Zuckeralkohole | Lactose, Lactulose, Lacitol, Sorbitol, Mannitol | | | Blähungen | | | |
 | Laxantien | Polyethylenglykole | Macrogol 3350 und 4000 | werden nicht resorbiert -> osmotisch wirksam | | | | | |
@@ -279,7 +283,7 @@ layout = "indexpage-fluid"
 | Laxantien | Antiresorptiv und sekretagog wirksame – Antrachinonderivate | Sennoside | | | | | | |
 | Laxantien | Antiresorptiv und sekretagog wirksame – Diphenylmethanderivate | Bisacodyl, Natriumpicosulfat | | | | | | |
 | Gleitmittel | | Glycerin | | | | | | **bei Säuglingen und Kleinkindern Mittel der Wahl** |
-| Enkepahinase-Inhibitoren | | Racecadotrili | | Diarrhoe | | | | |
+| Enkephalinase-Inhibitoren | | Racecadotrili | | Diarrhoe | | | | |
 | Antimikrobielle Peptide | Cathelicidine | | | | | | | https://de.wikipedia.org/wiki/Cathelicidine |
 | Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Clomifen | | Ovaluatiosinduktion | | | | |
 | Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Tamoxifen, Toremifen | | Adjuvant Mamma-Ca | Thromboembolie | | | |
