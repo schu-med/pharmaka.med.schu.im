@@ -36,7 +36,7 @@ Status: work in progress.
 </div>
 <div class="alert alert-light">
 <p>Lizenz: <a href=https://creativecommons.org/licenses/by-sa/4.0/>CC BY-SA 4.0</a><br>
-Letzte Aktualisierung: 26.01.2022 (8a762da)</p>
+Letzte Aktualisierung: 26.01.2022 (aaf0712)</p>
 </div>
 </div>
 </div>
@@ -44,7 +44,7 @@ Letzte Aktualisierung: 26.01.2022 (8a762da)</p>
 <script>const tableFilter=()=>{const a=Array.from(document.querySelectorAll('#pharmaka tr')).filter(a=>!a.querySelector('th')),b=document.querySelector('#filter').value,c=new RegExp(b,'i'),d=a=>c.test(a.innerHTML),e=a=>a.some(d),f=({style:a,children:b})=>{a.display=e([...b])?'':'none'};a.forEach(f)};function focusFilter(b){const a=document.getElementById('filter');a.focus(),a.select(),a.scrollIntoView()}(function(){const a=new window.keypress.Listener,b=[{keys:"cmd .",on_keydown:focusFilter},{keys:"ctrl .",on_keydown:focusFilter}];a.register_many(b)})()</script>
 <div class="row mb-2">
 <div class=col>
-<input type=text id=filter onkeyup=tableFilter() placeholder="Filter ..."> <span>Fokus: <kbd>Ctrl/Cmd</kbd> + <kbd>.</kbd></span>
+<input type=text id=filter onkeyup=tableFilter() placeholder="Filter ..."> <span>Fokus: <kbd>Ctrl</kbd> / <kbd>Cmd</kbd> + <kbd>.</kbd></span>
 </div>
 </div>
 <table id=pharmaka class="table table-striped table-hover">
