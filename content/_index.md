@@ -83,6 +83,7 @@ layout = "indexpage-fluid"
 | IgE-Antikörper | | Omalizumab | | schweres persistierendes Asthma | | | | |
 | IL-5-Antikörper | | Mepolizumab | | schweres persistierendes Asthma | | | | |
 | Antikörper | | Trastuzumab | hemmt HER2/neu Aktivierung | Mamma-Ca | Kardiotoxisch | | | |
+| Antikörper | | Bevacizumab | VEGF-Inhibitor, bindet an VGEF und verhindert Interaktion mit Rezeptoren -> Hemmung der Angiogenese | | | | | |
 | Antikörper | | Blinatumomab | Anti-CD19-AK, aktiviert CD3-positive T-Zellen | ALL | | | | |
 | Antikörper | | Catumaxumab | Trifunktionaler AK, bindet gleichzeitig: EPCAM (Adhäsionsmolekül einer Tumorzelle), CD3 und Fcgamma-Rezeptor (auf Makrophagen, dendritischen Zellen oder NK-Zellen) | Karzinome, die zu Aszites führen | | | | |
 | Antikörper | | -omab | Maus AK | | | | | |
@@ -151,7 +152,7 @@ layout = "indexpage-fluid"
 | Opioide | Antagonisten | Naltrexon | Antidot, wie Nalaxon aber mit längerer HWZ (24-48h) | Rückfallprophylaxe | Hepatotoxizität | | | |
 | Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | ASS | Irreversible Hemmung präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | GI, Blutung, Niere | | Kinder | Kinetik nullter Ordnung -> Kumulationsgefahr |
 | Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | ASS, Ibuprofen, Naproxen, Indometacin, Piroxicam | präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
-| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Analgetisch | Paracetamol | präferenziell COX2 | Anwendung in: Pädiatrie, Schwangerschaft, Stillzeit | Hepatotoxizität | | | |
+| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Analgetisch | Paracetamol | präferenziell COX2 | Anwendung in: Pädiatrie, Schwangerschaft, Stillzeit | Hepatotoxizität | | | Antidot bei Überdosierung ist Acetylcystein (ACC), nur effektiv bei Gabe innerhalb von ca. 8 Stunden nach Paracetamolaufnahme |
 | Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | Meloxicam, Diclofenac (Handelsname: Voltaren) | präferenziell COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
 | Nicht-Opioid Analgetika / NSAR | Antipyretisch | Metamizol (Handelsname: Novalgin) | unselektiv COX1/COX2, **spasmolytisch** | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | Agranulozytose, Anaphylaktischer Schock bei oraler Gabe | | | |
 | Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | *-coxibe* | Selektive Hemmung COX2 | Arthrose, rheumatische Arthritis, postoperativ | MI, Apoplex | | | |
@@ -256,6 +257,7 @@ layout = "indexpage-fluid"
 | Zytostatika | Antimetaboliten | Fluorouracil | Pyrimidinanaloga | | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Thiotepa | | lokal bei Blasenkarzinom, Konditionierung vor Stammzelltransplantation | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Mitomycin C | | palliative Kombinationstherapie | | | | |
+| Zytostatika | N-Lost Abkömmlinge | Ifosfamid | | | | | | |
 | Zytostatika | Andere Alkylantien | Busulfan | starke Myelosuppression | CML | | | | |
 | Zytostatika | Andere Alkylantien | Nitrosoharnstoffe | sehr liophil, kann daher Blut-Hirn-Schranke durchdringen | Hirntumoren | | | | |
 | Zytostatika | Topoisomerase-I-Inhibitoren | Tropotecan, Irinotecan | | Colonkarzinom, kleinzellige Bronchialkarzinome | Myelopsuppression | | | |
