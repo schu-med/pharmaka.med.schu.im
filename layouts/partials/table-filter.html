@@ -1,3 +1,4 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/keypress/2.1.5/keypress.min.js"></script>
 <script>
 // Adapted from https://stackoverflow.com/a/51187875
 const tableFilter = () => {
@@ -15,10 +16,28 @@ const tableFilter = () => {
   }
   trs.forEach(setTrStyleDisplay)
 }
+
+function focusFilter(e) {
+  const filterInput = document.getElementById('filter');
+  filterInput.focus();
+  filterInput.select();
+  filterInput.scrollIntoView();
+}
+
+(function () {
+  const listener = new window.keypress.Listener();
+
+  const combos = [
+    {"keys": "cmd .", "on_keydown": focusFilter},
+    {"keys": "ctrl .", "on_keydown": focusFilter}
+  ];
+
+  listener.register_many(combos);
+})();
 </script>
 
 <div class="row mb-2">
   <div class="col">
-    <input type="text" id="filter" onkeyup="tableFilter()" placeholder="Filter ...">
+    <input type="text" id="filter" onkeyup="tableFilter()" placeholder="Filter ..."> <span>Fokus: <kbd>Ctrl</kbd> / <kbd>Cmd</kbd> + <kbd>.</kbd></span>
   </div>
 </div>
