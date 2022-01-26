@@ -82,7 +82,9 @@ layout = "indexpage-fluid"
 | "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
 | IgE-Antikörper | | Omalizumab | | schweres persistierendes Asthma | | | | |
 | IL-5-Antikörper | | Mepolizumab | | schweres persistierendes Asthma | | | | |
-| Antikörper | | Trastuzumab | | Mamma-Ca | | | | |
+| Antikörper | | Trastuzumab | hemmt HER2/neu Aktivierung | Mamma-Ca | Kardiotoxisch | | | |
+| Antikörper | | Blinatumomab | Anti-CD19-AK, aktiviert CD3-positive T-Zellen | ALL | | | | |
+| Antikörper | | Catumaxumab | Trifunktionaler AK, bindet gleichzeitig: EPCAM (Adhäsionsmolekül einer Tumorzelle), CD3 und Fcgamma-Rezeptor (auf Makrophagen, dendritischen Zellen oder NK-Zellen) | Karzinome, die zu Aszites führen | | | | |
 | Antikörper | | -omab | Maus AK | | | | | |
 | Antikörper | | -ximab | Chimärer AK | | | | | |
 | Antikörper | | -zumab | Humanisierter AK | | | | | |
@@ -244,7 +246,7 @@ layout = "indexpage-fluid"
 | Immunsuppressiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
 | Immunsuppressiva | Calcineurin-Inhibitoren | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
 | Immunsuppressiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
-| Immunsuppressiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid, Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom | | | | |
+| Immunsuppressiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid (Contergan), Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom | | | | |
 | Zytostatika | Platinverbindungen | Cisplatin, Carboplatin, Oxaliplatin | | | | | | |
 | Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | | | | |
 | Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat | Hemmung der Thymidin-Synthese | | | | | |
@@ -253,11 +255,11 @@ layout = "indexpage-fluid"
 | Zytostatika | Antimetaboliten | Mercaptopurin | Purinanaloga | Leukämien, Lymphome, Mamma-/Ovarialkarzinom | | | | |
 | Zytostatika | Antimetaboliten | Fluorouracil | Pyrimidinanaloga | | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Thiotepa | | lokal bei Blasenkarzinom, Konditionierung vor Stammzelltransplantation | | | | |
-| Zytostatika | N-Lost Abkömmlinge | Thiotepa | | palliative Kombinationstherapie | | | | |
-| Zytostatika | Andere Alkylantien | Busulfan | starke Myelosuppresion | CML | | | | |
+| Zytostatika | N-Lost Abkömmlinge | Mitomycin C | | palliative Kombinationstherapie | | | | |
+| Zytostatika | Andere Alkylantien | Busulfan | starke Myelosuppression | CML | | | | |
 | Zytostatika | Andere Alkylantien | Nitrosoharnstoffe | sehr liophil, kann daher Blut-Hirn-Schranke durchdringen | Hirntumoren | | | | |
-| Zytostatika | Topoisomerase-I-Inhibitoren | Tropotecan, Irinotecan | Colonkarzinom, kleinzellige Bronchialkarzinome | Myelopsuppression | | | |
-| Zytostatika | Topoisomerase-II-Inhibitoren | Etoposid, Teniposid | Etoposid: Bronchial-, Ovarial-, Hodenkarzinom; Teniposid: vorwiegend Lymphome | Myelosuppression, hohes Risiko für Zweittumore | | | |
+| Zytostatika | Topoisomerase-I-Inhibitoren | Tropotecan, Irinotecan | | Colonkarzinom, kleinzellige Bronchialkarzinome | Myelopsuppression | | | |
+| Zytostatika | Topoisomerase-II-Inhibitoren | Etoposid, Teniposid | | Etoposid: Bronchial-, Ovarial-, Hodenkarzinom; Teniposid: vorwiegend Lymphome | Myelosuppression, hohes Risiko für Zweittumore | | | |
 | Zytostatika | Hydroxyharnstoffe | Hydroxyharnstoffe | | myeloproliferative Erkrankungen, Erhöhung der Strahlensensitivität | KM-Depression, Megaloblastose | | | |
 | Zytostatika | Proteasom-Inhibitoren | Bortezomib, Carfilzomib | | Multiples Myelom, Mantelzellkarzinom | Neuropathie, Diarrhoe, Thrombozytopenie | | | |
 | Signalweg-Inhibitoren | Proteintyrosinkinase-Inhibitoren | Imatinib | Hemmung der Abl-Kinase | CML, AML | Neutropenie, Thrombopenie | | | |
@@ -294,12 +296,21 @@ layout = "indexpage-fluid"
 | Gleitmittel | | Glycerin | | | | | | **bei Säuglingen und Kleinkindern Mittel der Wahl** |
 | Enkephalinase-Inhibitoren | | Racecadotrili | | Diarrhoe | | | | |
 | Antimikrobielle Peptide | Cathelicidine | | | | | | | https://de.wikipedia.org/wiki/Cathelicidine |
+| GnRH | Agonisten | Suffix *-relin* | | | | | | |
+| GnRH | Antagonisten | Suffix *-relix* | | | | | | |
 | Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Clomifen | | Ovaluatiosinduktion | | | | |
-| Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Tamoxifen, Toremifen | | Adjuvant Mamma-Ca | Thromboembolie | | | |
+| Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Tamoxifen, Toremifen | | Adjuvant Mamma-Ca | Thromboembolie, Tamoxifen: Risiko Endometriumkarzinom | | | |
 | Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Raloxifen | | östrogenagonistische Wirkung zur Osteoporosebehandlung | Thromboembolie, Apoplex | | | |
-| Estrogen-Inhibitoren | Aromatasehemmer | Formestan, Exemestan | | | | | | |
+| Estrogen-Inhibitoren | Aromatasehemmer | Formestan, Exemestan, Anastrozol, Letrozol, Vorozol | | | | | | |
+| Estrogen-Inhibitoren | Rezeptorantagonisten (Antiestrogene) | Fulvestrant | | Tamoxifen resistentes Mamma-Ca | | | | |
 | Estrogene | Synthetisch | Estradiolvalerat | | | | | | |
 | Estrogene | Synthetisch | Ethinylestradiol | | Orale Kontrazeption | | | | |
+| Estrogene | Synthetisch | Tibolol | | | | | | |
+| Gonadotropine | FSH | Follitropin alpha (rekombinant), Follitropin beta (rekombinant), Urofollitropin (Etrakt, gereinigt) | | | | | | |
+| Gonadotropine | HMG (FSH + LH) | Menotropin (Extrakt gereinigt) | | | | | | |
+| Gonadotropine | LH | Lutropin alpha (rekombinant) | | | | | | |
+| Gonadotropine | HCG | Choriongonadotropin alpha (rekombinant), Choriongonadotropin (Extrakt gereinigt) | | | | | | |
+| Androgene | Synthetisch | Testosteron | lipophil, transdermale Applikation möglich | | | | | |
 | Androgene | Synthetisch | Testosteron**enantat** | lipophiler, intramuskuläre Injektion | Hypogonadismus | | | | |
 | Androgene | Synthetisch | Testosteron**undecanoat** | noch lipophiler, oral wirksam oder intramuskuläre Injektion | | | | | |
 | Androgen-Inhibitoren | Antiandrogene Gestagenderivate | Cyproteronacetat | | | | | | |
@@ -310,9 +321,11 @@ layout = "indexpage-fluid"
 | Gestagene | Synthetisch | Levonorgestrel | | | | | | |
 | Gestagen-Inhibitoren | Selektive Progesteron Rezeptor-Modulatoren (SPRM) | Mifepriston ("Abtreibungspille"), Ulipristalacetat (Notfallkontrazeption) | | | | | | |
 | Toxizitätsprophylaxe | | Mesna, Amifostin | | adjuvante Gabe bei Chemotherapie | | | | |
-| Lipidsenker | Anionenaustauscherharze | Colestyramin, Colestipol | Hemmung der Gallensäurenresorption -> kompensatorischer LDL-Rezeptoranstieg in Leber + Induktion der HMG-CoA-Reduktase Aktivität | | | | | |
-| Lipidsenker | Statine | Lovastatin, Simvastatin, Atorvastatin, Cerivastatin, Rovusastatin, Fluvastatin, Pravastatin | Hemmung der HMG-CoA-Reduktase -> Reduktion des verfügbaren Cholesterin -> positiver Effekt auf Gefäße | | | | | |
-| Lipidsenker | Cholesterin-Resorptionshemmer | Ezetimib | | | | | | |
+| Lipidsenker | Anionenaustauscherharze | Colestyramin, Colestipol | Hemmung der Gallensäurenresorption -> kompensatorischer LDL-Rezeptoranstieg in Leber + Induktion der HMG-CoA-Reduktase Aktivität | | sandiger Geschmack, Obstipation, verminderte Resorption fettlöslicher Vitamine | | | |
+| Lipidsenker | Statine | Lovastatin, Simvastatin, Atorvastatin, Cerivastatin, Rovusastatin, Fluvastatin, Pravastatin | Hemmung der HMG-CoA-Reduktase -> Reduktion des verfügbaren Cholesterin -> positiver Effekt auf Gefäße | | Konzentrationsschwäche, Schlafstörungen, Hepatitis / Erhöhung Leberwerte, Impotenz, GI, Myopathien bis hin zu Rhabdomyolyse | | | Verdopplung der Dosis führt zu ca. 6% LDL-Reduktion |
+| Lipidsenker | Cholesterin-Resorptionshemmer | Ezetimib (Prodrug), beta-Sitosterin | Reduktion des Cholesterin-Spiegel um bis zu 20% | | Kopf- und Bauchschmerzen, Diarrhoe | Colestyramin und Antazida reduzieren Wirkung | | |
+| Lipidsenker | PCSK9-Inhibitoren | Alirocumab, Evolocumab | verhindert Recycling von LDL Rezeptoren auf Hepatozyten -> Anzahl erhöht, LDL um bis zu 70% reduziert | | | | | |
+| Lipidsenker | Fibrate | Suffix *-fibrat*, Gemfibrozil | PPARalpha Agonisten: Senkung der Synthese und Freisetzung von VLDL, Erhöhung des LDL Abbau, Erhöhung der HDL (durch Synthese von APO AI, AII) -> TG um bis zu 40% und LDL um bis zu 20% gesenkt, HDL um ca. 10% erhöht  | Lipidsenker 2. Wahl | GI, Lithogenität der Galle erhöht | Kombination mit Statinen riskant, teils schwere NW; Verstärkte Wirkung von oralen Antikoagulantien | | |
 | Heparin-Antidot | | Protamin | 1g neutralisiert 100 I.E. Heparin | | | | | |
 | Lokalanästhetika | Kokain | Procain | wirkt bis zu 30-60 Minuten | | | | | |
 | Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten | | | | | |
