@@ -33,20 +33,20 @@ layout = "indexpage-fluid"
 | Direkte Antikoagulantien | Hirudin | Desirudin | irreversible Faktor IIa Hemmung | Thromboseprophylaxe | | | | |
 | Direkte Antikoagulantien | Hirudin | Bivalirudin | reversible Faktor IIa Hemmung | perkutane Koronarintervention | | | | |
 | Parasympathomimetika | Muskarinrezeptor-Agonisten | Arecolin | ZNS-gängig | | | | | |
-| Parasympathomimetika | Muskarinrezeptor-Agonisten | Carbachol, Bethanechol | | Darm- und Blasenantonie | | | | |
-| Parasympathomimetika | Muskarinrezeptor-Agonisten | Pilocarpin | wirkt insbesondere auf Schweiß- und Speicheldrüsen | Glaukom, Schweißtest bei V.a. Mukoviszidose | | | | |
+| Parasympathomimetika | Muskarinrezeptor-Agonisten | Pilocarpin | ZNS-gängig, wirkt insbesondere auf Schweiß- und Speicheldrüsen | Glaukom, Schweißtest bei V.a. Mukoviszidose | | | | |
+| Parasympathomimetika | Muskarinrezeptor-Agonisten | Carbachol, Bethanechol | nicht ZNS-gänig | Darm- und Blasenantonie | | | | |
 | Parasympathomimetika | AChE-Inhibitoren | Physostigmin | ein Carbamat, ZNS-gängig | Einzigste Indikation: **Antidot bei zentralen Vergiftungen, "anticholinerges Syndrom"** | Bradykardie, GI | | | |
 | Parasympathomimetika | AChE-Inhibitoren | Neostigmin | nicht ZNS-gängig | Darm-/Blasenatonie, Intoxikation, Glaukom, Myasthenia gravis | | | | |
-| Parasympathomimetika | AChE-Inhibitoren | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer | | | | |
+| Parasympathomimetika | AChE-Inhibitoren | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer (heute wegen geringem Effekt überwiegen obsolet) | | | | |
 | Parasympathomimetika | Organophosphate | | Phosphorylierende Inhibitoren: irreversible Blockade der AChE | hohe Dosen Atropin, Acetylcholin-Vergiftung | | | | |
 | Parasympatholytika | | Hemicholinium | Cholin-Wiederaufnahme Hemmer -> Acetylcholin kann weniger schnell neu bereitgestellt werden | | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonisten | Atropin | | | | | | |
-| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch (Kinetose Prophylaxe) | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Butylscopolamin | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Ipratropium | SAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Tiotriopium | LAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
-| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Biperiden | | Parkinson | | | | |
-| Parasympatholytika / Muskelrelaxantien | Curare (Kompetitive ACh-Rezeptoren-Hemmer) | Tubocurarin, Atracurium, Mivaucurium | kompetetive Hemmer des Acetylcholins an nikotinergen Rezeptoren der mot. Endplatte | | | | | Antidot: Chlolinesterase-Hemmer, Neostigmin |
+| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Benzatropin, Biperiden, Trihexphenidyl | | Parkinsonoide Neuroleptika-NW, nicht(!) für Therapie von Parkinson selbst | | | | |
+| Parasympatholytika / Muskelrelaxantien | Curare (Kompetitive ACh-Rezeptoren-Hemmer), nicht depolarisierend | Tubocurarin, Atracurium, Mivaucurium | kompetetive Hemmer des Acetylcholins an nikotinergen Rezeptoren der mot. Endplatte | | | | | Antidot: Chlolinesterase-Hemmer, Neostigmin |
 | Muskelrelaxantien | Depolarisierende Relaxantien | Succinylcholin | | RSI | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Mivacurium | kurz-wirksam | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Rocuronium, Atracurium, Cis-Atracurium, Vecuronium | Mittellang wirksam | | | | | |
@@ -65,7 +65,7 @@ layout = "indexpage-fluid"
 | Sympatholytika | alpha-Blocker | Phenoxybenzamin | irreversible alpha1- und alpha2-Blockade | präoperativ bei Phäochromozytom | | | | |
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie (keine 1. Wahl!), Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
-| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA) und wird auch für Therapie bei Serotonoergem Syndrom genutzt; Sotalol hemmt auch K-Kanal | Hypertonie, KHK, chronische HI; Timolol bei Glauhom-Therapie | | | | |
+| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA) und wird auch für Therapie bei Serotonoergem Syndrom genutzt; Sotalol hemmt auch K-Kanal | Hypertonie, KHK, chronische HI; Timolol bei Glaukom-Therapie | | | | |
 | Sympatholytika | beta-Blocker, 2. Generation, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | Bisoprolol wird nicht über CYP2D6 verstoffwechselt |
 | Sympatholytika | beta-Blocker, 3. Generation | Carteolol | **auch NO Donator** -> vasodilatierend, ISA | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | **auch Ca-Antagonsist**, blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | |
@@ -159,7 +159,7 @@ layout = "indexpage-fluid"
 | Nicht-Opioid Analgetika | Analgetisch | Flupirtin | | | Hepatotoxizität | | | Seit 2018 nicht mehr zugelassen! |
 | Nicht-Opioid Analgetika | Analgetisch | Capsaicin | TRPV1-Agonist -> Freisetzung von Substanz P (Hitzegefühlt) -> Desensitierung | lokale Schmerzbehandlung, neuropatische Schmerzen | Hautrötung, Brennschmerz | | | |
 | Nicht-Opioid Analgetika | Conotoxin | Ziconotid | Ca-Kanal-Block | Schwere chronische Schmerzen | | | | |
-| Nicht-Opioid Analgetika | Cannabinoid | Nabiximols (Sativex), Dronabinol | | | | | | |
+| Nicht-Opioid Analgetika | Cannabinoid | Nabilon, Nabiximols (Sativex), Dronabinol | | | | | | |
 | Koanalgetika | Kortikoide | | antiödematös, antiphlogistisch, antiemetisch, Appetit anregend | ödembedingte Nervenkompression z.B. durch Tumor, Hirnödem | | | | |
 | Koanalgetika | Bisphosphonate | | | Tumor-induzierte Hypercalcämie, Metastasen-bedingte Knochenschmerzen | | | | |
 | RAAS Inhibitoren | Renin-Inhibitoren | Aliskiren | hemmmt Renin Freisetzung | Hypertonie | Hyperkaliämie, Diarrhoe, Schwindel, Arthralgie | ACE-Hemmer, AT1-Antagonisten | | |
@@ -196,6 +196,7 @@ layout = "indexpage-fluid"
 | Betalactamase-Inhibitoren | | Tazobactam | | kombiniert mit Piperacillin | | | | |
 | Betalactamase-Inhibitoren | | Avibactam | | kombiniert mit Ceftazidim | | | | |
 | Antibiotika | Carbapeneme | Imipenem, Meropenem, Ertapenem | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+, G-, Aa | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | Reserve-AB für lebensbedrohliche Infekte, meist gegen 3-MRGN wirksam |
+| Antibiotika | Monobactame | Aztreonam | | G- | | | | |
 | Antibiotika | Glykopeptide | Vancomycin, Teicoplanin | Zellwand- und Membransynthesehemmstoff, Bindung an D-Ala-D-Ala | G+ | Nephrotoxizität, Ototoxizität, Hypotonie | Res.: verändertes Peptid (D-Ser oder D-Lact) | | Reserve-AB für MRSA, pseudomembranöse Colitis |
 | Antibiotika | Epoxide | Fosfomycin | Zellwand- und Membransynthesehemmstoff, Hemmung der N-Acetyl-Muraminsäure Bildung (Mureinsynthese) | G+, G-, Einmalgabe bei HWI als Fosfomycin-Trometanol | GI | Res.: verminderte Aufnahme oder Inaktivierung von Fosfomycin | | Reserve-AB für lebensbedrohliche Infekte |
 | Antibiotika | Lipopeptide | Daptomycin | Porenbildung in Zellmembran, bakterizid (primär) | G+ | Myotoxizität, GI, allergische Reaktionen | Res.: Veränderung der Membran | | S. aureus Infekte |
@@ -328,7 +329,8 @@ layout = "indexpage-fluid"
 | Lipidsenker | Cholesterin-Resorptionshemmer | Ezetimib (Prodrug), beta-Sitosterin | Reduktion des Cholesterin-Spiegel um bis zu 20% | | Kopf- und Bauchschmerzen, Diarrhoe | Colestyramin und Antazida reduzieren Wirkung | | |
 | Lipidsenker | PCSK9-Inhibitoren | Alirocumab, Evolocumab | verhindert Recycling von LDL Rezeptoren auf Hepatozyten -> Anzahl erhöht, LDL um bis zu 70% reduziert | | | | | |
 | Lipidsenker | Fibrate | Suffix *-fibrat*, Gemfibrozil | PPARalpha Agonisten: Senkung der Synthese und Freisetzung von VLDL, Erhöhung des LDL Abbau, Erhöhung der HDL (durch Synthese von APO AI, AII) -> TG um bis zu 40% und LDL um bis zu 20% gesenkt, HDL um ca. 10% erhöht  | Lipidsenker 2. Wahl | GI, Lithogenität der Galle erhöht | Kombination mit Statinen riskant, teils schwere NW; Verstärkte Wirkung von oralen Antikoagulantien | | |
-| Heparin-Antidot | | Protamin | 1g neutralisiert 100 I.E. Heparin | | | | | |
+| Antidot | Heparin | Protamin | 1g neutralisiert 100 I.E. Heparin | | | | | |
+| Antidot | Blausäure, Cyanide | Hydroxocobalamin, Natriumthiosulfat, Dimethylamidphenol (DMAP) | | | | | | |
 | Lokalanästhetika | Kokain | Procain | wirkt bis zu 30-60 Minuten | | | | | |
 | Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten | | | | | |
 | Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten | | | | | |
@@ -338,6 +340,35 @@ layout = "indexpage-fluid"
 | Aldosteronanalogon | | Fludricortison | bindet an Mineralkortikoidrezeptoren -> gesteigerte Reabsorption von Na+ und Cl- in Niere -> Blutvolumen und -druck Steigerung | Morbus Addison | | | | |
 | Vasodilatoren | | Minoxidil | antihypertonisch; enthält NO -> vasodilatierend; öffnet Kaliumkanäle | | | | | |
 | Toxin | Zootoxin | Tetrodotoxin | Natriumkanalblocker, extrem starke Bindung -> Blockade des peripheren NS -> Atemstillstand, Blutdruckkrise | | | | | |
+| Chelatbildner | | Dimercaptopropansulfonsäure (DMPS), Deferoxamin, Penicillamin | Chelatbildung -> schnelle renale Elimination | DMPS: Schwermetalle, Deferoxamin: Eisen | | | | |
+| Chelatbildner | | Dimercaptobernsteinsäure (DMSA), Natrium-Calcium-Edeta (EDTA) | Chelatbildung -> schnelle renale Elimination | Arsen- oder Bleivergiftung | | | | |
+| Adsorbens | Aktivkohle (Carbo medicinalis) | | | lipophile Gifte | | | Lithium, Eisen, Säuren, Laugen | |
+| Emetikum / Expektorans | Brechwurzel (Ipecacuanha) | Cephalin, Ementin | | | | | Säuren, Lösungsmittel, geminderte Vigilanz | |
 | | | | | | | | | |
 
 {{</table >}}
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+<p>
+  <button class="btn btn-outline-dark btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#suffixe">
+    Liste mit Suffixen anzeigen
+  </button>
+</p>
+
+<div class="collapse mb-3" id="suffixe">
+
+{{<table id="suffixtable" class="table table-striped table-hover" >}}
+
+| Suffix | Wirkstoff |
+|--------|-----------|
+| -xaban | NOAK, Faktor-Xa-Inhibitoren |
+| -rudin | Hirudin und -derivate |
+| -stigmin | AChE-Hemmer |
+| -coxibe | NSAR, COX2-Hemmer |
+| -zolamid | Carbonanhydrase-Hemmer |
+| -terol | beta2-Agonisten |
+
+{{</table >}}
+
+</div>
