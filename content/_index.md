@@ -35,10 +35,10 @@ layout = "indexpage-fluid"
 | Parasympathomimetika | Muskarinrezeptor-Agonisten | Arecolin | ZNS-gängig | | | | | |
 | Parasympathomimetika | Muskarinrezeptor-Agonisten | Pilocarpin | ZNS-gängig, wirkt insbesondere auf Schweiß- und Speicheldrüsen | Glaukom, Schweißtest bei V.a. Mukoviszidose | | | | |
 | Parasympathomimetika | Muskarinrezeptor-Agonisten | Carbachol, Bethanechol | nicht ZNS-gänig | Darm- und Blasenantonie | | | | |
-| Parasympathomimetika | AChE-Inhibitoren | Physostigmin | ein Carbamat, ZNS-gängig | Einzigste Indikation: **Antidot bei zentralen Vergiftungen, "anticholinerges Syndrom"** | Bradykardie, GI | | | |
+| Parasympathomimetika | AChE-Inhibitoren | Physostigmin | ZNS-gängig, ein Carbamat | Einzigste Indikation: **Antidot bei zentralen Vergiftungen, "anticholinerges Syndrom"** | Bradykardie, GI | | | |
 | Parasympathomimetika | AChE-Inhibitoren | Neostigmin | nicht ZNS-gängig | Darm-/Blasenatonie, Intoxikation, Glaukom, Myasthenia gravis | | | | |
 | Parasympathomimetika | AChE-Inhibitoren | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer (heute wegen geringem Effekt überwiegen obsolet) | | | | |
-| Parasympathomimetika | Organophosphate | | Phosphorylierende Inhibitoren: irreversible Blockade der AChE | hohe Dosen Atropin, Acetylcholin-Vergiftung | | | | |
+| Parasympathomimetika | AChE-Inhibitoren | Organophosphate | Phosphorylierende Inhibitoren: irreversible Blockade der AChE | hohe Dosen Atropin, Acetylcholin-Vergiftung | | | | |
 | Parasympatholytika | | Hemicholinium | Cholin-Wiederaufnahme Hemmer -> Acetylcholin kann weniger schnell neu bereitgestellt werden | | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonisten | Atropin | | | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch (Kinetose Prophylaxe) | | | | |
@@ -200,14 +200,14 @@ layout = "indexpage-fluid"
 | Betalactamase-Inhibitoren | | Avibactam | | kombiniert mit Ceftazidim | | | | |
 | Antibiotika | Carbapeneme | Imipenem, Meropenem, Ertapenem | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+, G-, Aa | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | Reserve-AB für lebensbedrohliche Infekte, meist gegen 3-MRGN wirksam |
 | Antibiotika | Monobactame | Aztreonam | | G- | | | | |
-| Antibiotika | Glykopeptide | Vancomycin, Teicoplanin | Zellwand- und Membransynthesehemmstoff, Bindung an D-Ala-D-Ala | G+ | Nephrotoxizität, Ototoxizität, Hypotonie | Res.: verändertes Peptid (D-Ser oder D-Lact) | | Reserve-AB für MRSA, pseudomembranöse Colitis |
+| Antibiotika | Glykopeptide | Vancomycin, Teicoplanin | Zellwand- und Membransynthesehemmstoff, Bindung an D-Ala-D-Ala -> Transpeptidase (PBP) kann sich nicht anlagern | G+ | Nephrotoxizität, Ototoxizität, Hypotonie | Res.: verändertes Peptid (D-Ser oder D-Lact) | | Reserve-AB für MRSA, pseudomembranöse Colitis |
 | Antibiotika | Epoxide | Fosfomycin | Zellwand- und Membransynthesehemmstoff, Hemmung der N-Acetyl-Muraminsäure Bildung (Mureinsynthese) | G+, G-, Einmalgabe bei HWI als Fosfomycin-Trometanol | GI | Res.: verminderte Aufnahme oder Inaktivierung von Fosfomycin | | Reserve-AB für lebensbedrohliche Infekte |
 | Antibiotika | Lipopeptide | Daptomycin | Porenbildung in Zellmembran, bakterizid (primär) | G+ | Myotoxizität, GI, allergische Reaktionen | Res.: Veränderung der Membran | | S. aureus Infekte |
 | Antibiotika | Polypeptide | Colistin, Polymyxin B | Schädigung der Membran von G- Bakterien, bakterizid (primär) | G- | Neurotoxizität, Nephrotoxizität, allergische Reaktionen | Res.: Veränderung von LPS (durch MCR-1) in der äußeren Membran | | Reserve-AB für Pseudomonas- und Klebsellien-Infekte |
 | Antibiotika | Oxazolidinone | Linezolid | Hemmung der Bildung des Initiationskomplex | G+ | GI, Hepatotoxizität  | Res.: Veränderung der 23S-rRNA | | Reserve-AB für MRSA- und VRE-Infekte |
 | Antibiotika | Aminoglykoside | Gentamycin, Amicacin, Tobramycin, Paromomycin, Streptomycin | Bindung an 30S-UE, bakterizid (primär) | (G+), G-, **nur Aerobier** | Neurotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
 | Antibiotika | Tetracycline | Doxycyclin, Minocyclin, Tigecyclin (Tetracyclin-Derivat), Oxytetracyclin | Bindung an 30S-UE, bakteriostatisch | (G+), (G-), atypische (Mykoplasmen, Chlamydien, Legionellen) | GI, Phototoxizität, Einlagerung in Knochen und Zähne, Hepato- / Nephrotoxizität | Res.: Aktiver Auswärtstransport, Veränderung des 30S-Ribosoms | Schwangerschaft, Stillzeit, **Kinder bis zum 8. Lebensjahri**, Leber- / Niereninsuffizienz | bei Atemwegsinfektionen, Urogenitalinfektionen, Borreliose, Cholera |
-| Antibiotika | Amphenicole | Chloramphenicol | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, G-, Aa, atypische | Knochenmarksschädigung, Neurotoxizität | Veränderung des AB | | Reserve-AB für lebensbedrohliche Erkrankungen |
+| Antibiotika | Amphenicole | Chloramphenicol | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, G-, Aa, atypische | Knochenmarksschädigung, Neurotoxizität | Veränderung des AB | | Reserve-AB für lebensbedrohliche Erkrankungen; auch Reserve wegen Toxizität |
 | Antibiotika | Makrolide | Erythromycin, Clarithromycin, Azithromycin | Proteinsynthesehemmstoff, Bindung an 50S-UE | G+ Kokken und Stäbchen, (G- Kokken), atypische | GI, CYP3A4 Hemmung | | | |
 | Antibiotika | Lincosamide | Clindamycin | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, Aa | GI, pseudomembranöse Colitis, Osteomyelitis (Clindamycin **erreicht hohe Konzentrationen im Knochen**) | Methylierung der 23S-rRNA, aktiver Auswärtstransport | | |
 | Antibiotika | Streptogramine | Dalfopristin, Quinopristin | Proteinsynthesehemmstoff, Bindung an 50S-UE | G+ | GI, Myalgie / Arthralgie, CYP3A4 Hemmung | Methylierung der 23S-rRNA | | Reserve-AB für Infektionen mit multiresistenten G+ |
@@ -251,7 +251,7 @@ layout = "indexpage-fluid"
 | Immunsuppressiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
 | Immunsuppressiva | Calcineurin-Inhibitoren | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
 | Immunsuppressiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
-| Immunsuppressiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid (Contergan), Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom | | | | |
+| Immunsuppressiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid (Handelsname: Thalidomide Celgene; früher Contergan), Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom | | | | |
 | Zytostatika | Platinverbindungen | Cisplatin, Carboplatin, Oxaliplatin | | | | | | |
 | Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | | | | |
 | Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat | Hemmung der Thymidin-Synthese | | | | | |
