@@ -65,7 +65,7 @@ layout = "indexpage-fluid"
 | Sympatholytika | alpha-Blocker | Phenoxybenzamin | irreversible alpha1- und alpha2-Blockade | präoperativ bei Phäochromozytom | | | | |
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie (keine 1. Wahl!), Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
-| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA) und wird auch für Therapie bei Serotonoergem Syndrom genutzt; Sotalol hemmt auch K-Kanal | Hypertonie, KHK, chronische HI; Timolol bei Glaukom-Therapie | | | | |
+| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA) und wird auch für Therapie bei Serotonoergem Syndrom genutzt; Sotalol hemmt auch K-Kanal | Hypertonie, KHK, chronische HI; Timolol bei Glaukom-Therapie | Sotalol: Torsade de Pointes (Spitzenumkehr-Tachykardie) | | | |
 | Sympatholytika | beta-Blocker, 2. Generation, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | Bisoprolol wird nicht über CYP2D6 verstoffwechselt |
 | Sympatholytika | beta-Blocker, 3. Generation | Carteolol | **auch NO Donator** -> vasodilatierend, ISA | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | **auch Ca-Antagonsist**, blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | |
@@ -78,11 +78,12 @@ layout = "indexpage-fluid"
 | Herzglykoside | Cardenolide | Digoxin, Digitoxin | Hemmung der Na-K-ATPase -> mehr Na intrazellulär -> positiv inotrop, negativ dromotrop | HI, tachykardes Vorhofflimmern | | | | |
 | Methylxanthine | | Theophylin | Antagonistisch an Adenosinrezeptoren, kompetitive Hemmung der PDE -> Erhöhung cAMP | Asthma, COPD | | Abbau durch CYP450 in Leber -> Wechselwirkungen e.g. mit AB | | |
 | PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Ausscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | COPD | | | | |
+| PDE-Inhibitoren | PDE-5-Inhibitoren | Tadalafil, Sildenafil | | | | | | |
 | Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor (CYSLTR1); Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | als Kombinationspräparat mit inhalativen Corticosterioiden bei Asthma und allergischer Rhinits; Neurodermitis, Urtikaria | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | |
 | "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
 | IgE-Antikörper | | Omalizumab | | schweres persistierendes Asthma | | | | |
 | IL-5-Antikörper | | Mepolizumab | | schweres persistierendes Asthma | | | | |
-| Antikörper | | Trastuzumab | hemmt HER2/neu Aktivierung | Mamma-Ca | Kardiotoxisch | | | |
+| Antikörper | | Trastuzumab | hemmt HER2/neu Aktivierung | Mamma-Ca | Kardiotoxisch | | | In Form von Trastuzumab-Emtansin als Konjugat mit dem Mitosehemmstoff Mertansin (DM1) |
 | Antikörper | | Bevacizumab | VEGF-Inhibitor, bindet an VGEF und verhindert Interaktion mit Rezeptoren -> Hemmung der Angiogenese | | | | | |
 | Antikörper | | Blinatumomab | Anti-CD19-AK, aktiviert CD3-positive T-Zellen | ALL | | | | |
 | Antikörper | | Catumaxumab | Trifunktionaler AK, bindet gleichzeitig: EPCAM (Adhäsionsmolekül einer Tumorzelle), CD3 und Fcgamma-Rezeptor (auf Makrophagen, dendritischen Zellen oder NK-Zellen) | Karzinome, die zu Aszites führen | | | | |
@@ -107,7 +108,9 @@ layout = "indexpage-fluid"
 | Atypische Antipsychotika | Trizyklische | Olanzapin | Dopamin- / Serotonin-Antagonist | | sehr starke Gewichtszunahme (da H1-Antagonist), (EPS) | | | |
 | Atypische Antipsychotika | Benzamide | Amisulprid | Dopamin- / Serotonin-Antagonist | | | | | |
 | Atypische Antipsychotika | | Aripiprazol | Dopamin- / Serotonin-Antagonist | | | | | |
+| Dopamin-Agonisten | | | Bromocriptin | | Malignes neuroleptisches Syndrom | | | |
 | Antidepressiva | | Brexanolon (aka Allopregnanolon) | | Postpartale Depression | | | | In den USA aber nicht Deutschland zugelassen |
+| Antidepressiva | Johanniskraut (Hypericum perforatum) | Hyperforin, Hypericin | Hyperforin: Hemmung der Wiederaufnahme von NA, DA, 5-HT, GABA, Glutamat; Hypericin: MAO-Hemmung | | | Enzyminduktion von CYP3A4 | | |
 | Benzodiazepine (positive allosterische Modulation von GABA-Rezeptoren -> erhöhte Öffnungswahrscheinlichkeit, verstärkte Wirkung von GABA (Chlorid-Einstrom -> Hyperpolarisation)) | kurzanhaltend | Brotizolam, Triazolam | | Anästhesiologie, Schlafstörung | | | | |
 | Benzodiazepine | kurzanhaltend | Midazolam (Dormicum) | | Anästhesiologie, Schlafstörung | Atemdepression | | | |
 | Benzodiazepine | mittellanganhaltend | Bromazepam, Flunitrazepam, Lormetazepam, Termazepam | | | | | | |
@@ -148,14 +151,14 @@ layout = "indexpage-fluid"
 | Opioide | WHO3 | Loperamid | Pethidin-Derivat, hohe Affinität zu MOP | Antidiarrhoikum | | | | |
 | Opioide | WHO3 / Partielle Agonisten | Buprenorphin | Partialagonist an MOP, Antagonist an DOP, langsame Dissoziation vom Rezeptor, hoher First-Pass-Effekt | Applikation sublingual oder als Pflaster bei starken Schmerzen, Substitutionstherapie mit Naloxon | | | | |
 | Opioide | Partielle Agonisten | Nalbuphin | Partialagonist an MOP, Antagonist an KOP | Analgesie bei Geburtshilfe | | | | |
-| Opioide | Antagonisten | Naloxon | Antidot | Intoxikation | | | | |
+| Opioide | Antagonisten | Naloxon | Antidot | Intoxikation, Suchtprävention | | | | |
 | Opioide | Antagonisten | Naltrexon | Antidot, wie Nalaxon aber mit längerer HWZ (24-48h) | Rückfallprophylaxe | Hepatotoxizität | | | |
-| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | ASS | Irreversible Hemmung präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | GI, Blutung, Niere | | Kinder | Kinetik nullter Ordnung -> Kumulationsgefahr |
-| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | ASS, Ibuprofen, Naproxen, Indometacin, Piroxicam | präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
-| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Analgetisch | Paracetamol | präferenziell COX2 | Anwendung in: Pädiatrie, Schwangerschaft, Stillzeit | Hepatotoxizität | | | Antidot bei Überdosierung ist Acetylcystein (ACC), nur effektiv bei Gabe innerhalb von ca. 8 Stunden nach Paracetamolaufnahme |
-| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | Meloxicam, Diclofenac (Handelsname: Voltaren) | präferenziell COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
-| Nicht-Opioid Analgetika / NSAR | Antipyretisch | Metamizol (Handelsname: Novalgin) | unselektiv COX1/COX2, **spasmolytisch** | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | Agranulozytose, Anaphylaktischer Schock bei oraler Gabe | | | |
-| Nicht-Opioid Analgetika / NSAR | Antipyretisch, Antiphlogistisch | *-coxibe* | Selektive Hemmung COX2 | Arthrose, rheumatische Arthritis, postoperativ | MI, Apoplex | | | |
+| Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | ASS | Irreversible Hemmung präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | GI, Blutung, Niere | | Kinder | Kinetik nullter Ordnung -> Kumulationsgefahr |
+| Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | ASS, Ibuprofen, Naproxen, Indometacin, Piroxicam | präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
+| Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Analgetisch | Paracetamol | präferenziell COX2 | Anwendung in: Pädiatrie, Schwangerschaft, Stillzeit | Hepatotoxizität | | | Antidot bei Überdosierung ist Acetylcystein (ACC), nur effektiv bei Gabe innerhalb von ca. 8 Stunden nach Paracetamolaufnahme |
+| Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | Meloxicam, Diclofenac (Handelsname: Voltaren) | präferenziell COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
+| Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch | Metamizol (Handelsname: Novalgin) | unselektiv COX1/COX2, **spasmolytisch** | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | Agranulozytose, Anaphylaktischer Schock bei oraler Gabe | | | |
+| Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | *-coxibe* | Selektive Hemmung COX2 | Arthrose, rheumatische Arthritis, postoperativ | MI, Apoplex | | | |
 | Nicht-Opioid Analgetika | Analgetisch | Flupirtin | | | Hepatotoxizität | | | Seit 2018 nicht mehr zugelassen! |
 | Nicht-Opioid Analgetika | Analgetisch | Capsaicin | TRPV1-Agonist -> Freisetzung von Substanz P (Hitzegefühlt) -> Desensitierung | lokale Schmerzbehandlung, neuropatische Schmerzen | Hautrötung, Brennschmerz | | | |
 | Nicht-Opioid Analgetika | Conotoxin | Ziconotid | Ca-Kanal-Block | Schwere chronische Schmerzen | | | | |
@@ -179,7 +182,7 @@ layout = "indexpage-fluid"
 | Diuretika | Kalium-sparende Diuretika, Aldosteronantagonisten | Epleronon, Spironolacton, Canrenon | | | | | | |
 | Diuretika | Kalium-sparende Diuretika, Hemmer des epithelialen Natrium-Kanals | Triamteren, Amilorid | | | | | | |
 | Diuretika | V2-Rezeptorantagonisten (Vaptane) | Tolvapten | | Hyponatriämie als sekundäre Folge des Syndroms der inadäquaten ADH Sekretion (SIADH), autosomal-dominante polyzystische Nierenerkrankung (ADPKD) | rasche Anstieg des Na-Spiegel, Durst, Übelkeit, Hypernatriämie, Hyperurikämie, selten Leberschädigung | | | |
-| Glucocorticoide | Inhalativ | Beclometason, Fluticason, Budesonid | antiphlogistisch, Steigerung der mukoziliären Clearance, verstärkte Wirkung von beta2-Sympathomimetika (Kombi-Therapie) | i.V. bei akutem Asthmaanfall | Mundtrockenheit | | | |
+| Glucocorticoide | Inhalativ | Beclometason (aka Beclomethason), Fluticason, Budesonid, Flunisolid | antiphlogistisch, Steigerung der mukoziliären Clearance, verstärkte Wirkung von beta2-Sympathomimetika (Kombi-Therapie) | i.V. bei akutem Asthmaanfall | Mundtrockenheit | | | |
 | Antidiarrhoikum | Opioid | Loperamid | m-Agonist, nicht ZNS-gängig | Durchfall | Somnolenz, Obstipation, Übelkeit | | | |
 | Bradykininrezeptorantagonisten | | Icatibant | selektive und kompetitive Hemmung des Bradykinin-B2-Rezeptoren | Therapie des hereditärem Angioödem (HAE) | | | | |
 | Antibiotika | Penicilline (Benzylpenicilline) | Penicillin G und V | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+ | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
@@ -280,15 +283,15 @@ layout = "indexpage-fluid"
 | Insuline | schnellwirksam | Insulin Lispro, Insulin Aspart, Insulin Glulisin | Beginn 5-15min, Dauer ca. 2-3h | | | | | |
 | Insuline | langwirksam | Insulin Detemir (Fettsäure, bindet an Albumin), Insulin Glargin (Bildung von Präzipitaten an Injektionsstelle), Insulin Degludeg (Threonin B30 entfernt, mit Fettsäuremodifikation) | Beginn ca. 2-4h, Dauer ca. 24h | | | | | |
 | Insuline | Neutral Protamin Hagedorn (NPH) | NPH | ebenfalls 10-20h langwirksam | | | | | |
-| Säurehemmer | HT2-Rezeptorantagonisten | Ranitidin, Famotidin, Nizatidin, Roxatidinacetat, Cimetidin (obsolet wg. UEW) | | Magensäuresenkung (Mittel 2. Wahl) | Kopfschmerz, Übelkeit, Erbrechen, Juckreiz, Libidoverlust, Gynäkomastie, Hemmung CYP450 | | | |
+| Säurehemmer | H2-Rezeptorantagonisten | Ranitidin, Famotidin, Nizatidin, Roxatidinacetat, Cimetidin (obsolet wg. UEW) | | Magensäuresenkung (Mittel 2. Wahl) | Kopfschmerz, Übelkeit, Erbrechen, Juckreiz, Libidoverlust, Gynäkomastie, Hemmung CYP450 | | | |
 | Säurehemmer | PPI | Suffix *-prazol*, Omeprazol, Pantoprazol, Lansoprazol, Rabeprazol | Prodrug: nach enteraler Resorption (Magensäure-resistente Kapseln) über Blut zu Belegzellen | Dyspepsie, Ulcus duodeni und ventriculi, Refluxösophagitis, Zollinger-Ellison-Syndrom (Übersekretion von Gastrin) | | | CYP2C19 / CYP3A4 Interaktion | |
 | Säurehemmer | Antazida (Antazidum) | Natriumhydrogencarbonat, Magnesiumcarbonat, Calciumcarbonat, Aluminiumhydroxid, Magnesiumhydroxid, Al-Mg-Silikathydrat (Komplexverbindungen, Schichtgitterantazida) | | | | | | |
 | Säurehemmer | Protein-Komplexbildner | Sucralfat | bildet Komplexverbindung auf Ulcusoberfläche, verhindert Angriff von HCL | | Obstipation | Tetrazyklin-Komplexe nicht resorbierbar | NI, Enzephalopathie | |
 | Säurehemmer | | Misoprostol | PGE2-Analogon, hemmt HCL-Sekretion, verstärkt Schleimsekretion | | Durchfälle, Magen- und Darmkrämpfe | | Schwangerschaft | |
 | Säurehemmer | | Proglumid | Gastrinantagonist (therapeutischer Wert umstritten) | | | | | |
 | Antiemetika | H1-Blocker | Dimenhydrinat (Handelsname: Vomex) | | | | | | |
-| Antiemetika | 5-HT3-Rezeptorantagonisten (Setrone) | Granisetron, Ondansetron, Tropisetron, Palonosetron | | Zytostatika- und Strahlentherapie-induziertes Erbrechen, postoperatives Erbrechen, (Hyperemesis gravidarum) | | | | |
-| Antiemetika | Dopaminrezeptor-Antagonisten - Neuroleptika | Haloperiodol, Droperidol, Perphenazin, Promethazin, Sulpirid, Prochlorperazin | | Übelkeit und Ebrechen (bei Nichtwirksamkeit von Alternativen), Opioid-indziertes Erbrechen, postoperatives Erbrechen, Morbus Meniere | | | | |
+| Antiemetika | 5-HT3-Rezeptorantagonisten (Setrone) | Granisetron, Ondansetron, Tropisetron, Palonosetron | 5-HT3 ist ligandengesteuerter Na-K-Kanal, einziger nicht G-Protein gekoppelter Serotoninrezeptor | Zytostatika- und Strahlentherapie-induziertes Erbrechen, postoperatives Erbrechen, (Hyperemesis gravidarum) | | | | |
+| Antiemetika | Dopaminrezeptor-Antagonisten - Neuroleptika | Haloperidol, Droperidol, Perphenazin, Promethazin, Sulpirid, Prochlorperazin | | Übelkeit und Ebrechen (bei Nichtwirksamkeit von Alternativen), Opioid-indziertes Erbrechen, postoperatives Erbrechen, Morbus Meniere | | | | |
 | Laxantien | Anorganische Salze (Osmotika) | Bittersalz, Glaubersalz, NaH2PO4 + NaHPO4 | | | Belastung mit Na+/Mg++ Ionen | | | |
 | Laxantien | Zucker, Zuckeralkohole | Lactose, Lactulose, Lacitol, Sorbitol, Mannitol | | | Blähungen | | | |
 | Laxantien | Polyethylenglykole | Macrogol 3350 und 4000 | werden nicht resorbiert -> osmotisch wirksam | | | | | |
@@ -301,6 +304,7 @@ layout = "indexpage-fluid"
 | Antimikrobielle Peptide | Cathelicidine | | | | | | | https://de.wikipedia.org/wiki/Cathelicidine |
 | GnRH | Agonisten | Suffix *-relin* | | | | | | |
 | GnRH | Antagonisten | Suffix *-relix* | | | | | | |
+| Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Suffix *-ifen* | | | | | | |
 | Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Clomifen | | Ovaluatiosinduktion | | | | |
 | Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Tamoxifen, Toremifen | | Adjuvant Mamma-Ca | Thromboembolie, Tamoxifen: Risiko Endometriumkarzinom | | | |
 | Estrogen-Inhibitoren | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) | Raloxifen | | östrogenagonistische Wirkung zur Osteoporosebehandlung | Thromboembolie, Apoplex | | | |
@@ -320,12 +324,14 @@ layout = "indexpage-fluid"
 | Androgen-Inhibitoren | Androgen-Biosynthese-Inhibitor | Abirateronacetat | | | | | | |
 | Androgen-Inhibitoren | Androgen-Rezeptorantagonisten | Flutamid, Biclutamid, Enzalutamid | | Prostatakarzinom, Hypersexualität, bei Frauen: androgenetische Alopezie, Hirsutismus | | | | |
 | Androgen-Inhibitoren | 5alpha-Reduktase-Hemmer | Finasterid, Dutasterid | | androgenetische Alopezie, benigne Prostatahyperplasie | | | | |
-| Gestagene | Progesteronderivate | Cyproteronacetat, Medroxyprogacetat, Megestrolacetat | | | | | | |
+| Gestagene | Progesteronderivate | Cyproteronacetat, Medroxyprogesteronacetat, Megestrolacetat | | | | | | |
+| Gestagene | Norethisteron-Derivate (19-Nortestosteron-Derivate; Estrane) | Norethisteron | | | | | | |
+| Gestagene | Norgestrel-Derivate (Gonane) | Levonorgestrel | | | | | | |
 | Gestagene | Synthetisch | Levonorgestrel | | | | | | |
 | Gestagen-Inhibitoren | Selektive Progesteron Rezeptor-Modulatoren (SPRM) | Mifepriston ("Abtreibungspille"), Ulipristalacetat (Notfallkontrazeption) | | | | | | |
 | Toxizitätsprophylaxe | | Mesna, Amifostin | | adjuvante Gabe bei Chemotherapie | | | | |
 | Lipidsenker | Anionenaustauscherharze | Colestyramin, Colestipol | Hemmung der Gallensäurenresorption -> kompensatorischer LDL-Rezeptoranstieg in Leber + Induktion der HMG-CoA-Reduktase Aktivität | | sandiger Geschmack, Obstipation, verminderte Resorption fettlöslicher Vitamine | | | |
-| Lipidsenker | Statine | Lovastatin, Simvastatin, Atorvastatin, Cerivastatin, Rovusastatin, Fluvastatin, Pravastatin | Hemmung der HMG-CoA-Reduktase -> Reduktion des verfügbaren Cholesterin -> positiver Effekt auf Gefäße | | Konzentrationsschwäche, Schlafstörungen, Hepatitis / Erhöhung Leberwerte, Impotenz, GI, Myopathien bis hin zu Rhabdomyolyse | | | Verdopplung der Dosis führt zu ca. 6% LDL-Reduktion |
+| Lipidsenker | Statine | Lovastatin, Simvastatin, Atorvastatin, Cerivastatin, Rovusastatin, Fluvastatin, Pravastatin | Hemmung der HMG-CoA-Reduktase -> Reduktion des verfügbaren Cholesterin -> positiver Effekt auf Gefäße | | Konzentrationsschwäche, Schlafstörungen, Hepatitis / Erhöhung Leberwerte, Impotenz, GI, Myopathien bis hin zu Rhabdomyolyse | Pravastatin wird im Gegensatz zu anderen Statinen nicht über CYP3A4 verstoffwechselt | | Verdopplung der Dosis führt zu ca. 6% LDL-Reduktion |
 | Lipidsenker | Cholesterin-Resorptionshemmer | Ezetimib (Prodrug), beta-Sitosterin | Reduktion des Cholesterin-Spiegel um bis zu 20% | | Kopf- und Bauchschmerzen, Diarrhoe | Colestyramin und Antazida reduzieren Wirkung | | |
 | Lipidsenker | PCSK9-Inhibitoren | Alirocumab, Evolocumab | verhindert Recycling von LDL Rezeptoren auf Hepatozyten -> Anzahl erhöht, LDL um bis zu 70% reduziert | | | | | |
 | Lipidsenker | Fibrate | Suffix *-fibrat*, Gemfibrozil | PPARalpha Agonisten: Senkung der Synthese und Freisetzung von VLDL, Erhöhung des LDL Abbau, Erhöhung der HDL (durch Synthese von APO AI, AII) -> TG um bis zu 40% und LDL um bis zu 20% gesenkt, HDL um ca. 10% erhöht  | Lipidsenker 2. Wahl | GI, Lithogenität der Galle erhöht | Kombination mit Statinen riskant, teils schwere NW; Verstärkte Wirkung von oralen Antikoagulantien | | |
@@ -350,6 +356,8 @@ layout = "indexpage-fluid"
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
+<hr>
+
 <p>
   <button class="btn btn-outline-dark btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#suffixe">
     Liste mit Suffixen anzeigen
@@ -362,13 +370,25 @@ layout = "indexpage-fluid"
 
 | Suffix | Wirkstoff |
 |--------|-----------|
+| -cumab | PCSK9-Inhibitoren |
 | -xaban | NOAK, Faktor-Xa-Inhibitoren |
 | -rudin | Hirudin und -derivate |
 | -stigmin | AChE-Hemmer |
 | -coxibe | NSAR, COX2-Hemmer |
 | -zolamid | Carbonanhydrase-Hemmer |
+| -zolin (Ausnahme Cefazolin, ein Cephalosporin AB) | alpha-Agonisten |
+| -zosin | alpha1-Antagonisten |
 | -terol | beta2-Agonisten |
+| -gliptin | DPP4-Inhibitoren |
+| -tidin | H2-Rezeptorantagonisten |
+| -prazol (Ausnahme Aripiprazol, ein atypisches Antiphsychotika) | PPI |
+| -ifen | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) |
+| -tamid | Androgen-Rezeptorantagonisten |
 
 {{</table >}}
 
 </div>
+
+<hr>
+
+<p>Quellen: Wikipedia, AMBOSS, DocCheck</p>
