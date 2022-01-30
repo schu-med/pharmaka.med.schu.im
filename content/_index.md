@@ -45,7 +45,7 @@ layout = "indexpage-fluid"
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch (Kinetose Prophylaxe) | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Butylscopolamin | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Ipratropium | SAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
-| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Tiotriopium | LAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Tiotropium | LAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Benzatropin, Biperiden, Trihexphenidyl | | Parkinsonoide Neuroleptika-NW, nicht(!) für Therapie von Parkinson selbst | | | | |
 | Parasympatholytika / Muskelrelaxantien | Curare (Kompetitive ACh-Rezeptoren-Hemmer), nicht depolarisierend | Tubocurarin, Atracurium, Mivaucurium | kompetetive Hemmer des Acetylcholins an nikotinergen Rezeptoren der mot. Endplatte | | | | | Antidot: Chlolinesterase-Hemmer, Neostigmin |
 | Muskelrelaxantien | Depolarisierende Relaxantien | Succinylcholin | | RSI | | | | |
@@ -78,6 +78,7 @@ layout = "indexpage-fluid"
 | Sympatholytika | beta-Blocker, 3. Generation | Betaxolol | auch Ca-Antagonist | Glaukom | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Celiprolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Nebivolol | **auch NO Donator** -> vasodilatierend | | | | | |
+| Antiarrhythmikum | Klasse Ib | Lidocain | | | | | | |
 | Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Sotalol (auch beta-Blocker, siehe oben) | | | Torsade de pointes | CAVE: NI, wird kaum metabolisiert und zu ca. 90% renal eliminiert | Kombination mit anderen repolirations-verzögernden Pharmaka, Bradykardie, CAVE: Asthmatiker | |
 | Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Amiodaron | | | | Amiodaron hemmt CYP3A4, ungewünschte Effekt mit zum Beispiel Phenprocoumon (Abbau verlangsamt, Blutungsgefahr) | | |
 | Antisympathotonika | | Reserpin | Blockade der Wiederaufnahme von NA und Dopamin | | Orthostatische Dysregulation, Förderung Depression, GI | | | Gilt heute als obsolet (u.a. wegen UAW) |
@@ -261,7 +262,7 @@ layout = "indexpage-fluid"
 | Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Vinca-Alkaloide (Vincristin, Vinblastin, Vindesin, Vinorelbin, Vinflunin) , Estramustin, Ixabepilon, Eribulin | | Neurotoxizität, Myelosuppression | | | | | |
 | Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Taxane: Paclitaxel, Docetaxel, Cabazitaxel | | Myelosuppression, Neurotoxizität | | | | |
 | Zytostatika | Antimetaboliten | Mercaptopurin | Purinanaloga | Leukämien, Lymphome, Mamma-/Ovarialkarzinom | | | | |
-| Zytostatika | Antimetaboliten | Fluorouracil | Pyrimidinanaloga | | | | | |
+| Zytostatika | Antimetaboliten | 5-Fluorouracil | Pyrimidinanaloga, hemmt außerdem Thymidilat-Synthase | | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Thiotepa | | lokal bei Blasenkarzinom, Konditionierung vor Stammzelltransplantation | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Mitomycin C | | palliative Kombinationstherapie | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Ifosfamid | | | | | | |
@@ -345,7 +346,7 @@ layout = "indexpage-fluid"
 | Antidot | Heparin | Protamin | 1g neutralisiert 100 I.E. Heparin | | | | | |
 | Antidot | Blausäure, Cyanide | Hydroxocobalamin, Natriumthiosulfat, Dimethylamidphenol (DMAP) | | | | | | |
 | Lokalanästhetika | Kokain | Procain | wirkt bis zu 30-60 Minuten | | | | | |
-| Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten | | | | | |
+| Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten, blockiert Na-Kanäle und hemmt Schmerzauslösung | | | | | |
 | Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten | | | | | |
 | Anästhetikum | | Propofol | wirkt nur hypnotisch, nicht analgetisch | | | | | |
 | Anästhetikum | | Ketamin | Antagonismus am NMDA-Rezeptor (nicht-kompetitive Hemmung); auch analgetische Wirkkomponente | | | | | |
