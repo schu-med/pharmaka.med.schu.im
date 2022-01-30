@@ -11,17 +11,18 @@ layout = "indexpage-fluid"
 
 | System | Kategorie | Wirkstoff | Wirkung | Indikation | UAW | Wechselwirkungen / Resistenzmechanismus | Kontraindikation | Sonstiges |
 |--------|-----------|-----------|---------|------------|-----|------------------|------------------|-----------|
-| Thrombozyten-Aggregationshemmer | COX Inhibitor | Acetylsalicylsäure (ASS) | Irreversible COX-1/COX-2 Hemmung | ACS, Prophylaxe ACS, Prophylaxe TIA, Arterielle Intervention, pAVK | Blutungsneigung, GI, Ulzera, Nephropathie, Reye-Syndrom | Ibuprofen | Kinder, letztes Trimon | |
+| Thrombozyten-Aggregationshemmer | COX Inhibitor | Acetylsalicylsäure (ASS) | Irreversible COX-1/COX-2 Hemmung | ACS, Prophylaxe ACS, Prophylaxe TIA, Arterielle Intervention, pAVK, Langzeittherapie nach Stent OP | Blutungsneigung, GI, Ulzera, Nephropathie, Reye-Syndrom | Ibuprofen | Kinder, letztes Trimon | |
 | Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist | Clopidogrel | Irreversible P2Y12 Hemmung, Prodrug, Wirkmaximum nach 4-6 Tagen, schneller Wirkeintritt durch Aufsättigung | ACS, Prophylaxe ACS, Prophylaxe TIA, Arterielle Intervention, pAVK | Blutungsrisiko (Leukopenien, TTP) | CYP2C19 Hemmung | | |
 | Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist | Prasugrel | Irreversible P2Y12 Hemmung, Prodrug, Wirkmaximum nach 4-6 Tagen, schneller Wirkeintritt durch Aufsättigung | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | bessere Wahl im Vergleich mit Ticagrelor |
 | Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist | Ticagrelor | Reversible P2Y12 Hemmung, schneller Wirkeintritt, schneller Wirkverlust | ACS, Prophylaxe ACS, TIA, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | |
 | Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist | Cangrelor | Reversible P2Y12 Hemmung, schneller Wirkeintritt, schneller Wirkverlust | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | |
+| Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist | Ticlopidin | | | | | | Heute überwiegend obsolet und teils nicht mehr zugelassen -> stattdessen Ticagrelor, Cangrelor |
 | Thrombozyten-Aggregationshemmer | GPIIb/IIIa Antagonisten | Abciximab | Fab-Fragment eines chimären monoklonalen Antikörpers gegen GPIIa/IIIb | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | |
 | Thrombozyten-Aggregationshemmer | GPIIb/IIIa Antagonisten | Tirofiban, Eptifibatid | Kompetitive reversible Hemmung von GPIIa/IIIb | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | NI | |
 | Thrombozyten-Aggregationshemmer | PDE-Hemmer | Dipirydamol | PDE-Hemmung und Adenosintransporter-Block | TIA | | | | in Kombination mit ASS |
 | Thrombozyten-Aggregationshemmer | PDE-Hemmer | Cilostazol | PDE-Hemmung | pAVK | | | | |
 | Thrombozyten-Aggregationshemmer | PAR1-Antagonisten (Protease-aktivierter Rezeptor, Thrombinrezeptor) | Vorapaxar | | pAVK, ACS (Sekundärprävention) | | | | |
-| Indirekte Antikoagulantien | Heparine | UFH | Steigert Antithrombin Affinität um etwa den Faktor 1001 -> Inaktivierung von hauptsächlich Gerinnungsfaktoren IIa und Xa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT (Heparin-induzierte Thrombozytopenie), Osteoporose | | HIT II | Antidot Protmain |
+| Indirekte Antikoagulantien | Heparine | UFH | Steigert Antithrombin Affinität um etwa den Faktor 1000 -> Inaktivierung von hauptsächlich Gerinnungsfaktoren IIa und Xa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT (Heparin-induzierte Thrombozytopenie), Osteoporose | | HIT II | Antidot Protmain |
 | Indirekte Antikoagulantien | Heparine | NMH | Komplexbildung mit Antithrombin -> Inaktivierung von Xa > IIa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT, Osteoporose | | HIT II | |
 | Indirekte Antikoagulantien | Heparine | Fondaparinux | Komplexbildung mit Antithrombin -> Inaktivierung von Xa | Thromboseprophylaxe, ACS | weniger | | HIT II | |
 | Indirekte Antikoagulantien | Heparinoide | Danaparoid | Komplexbildung mit Antithrombin -> Inaktivierung von Xa >> IIa | HIT II | | | | Kein Antidot verfügbar! |
@@ -37,7 +38,7 @@ layout = "indexpage-fluid"
 | Parasympathomimetika | Muskarinrezeptor-Agonisten | Carbachol, Bethanechol | nicht ZNS-gänig | Darm- und Blasenantonie | | | | |
 | Parasympathomimetika | AChE-Inhibitoren | Physostigmin | ZNS-gängig, ein Carbamat | Einzigste Indikation: **Antidot bei zentralen Vergiftungen, "anticholinerges Syndrom"** | Bradykardie, GI | | | |
 | Parasympathomimetika | AChE-Inhibitoren | Neostigmin, Pyridostigmin | nicht ZNS-gängig | Darm-/Blasenatonie, Intoxikation, Glaukom, Myasthenia gravis | | | | |
-| Parasympathomimetika | AChE-Inhibitoren | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer (heute wegen geringem Effekt überwiegen obsolet) | | | | |
+| Parasympathomimetika | AChE-Inhibitoren | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer (heute wegen geringem Effekt überwiegend obsolet) | | | | |
 | Parasympathomimetika | AChE-Inhibitoren | Organophosphate | Phosphorylierende Inhibitoren: irreversible Blockade der AChE | hohe Dosen Atropin, Acetylcholin-Vergiftung | | | | |
 | Parasympatholytika | | Hemicholinium | Cholin-Wiederaufnahme Hemmer -> Acetylcholin kann weniger schnell neu bereitgestellt werden | | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonisten | Atropin | | | | | | |
@@ -48,6 +49,7 @@ layout = "indexpage-fluid"
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Benzatropin, Biperiden, Trihexphenidyl | | Parkinsonoide Neuroleptika-NW, nicht(!) für Therapie von Parkinson selbst | | | | |
 | Parasympatholytika / Muskelrelaxantien | Curare (Kompetitive ACh-Rezeptoren-Hemmer), nicht depolarisierend | Tubocurarin, Atracurium, Mivaucurium | kompetetive Hemmer des Acetylcholins an nikotinergen Rezeptoren der mot. Endplatte | | | | | Antidot: Chlolinesterase-Hemmer, Neostigmin |
 | Muskelrelaxantien | Depolarisierende Relaxantien | Succinylcholin | | RSI | | | | |
+| Muskelrelaxantien | Depolarisierende Relaxantien | Suxamethoniumchlorid | Agonistische Wirkung am nikotinerge ACh-Rezeptor -> Dauerdepolarisation; **nicht antagonisierbar** | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Mivacurium | kurz-wirksam | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Rocuronium, Atracurium, Cis-Atracurium, Vecuronium | Mittellang wirksam | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Pancuronium | lang-wirksam | | | | | |
@@ -109,7 +111,7 @@ layout = "indexpage-fluid"
 | Atypische Antipsychotika | Trizyklische | Olanzapin | Dopamin- / Serotonin-Antagonist | | sehr starke Gewichtszunahme (da H1-Antagonist), (EPS) | | | |
 | Atypische Antipsychotika | Benzamide | Amisulprid | Dopamin- / Serotonin-Antagonist | | | | | |
 | Atypische Antipsychotika | | Aripiprazol | Dopamin- / Serotonin-Antagonist | | | | | |
-| Dopamin-Agonisten | | | Bromocriptin | | Malignes neuroleptisches Syndrom | | | |
+| Dopamin-Agonisten | | Bromocriptin | | | Malignes neuroleptisches Syndrom | | | |
 | Antidepressiva | | Brexanolon (aka Allopregnanolon) | | Postpartale Depression | | | | In den USA aber nicht Deutschland zugelassen |
 | Antidepressiva | Johanniskraut (Hypericum perforatum) | Hyperforin, Hypericin | Hyperforin: Hemmung der Wiederaufnahme von NA, DA, 5-HT, GABA, Glutamat; Hypericin: MAO-Hemmung | | | Enzyminduktion von CYP3A4 | | |
 | Benzodiazepine (positive allosterische Modulation von GABA-Rezeptoren -> erhöhte Öffnungswahrscheinlichkeit, verstärkte Wirkung von GABA (Chlorid-Einstrom -> Hyperpolarisation)) | kurzanhaltend | Brotizolam, Triazolam | | Anästhesiologie, Schlafstörung | | | | |
@@ -117,7 +119,7 @@ layout = "indexpage-fluid"
 | Benzodiazepine | mittellanganhaltend | Bromazepam, Flunitrazepam, Lormetazepam, Termazepam | | | | | | |
 | Benzodiazepine | mittellanganhaltend | Alprazolam | | anxiolytisch | | | | |
 | Benzodiazepine | mittellanganhaltend | Lorazepam (Tavor) | | anxiolytisch, u.a. Therapie Serotonerges Syndrom | | | | |
-| Benzodiazepine | mittellanganhaltend | Oxazepam | | anxiolytisch | | | | |
+| Benzodiazepine | mittellanganhaltend | Oxazepam (ein aktiver Metabolit von Diazepam) | | anxiolytisch | | | | Wird in Leber unabhängig(!) von CYP metabolisiert (glucuronidiert) und renal ausgeschieden |
 | Benzodiazepine | langanhaltend | Chloridazepoxid, Clobazam, Nitrazepam, Tetrazepam (seit 2013 nicht mehr zugelassen) | | | | | | |
 | Benzodiazepine | langanhaltend | Clotiazepam, Flurazepam | lange HWZ der Metabolite | | | | | |
 | Benzodiazepine | langanhaltend | Clonazepam | antikonvulsiv | | | | | |
@@ -158,7 +160,7 @@ layout = "indexpage-fluid"
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | ASS, Ibuprofen, Naproxen, Indometacin, Piroxicam | präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Analgetisch | Paracetamol | präferenziell COX2 | Anwendung in: Pädiatrie, Schwangerschaft, Stillzeit | Hepatotoxizität | | | Antidot bei Überdosierung ist Acetylcystein (ACC), nur effektiv bei Gabe innerhalb von ca. 8 Stunden nach Paracetamolaufnahme |
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | Meloxicam, Diclofenac (Handelsname: Voltaren) | präferenziell COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
-| Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch | Metamizol (Handelsname: Novalgin) | unselektiv COX1/COX2, **spasmolytisch** | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | Agranulozytose, Anaphylaktischer Schock bei oraler Gabe | | | |
+| Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch | Metamizol (Handelsname: Novalgin) | unselektiv COX1/COX2, **spasmolytisch** | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | **Agranulozytose**, Anaphylaktischer Schock bei oraler Gabe | | | |
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | *-coxibe* | Selektive Hemmung COX2 | Arthrose, rheumatische Arthritis, postoperativ | MI, Apoplex | | | |
 | Nicht-Opioid Analgetika | Analgetisch | Flupirtin | öffnet K-Kanal -> Ruhemembranpotential wird stabilisiert -> Hemmung der Schmerzweiterleitung | | Hepatotoxizität | | | Seit 2018 nicht mehr zugelassen! |
 | Nicht-Opioid Analgetika | Analgetisch | Capsaicin | TRPV1-Agonist -> Freisetzung von Substanz P (Hitzegefühl) -> Desensivierung | lokale Schmerzbehandlung, neuropatische Schmerzen | Hautrötung, Brennschmerz | | | |
@@ -207,7 +209,7 @@ layout = "indexpage-fluid"
 | Antibiotika | Polypeptide | Colistin, Polymyxin B | Schädigung der Membran von G- Bakterien, bakterizid (primär) | G- | Neurotoxizität, Nephrotoxizität, allergische Reaktionen | Res.: Veränderung von LPS (durch MCR-1) in der äußeren Membran | | Reserve-AB für Pseudomonas- und Klebsellien-Infekte |
 | Antibiotika | Oxazolidinone | Linezolid | Hemmung der Bildung des Initiationskomplex | G+ | GI, Hepatotoxizität  | Res.: Veränderung der 23S-rRNA | | Reserve-AB für MRSA- und VRE-Infekte |
 | Antibiotika | Aminoglykoside | Gentamycin, Amicacin, Tobramycin, Paromomycin, Streptomycin | Bindung an 30S-UE, bakterizid (primär) | (G+), G-, **nur Aerobier** | Neurotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
-| Antibiotika | Tetracycline | Doxycyclin, Minocyclin, Tigecyclin (Tetracyclin-Derivat), Oxytetracyclin | Bindung an 30S-UE, bakteriostatisch | (G+), (G-), atypische (Mykoplasmen, Chlamydien, Legionellen) | GI, Phototoxizität, Einlagerung in Knochen und Zähne, Hepato- / Nephrotoxizität | Res.: Aktiver Auswärtstransport, Veränderung des 30S-Ribosoms | Schwangerschaft, Stillzeit, **Kinder bis zum 8. Lebensjahri**, Leber- / Niereninsuffizienz | bei Atemwegsinfektionen, Urogenitalinfektionen, Borreliose, Cholera; auch off-label als Malaria-Prophylaxe |
+| Antibiotika | Tetracycline | Doxycyclin, Minocyclin, Tigecyclin (Tetracyclin-Derivat), Oxytetracyclin | Bindung an 30S-UE, bakteriostatisch | (G+), (G-), atypische (Mykoplasmen, Chlamydien, Legionellen) | GI, Phototoxizität, Einlagerung in Knochen und Zähne, Hepato- / Nephrotoxizität | Res.: Aktiver Auswärtstransport, Veränderung des 30S-Ribosoms | Schwangerschaft, Stillzeit, **Kinder bis zum 8. Lebensjahr**, Leber- / Niereninsuffizienz | bei Atemwegsinfektionen, Urogenitalinfektionen, Borreliose, Cholera; auch off-label als Malaria-Prophylaxe |
 | Antibiotika | Amphenicole | Chloramphenicol | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, G-, Aa, atypische | Knochenmarksschädigung, Neurotoxizität | Veränderung des AB | | Reserve-AB für lebensbedrohliche Erkrankungen; auch Reserve wegen Toxizität |
 | Antibiotika | Makrolide | Erythromycin, Clarithromycin, Azithromycin | Proteinsynthesehemmstoff, Bindung an 50S-UE | G+ Kokken und Stäbchen, (G- Kokken), atypische | GI, CYP3A4 Hemmung, Hepatotoxizität, **QT-Zeit-Verlängerung** | | | |
 | Antibiotika | Lincosamide | Clindamycin | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, Aa | GI, pseudomembranöse Colitis, Osteomyelitis (Clindamycin **erreicht hohe Konzentrationen im Knochen**) | Methylierung der 23S-rRNA, aktiver Auswärtstransport | | |
@@ -335,7 +337,7 @@ layout = "indexpage-fluid"
 | Gestagen-Inhibitoren | Selektive Progesteron Rezeptor-Modulatoren (SPRM) | Mifepriston ("Abtreibungspille"), Ulipristalacetat (Notfallkontrazeption) | | | | | | |
 | Toxizitätsprophylaxe | | Mesna, Amifostin | | adjuvante Gabe bei Chemotherapie | | | | |
 | Lipidsenker | Anionenaustauscherharze | Colestyramin, Colestipol | Hemmung der Gallensäurenresorption -> kompensatorischer LDL-Rezeptoranstieg in Leber + Induktion der HMG-CoA-Reduktase Aktivität | | sandiger Geschmack, Obstipation, verminderte Resorption fettlöslicher Vitamine | | | |
-| Lipidsenker | HMG-CoA-Reduktase Hemmer (CSE Cholesterin-Synthese-Enzym Hemmer, Statine) | Lovastatin, Simvastatin, Atorvastatin, Cerivastatin, Rovusastatin, Fluvastatin, Pravastatin | Hemmung der HMG-CoA-Reduktase -> Reduktion des verfügbaren Cholesterin -> positiver Effekt auf Gefäße | | Konzentrationsschwäche, Schlafstörungen, Hepatitis / Erhöhung Leberwerte, Impotenz, GI, Myopathien bis hin zu Rhabdomyolyse, **Transaminaseerhöhung (i.e. erhöhter Aminotransfer)** | Pravastatin wird im Gegensatz zu anderen Statinen nicht über CYP3A4 verstoffwechselt | | Verdopplung der Dosis führt zu ca. 6% LDL-Reduktion |
+| Lipidsenker | HMG-CoA-Reduktase Hemmer (CSE Cholesterin-Synthese-Enzym Hemmer, Statine) | Lovastatin, Simvastatin, Atorvastatin, Cerivastatin, Rovusastatin, Fluvastatin, Pravastatin | Hemmung der HMG-CoA-Reduktase -> Reduktion des verfügbaren Cholesterin -> positiver Effekt auf Gefäße | | Konzentrationsschwäche, Schlafstörungen, Hepatitis / Erhöhung Leberwerte, Impotenz, GI, Myopathien bis hin zu Rhabdomyolyse, **Transaminaseerhöhung (i.e. erhöhter Aminotransfer)** | Statine werden über CYP3A4 verstoffwechselt mit folgenden Ausnahmen: Fluvastatin wird über CYP2C9 verstoffwechselt; Pravastatin keine Verstoffwechslung via CYP | | Verdopplung der Dosis führt zu ca. 6% LDL-Reduktion |
 | Lipidsenker | Cholesterin-Resorptionshemmer | Ezetimib (Prodrug), beta-Sitosterin | Reduktion des Cholesterin-Spiegel um bis zu 20% | | Kopf- und Bauchschmerzen, Diarrhoe | Colestyramin und Antazida reduzieren Wirkung | | |
 | Lipidsenker | PCSK9-Inhibitoren | Alirocumab, Evolocumab | verhindert Recycling von LDL Rezeptoren auf Hepatozyten -> Anzahl erhöht, LDL um bis zu 70% reduziert | | | | | |
 | Lipidsenker | Fibrate | Suffix *-fibrat*, Gemfibrozil | PPARalpha Agonisten: Senkung der Synthese und Freisetzung von VLDL, Erhöhung des LDL Abbau, Erhöhung der HDL (durch Synthese von APO AI, AII) -> TG um bis zu 40% und LDL um bis zu 20% gesenkt, HDL um ca. 10% erhöht  | Lipidsenker 2. Wahl | GI, Lithogenität der Galle erhöht | Kombination mit Statinen riskant, teils schwere NW; Verstärkte Wirkung von oralen Antikoagulantien | | |
@@ -355,7 +357,7 @@ layout = "indexpage-fluid"
 | Adsorbens | Aktivkohle (Carbo medicinalis) | | | lipophile Gifte | | | Lithium, Eisen, Säuren, Laugen | |
 | Emetikum / Expektorans | Brechwurzel (Ipecacuanha) | Cephalin, Ementin | | | | | Säuren, Lösungsmittel, geminderte Vigilanz | |
 | Antihypertensiva | | Dihydralazin | | | | | | |
-| | | | | | | | | |
+| Antihypertensiva | alpha1-Antagonist | Urapidil | | Akuttherapie hypertensiver Krisen, als Kombinationspräparat Langzeittherapie arterieller Hypertonie | | | | |
 
 {{</table >}}
 
@@ -390,6 +392,7 @@ layout = "indexpage-fluid"
 | -ifen | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) |
 | -tamid | Androgen-Rezeptorantagonisten |
 | -tinib | Tyrosinkinase-Inhibitoren |
+| -taxel | Taxane (MT-Inhibitoren) |
 
 {{</table >}}
 
