@@ -88,16 +88,16 @@ layout = "indexpage-fluid"
 | PDE-Inhibitoren | PDE-5-Inhibitoren | Tadalafil, Sildenafil | | | | | | |
 | Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor (CYSLTR1); Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | als Kombinationspräparat mit inhalativen Corticosterioiden bei Asthma und allergischer Rhinits; Neurodermitis, Urtikaria | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | |
 | "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
-| IgE-Antikörper | | Omalizumab | | schweres persistierendes Asthma | | | | |
-| IL-5-Antikörper | | Mepolizumab | | schweres persistierendes Asthma | | | | |
+| Antikörper | IgE-Antikörper | Omalizumab | | schweres persistierendes Asthma | | | | |
+| Antikörper | IL-5-Antikörper | Mepolizumab | | schweres persistierendes Asthma | | | | |
 | Antikörper | | Trastuzumab | hemmt HER2/neu Aktivierung | Mamma-Ca | Kardiotoxisch | | | In Form von Trastuzumab-Emtansin als Konjugat mit dem Mitosehemmstoff Mertansin (DM1) |
 | Antikörper | | Bevacizumab | VEGF-Inhibitor, bindet an VGEF und verhindert Interaktion mit Rezeptoren -> Hemmung der Angiogenese | | | | | |
 | Antikörper | | Blinatumomab | Anti-CD19-AK, aktiviert CD3-positive T-Zellen | ALL | | | | |
 | Antikörper | | Catumaxumab | Trifunktionaler AK, bindet gleichzeitig: EPCAM (Adhäsionsmolekül einer Tumorzelle), CD3 und Fcgamma-Rezeptor (auf Makrophagen, dendritischen Zellen oder NK-Zellen) | Karzinome, die zu Aszites führen | | | | |
-| Antikörper | | -omab | Maus AK | | | | | |
-| Antikörper | | -ximab | Chimärer AK | | | | | |
-| Antikörper | | -zumab | Humanisierter AK | | | | | |
-| Antikörper | | -mumab | Human AK | | | | | |
+| Antikörper | Maus AK | -omab | | | | | | |
+| Antikörper | Chimärer AK | -ximab | | | | | | |
+| Antikörper | Humanisierter AK | -zumab | | | | | | |
+| Antikörper | Human AK | -mumab | | | | | | |
 | Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Amitriptylin-Typ | Amitriptylin, Trimipramin, Doxepin | stark sedierend, stark anticholinerg, geringe therapeutische Breite | | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
 | Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Desipramin-Typ | Desipramin, Nortriptylin | Antriebssteigernd, Unruhe, geringe therapeutische Breite | | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
 | Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Imipramin-Typ | Imipramin, Clomipramin | geringer Einfluss auf Antrieb, geringe therapeutische Breite | | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
@@ -187,7 +187,7 @@ layout = "indexpage-fluid"
 | Diuretika | Na-Kanal-Inhibitoren / Kalium-sparende Diuretika | Amilorid, Triamtere | Hemmt ENaC, reduziert folglich auch K+ Sekretion, 3% der GFR | Kardiale, renale und hepatische Ödeme, HI, Hypertonie, Kombinationspartner der Diuretika-Therapie zur Reduzierung von K+ Verlusten | Hyperkaliämie, GI, Impotenz | Blutdruck-senkende Pharmaka, Kalium und ACE-Hemmer, andere K+ sparende Diuretika, Digitalis, Lithium, NSAR | Hyperkaliämie, Hyponatriämie, Hypovolämie, NI, Schwangerschaft, Stillzeit | |
 | Diuretika | Osmodiuretika | Mannitol, Sorbit | erhöhen GFR aber keine tubuläre Rückresorption -> Diurese, wenig veränderte Elektrolytausschüttung | Akutes Hirnödem, Prophylaxe NI, Intoxikation (forcierte Diurese), akuter Glaukomanfall, Kombinationspartner der Diuretika-Therapie | akute Volumenbelastung des Kreislaufs | | kardiale Ödeme, manifeste HI, Lungenödem, Dehydration, intrakraniale Blutung, fortbestehende Oligo- / Anurie nach Testinfusion | |
 | Diuretika | V2-Rezeptorantagonisten (Vaptane) | Tolvapten | | Hyponatriämie als sekundäre Folge des Syndroms der inadäquaten ADH Sekretion (SIADH), autosomal-dominante polyzystische Nierenerkrankung (ADPKD) | rasche Anstieg des Na-Spiegel, Durst, Übelkeit, Hypernatriämie, Hyperurikämie, selten Leberschädigung | | | |
-| Glucocorticoide | Inhalativ | Beclometason (aka Beclomethason), Fluticason, Budesonid, Flunisolid | antiphlogistisch, Steigerung der mukoziliären Clearance, verstärkte Wirkung von beta2-Sympathomimetika (Kombi-Therapie) | i.V. bei akutem Asthmaanfall | Mundtrockenheit | | | |
+| Glucocorticoide | Inhalativ | Beclometason (aka Beclomethason), Fluticason, Budesonid, Flunisolid | antiphlogistisch, Steigerung der mukoziliären Clearance, verstärkte Wirkung von beta2-Sympathomimetika (Kombi-Therapie) | i.v. bei akutem Asthmaanfall | Mundtrockenheit | | | |
 | Antidiarrhoikum | Opioid | Loperamid | m-Agonist, nicht ZNS-gängig | Durchfall | Somnolenz, Obstipation, Übelkeit | | | |
 | Bradykininrezeptorantagonisten | | Icatibant | selektive und kompetitive Hemmung des Bradykinin-B2-Rezeptoren | Therapie des hereditärem Angioödem (HAE) | | | | |
 | Antibiotika | Penicilline (Benzylpenicilline) | Penicillin G und V | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+ | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
