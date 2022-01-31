@@ -47,7 +47,7 @@ layout = "indexpage-fluid"
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Ipratropium | SAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Tiotropium | LAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Benzatropin, Biperiden, Trihexphenidyl | | Parkinsonoide Neuroleptika-NW, nicht(!) für Therapie von Parkinson selbst | | | | |
-| Parasympatholytika / Muskelrelaxantien | Curare (Kompetitive ACh-Rezeptoren-Hemmer), nicht depolarisierend | Tubocurarin, Atracurium, Mivaucurium | kompetetive Hemmer des Acetylcholins an nikotinergen Rezeptoren der mot. Endplatte | | | | | Antidot: Chlolinesterase-Hemmer, Neostigmin |
+| Parasympatholytika / Muskelrelaxantien | Curare (Kompetitive ACh-Rezeptoren-Hemmer), nicht depolarisierend | Tubocurarin, Atracurium, Mivacurium | kompetetive Hemmer des Acetylcholins an nikotinergen Rezeptoren der mot. Endplatte | | | | | Antidot: Chlolinesterase-Hemmer, Neostigmin |
 | Muskelrelaxantien | Depolarisierende Relaxantien | Succinylcholin | | RSI | | | | |
 | Muskelrelaxantien | Depolarisierende Relaxantien | Suxamethoniumchlorid | Agonistische Wirkung am nikotinerge ACh-Rezeptor -> Dauerdepolarisation; **nicht antagonisierbar** | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Mivacurium | kurz-wirksam | | | | | |
@@ -57,7 +57,7 @@ layout = "indexpage-fluid"
 | Sympathomimetika | alpha1-/beta1-/beta2-Agonist | Dobutamin | | | | | | |
 | Sympathomimetika | alpha-Agonisten | Naphazolin, Xylometazolin, Oxymetazolin | | Allergische Konjunktivitis, Sinusitis, Nasopharyngitis | Schleimhautschädigend | | Säuglinge, Kleinkinder, Hypertoniker | |
 | Sympathomimetika | alpha1-Agonist | Phenylephrin | Augentropfen, Nasenspray | | | | | |
-| Sympathomimetika | alpha2-Agonist | Clonidin, Moxonidin | reduziert peripher die Freisetzung von NA; hemmt im Ncl. solitarius sympathische Impulse durch Bindung an postsynaptische Rezeptoren | Hypertonie (2. Wahl) | | | | |
+| Sympathomimetika | alpha2-Agonist | Clonidin, Moxonidin | Clonidin wirkt an prä- und postsynaptischen alpha2-Rezeptoren und postsynaptschen Imidazolin-Rezeptoren, Moxonidin nur an letzteren; reduziert peripher die Freisetzung von NA; hemmt im Ncl. solitarius sympathische Impulse durch Bindung an postsynaptische Rezeptoren | Hypertonie (2. Wahl) | | | | |
 | Sympathomimetika | beta-Agonist | Isoprenalin | | | | | | |
 | Sympathomimetika | beta2-Agonist, LABA | Bambuterol, Clenbuterol, Formoterol, Salmeterol | langwirkend (12-24h) | | | | | |
 | Sympathomimetika | beta2-Agonist, SABA | Fenoterol | | Asthma, Tokolyse (Wehenhemmung) | | | | |
@@ -278,8 +278,8 @@ layout = "indexpage-fluid"
 | Signalweg-Inhibitoren | Tyrosinkinase-Inhibitoren | Imatinib | Hemmung der Abl-Kinase | CML, AML | Neutropenie, Thrombopenie | | | |
 | Signalweg-Inhibitoren | Tyrosinkinase-Inhibitoren | Erlotinib, Gefitinib, Afatinib, Osimertinib | EGF Hemmung | nicht-kleinzellige Lungenkarzinome, Hirnmetastasen | Hautaussschläge, schwere Diarrhoe, Transaminase-Erhöhung | | | |
 | Orale Antidiabetika | Biguanide | Metformin | Hemmung der hepatischen Glukoseproduktion; auch: Senkung VLDL, Erhöhung HDL, antithrombotischer Effekt -> Schutz vor makrovaskulären Komplikationen (Schlaganfall, MI, KHK) | | Laktatazidose (speziell bei NI/LI), GI | | | keine Gewichtszunahme, anti-kanzerogener Effekt, anti-aging Effekt (?) |
-| Orale Antidiabetika | Sulfonylharnstoffe | Tolbutamid, Glipizid, Gliclazid, Glimeprid, Glibenclamid, Chlorpropamidk, Repaglinid, Nateglinid | Blockade des K-ATP-Kanal in Pankreas -> Depolarisation -> Insulin-Ausschüttung | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | |
-| Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | | | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | |
+| Orale Antidiabetika | Sulfonylharnstoffe | Tolbutamid, Glipizid, Gliclazid, Glimeprid, Glibenclamid, Chlorpropamidk, Repaglinid, Nateglinid | längere HWZ, Applikation 1x täglich; Blockade des K-ATP-Kanal in Pankreas -> Depolarisation -> Insulin-Ausschüttung | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | |
+| Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | | kürzere HWZ, Applikation 3x täglich | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | |
 | Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DPP4-Inhibitoren, Gliptine) | Linagliptin | | | | | LI, HI | |
 | Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DPP4-Inhibitoren, Gliptine) | Saxagliptin, Sitagliptin, Vildagliptin | | | | | NI, LI, HI | |
 | Orale Antidiabetika | SGLT2-Inhibitoren | Dapagliflozin, Canagliflozin, Empagliflozin, Suffix *-gliflozin* | verhindern Glukoseresorption im proximalen Konvolut aus Primärharn | HbA1c Senkung um 0,7-0,8%, Gewichtsabahme, Blutdrucksenkung, geringes Hypoglykämie-Risiko | HWI, GI | | NI, Überempfindlichkeit | |
