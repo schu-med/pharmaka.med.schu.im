@@ -205,11 +205,12 @@ layout = "indexpage-fluid"
 | Betalactamase-Inhibitoren | | Avibactam | | kombiniert mit Ceftazidim | | | | |
 | Antibiotika | Carbapeneme | Imipenem, Meropenem, Ertapenem | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+, G-, Aa | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | Reserve-AB für lebensbedrohliche Infekte, meist gegen 3-MRGN wirksam |
 | Antibiotika | Monobactame | Aztreonam | | G- | | | | |
+| Antibiotika | Rifamycine | Rifaximin | Breitband-AB, wird kaum resorbiert und ist so fast ausschließlich im Darm wirksam | Bakterielle Infektionen des Darm durch G+, G-, Aa | | | | |
 | Antibiotika | Glykopeptide | Vancomycin, Teicoplanin | Zellwand- und Membransynthesehemmstoff, Bindung an D-Ala-D-Ala -> Transpeptidase (PBP) kann sich nicht anlagern | G+ | Nephrotoxizität, Ototoxizität, Hypotonie | Res.: verändertes Peptid (D-Ser oder D-Lact) | | Reserve-AB für MRSA, pseudomembranöse Colitis |
 | Antibiotika | Epoxide | Fosfomycin | Zellwand- und Membransynthesehemmstoff, Hemmung der N-Acetyl-Muraminsäure Bildung (Mureinsynthese) | G+, G-, Einmalgabe bei HWI als Fosfomycin-Trometanol | GI | Res.: verminderte Aufnahme oder Inaktivierung von Fosfomycin | | Reserve-AB für lebensbedrohliche Infekte |
 | Antibiotika | Lipopeptide | Daptomycin | Porenbildung in Zellmembran, bakterizid (primär) | G+ | Myotoxizität, GI, allergische Reaktionen | Res.: Veränderung der Membran | | S. aureus Infekte |
 | Antibiotika | Polypeptide | Colistin, Polymyxin B | Schädigung der Membran von G- Bakterien, bakterizid (primär) | G- | Neurotoxizität, Nephrotoxizität, allergische Reaktionen | Res.: Veränderung von LPS (durch MCR-1) in der äußeren Membran | | Reserve-AB für Pseudomonas- und Klebsellien-Infekte |
-| Antibiotika | Oxazolidinone | Linezolid | Hemmung der Bildung des Initiationskomplex | G+ | GI, Hepatotoxizität  | Res.: Veränderung der 23S-rRNA | | Reserve-AB für MRSA- und VRE-Infekte |
+| Antibiotika | Oxazolidinone | Linezolid | Hemmung der Bildung des Initiationskomplex, bakteriostatisch | G+ | GI, Hepatotoxizität  | Res.: Veränderung der 23S-rRNA | | Reserve-AB für MRSA- und VRE-Infekte |
 | Antibiotika | Aminoglykoside | Gentamycin, Amicacin, Tobramycin, Paromomycin, Streptomycin | Bindung an 30S-UE, bakterizid (primär) | (G+), G-, **nur Aerobier** | Nephrotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
 | Antibiotika | Tetracycline | Doxycyclin, Minocyclin, Tigecyclin (Tetracyclin-Derivat), Oxytetracyclin | Bindung an 30S-UE, bakteriostatisch | (G+), (G-), atypische (Mykoplasmen, Chlamydien, Legionellen) | GI, Phototoxizität, Einlagerung in Knochen und Zähne, Hepato- / Nephrotoxizität | Res.: Aktiver Auswärtstransport, Veränderung des 30S-Ribosoms | Schwangerschaft, Stillzeit, **Kinder bis zum 8. Lebensjahr**, Leber- / Niereninsuffizienz | bei Atemwegsinfektionen, Urogenitalinfektionen, Borreliose, Cholera; auch off-label als Malaria-Prophylaxe |
 | Antibiotika | Amphenicole | Chloramphenicol | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, G-, Aa, atypische | Knochenmarksschädigung, Neurotoxizität | Veränderung des AB | | Reserve-AB für lebensbedrohliche Erkrankungen; auch Reserve wegen Toxizität |
@@ -273,6 +274,7 @@ layout = "indexpage-fluid"
 | Zytostatika | Hydroxyharnstoffe | Hydroxyharnstoffe | | myeloproliferative Erkrankungen, Erhöhung der Strahlensensitivität | KM-Depression, Megaloblastose | | | |
 | Zytostatika | Proteasom-Inhibitoren | Bortezomib, Carfilzomib | | Multiples Myelom, Mantelzellkarzinom | Neuropathie, Diarrhoe, Thrombozytopenie | | | |
 | Zytostatika | Interkalierende Wirkstoffe / Antibiotika: Anthracycline | Daunorubicin, Doxorubicin, Epirubicin, Idarubicin | Interkalieren DNA-Doppelstränge, hemme Topoisomerase II, bilden Radikale | immer i.v., Doxorubicin bei vielen soliden Tumoren, andere Rubicine vorwiegend bei akuter lymphatischer/myeloischer Leukämie | KM-Suppression, Kardiotoxizität | | | |
+| Zytostatika | Interkalierende Wirkstoffe | Dactinomycin | Interkaliert DNA-Doppelstränge | Wilms-Tumor, Rhabdomyosarkom | Myelosuppression, SH-Schädigung | | | |
 | Signalweg-Inhibitoren | Tyrosinkinase-Inhibitoren | Imatinib | Hemmung der Abl-Kinase | CML, AML | Neutropenie, Thrombopenie | | | |
 | Signalweg-Inhibitoren | Tyrosinkinase-Inhibitoren | Erlotinib, Gefitinib, Afatinib, Osimertinib | EGF Hemmung | nicht-kleinzellige Lungenkarzinome, Hirnmetastasen | Hautaussschläge, schwere Diarrhoe, Transaminase-Erhöhung | | | |
 | Orale Antidiabetika | Biguanide | Metformin | Hemmung der hepatischen Glukoseproduktion; auch: Senkung VLDL, Erhöhung HDL, antithrombotischer Effekt -> Schutz vor makrovaskulären Komplikationen (Schlaganfall, MI, KHK) | | Laktatazidose (speziell bei NI/LI), GI | | | keine Gewichtszunahme, anti-kanzerogener Effekt, anti-aging Effekt (?) |
@@ -294,6 +296,8 @@ layout = "indexpage-fluid"
 | Säurehemmer | Protein-Komplexbildner | Sucralfat | bildet Komplexverbindung auf Ulcusoberfläche, verhindert Angriff von HCL; Achtung: zur Ulcus-Prophylaxe nicht geeignet (-> PPI) | | Obstipation | Tetrazyklin-Komplexe nicht resorbierbar | NI, Enzephalopathie | |
 | Säurehemmer | | Misoprostol | PGE2-Analogon, hemmt HCL-Sekretion, verstärkt Schleimsekretion | | Durchfälle, Magen- und Darmkrämpfe | | Schwangerschaft | |
 | Säurehemmer | | Proglumid | Gastrinantagonist (therapeutischer Wert umstritten) | | | | | |
+| Antihistaminikum | H1-Antagonist | Clemastin | | Allergien (e.g. allergische Rhinits oder Konjunktivitis) | QT-Zeit-Verkängerung | | | |
+| Antiemetika | H1 Inverser Agonist | Diphenhydramin | | | QT-Zeit-Verlängerung | | | |
 | Antiemetika | H1-Blocker | Dimenhydrinat (Handelsname: Vomex) | | | | | | |
 | Antiemetika | 5-HT3-Rezeptorantagonisten (Setrone) | Granisetron, Ondansetron, Tropisetron, Palonosetron | 5-HT3 ist ligandengesteuerter Na-K-Kanal, einziger nicht G-Protein gekoppelter Serotoninrezeptor | Zytostatika- und Strahlentherapie-induziertes Erbrechen, postoperatives Erbrechen, (Hyperemesis gravidarum) | | | | |
 | Antiemetika | Dopaminrezeptor-Antagonisten - Neuroleptika | Haloperidol, Droperidol, Perphenazin, Promethazin, Sulpirid, Prochlorperazin | | Übelkeit und Ebrechen (bei Nichtwirksamkeit von Alternativen), Opioid-indziertes Erbrechen, postoperatives Erbrechen, Morbus Meniere | | | | |
@@ -361,6 +365,7 @@ layout = "indexpage-fluid"
 | Antihypertensiva | | Dihydralazin | | | | | | |
 | Antihypertensiva | alpha1-Antagonist | Urapidil | | Akuttherapie hypertensiver Krisen, als Kombinationspräparat Langzeittherapie arterieller Hypertonie | | | | |
 | Stickstoffmonoxiddonatoren / NO-Donator | | Molsidomin | | Angina Pectoris | | | | |
+| NMDA-Rezeptor-Antagonist | | Memantin, Amantadin | | Alzheimer | | | | |
 
 {{</table >}}
 
