@@ -22,7 +22,7 @@ layout = "indexpage-fluid"
 | Thrombozyten-Aggregationshemmer | PDE-Hemmer | Dipirydamol | PDE-Hemmung und Adenosintransporter-Block | TIA | | | | in Kombination mit ASS |
 | Thrombozyten-Aggregationshemmer | PDE-Hemmer | Cilostazol | PDE-Hemmung | pAVK | | | | |
 | Thrombozyten-Aggregationshemmer | PAR1-Antagonisten (Protease-aktivierter Rezeptor, Thrombinrezeptor) | Vorapaxar | | pAVK, ACS (Sekundärprävention) | | | | |
-| Indirekte Antikoagulantien | Heparine | UFH | Steigert Antithrombin Affinität um etwa den Faktor 1000 -> Inaktivierung von hauptsächlich Gerinnungsfaktoren IIa und Xa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT (Heparin-induzierte Thrombozytopenie), Osteoporose | | HIT II | Antidot Protmain |
+| Indirekte Antikoagulantien | Heparine | UFH | Steigert Antithrombin Affinität um etwa den Faktor 1000 -> Inaktivierung von hauptsächlich Gerinnungsfaktoren IIa und Xa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT (Heparin-induzierte Thrombozytopenie), Osteoporose | | HIT II | Antidot Protamin |
 | Indirekte Antikoagulantien | Heparine | NMH | Komplexbildung mit Antithrombin -> Inaktivierung von Xa > IIa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT, Osteoporose | | HIT II | |
 | Indirekte Antikoagulantien | Heparine | Fondaparinux | Komplexbildung mit Antithrombin -> Inaktivierung von Xa | Thromboseprophylaxe, ACS | weniger | | HIT II | |
 | Indirekte Antikoagulantien | Heparinoide | Danaparoid | Komplexbildung mit Antithrombin -> Inaktivierung von Xa >> IIa | HIT II | | | | Kein Antidot verfügbar! |
