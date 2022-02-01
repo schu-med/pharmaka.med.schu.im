@@ -73,7 +73,7 @@ layout = "indexpage-fluid"
 | Sympatholytika | alpha1-Antagonisten | Prazosin, Terazosin, Doxazosin | kompetetiv und reversibel | Arterielle Hypertonie (keine 1. Wahl!), Morbus Raynaud, benigne Prostatahyperplasie | First-dose-Syndrom | | | |
 | Sympatholytika | alpha1-Antagonisten | Tamsulosin | reversibel, sehr hohe Affinität zu alpha1-Rezeptoren der Prostata | Prostatahyperplasie | | | | Retardpräparat, mit kontinuierlich geringer Konzentration wenig gefäßwirksam |
 | Sympatholytika | alpha2-Antagonisten | Yohimbin | | | | | | |
-| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA) und wird auch für Therapie bei Serotonoergem Syndrom genutzt; Sotalol hemmt auch K-Kanal; mit Ausnahme von Nadolo, Sotalol und Timolol alle ISA | Hypertonie, KHK, chronische HI; **Timolol bei Glaukom-Therapie** (Mechanismus unklar) | Sotalol: Torsade de Pointes (Spitzenumkehr-Tachykardie) | | | |
+| Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA) und wird auch für Therapie bei Serotonoergem Syndrom genutzt; Sotalol hemmt auch K-Kanal; mit Ausnahme von Nadolol, Sotalol und Timolol alle ISA | Hypertonie, KHK, chronische HI; **Timolol bei Glaukom-Therapie** (Mechanismus unklar) | Sotalol: Torsade de Pointes (Spitzenumkehr-Tachykardie) | | | |
 | Sympatholytika | beta-Blocker, 2. Generation, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | Acebutolol: auch ISA | | | | | Bisoprolol wird nicht über CYP2D6 verstoffwechselt |
 | Sympatholytika | beta-Blocker, 3. Generation | Carteolol | **auch NO Donator** -> vasodilatierend; ISA | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | **auch Ca-Antagonsist**, **blockiert beta- aber teils auch alpha1-Adrenorezeptoren** | Hypertonie, KHK, chronische HI | | | | |
@@ -82,11 +82,12 @@ layout = "indexpage-fluid"
 | Sympatholytika | beta-Blocker, 3. Generation | Betaxolol | auch Ca-Antagonist | Glaukom | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Celiprolol | **beta2 ISA**, **auch NO Donator** -> vasodilatierend | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Nebivolol | **auch NO Donator** -> vasodilatierend | | | | | |
+| Antiarrhythmikum | Klasse Ia | Disopyramid | | | | | | |
 | Antiarrhythmikum | Klasse Ib | Lidocain | | | | | | |
 | Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Sotalol (auch beta-Blocker, siehe oben) | | | Torsade de pointes | CAVE: NI, wird kaum metabolisiert und zu ca. 90% renal eliminiert | Kombination mit anderen repolirations-verzögernden Pharmaka, Bradykardie, CAVE: Asthmatiker | |
 | Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Amiodaron | | | | Amiodaron hemmt CYP3A4, ungewünschte Effekt mit zum Beispiel Phenprocoumon (Abbau verlangsamt, Blutungsgefahr) | | |
 | Antisympathotonika | | Reserpin | Blockade der Wiederaufnahme von NA und Dopamin | | Orthostatische Dysregulation, Förderung Depression, GI | | | Gilt heute als obsolet (u.a. wegen UAW) |
-| Herzglykoside | Cardenolide | Digoxin, Digitoxin | Hemmung der Na-K-ATPase -> mehr Na intrazellulär -> positiv inotrop, negativ dromotrop | HI, tachykardes Vorhofflimmern | | | | |
+| Herzglykoside | Cardenolide | Digoxin, Digitoxin | Hemmung der Na-K-ATPase -> mehr Na intrazellulär -> **positiv inotrop, negativ dromotrop** | HI, tachykardes Vorhofflimmern | | | | |
 | Methylxanthine | | Theophyllin | Antagonistisch an Adenosinrezeptoren; kompetitive Hemmung der PDE -> Erhöhung cAMP; Steigerung Zilienschlag des Flimmerepithel; positiv inotrop und chronotrop (wie ein beta1-Agonist); fördert renale Durchblutung -> erhöhte Diurese | Asthma, COPD | Arrhythmie | Abbau durch CYP1A2 in Leber (Induziert bei Rauchern) | | |
 | PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Ausscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | COPD | | | | |
 | PDE-Inhibitoren | PDE-5-Inhibitoren | Tadalafil, Sildenafil | | | | | | |
@@ -136,7 +137,7 @@ layout = "indexpage-fluid"
 | Benzodiazepine | Z-Substanzen | Zolpidem, Zopiclon, Zaleplon | binden nicht an alpha2 Rezeptorsubtyp -> nicht anxiolytisch oder muskelrelaxierend, kurze HWZ, geringes Abhängigkeitspotential | Schlafstörungen | | | | |
 | Benzodiazepin-Antidot | | Flumazenil | Antagonist der Benzodiazepin-Bindungsstelle des GABA-Rezeptors | Narkosebeendigung, **Antidot bei Benzodiazepin-Überdosierung** (e.g. Midazolam) | | | | |
 | Lithium | | Lithium | "Mood Stabilizer", Alkalimetall, wird als Verbindung verabreicht (e.g. Carbonat), Wirkmechanismus nicht vollumfänglich geklärt | Manie Akuttherapie, Phaseprophylaxe, Augmentation von Antidepressiva, Lanzeitprohylaxe | Müdigkeit, Lethargie, Tremor, GI, Polyurie, Dehydration, Nephrotoxizität, Gewichtszunahme, Euthyreotes Struma, **geringe therapeutische Breite** | | | |
-| Antikonvulsiva | GABAerg | Phenobarbital (Barbiturat), allg. Benzodiazepine, Vigabatrin, Tiagabin, Valproat | | | | | | |
+| Antikonvulsiva | GABAerg | Phenobarbital (Barbiturat), allg. Benzodiazepine, Vigabatrin, Tiagabin, Valproat | Benzodiapine und Barbiturate sind allosterischer Modulator des GABA-A-Rezeptors; Tiagabin hemmt den GABA-Transporter; Vigabatrin hemmt die GABA-Transaminase | | | | | |
 | Antikonvulsiva | | Topiramat | Blockierung von AMPA-Rezeptoren, Bindung an GABA-Rezeptoren, Inaktivierung von Natriumkanälen | | | | | |
 | Antikonvulsiva | AMPA-Antagonist | Perampanel | selektiver, nicht-kompetitiver Antagonist des ionotropen AMPA-Rezeptors | | | | | |
 | Antikonvulsiva | Na-Kanal-Inhibitor | Phenytoin | geringe therapeutische Breite | | | | | Eines der meistverwendeten Antiepileptika in den USA |
