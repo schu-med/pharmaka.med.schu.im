@@ -43,7 +43,7 @@ layout = "indexpage-fluid"
 | Parasympathomimetika | AChE-Inhibitoren (Carbamate) | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer (heute wegen geringem Effekt überwiegend obsolet) | | | | |
 | Parasympathomimetika | AChE-Inhibitoren (Carbamate) | Organophosphate (Alkylphosphate): Paraxon, Parathion E605 | Phosphorylierende Inhibitoren: irreversible Blockade der AChE | hohe Dosen Atropin, Acetylcholin-Vergiftung | | | | |
 | Parasympatholytika | | Hemicholinium | Cholin-Wiederaufnahme Hemmer -> Acetylcholin kann weniger schnell neu bereitgestellt werden | | | | | |
-| Parasympatholytika | Muskarinrezeptor-Antagonisten | Atropin | | als Antidot bei Vergiftungen mit Organophosphaten/Alkylphosphaten (e.g. Parathion E605) | | | | Atropin-Paradoxon beachten! |
+| Parasympatholytika | Muskarinrezeptor-Antagonisten | Atropin | | als Antidot bei Vergiftungen mit Organophosphaten/Alkylphosphaten (e.g. Parathion E605), cholinerges Syndrom | | | | Atropin-Paradoxon beachten! |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch (Kinetose Prophylaxe) | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Butylscopolamin | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Ipratropium | SAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
@@ -163,8 +163,8 @@ layout = "indexpage-fluid"
 | Opioide | WHO3 | Loperamid | Pethidin-Derivat, hohe Affinität zu MOP | Antidiarrhoikum | | | | |
 | Opioide | WHO3 / Partielle Agonisten | Buprenorphin | Partialagonist an MOP, Antagonist an DOP, langsame Dissoziation vom Rezeptor, hoher First-Pass-Effekt | Applikation sublingual oder als Pflaster bei starken Schmerzen, Substitutionstherapie mit Naloxon | | | | |
 | Opioide | Partielle Agonisten | Nalbuphin | Partiell antagonistich an MOP, Agonist an KOP | Analgesie bei Geburtshilfe | | | | |
-| Opioide | Antagonisten | Naloxon | Antidot | Intoxikation, Suchtprävention | | | | |
-| Opioide | Antagonisten | Naltrexon | Antidot, wie Nalaxon aber mit längerer HWZ (24-48h) | Rückfallprophylaxe | Hepatotoxizität | | | |
+| Opioide | Antagonisten | Naloxon | Antidot, nicht-selektiver Opioidrezeptor-Antagonist | Intoxikation, Suchtprävention | | | | Hoher First-Pass-Effekt -> wenig antagonisierende Wirkung bei oraler Gabe! |
+| Opioide | Antagonisten | Naltrexon | Antidot, nicht-selektiver Opioidrezeptor-Antagonist, wie Naloxon aber mit längerer HWZ (24-48h) | Rückfallprophylaxe | Hepatotoxizität | | | |
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | ASS | Irreversible Hemmung präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | GI, Blutung, Niere | | Kinder | Kinetik nullter Ordnung -> Kumulationsgefahr |
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | ASS, Ibuprofen, Naproxen, Indometacin, Piroxicam | präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Analgetisch | Paracetamol | präferenziell COX2; genaue Wirkweise noch nicht aufgeklärt, diskutiert wird auch Wirkung über COX3 und TRPA1 | Anwendung in: Pädiatrie, Schwangerschaft, Stillzeit | Hepatotoxizität | | | Antidot bei Überdosierung ist Acetylcystein (ACC), nur effektiv bei Gabe innerhalb von ca. 8 Stunden nach Paracetamolaufnahme |
@@ -265,7 +265,7 @@ layout = "indexpage-fluid"
 | Zytostatika | Platinverbindungen | Cisplatin, Carboplatin, Oxaliplatin | | | | | | |
 | Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | Myelotixizität | | | |
 | Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat (aka MTX) | Hemmung der Thymidin-Synthese | | | ASS und andere NSAR/NSAID konkurrieren mit MTX um renalen Transporter -> verzögerte Ausscheidung | | |
-| Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Vinca-Alkaloide (Vincristin, Vinblastin, Vindesin, Vinorelbin, Vinflunin) , Estramustin, Ixabepilon, Eribulin | | Neurotoxizität, Myelosuppression | | | | | |
+| Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Vinca-Alkaloide (Vincristin, Vinblastin, Vindesin, Vinorelbin, Vinflunin), Estramustin, Ixabepilon, Eribulin | | Neurotoxizität, Myelosuppression | | | | | |
 | Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Taxane: Paclitaxel, Docetaxel, Cabazitaxel | | Myelosuppression, Neurotoxizität | | | | |
 | Zytostatika | Antimetaboliten | Mercaptopurin | Purinanaloga | Leukämien, Lymphome, Mamma-/Ovarialkarzinom | | | | |
 | Zytostatika | Antimetaboliten | 5-Fluorouracil | Pyrimidinanaloga, hemmt außerdem Thymidilat-Synthase | | | | | |
@@ -338,11 +338,11 @@ layout = "indexpage-fluid"
 | Gonadotropine | LH | Lutropin alpha (rekombinant) | | | | | | |
 | Gonadotropine | HCG | Choriongonadotropin alpha (rekombinant), Choriongonadotropin (Extrakt gereinigt) | | | | | | |
 | Androgene | Synthetisch | Testosteron | lipophil, transdermale Applikation möglich | | | | | |
-| Androgene | Synthetisch | Testosteron**enantat** | lipophiler, intramuskuläre Injektion | Hypogonadismus | | | | |
-| Androgene | Synthetisch | Testosteron**undecanoat** | noch lipophiler, oral wirksam oder intramuskuläre Injektion | | | | | |
+| Androgene | Synthetisch | Testosteronenantat | lipophiler, intramuskuläre Injektion | Hypogonadismus | | | | |
+| Androgene | Synthetisch | Testosteronundecanoat | noch lipophiler, oral wirksam oder intramuskuläre Injektion | | | | | |
 | Androgen-Inhibitoren | Antiandrogene Gestagenderivate | Cyproteronacetat | | | | | | |
 | Androgen-Inhibitoren | Androgen-Biosynthese-Inhibitor | Abirateronacetat | | | | | | |
-| Androgen-Inhibitoren | Androgen-Rezeptorantagonisten | Flutamid, Biclutamid, Enzalutamid | | Prostatakarzinom, Hypersexualität, bei Frauen: androgenetische Alopezie, Hirsutismus | | | | |
+| Androgen-Inhibitoren | Androgen-Rezeptorantagonisten | Flutamid, Bicalutamid, Enzalutamid | | Prostatakarzinom, Hypersexualität, bei Frauen: androgenetische Alopezie, Hirsutismus | | | | |
 | Androgen-Inhibitoren | 5alpha-Reduktase-Hemmer | Finasterid, Dutasterid | | androgenetische Alopezie, benigne Prostatahyperplasie | | | | |
 | Gestagene | Progesteronderivate | Cyproteronacetat, Medroxyprogesteronacetat, Megestrolacetat | anti-androgene Wirkung | | | | | |
 | Gestagene | Norethisteron-Derivate (19-Nortestosteron-Derivate; Estrane) | Norethisteron | androgene Wirkung | | | | | |
@@ -359,8 +359,8 @@ layout = "indexpage-fluid"
 | Antidot | | Hydroxocobalamin, Natriumthiosulfat, Dimethylamidphenol (DMAP) | | Intoxikation Blausäure, Cyanide | | | | |
 | Antidot | Oxime | Pralidoxim | | Intoxikation Organophosphate | | | | |
 | Lokalanästhetika | Kokain | Procain | wirkt bis zu 30-60 Minuten | | | | | |
-| Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten, blockiert Na-Kanäle und hemmt Schmerzauslösung | | | | | |
-| Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten | | | | | |
+| Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten, blockiert Na-Kanäle | | | | | |
+| Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten, blockiert Na-Kanäle | | | | | |
 | Anästhetikum | | Propofol | wirkt nur hypnotisch, nicht analgetisch | | | | | |
 | Anästhetikum | | Ketamin | Antagonismus am NMDA-Rezeptor (nicht-kompetitive Hemmung); auch analgetische Wirkkomponente | | | | | |
 | Alkohol-Dehydrogenase-Inhibitor (ADH-Inhibitor) | | Fomepizol | | Methanol- / Ethylenglykolintox | | | | |
