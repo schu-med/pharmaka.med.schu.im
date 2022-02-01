@@ -36,10 +36,10 @@ layout = "indexpage-fluid"
 | Parasympathomimetika | Muskarinrezeptor-Agonisten | Arecolin | ZNS-gängig | | | | | |
 | Parasympathomimetika | Muskarinrezeptor-Agonisten | Pilocarpin | ZNS-gängig, wirkt insbesondere auf Schweiß- und Speicheldrüsen | Glaukom, Schweißtest bei V.a. Mukoviszidose | | | | |
 | Parasympathomimetika | Muskarinrezeptor-Agonisten | Carbachol, Bethanechol | nicht ZNS-gänig | Darm- und Blasenantonie | | | | |
-| Parasympathomimetika | AChE-Inhibitoren | Physostigmin (Handelsname: Anticholium) | ZNS-gängig, ein Carbamat | Einzigste Indikation: **Antidot bei zentralen Vergiftungen, "anticholinerges Syndrom"** | Bradykardie, GI | | | |
-| Parasympathomimetika | AChE-Inhibitoren | Neostigmin, Pyridostigmin | nicht ZNS-gängig | Darm-/Blasenatonie, Intoxikation, Glaukom, Myasthenia gravis | | | | |
-| Parasympathomimetika | AChE-Inhibitoren | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer (heute wegen geringem Effekt überwiegend obsolet) | | | | |
-| Parasympathomimetika | AChE-Inhibitoren | Organophosphate (Alkylphosphate): Paraxon, Parathion E605 | Phosphorylierende Inhibitoren: irreversible Blockade der AChE | hohe Dosen Atropin, Acetylcholin-Vergiftung | | | | |
+| Parasympathomimetika | AChE-Inhibitoren (Carbamate) | Physostigmin (Handelsname: Anticholium) | ZNS-gängig | Einzigste Indikation: **Antidot bei zentralen Vergiftungen, "anticholinerges Syndrom"** | Bradykardie, GI | | | |
+| Parasympathomimetika | AChE-Inhibitoren (Carbamate) | Neostigmin, Pyridostigmin | nicht ZNS-gängig | Darm-/Blasenatonie, Intoxikation, Glaukom, Myasthenia gravis | | | | |
+| Parasympathomimetika | AChE-Inhibitoren (Carbamate) | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer (heute wegen geringem Effekt überwiegend obsolet) | | | | |
+| Parasympathomimetika | AChE-Inhibitoren (Carbamate) | Organophosphate (Alkylphosphate): Paraxon, Parathion E605 | Phosphorylierende Inhibitoren: irreversible Blockade der AChE | hohe Dosen Atropin, Acetylcholin-Vergiftung | | | | |
 | Parasympatholytika | | Hemicholinium | Cholin-Wiederaufnahme Hemmer -> Acetylcholin kann weniger schnell neu bereitgestellt werden | | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonisten | Atropin | | als Antidot bei Vergiftungen mit Organophosphaten/Alkylphosphaten (e.g. Parathion E605) | | | | Atropin-Paradoxon beachten! |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch (Kinetose Prophylaxe) | | | | |
@@ -73,7 +73,7 @@ layout = "indexpage-fluid"
 | Sympatholytika | beta-Blocker, 1. Generation (nicht präferentiell) | Alprenolol, Nadolol, Oxprenolol, Penbutolol, Pindolol, Propranolol, Sotalol, Timolol | Propranolol wirkt partiell agonistisch (ISA) und wird auch für Therapie bei Serotonoergem Syndrom genutzt; Sotalol hemmt auch K-Kanal | Hypertonie, KHK, chronische HI; Timolol bei Glaukom-Therapie | Sotalol: Torsade de Pointes (Spitzenumkehr-Tachykardie) | | | |
 | Sympatholytika | beta-Blocker, 2. Generation, beta1-selektiv | Acebutolol, Atenolol, Bisoprolol, Esmolol, Metoprolol | | | | | | Bisoprolol wird nicht über CYP2D6 verstoffwechselt |
 | Sympatholytika | beta-Blocker, 3. Generation | Carteolol | **auch NO Donator** -> vasodilatierend, ISA | | | | | |
-| Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | **auch Ca-Antagonsist**, blockiert beta- aber teils auch alpha1-Adrenorezeptoren | Hypertonie, KHK, chronische HI | | | | |
+| Sympatholytika | beta-Blocker, 3. Generation | Carvedilol | **auch Ca-Antagonsist**, **blockiert beta- aber teils auch alpha1-Adrenorezeptoren** | Hypertonie, KHK, chronische HI | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Labetalol | auch alpha1-Blocker | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Metipranolol, Levobunolol | | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Betaxolol | auch Ca-Antagonist | Glaukom | | | | |
@@ -99,9 +99,9 @@ layout = "indexpage-fluid"
 | Antikörper | Chimärer AK | -ximab | | | | | | |
 | Antikörper | Humanisierter AK | -zumab | | | | | | |
 | Antikörper | Human AK | -mumab | | | | | | |
-| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Amitriptylin-Typ | Amitriptylin, Trimipramin, Doxepin | stark sedierend, stark anticholinerg, geringe therapeutische Breite | | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
-| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Desipramin-Typ | Desipramin, Nortriptylin | Antriebssteigernd, Unruhe, geringe therapeutische Breite | | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
-| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Imipramin-Typ | Imipramin, Clomipramin | geringer Einfluss auf Antrieb, geringe therapeutische Breite | | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
+| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Amitriptylin-Typ | Amitriptylin, Trimipramin, Doxepin | stark sedierend, stark anticholinerg, geringe therapeutische Breite | u.a. als adjuvante Therapie bei neuropathischen Schmerzen | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
+| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Desipramin-Typ | Desipramin, Nortriptylin | Antriebssteigernd, Unruhe, geringe therapeutische Breite | u.a. als adjuvante Therapie bei neuropathischen Schmerzen | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
+| Trizyklische Antidepressiva (Nichtselektive Monoamin-Rückaufnahme-Inhibitoren, NSMRI) | Imipramin-Typ | Imipramin, Clomipramin | geringer Einfluss auf Antrieb, geringe therapeutische Breite | u.a. als adjuvante Therapie bei neuropathischen Schmerzen | anticholinerge Wirkung, QT-Zeit-Verlängerung, Sedierung, Gewichtszunahme, anticholinerges Syndrom | | kardiale Erkrankungen | |
 | Selektive Serotonin-Rückaufname-Inhibitoren (SSRI) | | Fluoxetin, Paroxetin, Citalopram, Escitalopram, Sertralin, Fluvoxamin | Antriebssteigernd, Unruhe, größere therapeutische Breite (im Vergleich mit NSMRI oben) | Fluoxetin: Zwangsstörungen | Übelkeit, Erregung / Unruhe, Schlafstörung, Suizidalität, serotonerges Syndrom, teils **QT-Zeit-Verlängerung** | | | |
 | Selektive Noradrenalin-Rückaufname-Inhibitoren (SNRI) | | Reboxetin | | | | | | |
 | Selektive Serotonin- und Noradrenalin-Rückaufname-Inhibitoren (SSNRI) | | Venlafaxin, Duloxetin | Antriebssteigernd | | | | | |
@@ -137,7 +137,7 @@ layout = "indexpage-fluid"
 | Antikonvulsiva | AMPA-Antagonist | Perampanel | selektiver, nicht-kompetitiver Antagonist des ionotropen AMPA-Rezeptors | | | | | |
 | Antikonvulsiva | Na-Kanal-Inhibitor | Phenytoin | geringe therapeutische Breite | | | | | Eines der meistverwendeten Antiepileptika in den USA |
 | Antikonvulsiva | Na-Kanal-Inhibitor | Carbamazepin, Oxcarbazepin, Lamotrigin, Zonisamid, Valproat | | Carbamazepin, Oxcarbazepin: Trigeminusneuralgie | | Carbamazepine reduziert Spiegel von Antikonzeptiva und anderen Arzneimitteln (CYP450 Inhibition) | | |
-| Antikonvulsiva | Ca-Kanal-Inhibitor | Valproat, Gabapentin, Ethosuximid, Lamotrigin | | Ethosuximide + Valproat Mittel der 1. Wahl bei Absencen, Gabapentin zur Behandlung von neuropathischem Schmerz | | | | |
+| Antikonvulsiva | Ca-Kanal-Inhibitor | Valproat, Gabapentin, Ethosuximid, Lamotrigin | Ethosuximid reduziert Ca-Einstrom aussschließlich an T-Typ Calciumkanal -> unwirksam bei anderen Formen der Epilepsie | Ethosuximide + Valproat Mittel der 1. Wahl bei Absencen, Gabapentin zur Behandlung von neuropathischem Schmerz | | | | |
 | Antikonvulsiva | Ca-Kanal-Inhibitor | Levetiracetam, Brivaracetam | nicht vollständig klar; inhibiert Ca-Kanäle; Bindung an synaptisches Vesikelprotein 2A (SV2A); vermutlich Herabsetzung der neuronalen Reizweiterleutung und Glutamatfreisetzung sowie partielle Inhibitation der Calcium Spiegel intrazellulär | fokale Krampfanfälle | | | | In Schwangerschaft gut toleriert, geringeres teratogenes Potential |
 | Mood Stabilizer | Antiepileptika | Valproat (Valproinsäure) | | | | | Schwangerschaft | |
 | Mood Stabilizer | Antiepileptika | Lamotrigin | | | | | |
@@ -257,10 +257,10 @@ layout = "indexpage-fluid"
 | Immunsuppressiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
 | Immunsuppressiva | Calcineurin-Inhibitoren | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
 | Immunsuppressiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
-| Immunsuppressiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid (Handelsname: Thalidomide Celgene; früher Contergan), Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom | | | | |
+| Immunsuppressiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid (Handelsname: Thalidomide Celgene; früher Contergan), Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom, Lepra, Haut- und Autoimmunkrankheiten | | | | |
 | Zytostatika | Platinverbindungen | Cisplatin, Carboplatin, Oxaliplatin | | | | | | |
 | Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | Myelotixizität | | | |
-| Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat (aka MTX) | Hemmung der Thymidin-Synthese | | | ASS und MTX konkurrieren um renalen Transporter -> verzögerte Ausscheidung | | |
+| Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat (aka MTX) | Hemmung der Thymidin-Synthese | | | ASS und andere NSAR/NSAID konkurrieren mit MTX um renalen Transporter -> verzögerte Ausscheidung | | |
 | Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Vinca-Alkaloide (Vincristin, Vinblastin, Vindesin, Vinorelbin, Vinflunin) , Estramustin, Ixabepilon, Eribulin | | Neurotoxizität, Myelosuppression | | | | | |
 | Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Taxane: Paclitaxel, Docetaxel, Cabazitaxel | | Myelosuppression, Neurotoxizität | | | | |
 | Zytostatika | Antimetaboliten | Mercaptopurin | Purinanaloga | Leukämien, Lymphome, Mamma-/Ovarialkarzinom | | | | |
@@ -350,8 +350,9 @@ layout = "indexpage-fluid"
 | Lipidsenker | Cholesterin-Resorptionshemmer | Ezetimib (Prodrug), beta-Sitosterin | Reduktion des Cholesterin-Spiegel um bis zu 20% | | Kopf- und Bauchschmerzen, Diarrhoe | Colestyramin und Antazida reduzieren Wirkung | | |
 | Lipidsenker | PCSK9-Inhibitoren | Alirocumab, Evolocumab | verhindert Recycling von LDL Rezeptoren auf Hepatozyten -> Anzahl erhöht, LDL um bis zu 70% reduziert | | | | | |
 | Lipidsenker | Fibrate | Suffix *-fibrat*, Gemfibrozil | PPARalpha Agonisten: Senkung der Synthese und Freisetzung von VLDL, Erhöhung des LDL Abbau, Erhöhung der HDL (durch Synthese von APO AI, AII) -> TG um bis zu 40% und LDL um bis zu 20% gesenkt, HDL um ca. 10% erhöht  | Lipidsenker 2. Wahl | GI, Lithogenität der Galle erhöht | Kombination mit Statinen riskant, teils schwere NW; Verstärkte Wirkung von oralen Antikoagulantien | | |
-| Antidot | Heparin | Protamin | 1g neutralisiert 100 I.E. Heparin | | | | | |
-| Antidot | Blausäure, Cyanide | Hydroxocobalamin, Natriumthiosulfat, Dimethylamidphenol (DMAP) | | | | | | |
+| Antidot | | Protamin | 1g neutralisiert 100 I.E. Heparin | Überdosierung Heparin | | | | |
+| Antidot | | Hydroxocobalamin, Natriumthiosulfat, Dimethylamidphenol (DMAP) | | Intoxikation Blausäure, Cyanide | | | | |
+| Antidot | Oxime | Pralidoxim | | Intoxikation Organophosphate | | | | |
 | Lokalanästhetika | Kokain | Procain | wirkt bis zu 30-60 Minuten | | | | | |
 | Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten, blockiert Na-Kanäle und hemmt Schmerzauslösung | | | | | |
 | Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten | | | | | |
