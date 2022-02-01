@@ -1,0 +1,14 @@
+{{ $new := .Inner }}
+{{ range $word, $links := $.Site.Data.autolink }}
+  {{ $replacement := $word }}
+  {{ if and (not (eq $links.dc "-")) (not (eq $links.wp "-")) }}
+    {{ $replacement = printf "%s <small><a target=\"_blank\" href=\"%s\"><span class=\"badge rounded-pill bg-primary\">WP</span></a> <a target=\"_blank\" href=\"%s\"><span class=\"badge rounded-pill bg-danger\">DC</span></a></small>" $word $links.wp $links.dc }}
+  {{ else if not (eq $links.wp "-") }}
+    {{ $replacement = printf "%s <small><a target=\"_blank\" href=\"%s\"><span class=\"badge rounded-pill bg-primary\">WP</span></a></small>" $word $links.wp }}
+  {{ else if not (eq $links.dc "-") }}
+    {{ $replacement = printf "%s <small><a target=\"_blank\" href=\"%s\"><span class=\"badge rounded-pill bg-danger\">DC</span></a></small>" $word $links.dc }}
+  {{ end }}
+  {{ $exp := printf "(%s)" $word }}
+  {{ $new = replaceRE $exp $replacement $new }}
+{{ end }}
+{{ $new | safeHTML }}

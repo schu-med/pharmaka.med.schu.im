@@ -5,9 +5,11 @@ layout = "indexpage-fluid"
 
 {{< partial "intro" >}}
 
+{{< autolink >}}
+
 {{< partial "table-filter" >}}
 
-{{<table id="pharmaka" class="table table-striped table-hover" >}}
+{{< table id="pharmaka" class="table table-striped table-hover" >}}
 
 | System | Kategorie | Wirkstoff | Wirkung | Indikation | UAW | Wechselwirkungen / Resistenzmechanismus | Kontraindikation | Sonstiges |
 |--------|-----------|-----------|---------|------------|-----|------------------|------------------|-----------|
@@ -415,7 +417,9 @@ layout = "indexpage-fluid"
 | -tinib | Tyrosinkinase-Inhibitoren |
 | -taxel | Taxane (MT-Inhibitoren) |
 
-{{</table >}}
+{{< /table >}}
+
+{{< /autolink >}}
 
 </div>
 
