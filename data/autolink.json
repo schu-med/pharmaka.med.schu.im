@@ -249,7 +249,7 @@
   },
   "Ausnahme": {
     "dc": "-",
-    "wp": "https://de.wikipedia.org/wiki/Ausnahme"
+    "wp": "-"
   },
   "Avibactam": {
     "dc": "https://flexikon.doccheck.com/de/Avibactam",
@@ -277,7 +277,7 @@
   },
   "B30": {
     "dc": "-",
-    "wp": "https://de.wikipedia.org/wiki/B30"
+    "wp": "-"
   },
   "Bambuterol": {
     "dc": "https://flexikon.doccheck.com/de/Bambuterol",
@@ -341,7 +341,7 @@
   },
   "Bildung": {
     "dc": "-",
-    "wp": "https://de.wikipedia.org/wiki/Bildung"
+    "wp": "-"
   },
   "Biperiden": {
     "dc": "https://flexikon.doccheck.com/de/Biperiden",
@@ -768,8 +768,8 @@
     "wp": "-"
   },
   "Derivat": {
-    "dc": "https://flexikon.doccheck.com/de/Derivat",
-    "wp": "https://de.wikipedia.org/wiki/Derivat"
+    "dc": "-",
+    "wp": "-"
   },
   "Desipramin": {
     "dc": "https://flexikon.doccheck.com/de/Desipramin",
@@ -862,6 +862,10 @@
   "Dipirydamol": {
     "dc": "-",
     "wp": "-"
+  },
+  "Disopyramid": {
+    "dc": "https://flexikon.doccheck.com/de/Disopyramid",
+    "wp": "https://de.wikipedia.org/wiki/Disopyramid"
   },
   "Dobutamin": {
     "dc": "https://flexikon.doccheck.com/de/Dobutamin",
@@ -1040,8 +1044,8 @@
     "wp": "https://de.wikipedia.org/wiki/Fentanyl"
   },
   "Fetts\u00e4ure": {
-    "dc": "https://flexikon.doccheck.com/de/Fetts\u00e4ure",
-    "wp": "https://de.wikipedia.org/wiki/Fetts\u00e4ure"
+    "dc": "-",
+    "wp": "-"
   },
   "Fetts\u00e4uremodifikation": {
     "dc": "-",
@@ -1201,7 +1205,7 @@
   },
   "Gruppe": {
     "dc": "-",
-    "wp": "https://de.wikipedia.org/wiki/Gruppe"
+    "wp": "-"
   },
   "Guanethidin": {
     "dc": "-",
@@ -1212,8 +1216,8 @@
     "wp": "https://de.wikipedia.org/wiki/Haloperidol"
   },
   "Handelsname": {
-    "dc": "https://flexikon.doccheck.com/de/Handelsname",
-    "wp": "https://de.wikipedia.org/wiki/Handelsname"
+    "dc": "-",
+    "wp": "-"
   },
   "Hauptwirkstoff": {
     "dc": "-",
@@ -1308,8 +1312,8 @@
     "wp": "-"
   },
   "Insulin": {
-    "dc": "https://flexikon.doccheck.com/de/Insulin",
-    "wp": "https://de.wikipedia.org/wiki/Insulin"
+    "dc": "-",
+    "wp": "-"
   },
   "Interferon-alpha": {
     "dc": "https://flexikon.doccheck.com/de/Interferon-alpha",
@@ -1345,7 +1349,7 @@
   },
   "Kombination": {
     "dc": "-",
-    "wp": "https://de.wikipedia.org/wiki/Kombination"
+    "wp": "-"
   },
   "Komplexverbindungen": {
     "dc": "-",
@@ -1532,8 +1536,8 @@
     "wp": "https://de.wikipedia.org/wiki/Mesna"
   },
   "Metabolit": {
-    "dc": "https://flexikon.doccheck.com/de/Metabolit",
-    "wp": "https://de.wikipedia.org/wiki/Metabolit"
+    "dc": "-",
+    "wp": "-"
   },
   "Metamizol": {
     "dc": "https://flexikon.doccheck.com/de/Metamizol",
@@ -2012,8 +2016,8 @@
     "wp": "https://de.wikipedia.org/wiki/Prochlorperazin"
   },
   "Prodrug": {
-    "dc": "https://flexikon.doccheck.com/de/Prodrug",
-    "wp": "https://de.wikipedia.org/wiki/Prodrug"
+    "dc": "-",
+    "wp": "-"
   },
   "Proglumid": {
     "dc": "-",
@@ -2716,7 +2720,7 @@
     "wp": "-"
   },
   "obsolet": {
-    "dc": "https://flexikon.doccheck.com/de/obsolet",
+    "dc": "-",
     "wp": "-"
   },
   "rekombinant": {
