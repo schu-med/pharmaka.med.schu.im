@@ -8,7 +8,7 @@
   {{ else if not (eq $links.dc "-") }}
     {{ $replacement = printf "%s <small><a target=\"_blank\" href=\"%s\"><span class=\"badge rounded-pill bg-danger\">DC</span></a></small>" $word $links.dc }}
   {{ end }}
-  {{ $exp := printf "(%s)" $word }}
+  {{ $exp := printf "\\b%s\\b" $word }}
   {{ $new = replaceRE $exp $replacement $new }}
 {{ end }}
 {{ $new | safeHTML }}
