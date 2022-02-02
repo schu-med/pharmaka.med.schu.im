@@ -84,8 +84,8 @@
     "wp": "https://de.wikipedia.org/wiki/5-Fluorouracil"
   },
   "ASS": {
-    "dc": "https://flexikon.doccheck.com/de/ASS",
-    "wp": "https://de.wikipedia.org/wiki/ASS"
+    "dc": "-",
+    "wp": "-"
   },
   "Abciximab": {
     "dc": "https://flexikon.doccheck.com/de/Abciximab",
@@ -1139,9 +1139,9 @@
     "dc": "https://flexikon.doccheck.com/de/Fluconazol",
     "wp": "https://de.wikipedia.org/wiki/Fluconazol"
   },
-  "Fludricortison": {
-    "dc": "-",
-    "wp": "-"
+  "Fludrocortison": {
+    "dc": "https://flexikon.doccheck.com/de/Fludrocortison",
+    "wp": "https://de.wikipedia.org/wiki/Fludrocortison"
   },
   "Flumazenil": {
     "dc": "https://flexikon.doccheck.com/de/Flumazenil",
@@ -2626,6 +2626,10 @@
   "Trimipramin": {
     "dc": "https://flexikon.doccheck.com/de/Trimipramin",
     "wp": "https://de.wikipedia.org/wiki/Trimipramin"
+  },
+  "Tropicamid": {
+    "dc": "https://flexikon.doccheck.com/de/Tropicamid",
+    "wp": "https://de.wikipedia.org/wiki/Tropicamid"
   },
   "Tropisetron": {
     "dc": "https://flexikon.doccheck.com/de/Tropisetron",

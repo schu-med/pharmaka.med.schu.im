@@ -43,6 +43,7 @@ layout = "indexpage-fluid"
 | Parasympathomimetika | AChE-Inhibitoren (Carbamate) | Donepezil, Rivastigmin | hochselektiv für ACheE im ZNS | Morbus Alzheimer (heute wegen geringem Effekt überwiegend obsolet) | | | | |
 | Parasympathomimetika | AChE-Inhibitoren (Carbamate) | Organophosphate (Alkylphosphate): Paraxon, Parathion E605 | Phosphorylierende Inhibitoren: irreversible Blockade der AChE | hohe Dosen Atropin, Acetylcholin-Vergiftung | | | | |
 | Parasympatholytika | | Hemicholinium | Cholin-Wiederaufnahme Hemmer -> Acetylcholin kann weniger schnell neu bereitgestellt werden | | | | | |
+| Parasympatholytika | Mydriatikum | Tropicamid | | Diagnostik Augen | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonisten | Atropin | | als Antidot bei Vergiftungen mit Organophosphaten/Alkylphosphaten (e.g. Parathion E605), cholinerges Syndrom | | | | Atropin-Paradoxon beachten! |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch (Kinetose Prophylaxe) | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonsiten | Butylscopolamin | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
@@ -135,7 +136,7 @@ layout = "indexpage-fluid"
 | Benzodiazepine | langanhaltend | Clonazepam | antikonvulsiv | | | | | |
 | Benzodiazepine | langanhaltend | Diazepam (Valium) | antikonvulsiv | | | Cimetidin (Antihistaminikum) erhöht Diazepam Plasmaspiegel | | |
 | Benzodiazepine | Z-Substanzen | Zolpidem, Zopiclon, Zaleplon | binden nicht an alpha2 Rezeptorsubtyp -> nicht anxiolytisch oder muskelrelaxierend, kurze HWZ, geringes Abhängigkeitspotential | Schlafstörungen | | | | |
-| Benzodiazepin-Antidot | | Flumazenil | Antagonist der Benzodiazepin-Bindungsstelle des GABA-Rezeptors | Narkosebeendigung, **Antidot bei Benzodiazepin-Überdosierung** (e.g. Midazolam) | | | | |
+| Benzodiazepin-Antidot | | Flumazenil | Antagonist der Benzodiazepin-Bindungsstelle des GABA-Rezeptors | Narkosebeendigung, **Antidot bei Benzodiazepin-Überdosierung** (e.g. durch Midazolam) | | | | |
 | Lithium | | Lithium | "Mood Stabilizer", Alkalimetall, wird als Verbindung verabreicht (e.g. Carbonat), Wirkmechanismus nicht vollumfänglich geklärt | Manie Akuttherapie, Phaseprophylaxe, Augmentation von Antidepressiva, Lanzeitprohylaxe | Müdigkeit, Lethargie, Tremor, GI, Polyurie, Dehydration, Nephrotoxizität, Gewichtszunahme, Euthyreotes Struma, **geringe therapeutische Breite** | | | |
 | Antikonvulsiva | GABAerg | Phenobarbital (Barbiturat), allg. Benzodiazepine, Vigabatrin, Tiagabin, Valproat | Benzodiapine und Barbiturate sind allosterischer Modulator des GABA-A-Rezeptors; Tiagabin hemmt den GABA-Transporter; Vigabatrin hemmt die GABA-Transaminase | | | | | |
 | Antikonvulsiva | | Topiramat | Blockierung von AMPA-Rezeptoren, Bindung an GABA-Rezeptoren, Inaktivierung von Natriumkanälen | | | | | |
@@ -365,7 +366,7 @@ layout = "indexpage-fluid"
 | Anästhetikum | | Propofol | wirkt nur hypnotisch, nicht analgetisch | | | | | |
 | Anästhetikum | | Ketamin | Antagonismus am NMDA-Rezeptor (nicht-kompetitive Hemmung); auch analgetische Wirkkomponente | | | | | |
 | Alkohol-Dehydrogenase-Inhibitor (ADH-Inhibitor) | | Fomepizol | | Methanol- / Ethylenglykolintox | | | | |
-| Aldosteronanalogon | | Fludricortison | bindet an Mineralkortikoidrezeptoren -> gesteigerte Reabsorption von Na+ und Cl- in Niere -> Blutvolumen und -druck Steigerung | Morbus Addison | | | | |
+| Aldosteronanalogon | | Fludrocortison | bindet an Mineralkortikoidrezeptoren -> gesteigerte Reabsorption von Na+ und Cl- in Niere -> Blutvolumen und -druck Steigerung | Morbus Addison | | | | |
 | Vasodilatoren | | Minoxidil | antihypertonisch; enthält NO -> vasodilatierend; öffnet Kaliumkanäle | In Kombination mit Schleifendiuretika und beta-Blockern bei therapierefraktärer Hypertonie | | | | |
 | Toxin | Zootoxin | Tetrodotoxin | Natriumkanalblocker, extrem starke Bindung -> Blockade des peripheren NS -> Atemstillstand, Blutdruckkrise | | | | | |
 | Toxin | Pilzgifte / Amatoxine | Amanitin | Blockiert Bildung von mRNA durch Blockade der RNA-Polymerase II | | | | | Nicht zu verwechseln mit Amantadin (Virostatikum) |
