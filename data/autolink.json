@@ -3,11 +3,55 @@
     "dc": "-",
     "wp": "-"
   },
+  "-conazol": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "-coxibe": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "-dipin": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "-fibrat": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "-gliflozin": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "-ifen": {
+    "dc": "-",
+    "wp": "-"
+  },
   "-mumab": {
     "dc": "-",
     "wp": "-"
   },
   "-omab": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "-prazol": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "-pril": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "-relin": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "-relix": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "-sartan": {
     "dc": "-",
     "wp": "-"
   },
@@ -50,6 +94,10 @@
   "Abirateronacetat": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Abirateronacetat"
+  },
+  "Abtreibungspille": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Abtreibungspille"
   },
   "Acarbose": {
     "dc": "https://flexikon.doccheck.com/de/Acarbose",
@@ -166,6 +214,10 @@
   "Amitriptylin": {
     "dc": "https://flexikon.doccheck.com/de/Amitriptylin",
     "wp": "https://de.wikipedia.org/wiki/Amitriptylin"
+  },
+  "Amlodipin": {
+    "dc": "https://flexikon.doccheck.com/de/Amlodipin",
+    "wp": "https://de.wikipedia.org/wiki/Amlodipin"
   },
   "Amorolfin": {
     "dc": "https://flexikon.doccheck.com/de/Amorolfin",
@@ -355,6 +407,10 @@
     "dc": "https://flexikon.doccheck.com/de/Bisoprolol",
     "wp": "https://de.wikipedia.org/wiki/Bisoprolol"
   },
+  "Bittersalz": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Bittersalz"
+  },
   "Bivalirudin": {
     "dc": "https://flexikon.doccheck.com/de/Bivalirudin",
     "wp": "https://de.wikipedia.org/wiki/Bivalirudin"
@@ -430,6 +486,10 @@
   "Calciumcarbonat": {
     "dc": "https://flexikon.doccheck.com/de/Calciumcarbonat",
     "wp": "https://de.wikipedia.org/wiki/Calciumcarbonat"
+  },
+  "Canagliflozin": {
+    "dc": "https://flexikon.doccheck.com/de/Canagliflozin",
+    "wp": "https://de.wikipedia.org/wiki/Canagliflozin"
   },
   "Cangrelor": {
     "dc": "https://flexikon.doccheck.com/de/Cangrelor",
@@ -747,6 +807,10 @@
     "dc": "https://flexikon.doccheck.com/de/Dantrolen",
     "wp": "https://de.wikipedia.org/wiki/Dantrolen"
   },
+  "Dapagliflozin": {
+    "dc": "https://flexikon.doccheck.com/de/Dapagliflozin",
+    "wp": "https://de.wikipedia.org/wiki/Dapagliflozin"
+  },
   "Dapson": {
     "dc": "https://flexikon.doccheck.com/de/Dapson",
     "wp": "https://de.wikipedia.org/wiki/Dapson"
@@ -939,6 +1003,10 @@
     "dc": "-",
     "wp": "-"
   },
+  "Empagliflozin": {
+    "dc": "https://flexikon.doccheck.com/de/Empagliflozin",
+    "wp": "https://de.wikipedia.org/wiki/Empagliflozin"
+  },
   "Entecavir": {
     "dc": "https://flexikon.doccheck.com/de/Entecavir",
     "wp": "https://de.wikipedia.org/wiki/Entecavir"
@@ -1035,6 +1103,10 @@
     "dc": "https://flexikon.doccheck.com/de/Famotidin",
     "wp": "https://de.wikipedia.org/wiki/Famotidin"
   },
+  "Felodipin": {
+    "dc": "https://flexikon.doccheck.com/de/Felodipin",
+    "wp": "https://de.wikipedia.org/wiki/Felodipin"
+  },
   "Fenoterol": {
     "dc": "https://flexikon.doccheck.com/de/Fenoterol",
     "wp": "https://de.wikipedia.org/wiki/Fenoterol"
@@ -1062,6 +1134,10 @@
   "Flucloxacillin": {
     "dc": "https://flexikon.doccheck.com/de/Flucloxacillin",
     "wp": "https://de.wikipedia.org/wiki/Flucloxacillin"
+  },
+  "Fluconazol": {
+    "dc": "https://flexikon.doccheck.com/de/Fluconazol",
+    "wp": "https://de.wikipedia.org/wiki/Fluconazol"
   },
   "Fludricortison": {
     "dc": "-",
@@ -1163,6 +1239,10 @@
     "dc": "https://flexikon.doccheck.com/de/Gefitinib",
     "wp": "https://de.wikipedia.org/wiki/Gefitinib"
   },
+  "Gemfibrozil": {
+    "dc": "https://flexikon.doccheck.com/de/Gemfibrozil",
+    "wp": "https://de.wikipedia.org/wiki/Gemfibrozil"
+  },
   "Gentamycin": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Gentamycin"
@@ -1170,6 +1250,10 @@
   "Glargin": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Glargin"
+  },
+  "Glaubersalz": {
+    "dc": "https://flexikon.doccheck.com/de/Glaubersalz",
+    "wp": "https://de.wikipedia.org/wiki/Glaubersalz"
   },
   "Glecaprevir": {
     "dc": "https://flexikon.doccheck.com/de/Glecaprevir",
@@ -1327,6 +1411,10 @@
     "dc": "https://flexikon.doccheck.com/de/Irinotecan",
     "wp": "https://de.wikipedia.org/wiki/Irinotecan"
   },
+  "Isavuconazol": {
+    "dc": "-",
+    "wp": "-"
+  },
   "Isoniazid": {
     "dc": "https://flexikon.doccheck.com/de/Isoniazid",
     "wp": "https://de.wikipedia.org/wiki/Isoniazid"
@@ -1334,6 +1422,10 @@
   "Isoprenalin": {
     "dc": "https://flexikon.doccheck.com/de/Isoprenalin",
     "wp": "https://de.wikipedia.org/wiki/Isoprenalin"
+  },
+  "Itraconazol": {
+    "dc": "https://flexikon.doccheck.com/de/Itraconazol",
+    "wp": "https://de.wikipedia.org/wiki/Itraconazol"
   },
   "Ivermectin": {
     "dc": "https://flexikon.doccheck.com/de/Ivermectin",
@@ -1346,6 +1438,10 @@
   "Ketamin": {
     "dc": "https://flexikon.doccheck.com/de/Ketamin",
     "wp": "https://de.wikipedia.org/wiki/Ketamin"
+  },
+  "Ketoconazol": {
+    "dc": "https://flexikon.doccheck.com/de/Ketoconazol",
+    "wp": "https://de.wikipedia.org/wiki/Ketoconazol"
   },
   "Kombination": {
     "dc": "-",
@@ -1382,6 +1478,10 @@
   "Lamotrigin": {
     "dc": "https://flexikon.doccheck.com/de/Lamotrigin",
     "wp": "https://de.wikipedia.org/wiki/Lamotrigin"
+  },
+  "Lansoprazol": {
+    "dc": "https://flexikon.doccheck.com/de/Lansoprazol",
+    "wp": "-"
   },
   "Lefamulin": {
     "dc": "https://flexikon.doccheck.com/de/Lefamulin",
@@ -1607,6 +1707,10 @@
     "dc": "https://flexikon.doccheck.com/de/Midazolam",
     "wp": "https://de.wikipedia.org/wiki/Midazolam"
   },
+  "Mifepriston": {
+    "dc": "https://flexikon.doccheck.com/de/Mifepriston",
+    "wp": "https://de.wikipedia.org/wiki/Mifepriston"
+  },
   "Miglitol": {
     "dc": "https://flexikon.doccheck.com/de/Miglitol",
     "wp": "https://de.wikipedia.org/wiki/Miglitol"
@@ -1674,6 +1778,14 @@
   "NPH": {
     "dc": "https://flexikon.doccheck.com/de/NPH",
     "wp": "https://de.wikipedia.org/wiki/NPH"
+  },
+  "NaH2PO4": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/NaH2PO4"
+  },
+  "NaHPO4": {
+    "dc": "-",
+    "wp": "-"
   },
   "Nabilon": {
     "dc": "https://flexikon.doccheck.com/de/Nabilon",
@@ -1759,13 +1871,25 @@
     "dc": "https://flexikon.doccheck.com/de/Niclosamid",
     "wp": "https://de.wikipedia.org/wiki/Niclosamid"
   },
+  "Nifedipin": {
+    "dc": "https://flexikon.doccheck.com/de/Nifedipin",
+    "wp": "https://de.wikipedia.org/wiki/Nifedipin"
+  },
   "Nifurtimox": {
     "dc": "https://flexikon.doccheck.com/de/Nifurtimox",
     "wp": "https://de.wikipedia.org/wiki/Nifurtimox"
   },
+  "Nisoldipin": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Nisoldipin"
+  },
   "Nitrazepam": {
     "dc": "https://flexikon.doccheck.com/de/Nitrazepam",
     "wp": "https://de.wikipedia.org/wiki/Nitrazepam"
+  },
+  "Nitrendipin": {
+    "dc": "https://flexikon.doccheck.com/de/Nitrendipin",
+    "wp": "https://de.wikipedia.org/wiki/Nitrendipin"
   },
   "Nitrofural": {
     "dc": "-",
@@ -1795,6 +1919,10 @@
     "dc": "https://flexikon.doccheck.com/de/Nortriptylin",
     "wp": "https://de.wikipedia.org/wiki/Nortriptylin"
   },
+  "Notfallkontrazeption": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Notfallkontrazeption"
+  },
   "Novalgin": {
     "dc": "https://flexikon.doccheck.com/de/Novalgin",
     "wp": "https://de.wikipedia.org/wiki/Novalgin"
@@ -1810,6 +1938,10 @@
   "Omalizumab": {
     "dc": "https://flexikon.doccheck.com/de/Omalizumab",
     "wp": "https://de.wikipedia.org/wiki/Omalizumab"
+  },
+  "Omeprazol": {
+    "dc": "https://flexikon.doccheck.com/de/Omeprazol",
+    "wp": "https://de.wikipedia.org/wiki/Omeprazol"
   },
   "Ondansetron": {
     "dc": "https://flexikon.doccheck.com/de/Ondansetron",
@@ -1870,6 +2002,10 @@
   "Pancuronium": {
     "dc": "https://flexikon.doccheck.com/de/Pancuronium",
     "wp": "https://de.wikipedia.org/wiki/Pancuronium"
+  },
+  "Pantoprazol": {
+    "dc": "https://flexikon.doccheck.com/de/Pantoprazol",
+    "wp": "https://de.wikipedia.org/wiki/Pantoprazol"
   },
   "Paracetamol": {
     "dc": "https://flexikon.doccheck.com/de/Paracetamol",
@@ -1979,6 +2115,10 @@
     "dc": "https://flexikon.doccheck.com/de/Pomalidomid",
     "wp": "https://de.wikipedia.org/wiki/Pomalidomid"
   },
+  "Posaconazol": {
+    "dc": "https://flexikon.doccheck.com/de/Posaconazol",
+    "wp": "https://de.wikipedia.org/wiki/Posaconazol"
+  },
   "Pralidoxim": {
     "dc": "https://flexikon.doccheck.com/de/Pralidoxim",
     "wp": "-"
@@ -2070,6 +2210,10 @@
   "Quinopristin": {
     "dc": "-",
     "wp": "-"
+  },
+  "Rabeprazol": {
+    "dc": "https://flexikon.doccheck.com/de/Rabeprazol",
+    "wp": "https://de.wikipedia.org/wiki/Rabeprazol"
   },
   "Racecadotril": {
     "dc": "https://flexikon.doccheck.com/de/Racecadotril",
@@ -2238,6 +2382,10 @@
   "Sufentanil": {
     "dc": "https://flexikon.doccheck.com/de/Sufentanil",
     "wp": "https://de.wikipedia.org/wiki/Sufentanil"
+  },
+  "Suffix": {
+    "dc": "-",
+    "wp": "-"
   },
   "Sulbactam": {
     "dc": "https://flexikon.doccheck.com/de/Sulbactam",
@@ -2499,6 +2647,10 @@
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/UFH"
   },
+  "Ulipristalacetat": {
+    "dc": "https://flexikon.doccheck.com/de/Ulipristalacetat",
+    "wp": "https://de.wikipedia.org/wiki/Ulipristalacetat"
+  },
   "Urapidil": {
     "dc": "https://flexikon.doccheck.com/de/Urapidil",
     "wp": "https://de.wikipedia.org/wiki/Urapidil"
@@ -2518,6 +2670,10 @@
   "Valproins\u00e4ure": {
     "dc": "https://flexikon.doccheck.com/de/Valproins\u00e4ure",
     "wp": "https://de.wikipedia.org/wiki/Valproins\u00e4ure"
+  },
+  "Valsartan": {
+    "dc": "https://flexikon.doccheck.com/de/Valsartan",
+    "wp": "https://de.wikipedia.org/wiki/Valsartan"
   },
   "Vancomycin": {
     "dc": "https://flexikon.doccheck.com/de/Vancomycin",
@@ -2578,6 +2734,10 @@
   "Vorapaxar": {
     "dc": "https://flexikon.doccheck.com/de/Vorapaxar",
     "wp": "-"
+  },
+  "Voriconazol": {
+    "dc": "https://flexikon.doccheck.com/de/Voriconazol",
+    "wp": "https://de.wikipedia.org/wiki/Voriconazol"
   },
   "Vorozol": {
     "dc": "-",

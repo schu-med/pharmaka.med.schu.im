@@ -26,7 +26,7 @@ if os.path.isfile(cache_file):
         word_list = json.load(f)
 
 # Take content of third column, ignore rest of row
-r = re.compile(r'^\s*\|[^\|]*\|[^\|]*\|\s*([\w.,;:\-\ \(\)]+)\s*\|.*$')
+r = re.compile(r'^\s*\|[^\|]*\|[^\|]*\|\s*([^\|]+)\s*\|.*$')
 
 words = set()
 
