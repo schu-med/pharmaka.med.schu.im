@@ -86,7 +86,7 @@ layout = "indexpage-fluid"
 | Antiarrhythmikum | Klasse Ia | Disopyramid | | | | | | |
 | Antiarrhythmikum | Klasse Ib | Lidocain | | | | | | |
 | Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Sotalol (auch beta-Blocker, siehe oben) | | | Torsade de pointes | CAVE: NI, wird kaum metabolisiert und zu ca. 90% renal eliminiert | Kombination mit anderen repolirations-verzögernden Pharmaka, Bradykardie, CAVE: Asthmatiker | |
-| Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Amiodaron | | | | Amiodaron hemmt CYP3A4, ungewünschte Effekt mit zum Beispiel Phenprocoumon (Abbau verlangsamt, Blutungsgefahr) | | |
+| Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Amiodaron | | | | Amiodaron hemmt CYP3A4 -> ungewünschter Effekt mit zum Beispiel Phenprocoumon (Abbau verlangsamt, Blutungsgefahr) | | |
 | Antisympathotonika | | Reserpin | Blockade der Wiederaufnahme von NA und Dopamin | | Orthostatische Dysregulation, Förderung Depression, GI | | | Gilt heute als obsolet (u.a. wegen UAW) |
 | Herzglykoside | Cardenolide | Digoxin, Digitoxin | Hemmung der Na-K-ATPase -> mehr Na intrazellulär -> **positiv inotrop, negativ dromotrop** | HI, tachykardes Vorhofflimmern | | | | |
 | Methylxanthine | | Theophyllin | Antagonistisch an Adenosinrezeptoren; kompetitive Hemmung der PDE -> Erhöhung cAMP; Steigerung Zilienschlag des Flimmerepithel; positiv inotrop und chronotrop (wie ein beta1-Agonist); fördert renale Durchblutung -> erhöhte Diurese | Asthma, COPD | Arrhythmie | Abbau durch CYP1A2 in Leber (Induziert bei Rauchern) | | |
