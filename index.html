@@ -31,7 +31,7 @@ Disclaimer: kein Anspruch auf Richtigkeit und Vollständigkeit – ohne Gewähr!
 </div>
 <div class="alert alert-light">
 <p>Lizenz: <a href=https://creativecommons.org/licenses/by-sa/4.0/>CC BY-SA 4.0</a><br>
-Letzte Aktualisierung: 05.02.2022 (4d3ec7f)</p>
+Letzte Aktualisierung: 07.02.2022 (e5ebacc)</p>
 </div>
 </div>
 </div>
@@ -39,7 +39,7 @@ Letzte Aktualisierung: 05.02.2022 (4d3ec7f)</p>
 <script>const tableFilter=()=>{const a=Array.from(document.querySelectorAll('#pharmaka tr')).filter(a=>!a.querySelector('th')),b=document.querySelector('#filter').value,c=new RegExp(b,'i'),d=a=>c.test(a.innerHTML),e=a=>a.some(d),f=({style:a,children:b})=>{a.display=e([...b])?'':'none'};a.forEach(f)};function focusFilter(b){const a=document.getElementById('filter');a.focus(),a.select(),a.scrollIntoView()}(function(){const a=new window.keypress.Listener,b=[{keys:"cmd .",on_keydown:focusFilter},{keys:"ctrl .",on_keydown:focusFilter}];a.register_many(b)})()</script>
 <div class="row mb-2">
 <div class=col>
-<input type=text id=filter onkeyup=tableFilter() placeholder="Filter ..."> <span>Fokus: <kbd>Ctrl</kbd> / <kbd>Cmd</kbd> + <kbd>.</kbd></span>
+<input type=text id=filter onkeyup=tableFilter() placeholder="Filter ..."><span class="d-none d-sm-block"> Fokus: <kbd>Ctrl</kbd> / <kbd>Cmd</kbd> + <kbd>.</kbd></span>
 </div>
 </div>
 <table id=pharmaka class="table table-striped table-hover">
