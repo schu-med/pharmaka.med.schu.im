@@ -10,7 +10,7 @@ import requests
 
 
 if len(sys.argv) < 2 or sys.argv[1] in ('help', '-h', '--help'):
-    print('Usage: %s <CONTENT_FILE>' % sys.argv[0])
+    print('Usage: %s <CONTENT_FILE> [<CACHE_FILE>]' % sys.argv[0])
     sys.exit(1)
 
 content_file = sys.argv[1]
