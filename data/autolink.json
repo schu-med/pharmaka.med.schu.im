@@ -127,6 +127,10 @@
     "dc": "https://flexikon.doccheck.com/de/Adefovir",
     "wp": "https://de.wikipedia.org/wiki/Adefovir"
   },
+  "Adrenalin": {
+    "dc": "https://flexikon.doccheck.com/de/Adrenalin",
+    "wp": "https://de.wikipedia.org/wiki/Adrenalin"
+  },
   "Afatinib": {
     "dc": "https://flexikon.doccheck.com/de/Afatinib",
     "wp": "https://de.wikipedia.org/wiki/Afatinib"
@@ -298,6 +302,10 @@
   "Atropin": {
     "dc": "https://flexikon.doccheck.com/de/Atropin",
     "wp": "https://de.wikipedia.org/wiki/Atropin"
+  },
+  "Atrovent": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Atrovent"
   },
   "Ausnahme": {
     "dc": "-",
@@ -471,6 +479,10 @@
     "dc": "https://flexikon.doccheck.com/de/Buprenorphin",
     "wp": "https://de.wikipedia.org/wiki/Buprenorphin"
   },
+  "Buscopan": {
+    "dc": "https://flexikon.doccheck.com/de/Buscopan",
+    "wp": "https://de.wikipedia.org/wiki/Buscopan"
+  },
   "Busulfan": {
     "dc": "https://flexikon.doccheck.com/de/Busulfan",
     "wp": "https://de.wikipedia.org/wiki/Busulfan"
@@ -478,6 +490,10 @@
   "Butylscopolamin": {
     "dc": "https://flexikon.doccheck.com/de/Butylscopolamin",
     "wp": "https://de.wikipedia.org/wiki/Butylscopolamin"
+  },
+  "Butylscopolaminbromid": {
+    "dc": "https://flexikon.doccheck.com/de/Butylscopolaminbromid",
+    "wp": "https://de.wikipedia.org/wiki/Butylscopolaminbromid"
   },
   "Cabazitaxel": {
     "dc": "https://flexikon.doccheck.com/de/Cabazitaxel",
@@ -1019,6 +1035,10 @@
     "dc": "https://flexikon.doccheck.com/de/Ephedrin",
     "wp": "https://de.wikipedia.org/wiki/Ephedrin"
   },
+  "Epinephrin": {
+    "dc": "https://flexikon.doccheck.com/de/Epinephrin",
+    "wp": "https://de.wikipedia.org/wiki/Epinephrin"
+  },
   "Epirubicin": {
     "dc": "https://flexikon.doccheck.com/de/Epirubicin",
     "wp": "https://de.wikipedia.org/wiki/Epirubicin"
@@ -1050,6 +1070,10 @@
   "Escitalopram": {
     "dc": "https://flexikon.doccheck.com/de/Escitalopram",
     "wp": "https://de.wikipedia.org/wiki/Escitalopram"
+  },
+  "Esketamin": {
+    "dc": "https://flexikon.doccheck.com/de/Esketamin",
+    "wp": "https://de.wikipedia.org/wiki/Esketamin"
   },
   "Esmolol": {
     "dc": "https://flexikon.doccheck.com/de/Esmolol",
@@ -1283,6 +1307,10 @@
     "dc": "https://flexikon.doccheck.com/de/Glycerin",
     "wp": "https://de.wikipedia.org/wiki/Glycerin"
   },
+  "Glycerintrinitrat": {
+    "dc": "https://flexikon.doccheck.com/de/Glycerintrinitrat",
+    "wp": "https://de.wikipedia.org/wiki/Glycerintrinitrat"
+  },
   "Granisetron": {
     "dc": "https://flexikon.doccheck.com/de/Granisetron",
     "wp": "https://de.wikipedia.org/wiki/Granisetron"
@@ -1438,6 +1466,10 @@
   "Ketamin": {
     "dc": "https://flexikon.doccheck.com/de/Ketamin",
     "wp": "https://de.wikipedia.org/wiki/Ketamin"
+  },
+  "Ketanest": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Ketanest"
   },
   "Ketoconazol": {
     "dc": "https://flexikon.doccheck.com/de/Ketoconazol",
@@ -1898,6 +1930,10 @@
   "Nitrofurantoin": {
     "dc": "https://flexikon.doccheck.com/de/Nitrofurantoin",
     "wp": "https://de.wikipedia.org/wiki/Nitrofurantoin"
+  },
+  "Nitroglycerin": {
+    "dc": "https://flexikon.doccheck.com/de/Nitroglycerin",
+    "wp": "https://de.wikipedia.org/wiki/Nitroglycerin"
   },
   "Nitrosoharnstoffe": {
     "dc": "-",
@@ -2407,6 +2443,10 @@
     "dc": "https://flexikon.doccheck.com/de/Sulpirid",
     "wp": "https://de.wikipedia.org/wiki/Sulpirid"
   },
+  "Suprarenin": {
+    "dc": "https://flexikon.doccheck.com/de/Suprarenin",
+    "wp": "https://de.wikipedia.org/wiki/Suprarenin"
+  },
   "Suramin": {
     "dc": "https://flexikon.doccheck.com/de/Suramin",
     "wp": "https://de.wikipedia.org/wiki/Suramin"
@@ -2418,6 +2458,10 @@
   "Suxamethoniumchlorid": {
     "dc": "https://flexikon.doccheck.com/de/Suxamethoniumchlorid",
     "wp": "https://de.wikipedia.org/wiki/Suxamethoniumchlorid"
+  },
+  "Synonym": {
+    "dc": "-",
+    "wp": "-"
   },
   "Tacrolimus": {
     "dc": "https://flexikon.doccheck.com/de/Tacrolimus",
@@ -2438,6 +2482,10 @@
   "Tapentadol": {
     "dc": "https://flexikon.doccheck.com/de/Tapentadol",
     "wp": "https://de.wikipedia.org/wiki/Tapentadol"
+  },
+  "Tavegil": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Tavegil"
   },
   "Tavor": {
     "dc": "https://flexikon.doccheck.com/de/Tavor",

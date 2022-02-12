@@ -45,11 +45,11 @@ layout = "indexpage-fluid"
 | Parasympatholytika | | Hemicholinium | Cholin-Wiederaufnahme Hemmer -> Acetylcholin kann weniger schnell neu bereitgestellt werden | | | | | |
 | Parasympatholytika | Mydriatikum | Tropicamid | | Diagnostik Augen | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonisten | Atropin | | als Antidot bei Vergiftungen mit Organophosphaten/Alkylphosphaten (e.g. Parathion E605), cholinerges Syndrom | | | | Atropin-Paradoxon beachten! |
-| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch (Kinetose Prophylaxe) | | | | |
-| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Butylscopolamin | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
-| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Ipratropium | SAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
-| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Tiotropium | LAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
-| Parasympatholytika | Muskarinrezeptor-Antagonsiten | Benzatropin, Biperiden, Trihexphenidyl | | Parkinsonoide Neuroleptika-NW, nicht(!) für Therapie von Parkinson selbst | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonisten | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch (Kinetose Prophylaxe) | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonisten | Butylscopolamin (Synonym: Butylscopolaminbromid; Handelsname: Buscopan) | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonisten | Ipratropium (Handelsname: Atrovent) | SAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonisten | Tiotropium | LAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
+| Parasympatholytika | Muskarinrezeptor-Antagonisten | Benzatropin, Biperiden, Trihexphenidyl | | Parkinsonoide Neuroleptika-NW, nicht(!) für Therapie von Parkinson selbst | | | | |
 | Parasympatholytika / Muskelrelaxantien | Curare (Kompetitive ACh-Rezeptoren-Hemmer), nicht depolarisierend | Tubocurarin, Atracurium, Mivacurium | kompetetive Hemmer des Acetylcholins an nikotinergen Rezeptoren der mot. Endplatte | | | | | Antidot: Chlolinesterase-Hemmer, Neostigmin |
 | Muskelrelaxantien | Depolarisierende Relaxantien | Succinylcholin (aka Suxamethonium) | | RSI | | | | |
 | Muskelrelaxantien | Depolarisierende Relaxantien | Suxamethoniumchlorid | Agonistische Wirkung am nikotinerge ACh-Rezeptor -> Dauerdepolarisation; **nicht antagonisierbar** | | | | | |
@@ -57,6 +57,7 @@ layout = "indexpage-fluid"
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Rocuronium, Atracurium, Cis-Atracurium, Vecuronium | Mittellang wirksam | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Pancuronium | lang-wirksam | | | | | |
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Dantrolen | Blockierung der Ryanodin-Rezeptors im Skelettmuskel -> reduzierte Ca-Freisetzung | Malignes neuroleptisches Syndrom | | | | |
+| Sympathomimetika | Katecholamine | Adrenalin (Synonym: Epinephrin; Handelsname: Suprarenin) | | | | | | |
 | Sympathomimetika | | Ephedrin | wirkt unspezifisch | | | | | |
 | Sympathomimetika | alpha1-/beta1-/beta2-Agonist | Dobutamin | | | | | | |
 | Sympathomimetika | alpha-Agonisten | Naphazolin, Xylometazolin, Oxymetazolin | | Allergische Konjunktivitis, Sinusitis, Nasopharyngitis | Schleimhautschädigend | | Säuglinge, Kleinkinder, Hypertoniker | |
@@ -303,7 +304,7 @@ layout = "indexpage-fluid"
 | Säurehemmer | Protein-Komplexbildner | Sucralfat | bildet Komplexverbindung auf Ulcusoberfläche, verhindert Angriff von HCL; Achtung: zur Ulcus-Prophylaxe nicht geeignet (-> PPI) | | Obstipation | Tetrazyklin-Komplexe nicht resorbierbar | NI, Enzephalopathie | |
 | Säurehemmer | | Misoprostol | PGE2-Analogon, hemmt HCL-Sekretion, verstärkt Schleimsekretion | | Durchfälle, Magen- und Darmkrämpfe | | Schwangerschaft | |
 | Säurehemmer | | Proglumid | Gastrinantagonist (therapeutischer Wert umstritten) | | | | | |
-| Antihistaminikum | H1-Antagonist | Clemastin | | Allergien (e.g. allergische Rhinits oder Konjunktivitis) | QT-Zeit-Verkängerung | | | |
+| Antihistaminikum | H1-Antagonist | Clemastin (Handelsname: Tavegil) | | Allergien (e.g. allergische Rhinits oder Konjunktivitis) | QT-Zeit-Verkängerung | | | |
 | Antiemetika | H1 Inverser Agonist | Diphenhydramin | | | QT-Zeit-Verlängerung | | | |
 | Antiemetika | H1-Blocker | Dimenhydrinat (Handelsname: Vomex) | | | | | | |
 | Antiemetika | 5-HT3-Rezeptorantagonisten (Setrone) | Granisetron, Ondansetron, Tropisetron, Palonosetron | 5-HT3 ist ligandengesteuerter Na-K-Kanal, einziger nicht G-Protein gekoppelter Serotoninrezeptor | Zytostatika- und Strahlentherapie-induziertes Erbrechen, postoperatives Erbrechen, (Hyperemesis gravidarum) | | | | |
@@ -365,9 +366,11 @@ layout = "indexpage-fluid"
 | Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten, blockiert Na-Kanäle | | | | | |
 | Anästhetikum | | Propofol | wirkt nur hypnotisch, nicht analgetisch | | | | | |
 | Anästhetikum | | Ketamin | Antagonismus am NMDA-Rezeptor (nicht-kompetitive Hemmung); auch analgetische Wirkkomponente | | | | | |
+| Anästhetikum | Ketamin | Esketamin (Handelsname: Ketanest S) | Antagonismus am NMDA-Rezeptor (nicht-kompetitive Hemmung); auch analgetische Wirkkomponente | | | | | |
 | Alkohol-Dehydrogenase-Inhibitor (ADH-Inhibitor) | | Fomepizol | | Methanol- / Ethylenglykolintox | | | | |
 | Aldosteronanalogon | | Fludrocortison | bindet an Mineralkortikoidrezeptoren -> gesteigerte Reabsorption von Na+ und Cl- in Niere -> Blutvolumen und -druck Steigerung | Morbus Addison | | | | |
 | Vasodilatoren | | Minoxidil | antihypertonisch; enthält NO -> vasodilatierend; öffnet Kaliumkanäle | In Kombination mit Schleifendiuretika und beta-Blockern bei therapierefraktärer Hypertonie | | | | |
+| Vasodilatoren | | Nitroglycerin (Synonym: Glycerintrinitrat) | | | | | | |
 | Toxin | Zootoxin | Tetrodotoxin | Natriumkanalblocker, extrem starke Bindung -> Blockade des peripheren NS -> Atemstillstand, Blutdruckkrise | | | | | |
 | Toxin | Pilzgifte / Amatoxine | Amanitin | Blockiert Bildung von mRNA durch Blockade der RNA-Polymerase II | | | | | Nicht zu verwechseln mit Amantadin (Virostatikum) |
 | Toxin | | Botulinumtoxin (Botox) | Hemmung der Acetylcholin Freisetzung | | | | | |
