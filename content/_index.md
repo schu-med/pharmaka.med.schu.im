@@ -44,7 +44,7 @@ layout = "indexpage-fluid"
 | Parasympathomimetika | AChE-Inhibitoren (Carbamate) | Organophosphate (Alkylphosphate): Paraxon, Parathion E605 | Phosphorylierende Inhibitoren: irreversible Blockade der AChE | hohe Dosen Atropin, Acetylcholin-Vergiftung | | | | |
 | Parasympatholytika | | Hemicholinium | Cholin-Wiederaufnahme Hemmer -> Acetylcholin kann weniger schnell neu bereitgestellt werden | | | | | |
 | Parasympatholytika | Mydriatikum | Tropicamid | | Diagnostik Augen | | | | |
-| Parasympatholytika | Muskarinrezeptor-Antagonisten | Atropin | | als Antidot bei Vergiftungen mit Organophosphaten/Alkylphosphaten (e.g. Parathion E605), cholinerges Syndrom | | | | Atropin-Paradoxon beachten! |
+| Parasympatholytika | Muskarinrezeptor-Antagonisten | Atropin | | als Antidot bei Vergiftungen mit Organophosphaten/Alkylphosphaten (e.g. Parathion E605), cholinerges Syndrom, Bradykardie | | | | Atropin-Paradoxon beachten! |
 | Parasympatholytika | Muskarinrezeptor-Antagonisten | Scopolamin | ZNS-gängig, Verwandter des Atropins | Antiemetisch (Kinetose Prophylaxe) | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonisten | Butylscopolamin (Synonym: Butylscopolaminbromid; Handelsname: Buscopan) | nicht ZNS-gängig, Derivat des Scopolamins | Motilitätsmindernd, MDT Krämpfe/Beschwerden, Gallen-/Nierenkolik, Endoskopien (Spasmen-Vorbeugung) | | | | |
 | Parasympatholytika | Muskarinrezeptor-Antagonisten | Ipratropium (Handelsname: Atrovent) | SAMA, nicht ZNS-gängig, Derivat des Atropins | Sinusbradykardien (positiv inotrop), AV-Block 2. Grades, COPD | | | | |
@@ -59,7 +59,7 @@ layout = "indexpage-fluid"
 | Muskelrelaxantien | Nicht-depolarisierende Relaxantien | Dantrolen | Blockierung der Ryanodin-Rezeptors im Skelettmuskel -> reduzierte Ca-Freisetzung | Malignes neuroleptisches Syndrom | | | | |
 | Sympathomimetika | Katecholamine | Adrenalin (Synonym: Epinephrin; Handelsname: Suprarenin) | | | | | | |
 | Sympathomimetika | | Ephedrin | wirkt unspezifisch | | | | | |
-| Sympathomimetika | alpha1-/beta1-/beta2-Agonist | Dobutamin | | | | | | |
+| Sympathomimetika | alpha1-/beta1-/beta2-Agonist | Dobutamin (Dopamin) | | 2. Wahl bei kardiogenem Schock | | | | CAVE: Dosierungsbereiche und deren Wirkung beachten |
 | Sympathomimetika | alpha-Agonisten | Naphazolin, Xylometazolin, Oxymetazolin | | Allergische Konjunktivitis, Sinusitis, Nasopharyngitis | Schleimhautschädigend | | Säuglinge, Kleinkinder, Hypertoniker | |
 | Sympathomimetika | alpha1-Agonist | Phenylephrin | Augentropfen, Nasenspray | | | | | |
 | Sympathomimetika | alpha2-Agonist | Clonidin, Moxonidin | Clonidin wirkt an prä- und postsynaptischen alpha2-Rezeptoren und postsynaptschen **Imidazolin**-Rezeptoren, Moxonidin nur an letzteren; reduziert peripher die Freisetzung von NA; hemmt im Ncl. solitarius sympathische Impulse durch Bindung an postsynaptische Rezeptoren | Hypertonie (2. Wahl) | | | | |
@@ -84,6 +84,7 @@ layout = "indexpage-fluid"
 | Sympatholytika | beta-Blocker, 3. Generation | Betaxolol | auch Ca-Antagonist | Glaukom | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Celiprolol | **beta2 ISA**, **auch NO Donator** -> vasodilatierend | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Nebivolol | **auch NO Donator** -> vasodilatierend | | | | | |
+| Antiarrhythmikum | Klasse Ia | Procainamid | | | | | | |
 | Antiarrhythmikum | Klasse Ia | Disopyramid | | | | | | |
 | Antiarrhythmikum | Klasse Ib | Lidocain | | | | | | |
 | Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Sotalol (auch beta-Blocker, siehe oben) | | | Torsade de pointes | CAVE: NI, wird kaum metabolisiert und zu ca. 90% renal eliminiert | Kombination mit anderen repolirations-verzögernden Pharmaka, Bradykardie, CAVE: Asthmatiker | |
@@ -92,7 +93,7 @@ layout = "indexpage-fluid"
 | Herzglykoside | Cardenolide | Digoxin, Digitoxin | Hemmung der Na-K-ATPase -> mehr Na intrazellulär -> **positiv inotrop, negativ dromotrop** | HI, tachykardes Vorhofflimmern | | | | |
 | Methylxanthine | | Theophyllin | Antagonistisch an Adenosinrezeptoren; kompetitive Hemmung der PDE -> Erhöhung cAMP; Steigerung Zilienschlag des Flimmerepithel; positiv inotrop und chronotrop (wie ein beta1-Agonist); fördert renale Durchblutung -> erhöhte Diurese | Asthma, COPD | Arrhythmie | Abbau durch CYP1A2 in Leber (Induziert bei Rauchern) | | |
 | PDE-Inhibitoren | | Roflumilast | Hemmung der PDE -> Erhöhung cAMP in Entzündungszellen (Reduziert Ausscheidung von Mediatoren sowie die Migration von Neutrophilen und Eosinophilen), Hemmung Hyperplasie/-trophie, Hemmung Immunzellinfiltration und Aktivierung | COPD | | | | |
-| PDE-Inhibitoren | PDE-5-Inhibitoren | Tadalafil, Sildenafil | | | | | | |
+| PDE-Inhibitoren | PDE-5-Inhibitoren | Suffix: *-afil*, Tadalafil, Sildenafil, Vardenafil | | | | | | |
 | Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor (CYSLTR1); Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | als Kombinationspräparat mit inhalativen Corticosterioiden bei Asthma und allergischer Rhinits; Neurodermitis, Urtikaria | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | |
 | "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
 | Antikörper | IgE-Antikörper | Omalizumab | | schweres persistierendes Asthma | | | | |
@@ -364,6 +365,7 @@ layout = "indexpage-fluid"
 | Lokalanästhetika | Kokain | Procain | wirkt bis zu 30-60 Minuten | | | | | |
 | Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten, blockiert Na-Kanäle | | | | | |
 | Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten, blockiert Na-Kanäle | | | | | |
+| Anästhetikum | | Etomidat | hypnotisch | | | | | |
 | Anästhetikum | | Propofol | wirkt nur hypnotisch, nicht analgetisch | | | | | |
 | Anästhetikum | | Ketamin | Antagonismus am NMDA-Rezeptor (nicht-kompetitive Hemmung); auch analgetische Wirkkomponente | | | | | |
 | Anästhetikum | Ketamin | Esketamin (Handelsname: Ketanest S) | Antagonismus am NMDA-Rezeptor (nicht-kompetitive Hemmung); auch analgetische Wirkkomponente | | | | | |

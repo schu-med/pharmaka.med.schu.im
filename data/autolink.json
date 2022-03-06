@@ -3,6 +3,10 @@
     "dc": "-",
     "wp": "-"
   },
+  "-afil": {
+    "dc": "-",
+    "wp": "-"
+  },
   "-conazol": {
     "dc": "-",
     "wp": "-"
@@ -959,6 +963,10 @@
     "dc": "https://flexikon.doccheck.com/de/Donepezil",
     "wp": "https://de.wikipedia.org/wiki/Donepezil"
   },
+  "Dopamin": {
+    "dc": "https://flexikon.doccheck.com/de/Dopamin",
+    "wp": "https://de.wikipedia.org/wiki/Dopamin"
+  },
   "Dormicum": {
     "dc": "https://flexikon.doccheck.com/de/Dormicum",
     "wp": "https://de.wikipedia.org/wiki/Dormicum"
@@ -1098,6 +1106,10 @@
   "Ethosuximid": {
     "dc": "https://flexikon.doccheck.com/de/Ethosuximid",
     "wp": "https://de.wikipedia.org/wiki/Ethosuximid"
+  },
+  "Etomidat": {
+    "dc": "https://flexikon.doccheck.com/de/Etomidat",
+    "wp": "https://de.wikipedia.org/wiki/Etomidat"
   },
   "Etoposid": {
     "dc": "https://flexikon.doccheck.com/de/Etoposid",
@@ -1514,6 +1526,10 @@
   "Lansoprazol": {
     "dc": "https://flexikon.doccheck.com/de/Lansoprazol",
     "wp": "-"
+  },
+  "Lasix": {
+    "dc": "https://flexikon.doccheck.com/de/Lasix",
+    "wp": "https://de.wikipedia.org/wiki/Lasix"
   },
   "Lefamulin": {
     "dc": "https://flexikon.doccheck.com/de/Lefamulin",
@@ -2187,6 +2203,10 @@
     "dc": "https://flexikon.doccheck.com/de/Procain",
     "wp": "https://de.wikipedia.org/wiki/Procain"
   },
+  "Procainamid": {
+    "dc": "https://flexikon.doccheck.com/de/Procainamid",
+    "wp": "https://de.wikipedia.org/wiki/Procainamid"
+  },
   "Prochlorperazin": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Prochlorperazin"
@@ -2730,6 +2750,10 @@
   "Vancomycin": {
     "dc": "https://flexikon.doccheck.com/de/Vancomycin",
     "wp": "https://de.wikipedia.org/wiki/Vancomycin"
+  },
+  "Vardenafil": {
+    "dc": "https://flexikon.doccheck.com/de/Vardenafil",
+    "wp": "https://de.wikipedia.org/wiki/Vardenafil"
   },
   "Vecuronium": {
     "dc": "https://flexikon.doccheck.com/de/Vecuronium",
