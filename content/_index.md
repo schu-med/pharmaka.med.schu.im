@@ -131,7 +131,7 @@ layout = "indexpage-fluid"
 | Benzodiazepine | kurzanhaltend | Midazolam (Dormicum) | | Anästhesiologie, Schlafstörung | Atemdepression | | | |
 | Benzodiazepine | mittellanganhaltend | Bromazepam, Flunitrazepam, Lormetazepam, Termazepam | | | | | | |
 | Benzodiazepine | mittellanganhaltend | Alprazolam | | anxiolytisch | | | | |
-| Benzodiazepine | mittellanganhaltend | Lorazepam (Tavor) | | anxiolytisch, u.a. Therapie Serotonerges Syndrom | | | | |
+| Benzodiazepine | mittellanganhaltend | Lorazepam (Handelsnamen: Ativan, Tavor) | | anxiolytisch, u.a. Therapie Serotonerges Syndrom, Notfallbehandlung Status epilepticus | | | | |
 | Benzodiazepine | mittellanganhaltend | Oxazepam (ein aktiver Metabolit von Diazepam) | | anxiolytisch | | | | Wird in Leber unabhängig(!) von CYP metabolisiert (glucuronidiert) und renal ausgeschieden |
 | Benzodiazepine | langanhaltend | Chloridazepoxid, Clobazam, Nitrazepam, Tetrazepam (seit 2013 nicht mehr zugelassen) | | | | | | |
 | Benzodiazepine | langanhaltend | Clotiazepam, Flurazepam | lange HWZ der Metabolite | | | | | |
