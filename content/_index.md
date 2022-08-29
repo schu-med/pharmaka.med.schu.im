@@ -64,6 +64,7 @@ layout = "indexpage-fluid"
 | Sympathomimetika | alpha1-Agonist | Phenylephrin | Augentropfen, Nasenspray | | | | | |
 | Sympathomimetika | alpha2-Agonist | Clonidin, Moxonidin | Clonidin wirkt an prä- und postsynaptischen alpha2-Rezeptoren und postsynaptschen **Imidazolin**-Rezeptoren, Moxonidin nur an letzteren; reduziert peripher die Freisetzung von NA; hemmt im Ncl. solitarius sympathische Impulse durch Bindung an postsynaptische Rezeptoren | Hypertonie (2. Wahl) | | | | |
 | Sympathomimetika | beta-Agonist | Isoprenalin | | | | | | |
+| Sympathomimetika | beta-Agonist | Orciprenalin (Handelsname: Alupent) | | | | | | |
 | Sympathomimetika | beta2-Agonist, LABA | Bambuterol, Clenbuterol, Formoterol, Salmeterol | langwirkend (12-24h) | | | | | |
 | Sympathomimetika | beta2-Agonist, SABA | Fenoterol | | Asthma, Tokolyse (Wehenhemmung) | | | | |
 | Sympathomimetika | beta2-Agonist, SABA | Pirbuterol, Reproterol, Salbutamol, Terbutalin, Tulobuterol | kurzwirkend (4-6h) | Asthma | | | | |
@@ -86,7 +87,9 @@ layout = "indexpage-fluid"
 | Sympatholytika | beta-Blocker, 3. Generation | Nebivolol | **auch NO Donator** -> vasodilatierend | | | | | |
 | Antiarrhythmikum | Klasse Ia | Procainamid | | | | | | |
 | Antiarrhythmikum | Klasse Ia | Disopyramid | | | | | | |
+| Antiarrhythmikum | Klasse Ia/Ic | Ajmalin | | | | | | |
 | Antiarrhythmikum | Klasse Ib | Lidocain | | | | | | |
+| Antiarrhythmikum | Klasse Ic | Flecainid | | | | | | |
 | Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Sotalol (auch beta-Blocker, siehe oben) | | | Torsade de pointes | CAVE: NI, wird kaum metabolisiert und zu ca. 90% renal eliminiert | Kombination mit anderen repolirations-verzögernden Pharmaka, Bradykardie, CAVE: Asthmatiker | |
 | Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Amiodaron | | | | Amiodaron hemmt CYP3A4 -> ungewünschter Effekt mit zum Beispiel Phenprocoumon (Abbau verlangsamt, Blutungsgefahr) | | |
 | Antisympathotonika | | Reserpin | Blockade der Wiederaufnahme von NA und Dopamin | | Orthostatische Dysregulation, Förderung Depression, GI | | | Gilt heute als obsolet (u.a. wegen UAW) |
