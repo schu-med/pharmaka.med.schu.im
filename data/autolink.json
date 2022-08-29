@@ -139,6 +139,10 @@
     "dc": "https://flexikon.doccheck.com/de/Afatinib",
     "wp": "https://de.wikipedia.org/wiki/Afatinib"
   },
+  "Ajmalin": {
+    "dc": "https://flexikon.doccheck.com/de/Ajmalin",
+    "wp": "https://de.wikipedia.org/wiki/Ajmalin"
+  },
   "Al-Mg-Silikathydrat": {
     "dc": "-",
     "wp": "-"
@@ -186,6 +190,10 @@
   "Aluminiumhydroxid": {
     "dc": "https://flexikon.doccheck.com/de/Aluminiumhydroxid",
     "wp": "https://de.wikipedia.org/wiki/Aluminiumhydroxid"
+  },
+  "Alupent": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Alupent"
   },
   "Alvimopan": {
     "dc": "-",
@@ -294,6 +302,10 @@
   "Atenolol": {
     "dc": "https://flexikon.doccheck.com/de/Atenolol",
     "wp": "https://de.wikipedia.org/wiki/Atenolol"
+  },
+  "Ativan": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Ativan"
   },
   "Atorvastatin": {
     "dc": "https://flexikon.doccheck.com/de/Atorvastatin",
@@ -1163,6 +1175,10 @@
     "dc": "https://flexikon.doccheck.com/de/Finasterid",
     "wp": "https://de.wikipedia.org/wiki/Finasterid"
   },
+  "Flecainid": {
+    "dc": "https://flexikon.doccheck.com/de/Flecainid",
+    "wp": "https://de.wikipedia.org/wiki/Flecainid"
+  },
   "Flohsamen": {
     "dc": "https://flexikon.doccheck.com/de/Flohsamen",
     "wp": "https://de.wikipedia.org/wiki/Flohsamen"
@@ -1340,6 +1356,10 @@
     "wp": "https://de.wikipedia.org/wiki/Haloperidol"
   },
   "Handelsname": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "Handelsnamen": {
     "dc": "-",
     "wp": "-"
   },
@@ -1998,6 +2018,10 @@
   "Ondansetron": {
     "dc": "https://flexikon.doccheck.com/de/Ondansetron",
     "wp": "https://de.wikipedia.org/wiki/Ondansetron"
+  },
+  "Orciprenalin": {
+    "dc": "https://flexikon.doccheck.com/de/Orciprenalin",
+    "wp": "https://de.wikipedia.org/wiki/Orciprenalin"
   },
   "Organophosphate": {
     "dc": "https://flexikon.doccheck.com/de/Organophosphate",
@@ -2830,6 +2854,10 @@
   "Wirkstoff": {
     "dc": "-",
     "wp": "-"
+  },
+  "Xarelto": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Xarelto"
   },
   "Xipamid": {
     "dc": "https://flexikon.doccheck.com/de/Xipamid",
