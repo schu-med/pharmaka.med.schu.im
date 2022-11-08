@@ -719,6 +719,10 @@
     "dc": "https://flexikon.doccheck.com/de/Clenbuterol",
     "wp": "https://de.wikipedia.org/wiki/Clenbuterol"
   },
+  "Clexane": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Clexane"
+  },
   "Clindamycin": {
     "dc": "https://flexikon.doccheck.com/de/Clindamycin",
     "wp": "https://de.wikipedia.org/wiki/Clindamycin"
@@ -1042,6 +1046,10 @@
   "Empagliflozin": {
     "dc": "https://flexikon.doccheck.com/de/Empagliflozin",
     "wp": "https://de.wikipedia.org/wiki/Empagliflozin"
+  },
+  "Enoxaparin": {
+    "dc": "https://flexikon.doccheck.com/de/Enoxaparin",
+    "wp": "https://de.wikipedia.org/wiki/Enoxaparin"
   },
   "Entecavir": {
     "dc": "https://flexikon.doccheck.com/de/Entecavir",
