@@ -239,7 +239,7 @@ layout = "indexpage-fluid"
 | Antibiotika | Folsäuresynthesehemmer (PABA-Analoga)| Dapson | | | | | | |
 | Antibiotika | Tuberkulostatika | Isoniazid (INH), Pyrazinamid, Ethambutol, (Streptomycin - second-line) | | Tuberkulose | Hepatotoxizität (engmaschige Überwachung der Leberwerte!), Isoniazid: Vitamin-B6-Antagonsismus (Vitamin B6 substituieren), Ethambutol: Neuritis des N. opticus (Gesichtsfeldausfälle) | | | Isoniazid auch präventiv einsetzbar |
 | Antimykotika | Polyene | Nystatin, Amphotericin B | Bindung an Ergosterol | | | | | |
-| Antimykotika | Ergosterolsynthese Inhibitoren - Azole | Suffix *-conazol*, Ketoconazol, Fluconazol, Itraconazol, Voriconazol, Posaconazol, Isavuconazol | | | | | | Antimykotische Prophylaxe bei schwerer Neutropenie: Posaconazol, Voriconazol |
+| Antimykotika | Ergosterolsynthese Inhibitoren - Azole | Suffix *-conazol*, Ketoconazol, Fluconazol, Itraconazol, Voriconazol, Posaconazol, Isavuconazol, Clotrimazol | | | | | | Antimykotische Prophylaxe bei schwerer Neutropenie: Posaconazol, Voriconazol |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Allylamine | Terbinafin, Naftifin | | | | | | |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Morpholine | Amorolfin | | | | | | |
 | Antimykotika | Glukansynthese Inhibitoren - Echinocandine | Caspofungin, Anidulafungin, Micafungin | | | | | | |
