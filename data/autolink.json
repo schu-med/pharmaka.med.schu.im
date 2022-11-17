@@ -415,6 +415,10 @@
     "dc": "https://flexikon.doccheck.com/de/Bicalutamid",
     "wp": "-"
   },
+  "Bictegravir": {
+    "dc": "https://flexikon.doccheck.com/de/Bictegravir",
+    "wp": "-"
+  },
   "Bildung": {
     "dc": "-",
     "wp": "-"
@@ -759,6 +763,10 @@
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Clotiazepam"
   },
+  "Clotrimazol": {
+    "dc": "https://flexikon.doccheck.com/de/Clotrimazol",
+    "wp": "https://de.wikipedia.org/wiki/Clotrimazol"
+  },
   "Clozapin": {
     "dc": "https://flexikon.doccheck.com/de/Clozapin",
     "wp": "https://de.wikipedia.org/wiki/Clozapin"
@@ -854,6 +862,10 @@
   "Daptomycin": {
     "dc": "https://flexikon.doccheck.com/de/Daptomycin",
     "wp": "https://de.wikipedia.org/wiki/Daptomycin"
+  },
+  "Darunavir": {
+    "dc": "https://flexikon.doccheck.com/de/Darunavir",
+    "wp": "https://de.wikipedia.org/wiki/Darunavir"
   },
   "Daunorubicin": {
     "dc": "https://flexikon.doccheck.com/de/Daunorubicin",
@@ -975,6 +987,10 @@
     "dc": "https://flexikon.doccheck.com/de/Docetaxel",
     "wp": "https://de.wikipedia.org/wiki/Docetaxel"
   },
+  "Dolutegravir": {
+    "dc": "https://flexikon.doccheck.com/de/Dolutegravir",
+    "wp": "https://de.wikipedia.org/wiki/Dolutegravir"
+  },
   "Donepezil": {
     "dc": "https://flexikon.doccheck.com/de/Donepezil",
     "wp": "https://de.wikipedia.org/wiki/Donepezil"
@@ -982,6 +998,10 @@
   "Dopamin": {
     "dc": "https://flexikon.doccheck.com/de/Dopamin",
     "wp": "https://de.wikipedia.org/wiki/Dopamin"
+  },
+  "Doravirin": {
+    "dc": "https://flexikon.doccheck.com/de/Doravirin",
+    "wp": "-"
   },
   "Dormicum": {
     "dc": "https://flexikon.doccheck.com/de/Dormicum",
@@ -1482,6 +1502,10 @@
   "Isavuconazol": {
     "dc": "-",
     "wp": "-"
+  },
+  "Isentress": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Isentress"
   },
   "Isoniazid": {
     "dc": "https://flexikon.doccheck.com/de/Isoniazid",
@@ -2311,6 +2335,10 @@
     "dc": "https://flexikon.doccheck.com/de/Raloxifen",
     "wp": "https://de.wikipedia.org/wiki/Raloxifen"
   },
+  "Raltegravir": {
+    "dc": "https://flexikon.doccheck.com/de/Raltegravir",
+    "wp": "https://de.wikipedia.org/wiki/Raltegravir"
+  },
   "Ranitidin": {
     "dc": "https://flexikon.doccheck.com/de/Ranitidin",
     "wp": "https://de.wikipedia.org/wiki/Ranitidin"
@@ -2351,6 +2379,10 @@
     "dc": "https://flexikon.doccheck.com/de/Rifaximin",
     "wp": "https://de.wikipedia.org/wiki/Rifaximin"
   },
+  "Rilpivirin": {
+    "dc": "https://flexikon.doccheck.com/de/Rilpivirin",
+    "wp": "https://de.wikipedia.org/wiki/Rilpivirin"
+  },
   "Risperidon": {
     "dc": "https://flexikon.doccheck.com/de/Risperidon",
     "wp": "https://de.wikipedia.org/wiki/Risperidon"
@@ -2358,6 +2390,10 @@
   "Ritalin": {
     "dc": "https://flexikon.doccheck.com/de/Ritalin",
     "wp": "https://de.wikipedia.org/wiki/Ritalin"
+  },
+  "Ritonavir": {
+    "dc": "https://flexikon.doccheck.com/de/Ritonavir",
+    "wp": "https://de.wikipedia.org/wiki/Ritonavir"
   },
   "Rituximab": {
     "dc": "https://flexikon.doccheck.com/de/Rituximab",

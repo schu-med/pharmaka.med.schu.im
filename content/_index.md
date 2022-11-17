@@ -249,8 +249,11 @@ layout = "indexpage-fluid"
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ganciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Cytomegalievirus: Erkrankung und Prävention, Herpes-simplex-Keratitis | diverse und teils schwere Nebenwirkungen: GI, Blutbildveränderungen, LI, NI, ... | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ribavirin | dadurch Hemmung der Polymerase | Hepatitis C | | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Lamivudin, Entecavir, Telbivudin, Adefovir (nur noch in Ausnahme), Tenofovir | | Hepatitis B | | | | |
+| Virostatikum | Nicht-nukleosidische Reverse-Transkriptase-Inhibitoren (NNRTI) | Rilpivirin, Doravirin | | | | | | |
 | Virostatikum | Neuraminidase-Hemmer | Oseltamivir | | Influanza A und B | | | | |
 | Virostatikum | Proteaseinhibitoren | Asunaprevir, Glecaprevir | Hemmung der Serinprotease des Hepatitic C Virus | Hepatitis C | | | | |
+| Virostatikum | Proteaseinhibitoren | Darunavir, Ritonavir | | | | | | |
+| Virostatikum | Integraseinhibitoren | Raltegravir (Handelsname: Isentress), Dolutegravir, Bictegravir | | HIV | | | | |
 | Virostatikum (+ Parkinson Behandlung) | | Amantadin | Influenza: M2-Membranproteinhemmer -> Ionenkanal blockiert -> verhindert "Uncoating" und Übernahme der Wirtszelle; Parkinson: nicht vollständig geklärt, vermutlich Hemmung des NMDA-Rezeptor -> Reduzierte Überaktivität von Interneuronen | Influenza A, Parkinson | | | | |
 | Zytokine | Interferone | Interferon-alpha (IFN-alpha) | Bindet an Interferon-Rezeptor (IFNR) und induziert Transkription versch. antiviraler Gene | Hepatitis B und C, malignes Melanom | | | | Interferon heute kein Therapiestandard mehr |
 | Antiprotozoikum | | Artesunat | | Malaria tropica (Plasmodium falciparum) | | | | |
@@ -264,7 +267,7 @@ layout = "indexpage-fluid"
 | Immunsuppressiva | Glucocorticoide, kurz-wirksam | Hydrocortison, Cortisol, Cortison | | | | | | |
 | Immunsuppressiva | Glucocorticoide, Mittellang wirksam | Prednison, Prednisolon, Methylprednisolon | | Morbus Addison | | | | |
 | Immunsuppressiva | Glucocorticoide, lang-wirksam | Dexamethason, Betamethason | | Dexamethason: Prophylaxe Frühgeburt | | | | |
-| Immunsuppressiva | Purin-Analogon | Azathioprin | Einbau als falsche Base -> Störung der DNA-Replikation | | | | | |
+| Immunsuppressiva | Purin-Analogon | Azathioprin | Einbau als falsche Base -> Störung der DNA-Replikation | | ödematöse oder nekrotisierende Pankreatitis | | | |
 | Immunsuppressiva | B-Zell-Depletion | Rituximab | Anti-CD20-AK -> B-Zell-Untergang | | | | | |
 | Immunsuppressiva | | Basiliximab | IL-2-Rezeptorantagonist, durch Bindung an alpha-Kette (CD25) | | | | | |
 | Immunsuppressiva | Calcineurin-Inhibitoren | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
