@@ -206,6 +206,7 @@ layout = "indexpage-fluid"
 | Antibiotika | Penicilline (Benzylpenicilline) | Penicillin G und V | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+ | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Penicilline (Isoxazolylpenicillin) | Oxacillin, Flucloxacillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | Staphylococcus aureus Infekte | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Penicilline (Aminopenicillin) | Ampicillin, Amoxicillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | (G+), G- | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
+| Antibiotika | Penicilline (Amidinopenicillin) | Pivmecillinam, Mecillinam | | | | | | |
 | Antibiotika | Penicilline (Acylaminopenicillin) | Azlocillin, Piperacillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G-, Aa | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Cephalosporine Gruppe 1 | Cefazolin, Cefalexin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+, (G-) | allergische Rekationen, GI, Gerinnungsstörungen| Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Cephalosporine Gruppe 2 | Cefaclor, Cefuroxim, Cefotiam | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+, G- | allergische Rekationen, GI, Gerinnungsstörungen| Res.: Bildung von beta-Lactamasen | | |
@@ -220,7 +221,7 @@ layout = "indexpage-fluid"
 | Antibiotika | Monobactame | Aztreonam | | G- | | | | |
 | Antibiotika | Rifamycine | Rifaximin | Breitband-AB, wird kaum resorbiert und ist so fast ausschließlich im Darm wirksam | Bakterielle Infektionen des Darm durch G+, G-, Aa | | | | |
 | Antibiotika | Glykopeptide | Vancomycin, Teicoplanin | Zellwand- und Membransynthesehemmstoff, Bindung an D-Ala-D-Ala -> Transpeptidase (PBP) kann sich nicht anlagern | G+ | Nephrotoxizität, Ototoxizität, Hypotonie | Res.: verändertes Peptid (D-Ser oder D-Lact) | | Reserve-AB für MRSA, pseudomembranöse Colitis |
-| Antibiotika | Epoxide | Fosfomycin | Zellwand- und Membransynthesehemmstoff, Hemmung der N-Acetyl-Muraminsäure Bildung (Mureinsynthese) | G+, G-, Einmalgabe bei HWI als Fosfomycin-Trometanol | GI | Res.: verminderte Aufnahme oder Inaktivierung von Fosfomycin | | Reserve-AB für lebensbedrohliche Infekte |
+| Antibiotika | Epoxide | Fosfomycin | Zellwand- und Membransynthesehemmstoff, Hemmung der N-Acetyl-Muraminsäure Bildung (Mureinsynthese) | G+, G-, **Einmalgabe bei HWI** als Fosfomycin-Trometanol | GI | Res.: verminderte Aufnahme oder Inaktivierung von Fosfomycin | | Reserve-AB für lebensbedrohliche Infekte |
 | Antibiotika | Lipopeptide | Daptomycin | Porenbildung in Zellmembran, bakterizid (primär) | G+ | Myotoxizität, GI, allergische Reaktionen | Res.: Veränderung der Membran | | S. aureus Infekte |
 | Antibiotika | Polypeptide | Colistin, Polymyxin B | Schädigung der Membran von G- Bakterien, bakterizid (primär) | G- | Neurotoxizität, Nephrotoxizität, allergische Reaktionen | Res.: Veränderung von LPS (durch MCR-1) in der äußeren Membran | | Reserve-AB für Pseudomonas- und Klebsellien-Infekte |
 | Antibiotika | Oxazolidinone | Linezolid | Hemmung der Bildung des Initiationskomplex, bakteriostatisch | G+ | GI, Hepatotoxizität  | Res.: Veränderung der 23S-rRNA | | Reserve-AB für MRSA- und VRE-Infekte |
@@ -248,7 +249,9 @@ layout = "indexpage-fluid"
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Aciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Herpesviren: Herpes-simplex-Virus und Varizella-Zoster-Virus | selten: NI, allergische Reaktionen | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ganciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Cytomegalievirus: Erkrankung und Prävention, Herpes-simplex-Keratitis | diverse und teils schwere Nebenwirkungen: GI, Blutbildveränderungen, LI, NI, ... | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ribavirin | dadurch Hemmung der Polymerase | Hepatitis C | | | | |
-| Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Lamivudin, Entecavir, Telbivudin, Adefovir (nur noch in Ausnahme), Tenofovir | | Hepatitis B | | | | |
+| Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Lamivudin, Entecavir, Telbivudin, Adefovir (nur noch in Ausnahme), Tenofovir (Tenofovirdisoproxilfumarat) | | Hepatitis B, HIV | | | | Kombinationspräparat Truvada: Tenofovir + Emtricitabin, Kombinationspräparat Kivexa: Lamivudin + Abavacir |
+| Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Emtricitabin | | Hepatitis B, HIV | | | | |
+| Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Abacavir | | HIV | | | | |
 | Virostatikum | Nicht-nukleosidische Reverse-Transkriptase-Inhibitoren (NNRTI) | Rilpivirin, Doravirin | | | | | | |
 | Virostatikum | Neuraminidase-Hemmer | Oseltamivir | | Influanza A und B | | | | |
 | Virostatikum | Proteaseinhibitoren | Asunaprevir, Glecaprevir | Hemmung der Serinprotease des Hepatitic C Virus | Hepatitis C | | | | |
