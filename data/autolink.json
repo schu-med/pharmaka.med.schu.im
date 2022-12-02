@@ -91,6 +91,10 @@
     "dc": "-",
     "wp": "-"
   },
+  "Abacavir": {
+    "dc": "https://flexikon.doccheck.com/de/Abacavir",
+    "wp": "https://de.wikipedia.org/wiki/Abacavir"
+  },
   "Abciximab": {
     "dc": "https://flexikon.doccheck.com/de/Abciximab",
     "wp": "https://de.wikipedia.org/wiki/Abciximab"
@@ -410,6 +414,10 @@
   "Bevacizumab": {
     "dc": "https://flexikon.doccheck.com/de/Bevacizumab",
     "wp": "https://de.wikipedia.org/wiki/Bevacizumab"
+  },
+  "Bezlotoxumab": {
+    "dc": "https://flexikon.doccheck.com/de/Bezlotoxumab",
+    "wp": "-"
   },
   "Bicalutamid": {
     "dc": "https://flexikon.doccheck.com/de/Bicalutamid",
@@ -1067,6 +1075,10 @@
     "dc": "https://flexikon.doccheck.com/de/Empagliflozin",
     "wp": "https://de.wikipedia.org/wiki/Empagliflozin"
   },
+  "Emtricitabin": {
+    "dc": "https://flexikon.doccheck.com/de/Emtricitabin",
+    "wp": "https://de.wikipedia.org/wiki/Emtricitabin"
+  },
   "Enoxaparin": {
     "dc": "https://flexikon.doccheck.com/de/Enoxaparin",
     "wp": "https://de.wikipedia.org/wiki/Enoxaparin"
@@ -1695,6 +1707,10 @@
     "dc": "https://flexikon.doccheck.com/de/Mebendazol",
     "wp": "https://de.wikipedia.org/wiki/Mebendazol"
   },
+  "Mecillinam": {
+    "dc": "-",
+    "wp": "-"
+  },
   "Medroxyprogesteronacetat": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Medroxyprogesteronacetat"
@@ -2215,6 +2231,10 @@
     "dc": "https://flexikon.doccheck.com/de/Piroxicam",
     "wp": "https://de.wikipedia.org/wiki/Piroxicam"
   },
+  "Pivmecillinam": {
+    "dc": "https://flexikon.doccheck.com/de/Pivmecillinam",
+    "wp": "https://de.wikipedia.org/wiki/Pivmecillinam"
+  },
   "Polymyxin": {
     "dc": "https://flexikon.doccheck.com/de/Polymyxin",
     "wp": "-"
@@ -2602,6 +2622,10 @@
   "Tenofovir": {
     "dc": "https://flexikon.doccheck.com/de/Tenofovir",
     "wp": "https://de.wikipedia.org/wiki/Tenofovir"
+  },
+  "Tenofovirdisoproxilfumarat": {
+    "dc": "https://flexikon.doccheck.com/de/Tenofovirdisoproxilfumarat",
+    "wp": "-"
   },
   "Terazosin": {
     "dc": "https://flexikon.doccheck.com/de/Terazosin",

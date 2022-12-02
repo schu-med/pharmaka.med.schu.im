@@ -102,6 +102,7 @@ layout = "indexpage-fluid"
 | "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
 | Antikörper | IgE-Antikörper | Omalizumab | | schweres persistierendes Asthma | | | | |
 | Antikörper | IL-5-Antikörper | Mepolizumab | | schweres persistierendes Asthma | | | | |
+| Antikörper | Antiinfektiva | Bezlotoxumab | | Clostridioides-difficile-Infektion | | | | |
 | Antikörper | | Trastuzumab | hemmt HER2/neu Aktivierung | Mamma-Ca | Kardiotoxisch | | | In Form von Trastuzumab-Emtansin als Konjugat mit dem Mitosehemmstoff Mertansin (DM1) |
 | Antikörper | | Bevacizumab | VEGF-Inhibitor, bindet an VGEF und verhindert Interaktion mit Rezeptoren -> Hemmung der Angiogenese | | | | | |
 | Antikörper | | Blinatumomab | Anti-CD19-AK, aktiviert CD3-positive T-Zellen | ALL | | | | |
@@ -248,7 +249,7 @@ layout = "indexpage-fluid"
 | Antimykotika | Multiple Angriffspunkte | Ciclopirox (Batrafen; ein Pyridon Derivat) | | Dermatomykosen, vaginale Pilzinfektionen | | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Aciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Herpesviren: Herpes-simplex-Virus und Varizella-Zoster-Virus | selten: NI, allergische Reaktionen | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ganciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Cytomegalievirus: Erkrankung und Prävention, Herpes-simplex-Keratitis | diverse und teils schwere Nebenwirkungen: GI, Blutbildveränderungen, LI, NI, ... | | | |
-| Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ribavirin | dadurch Hemmung der Polymerase | Hepatitis C | | | | |
+| Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ribavirin | dadurch Hemmung der Polymerase | Hepatitis C/E | | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Lamivudin, Entecavir, Telbivudin, Adefovir (nur noch in Ausnahme), Tenofovir (Tenofovirdisoproxilfumarat) | | Hepatitis B, HIV | | | | Kombinationspräparat Truvada: Tenofovir + Emtricitabin, Kombinationspräparat Kivexa: Lamivudin + Abavacir |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Emtricitabin | | Hepatitis B, HIV | | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Abacavir | | HIV | | | | |
