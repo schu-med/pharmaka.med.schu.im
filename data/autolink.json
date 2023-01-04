@@ -219,6 +219,10 @@
     "dc": "https://flexikon.doccheck.com/de/Amifostin",
     "wp": "https://de.wikipedia.org/wiki/Amifostin"
   },
+  "Amikacin": {
+    "dc": "https://flexikon.doccheck.com/de/Amikacin",
+    "wp": "https://de.wikipedia.org/wiki/Amikacin"
+  },
   "Amilorid": {
     "dc": "https://flexikon.doccheck.com/de/Amilorid",
     "wp": "https://de.wikipedia.org/wiki/Amilorid"
@@ -2738,6 +2742,10 @@
   "Tolbutamid": {
     "dc": "https://flexikon.doccheck.com/de/Tolbutamid",
     "wp": "https://de.wikipedia.org/wiki/Tolbutamid"
+  },
+  "Tolvaptan": {
+    "dc": "https://flexikon.doccheck.com/de/Tolvaptan",
+    "wp": "https://de.wikipedia.org/wiki/Tolvaptan"
   },
   "Tolvapten": {
     "dc": "-",
