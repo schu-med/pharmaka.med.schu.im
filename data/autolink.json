@@ -1215,6 +1215,10 @@
     "dc": "-",
     "wp": "-"
   },
+  "Fidaxomicin": {
+    "dc": "https://flexikon.doccheck.com/de/Fidaxomicin",
+    "wp": "https://de.wikipedia.org/wiki/Fidaxomicin"
+  },
   "Finasterid": {
     "dc": "https://flexikon.doccheck.com/de/Finasterid",
     "wp": "https://de.wikipedia.org/wiki/Finasterid"
@@ -1818,6 +1822,10 @@
   "Metronidazol": {
     "dc": "https://flexikon.doccheck.com/de/Metronidazol",
     "wp": "https://de.wikipedia.org/wiki/Metronidazol"
+  },
+  "Mezlocillin": {
+    "dc": "https://flexikon.doccheck.com/de/Mezlocillin",
+    "wp": "https://de.wikipedia.org/wiki/Mezlocillin"
   },
   "Mianserin": {
     "dc": "https://flexikon.doccheck.com/de/Mianserin",
@@ -2450,6 +2458,10 @@
   "Roxatidinacetat": {
     "dc": "-",
     "wp": "-"
+  },
+  "Roxithromycin": {
+    "dc": "https://flexikon.doccheck.com/de/Roxithromycin",
+    "wp": "https://de.wikipedia.org/wiki/Roxithromycin"
   },
   "Sacubitril": {
     "dc": "https://flexikon.doccheck.com/de/Sacubitril",
