@@ -671,9 +671,9 @@
     "dc": "https://flexikon.doccheck.com/de/Chlorpromazin",
     "wp": "https://de.wikipedia.org/wiki/Chlorpromazin"
   },
-  "Chlorpropamidk": {
+  "Chlorpropamid": {
     "dc": "-",
-    "wp": "-"
+    "wp": "https://de.wikipedia.org/wiki/Chlorpropamid"
   },
   "Chlorprothixen": {
     "dc": "https://flexikon.doccheck.com/de/Chlorprothixen",
@@ -1367,9 +1367,9 @@
     "dc": "https://flexikon.doccheck.com/de/Gliclazid",
     "wp": "https://de.wikipedia.org/wiki/Gliclazid"
   },
-  "Glimeprid": {
-    "dc": "-",
-    "wp": "-"
+  "Glimepirid": {
+    "dc": "https://flexikon.doccheck.com/de/Glimepirid",
+    "wp": "https://de.wikipedia.org/wiki/Glimepirid"
   },
   "Glipizid": {
     "dc": "https://flexikon.doccheck.com/de/Glipizid",
@@ -2227,6 +2227,10 @@
     "dc": "https://flexikon.doccheck.com/de/Pindolol",
     "wp": "https://de.wikipedia.org/wiki/Pindolol"
   },
+  "Pioglitazon": {
+    "dc": "https://flexikon.doccheck.com/de/Pioglitazon",
+    "wp": "https://de.wikipedia.org/wiki/Pioglitazon"
+  },
   "Piperacillin": {
     "dc": "https://flexikon.doccheck.com/de/Piperacillin",
     "wp": "https://de.wikipedia.org/wiki/Piperacillin"
@@ -2450,6 +2454,10 @@
   "Roflumilast": {
     "dc": "https://flexikon.doccheck.com/de/Roflumilast",
     "wp": "https://de.wikipedia.org/wiki/Roflumilast"
+  },
+  "Rosiglitazon": {
+    "dc": "https://flexikon.doccheck.com/de/Rosiglitazon",
+    "wp": "https://de.wikipedia.org/wiki/Rosiglitazon"
   },
   "Rosuvastatin": {
     "dc": "https://flexikon.doccheck.com/de/Rosuvastatin",
@@ -3100,6 +3108,10 @@
     "wp": "-"
   },
   "und": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "uvm": {
     "dc": "-",
     "wp": "-"
   },
