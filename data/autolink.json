@@ -387,6 +387,10 @@
     "dc": "-",
     "wp": "-"
   },
+  "Bempedoins\u00e4ure": {
+    "dc": "https://flexikon.doccheck.com/de/Bempedoins\u00e4ure",
+    "wp": "https://de.wikipedia.org/wiki/Bempedoins\u00e4ure"
+  },
   "Bendroflumethiazid": {
     "dc": "https://flexikon.doccheck.com/de/Bendroflumethiazid",
     "wp": "-"
@@ -562,6 +566,10 @@
   "Carbamazepin": {
     "dc": "https://flexikon.doccheck.com/de/Carbamazepin",
     "wp": "https://de.wikipedia.org/wiki/Carbamazepin"
+  },
+  "Carbimazol": {
+    "dc": "https://flexikon.doccheck.com/de/Carbimazol",
+    "wp": "https://de.wikipedia.org/wiki/Carbimazol"
   },
   "Carboplatin": {
     "dc": "https://flexikon.doccheck.com/de/Carboplatin",
@@ -1775,6 +1783,10 @@
     "dc": "https://flexikon.doccheck.com/de/Metformin",
     "wp": "https://de.wikipedia.org/wiki/Metformin"
   },
+  "Methimazol": {
+    "dc": "https://flexikon.doccheck.com/de/Methimazol",
+    "wp": "https://de.wikipedia.org/wiki/Methimazol"
+  },
   "Methotrexat": {
     "dc": "https://flexikon.doccheck.com/de/Methotrexat",
     "wp": "https://de.wikipedia.org/wiki/Methotrexat"
@@ -2131,6 +2143,10 @@
     "dc": "https://flexikon.doccheck.com/de/Oxytetracyclin",
     "wp": "https://de.wikipedia.org/wiki/Oxytetracyclin"
   },
+  "PTU": {
+    "dc": "https://flexikon.doccheck.com/de/PTU",
+    "wp": "https://de.wikipedia.org/wiki/PTU"
+  },
   "Paclitaxel": {
     "dc": "https://flexikon.doccheck.com/de/Paclitaxel",
     "wp": "https://de.wikipedia.org/wiki/Paclitaxel"
@@ -2182,6 +2198,10 @@
   "Perampanel": {
     "dc": "https://flexikon.doccheck.com/de/Perampanel",
     "wp": "https://de.wikipedia.org/wiki/Perampanel"
+  },
+  "Perchlorat": {
+    "dc": "https://flexikon.doccheck.com/de/Perchlorat",
+    "wp": "https://de.wikipedia.org/wiki/Perchlorat"
   },
   "Perphenazin": {
     "dc": "https://flexikon.doccheck.com/de/Perphenazin",
@@ -2326,6 +2346,10 @@
   "Propranolol": {
     "dc": "https://flexikon.doccheck.com/de/Propranolol",
     "wp": "https://de.wikipedia.org/wiki/Propranolol"
+  },
+  "Propylthiouracil": {
+    "dc": "https://flexikon.doccheck.com/de/Propylthiouracil",
+    "wp": "https://de.wikipedia.org/wiki/Propylthiouracil"
   },
   "Protamin": {
     "dc": "https://flexikon.doccheck.com/de/Protamin",
@@ -2706,6 +2730,10 @@
   "Theophyllin": {
     "dc": "https://flexikon.doccheck.com/de/Theophyllin",
     "wp": "https://de.wikipedia.org/wiki/Theophyllin"
+  },
+  "Thiamazol": {
+    "dc": "https://flexikon.doccheck.com/de/Thiamazol",
+    "wp": "https://de.wikipedia.org/wiki/Thiamazol"
   },
   "Thioridazin": {
     "dc": "https://flexikon.doccheck.com/de/Thioridazin",

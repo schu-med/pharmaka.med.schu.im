@@ -372,6 +372,7 @@ layout = "indexpage-fluid"
 | Lipidsenker | Cholesterin-Resorptionshemmer | beta-Sitosterin | Reduktion des Cholesterin-Spiegel um bis zu 20% | | Kopf- und Bauchschmerzen, Diarrhoe | Colestyramin und Antazida reduzieren Wirkung | | |
 | Lipidsenker | PCSK9-Inhibitoren | Alirocumab, Evolocumab | verhindert Recycling von LDL Rezeptoren auf Hepatozyten -> Anzahl erhöht, LDL um bis zu 70% reduziert | | | | | |
 | Lipidsenker | Fibrate | Suffix *-fibrat*, Gemfibrozil | PPARalpha Agonisten: Senkung der Synthese und Freisetzung von VLDL, Erhöhung des LDL Abbau, Erhöhung der HDL (durch Synthese von APO AI, AII) -> TG um bis zu 40% und LDL um bis zu 20% gesenkt, HDL um ca. 10% erhöht  | Lipidsenker 2. Wahl | GI, Lithogenität der Galle erhöht | Kombination mit Statinen riskant, teils schwere NW; Verstärkte Wirkung von oralen Antikoagulantien | | |
+| Lipidsenker | ATP-Citrat-Lyase-Hemmer | Bempedoinsäure | Hemmung der Umsetzung von Citrat zu Acetyl-CoA -> Hemmung der hepatischen Cholesterinsynthese und Erhöhung der LDL-Rezeptordichte | | | | | |
 | Antidot | | Protamin | 1g neutralisiert 100 I.E. Heparin | Überdosierung Heparin | | | | |
 | Antidot | | Hydroxocobalamin, Natriumthiosulfat, Dimethylamidphenol (DMAP) | | Intoxikation Blausäure, Cyanide | | | | |
 | Antidot | Oxime | Pralidoxim | | Intoxikation Organophosphate | | | | |
@@ -401,6 +402,8 @@ layout = "indexpage-fluid"
 | Stickstoffmonoxiddonatoren / NO-Donator | | Molsidomin | | Angina Pectoris | | | | |
 | NMDA-Rezeptor-Antagonist | | Memantin, Amantadin | | Alzheimer | | | | |
 | Schlafmittel | | Chloralhydrat | | | | | | |
+| Thyreostatikum | Thionamide | Thiamazol (aka Methimazol), Carbimazol, Propylthiouracil (PTU) | Hemmung der Synthese von Schilddrüsenhormonen | | | | | |
+| Thyreostatikum | Perchlorate | Perchlorat | Hemmung der Jodidaufnahme in Thyreozyten | | | | | |
 
 {{</table >}}
 
