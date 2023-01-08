@@ -406,43 +406,6 @@ layout = "indexpage-fluid"
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
-<hr>
-
-<p>
-  <button class="btn btn-outline-dark btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#suffixe">
-    Liste mit Suffixen anzeigen
-  </button>
-</p>
-
-<div class="collapse mb-3" id="suffixe">
-
-{{<table id="suffixtable" class="table table-striped table-hover" >}}
-
-| Suffix | Wirkstoff |
-|--------|-----------|
-| -cumab | PCSK9-Inhibitoren |
-| -xaban | NOAK, Faktor-Xa-Inhibitoren |
-| -rudin | Hirudin und -derivate |
-| -stigmin | AChE-Hemmer |
-| -coxibe | NSAR, COX2-Hemmer |
-| -zolamid | Carbonanhydrase-Hemmer |
-| -zolin (Ausnahme Cefazolin, ein Cephalosporin AB) | alpha-Agonisten |
-| -zosin | alpha1-Antagonisten |
-| -terol | beta2-Agonisten |
-| -gliptin | DPP4-Inhibitoren |
-| -tidin | H2-Rezeptorantagonisten |
-| -prazol (Ausnahme Aripiprazol, ein atypisches Antipsychotika) | PPI |
-| -ifen | Selektive-Estrogen-Rezeptor-Modulatoren (SERM) |
-| -tamid | Androgen-Rezeptorantagonisten |
-| -tinib | Tyrosinkinase-Inhibitoren |
-| -taxel | Taxane (MT-Inhibitoren) |
-
-{{< /table >}}
-
 {{< /autolink >}}
-
-</div>
-
-<hr>
 
 <p>Quellen: Wikipedia, AMBOSS, DocCheck</p>
