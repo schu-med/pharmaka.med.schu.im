@@ -99,6 +99,10 @@
     "dc": "https://flexikon.doccheck.com/de/Abciximab",
     "wp": "https://de.wikipedia.org/wiki/Abciximab"
   },
+  "Abelcet": {
+    "dc": "-",
+    "wp": "-"
+  },
   "Abirateronacetat": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Abirateronacetat"
@@ -200,6 +204,10 @@
     "wp": "https://de.wikipedia.org/wiki/Alupent"
   },
   "Alvimopan": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "AmBisome": {
     "dc": "-",
     "wp": "-"
   },
@@ -1722,6 +1730,10 @@
   "Mannitol": {
     "dc": "https://flexikon.doccheck.com/de/Mannitol",
     "wp": "https://de.wikipedia.org/wiki/Mannitol"
+  },
+  "Marcumar": {
+    "dc": "https://flexikon.doccheck.com/de/Marcumar",
+    "wp": "https://de.wikipedia.org/wiki/Marcumar"
   },
   "Mebendazol": {
     "dc": "https://flexikon.doccheck.com/de/Mebendazol",
