@@ -327,11 +327,11 @@ layout = "indexpage-fluid"
 | Antiemetika | Neurokinin-1-Rezeptorantagonist | Aprepitant | | Chemotherapie | | | | |
 | Laxantien | Anorganische Salze (Osmotika) | Bittersalz, Glaubersalz, NaH2PO4 + NaHPO4 | | | Belastung mit Na+/Mg++ Ionen | | | |
 | Laxantien | Zucker, Zuckeralkohole | Lactose, Lactulose, Lacitol, Sorbitol, Mannitol | | | Blähungen | | | |
-| Laxantien | Polyethylenglykole | Macrogol 3350 und 4000 | werden nicht resorbiert -> osmotisch wirksam | | | | | |
-| Laxantien | Quellstoffe | Indische Flohsamen, Leinsamen, Weizenkleie | Ballaststoffe, werden kaum verdaut und resorbiert | | | | | |
+| Laxantien | Polyethylenglykole | Macrogol (aka Polyethylenglykol / Polyethylenglycol / PEG; Handelsname: Movicol) | werden nicht resorbiert -> osmotisch wirksam | | | | | |
+| Laxantien | Quellstoffe | Flohsamen (Psyllium), Leinsamen, Weizenkleie | Ballaststoffe, werden kaum verdaut und resorbiert | | | | | |
 | Laxantien | Antiresorptiv und sekretagog wirksame | Ricinusöl | | | | | | **sehr schnell bzw. am schnellsten wirksam** |
-| Laxantien | Antiresorptiv und sekretagog wirksame – Antrachinonderivate | Sennoside | | | | | | |
-| Laxantien | Antiresorptiv und sekretagog wirksame – Diphenylmethanderivate | Bisacodyl, Natriumpicosulfat | | | | | | |
+| Laxantien | Antiresorptiv und sekretagog wirksame – Antrachinonderivate | Sennoside (Senna-Glykoside, Antrachinone) | aktive Metaboliten blockien Na-K-ATPase im Kolon -> Hypersekretion | | | | | |
+| Laxantien | Antiresorptiv und sekretagog wirksame – Diphenylmethanderivate | Bisacodyl, Natriumpicosulfat | | | Elektrolytverschiebungen | | | |
 | Laxantien | | Naloxan | | | | | | |
 | Laxantien | | Methylnaltrexon | | | | | | |
 | Laxantien | | Naloxegol, Naldemedin | nicht ZNS-gängig | | | | | |

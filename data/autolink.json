@@ -283,6 +283,10 @@
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Anticholium"
   },
+  "Antrachinone": {
+    "dc": "-",
+    "wp": "-"
+  },
   "Apixaban": {
     "dc": "https://flexikon.doccheck.com/de/Apixaban",
     "wp": "https://de.wikipedia.org/wiki/Apixaban"
@@ -1915,6 +1919,10 @@
     "dc": "https://flexikon.doccheck.com/de/Morphin",
     "wp": "https://de.wikipedia.org/wiki/Morphin"
   },
+  "Movicol": {
+    "dc": "-",
+    "wp": "-"
+  },
   "Moxifloxacin": {
     "dc": "https://flexikon.doccheck.com/de/Moxifloxacin",
     "wp": "https://de.wikipedia.org/wiki/Moxifloxacin"
@@ -2155,6 +2163,10 @@
     "dc": "https://flexikon.doccheck.com/de/Oxytetracyclin",
     "wp": "https://de.wikipedia.org/wiki/Oxytetracyclin"
   },
+  "PEG": {
+    "dc": "https://flexikon.doccheck.com/de/PEG",
+    "wp": "https://de.wikipedia.org/wiki/PEG"
+  },
   "PTU": {
     "dc": "https://flexikon.doccheck.com/de/PTU",
     "wp": "https://de.wikipedia.org/wiki/PTU"
@@ -2287,6 +2299,14 @@
     "dc": "https://flexikon.doccheck.com/de/Pivmecillinam",
     "wp": "https://de.wikipedia.org/wiki/Pivmecillinam"
   },
+  "Polyethylenglycol": {
+    "dc": "https://flexikon.doccheck.com/de/Polyethylenglycol",
+    "wp": "https://de.wikipedia.org/wiki/Polyethylenglycol"
+  },
+  "Polyethylenglykol": {
+    "dc": "https://flexikon.doccheck.com/de/Polyethylenglykol",
+    "wp": "https://de.wikipedia.org/wiki/Polyethylenglykol"
+  },
   "Polymyxin": {
     "dc": "https://flexikon.doccheck.com/de/Polymyxin",
     "wp": "-"
@@ -2374,6 +2394,10 @@
   "Pseudomonas": {
     "dc": "https://flexikon.doccheck.com/de/Pseudomonas",
     "wp": "https://de.wikipedia.org/wiki/Pseudomonas"
+  },
+  "Psyllium": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Psyllium"
   },
   "Pyrazinamid": {
     "dc": "https://flexikon.doccheck.com/de/Pyrazinamid",
@@ -2537,6 +2561,10 @@
   },
   "Semaglutid": {
     "dc": "https://flexikon.doccheck.com/de/Semaglutid",
+    "wp": "-"
+  },
+  "Senna-Glykoside": {
+    "dc": "-",
     "wp": "-"
   },
   "Sennoside": {
