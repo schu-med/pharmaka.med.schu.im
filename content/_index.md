@@ -180,7 +180,7 @@ layout = "indexpage-fluid"
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | Meloxicam, Diclofenac (Handelsname: Voltaren) | präferenziell COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch | Metamizol (Handelsname: Novalgin) | unselektiv COX1/COX2, **spasmolytisch** | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | **Agranulozytose**, Anaphylaktischer Schock bei oraler Gabe | | | |
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | *-coxibe* | Selektive Hemmung COX2 | Arthrose, rheumatische Arthritis, postoperativ | MI, Apoplex | | | |
-| Nicht-Opioid Analgetika | Analgetisch | Flupirtin | öffnet K-Kanal -> Ruhemembranpotential wird stabilisiert -> Hemmung der Schmerzweiterleitung | | Hepatotoxizität | | | Seit 2018 nicht mehr zugelassen! |
+| Nicht-Opioid Analgetika | Analgetisch | Flupirtin | öffnet K-Kanal -> Ruhemembranpotential wird stabilisiert -> Hemmung der Schmerzweiterleitung | | Hepatotoxizität | | | **Obsolet**: seit 2018 nicht mehr zugelassen! |
 | Nicht-Opioid Analgetika | Analgetisch | Capsaicin | TRPV1-Agonist -> Freisetzung von Substanz P (Hitzegefühl) -> Desensivierung | lokale Schmerzbehandlung, neuropatische Schmerzen | Hautrötung, Brennschmerz | | | |
 | Nicht-Opioid Analgetika | Conotoxin | Ziconotid | Ca-Kanal-Block, analgetischer Effekt 100-1000fach größer als Morphin | Schwere chronische Schmerzen | | | | |
 | Nicht-Opioid Analgetika | Cannabinoid | Nabilon, Nabiximols (Sativex), Dronabinol | | | | | | |
@@ -245,7 +245,7 @@ layout = "indexpage-fluid"
 | Antimykotika | Ergosterolsynthese Inhibitoren - Azole | Suffix *-conazol*, Ketoconazol, Fluconazol, Itraconazol, Voriconazol, Posaconazol, Isavuconazol, Clotrimazol | | | | | | Antimykotische Prophylaxe bei schwerer Neutropenie: Posaconazol, Voriconazol |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Allylamine | Terbinafin, Naftifin | Hemmung der Squalenexpoxidase (aka Squalen-Monooxygenase) | | | | | |
 | Antimykotika | Ergosterolsynthese Inhibitoren - Morpholine | Amorolfin | | | | | | |
-| Antimykotika | Glukansynthese Inhibitoren - Echinocandine | Caspofungin, Anidulafungin, Micafungin | | | | | | |
+| Antimykotika | Glukansynthese Inhibitoren - **Echinocandine** | Caspofungin, Anidulafungin, Micafungin | | | | | | |
 | Antimykotika | DNA-, Proteinsyntheseinhibition | 5-Flucytosin (Handelsname: Ancotil) | | | | | | |
 | Antimykotika | Multiple Angriffspunkte | Ciclopirox (Batrafen; ein Pyridon Derivat) | | Dermatomykosen, vaginale Pilzinfektionen | | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Aciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Herpesviren: Herpes-simplex-Virus und Varizella-Zoster-Virus | selten: NI, allergische Reaktionen | | | |
@@ -301,7 +301,7 @@ layout = "indexpage-fluid"
 | Orale Antidiabetika | Biguanide | Metformin | Hemmung der hepatischen Glukoseproduktion; auch: Senkung VLDL, Erhöhung HDL, antithrombotischer Effekt -> Schutz vor makrovaskulären Komplikationen (Schlaganfall, MI, KHK) | | Laktatazidose (speziell bei NI/LI), GI | | | keine Gewichtszunahme, anti-kanzerogener Effekt, anti-aging Effekt (?) |
 | Orale Antidiabetika | Sulfonylharnstoffe | Tolbutamid, Glipizid, Gliclazid, Glimepirid, Glibenclamid, Chlorpropamid | längere HWZ, Applikation 1x täglich; Blockade des K-ATP-Kanal in Pankreas -> Depolarisation -> Insulin-Ausschüttung | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | |
 | Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | Repaglinid, Nateglinid | kürzere HWZ, Applikation 3x täglich | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | In Deutschland nicht mehr erstattungsfähig. |
-| Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DPP4-Inhibitoren, Gliptine) | Linagliptin | | | | | LI, HI | |
+| Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DPP4-Inhibitoren, Gliptine) | Linagliptin | Hemmung des Enzym Dipeptidylpeptidase-4 (DPP-4), das am Abbau des Inkretinhormons Glucagon-like Peptide-1 (GLP-1) beteiligt ist. | | | | LI, HI | |
 | Orale Antidiabetika | Dipeptidylpeptidase-4-Hemmer (DPP4-Inhibitoren, Gliptine) | Saxagliptin, Sitagliptin, Vildagliptin | | | | | NI, LI, HI | |
 | Orale Antidiabetika | SGLT2-Inhibitoren | Dapagliflozin, Canagliflozin, Empagliflozin, Suffix *-gliflozin* | verhindern Glukoseresorption im proximalen Konvolut aus Primärharn | HbA1c Senkung um 0,7-0,8%, Gewichtsabahme, Blutdrucksenkung, geringes Hypoglykämie-Risiko | HWI, GI | | NI, Überempfindlichkeit | |
 | Orale Antidiabetika | alpha-Glucosidase-Inihibitoren | Acarbose, Miglitol | Hemmen Enzym in Membran der Enterozyten -> Verhinderung der Spaltung von Oligo- und Disacchariden, Verzögerung der Resorption | | GI, Unwohlsein | | | nur geringer Effekt auf HbA1c |
