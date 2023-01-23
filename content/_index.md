@@ -100,6 +100,9 @@ layout = "indexpage-fluid"
 | PDE-Inhibitoren | PDE-5-Inhibitoren | Suffix: *-afil*, Tadalafil, Sildenafil, Vardenafil | | | | | | |
 | Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor (CYSLTR1); Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | als Kombinationspräparat mit inhalativen Corticosterioiden bei Asthma und allergischer Rhinits; Neurodermitis, Urtikaria | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | |
 | "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
+| Antikörper | TNF-alpha-Antikörper (TNF-Hemmer) | Adalimumab | | | Kopfschmerzen, Bauchschmerzen, Übelkeit, Erbrechen, Hautausschläge, Gelenk- und Muskelschmerzen, erhöhte Leberwerte, opportunistische Infektionen, erhöhte Leberwerte, maligne Lymphome | | | |
+| Antikörper | TNF-alpha-Antikörper (TNF-Hemmer) | Infliximab | | | | | | |
+| Antikörper | α4β7-Integrin-Antikörper | Vedolizumab | | CED | | | | |
 | Antikörper | IgE-Antikörper | Omalizumab | | schweres persistierendes Asthma | | | | |
 | Antikörper | IL-5-Antikörper | Mepolizumab | | schweres persistierendes Asthma | | | | |
 | Antikörper | Antiinfektiva | Bezlotoxumab | | Clostridioides-difficile-Infektion | | | | |

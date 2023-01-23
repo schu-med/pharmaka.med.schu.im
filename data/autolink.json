@@ -135,6 +135,10 @@
     "dc": "https://flexikon.doccheck.com/de/Aciclovir",
     "wp": "https://de.wikipedia.org/wiki/Aciclovir"
   },
+  "Adalimumab": {
+    "dc": "https://flexikon.doccheck.com/de/Adalimumab",
+    "wp": "https://de.wikipedia.org/wiki/Adalimumab"
+  },
   "Adefovir": {
     "dc": "https://flexikon.doccheck.com/de/Adefovir",
     "wp": "https://de.wikipedia.org/wiki/Adefovir"
@@ -1526,6 +1530,10 @@
   "Indometacin": {
     "dc": "https://flexikon.doccheck.com/de/Indometacin",
     "wp": "https://de.wikipedia.org/wiki/Indometacin"
+  },
+  "Infliximab": {
+    "dc": "https://flexikon.doccheck.com/de/Infliximab",
+    "wp": "https://de.wikipedia.org/wiki/Infliximab"
   },
   "Injektionsstelle": {
     "dc": "-",
@@ -2954,6 +2962,10 @@
   "Vecuronium": {
     "dc": "https://flexikon.doccheck.com/de/Vecuronium",
     "wp": "https://de.wikipedia.org/wiki/Vecuronium"
+  },
+  "Vedolizumab": {
+    "dc": "https://flexikon.doccheck.com/de/Vedolizumab",
+    "wp": "https://de.wikipedia.org/wiki/Vedolizumab"
   },
   "Venlafaxin": {
     "dc": "https://flexikon.doccheck.com/de/Venlafaxin",
