@@ -1031,6 +1031,10 @@
     "dc": "https://flexikon.doccheck.com/de/Dolutegravir",
     "wp": "https://de.wikipedia.org/wiki/Dolutegravir"
   },
+  "Domperidon": {
+    "dc": "https://flexikon.doccheck.com/de/Domperidon",
+    "wp": "https://de.wikipedia.org/wiki/Domperidon"
+  },
   "Donepezil": {
     "dc": "https://flexikon.doccheck.com/de/Donepezil",
     "wp": "https://de.wikipedia.org/wiki/Donepezil"
@@ -3136,6 +3140,10 @@
     "wp": "-"
   },
   "entfernt": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "fester": {
     "dc": "-",
     "wp": "-"
   },
