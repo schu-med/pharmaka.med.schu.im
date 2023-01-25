@@ -771,6 +771,10 @@
     "dc": "https://flexikon.doccheck.com/de/Clobazam",
     "wp": "https://de.wikipedia.org/wiki/Clobazam"
   },
+  "Clofazimin": {
+    "dc": "https://flexikon.doccheck.com/de/Clofazimin",
+    "wp": "https://de.wikipedia.org/wiki/Clofazimin"
+  },
   "Clomifen": {
     "dc": "https://flexikon.doccheck.com/de/Clomifen",
     "wp": "https://de.wikipedia.org/wiki/Clomifen"
@@ -2482,6 +2486,10 @@
   "Ricinus\u00f6l": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Ricinus\u00f6l"
+  },
+  "Rifabutin": {
+    "dc": "https://flexikon.doccheck.com/de/Rifabutin",
+    "wp": "https://de.wikipedia.org/wiki/Rifabutin"
   },
   "Rifampicin": {
     "dc": "https://flexikon.doccheck.com/de/Rifampicin",

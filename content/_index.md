@@ -223,7 +223,7 @@ layout = "indexpage-fluid"
 | Betalactamase-Inhibitoren | | Avibactam | | kombiniert mit Ceftazidim | | | | |
 | Antibiotika | Carbapeneme | Imipenem, Meropenem, Ertapenem | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+, G-, Aa | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | Reserve-AB für lebensbedrohliche Infekte, meist gegen 3-MRGN wirksam |
 | Antibiotika | Monobactame | Aztreonam | | G- | | | | |
-| Antibiotika | Rifamycine | Rifaximin | Breitband-AB, wird kaum resorbiert und ist so fast ausschließlich im Darm wirksam | Bakterielle Infektionen des Darm durch G+, G-, Aa | | | | |
+| Antibiotika | Rifamycine | Rifaximin, Rifabutin | Breitband-AB, wird kaum resorbiert und ist so fast ausschließlich im Darm wirksam | Bakterielle Infektionen des Darm durch G+, G-, Aa | | | | |
 | Antibiotika | Glykopeptide | Vancomycin, Teicoplanin | Zellwand- und Membransynthesehemmstoff, Bindung an D-Ala-D-Ala -> Transpeptidase (PBP) kann sich nicht anlagern | G+ | Nephrotoxizität, Ototoxizität, Hypotonie | Res.: verändertes Peptid (D-Ser oder D-Lact) | | Reserve-AB für MRSA, pseudomembranöse Colitis |
 | Antibiotika | Epoxide | Fosfomycin | Zellwand- und Membransynthesehemmstoff, Hemmung der N-Acetyl-Muraminsäure Bildung (Mureinsynthese) | G+, G-, **Einmalgabe bei HWI** als Fosfomycin-Trometanol | GI | Res.: verminderte Aufnahme oder Inaktivierung von Fosfomycin | | Reserve-AB für lebensbedrohliche Infekte |
 | Antibiotika | Lipopeptide | Daptomycin | Porenbildung in Zellmembran, bakterizid (primär) | G+ | Myotoxizität, GI, allergische Reaktionen | Res.: Veränderung der Membran | | S. aureus Infekte |
@@ -272,6 +272,7 @@ layout = "indexpage-fluid"
 | Antihelmintika | Piperazinderivat | Diethylcarbamazin | | | | | | |
 | Antihelmintika | Salicylamidderivat | Niclosamid | | | | | | |
 | Antihelmintika | | Praziquantel | | Taenia saginata und solium | | | | |
+| Chemotherapeutikum | | Clofazimin | | Lepra | | | | |
 | Immunsuppressiva | Glucocorticoide, kurz-wirksam | Hydrocortison, Cortisol, Cortison | | | | | | |
 | Immunsuppressiva | Glucocorticoide, Mittellang wirksam | Prednison, Prednisolon, Methylprednisolon | | Morbus Addison | | | | |
 | Immunsuppressiva | Glucocorticoide, lang-wirksam | Dexamethason, Betamethason | | Dexamethason: Prophylaxe Frühgeburt | | | | |
