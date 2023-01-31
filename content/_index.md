@@ -273,6 +273,7 @@ layout = "indexpage-fluid"
 | Antihelmintika | Salicylamidderivat | Niclosamid | | | | | | |
 | Antihelmintika | | Praziquantel | | Taenia saginata und solium | | | | |
 | Chemotherapeutikum | | Clofazimin | | Lepra | | | | |
+| Immunmodulator | Aminosalicylate | Mesalazin (aka 5-ASA, 5-Aminosalicylsäure), Sulfasalazin, Olsalazin | | | | | | |
 | Immunsuppressiva | Glucocorticoide, kurz-wirksam | Hydrocortison, Cortisol, Cortison | | | | | | |
 | Immunsuppressiva | Glucocorticoide, Mittellang wirksam | Prednison, Prednisolon, Methylprednisolon | | Morbus Addison | | | | |
 | Immunsuppressiva | Glucocorticoide, lang-wirksam | Dexamethason, Betamethason | | Dexamethason: Prophylaxe Frühgeburt | | | | |
