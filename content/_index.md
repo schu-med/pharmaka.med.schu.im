@@ -152,7 +152,7 @@ layout = "indexpage-fluid"
 | Antikonvulsiva | | Topiramat | Blockierung von AMPA-Rezeptoren, Bindung an GABA-Rezeptoren, Inaktivierung von Natriumkanälen | | | | | |
 | Antikonvulsiva | AMPA-Antagonist | Perampanel | selektiver, nicht-kompetitiver Antagonist des ionotropen AMPA-Rezeptors | | | | | |
 | Antikonvulsiva | Na-Kanal-Inhibitor | Phenytoin | geringe therapeutische Breite | Epilepsie, Herzrhythmusstörungen | | | | Eines der meistverwendeten Antiepileptika in den USA |
-| Antikonvulsiva | Na-Kanal-Inhibitor | Carbamazepin, Oxcarbazepin, Lamotrigin, Zonisamid, Valproat | | Carbamazepin, Oxcarbazepin: Trigeminusneuralgie | | Carbamazepine reduziert Spiegel von Antikonzeptiva und anderen Arzneimitteln (CYP450 Inhibition) | | |
+| Antikonvulsiva | Na-Kanal-Inhibitor | Carbamazepin, Oxcarbazepin, Lamotrigin, Zonisamid, Valproat | | Carbamazepin, Oxcarbazepin: Trigeminusneuralgie | | Carbamazepine reduziert Spiegel von Antikonzeptiva und anderen Arzneimitteln (CYP450 Induktion) | | |
 | Antikonvulsiva | Ca-Kanal-Inhibitor | Valproat, Gabapentin, Ethosuximid, Lamotrigin | Ethosuximid reduziert Ca-Einstrom aussschließlich an T-Typ Calciumkanal -> unwirksam bei anderen Formen der Epilepsie | Ethosuximide + Valproat Mittel der 1. Wahl bei Absencen, Gabapentin zur Behandlung von neuropathischem Schmerz | | | | |
 | Antikonvulsiva | Ca-Kanal-Inhibitor | Levetiracetam, Brivaracetam | nicht vollständig klar; inhibiert Ca-Kanäle; Bindung an synaptisches Vesikelprotein 2A (SV2A); vermutlich Herabsetzung der neuronalen Reizweiterleutung und Glutamatfreisetzung sowie partielle Inhibitation der Calcium Spiegel intrazellulär | fokale Krampfanfälle | | | | In Schwangerschaft gut toleriert, geringeres teratogenes Potential |
 | Mood Stabilizer | Antiepileptika | Valproat (Valproinsäure) | | | | | Schwangerschaft | |
@@ -169,7 +169,7 @@ layout = "indexpage-fluid"
 | Opioide | WHO3 | Fentanyl | analgetisch, 100-fach stärker als Morphin | Notfallmedizin, starke chronische Schmerzen | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | CYP3A4 Inhibitoren | | |
 | Opioide | | Sufentanil, Alfentanil, Remifentanil | Fentanyl-Derivate; hochpotent, schneller Wirkeintritt, kurze HWZ | Infusion peri- oder postoperativ | | | | |
 | Opioide | WHO3 | Oxycodon | analgetisch, 1,5-fach stärker als Morphin, hohes Suchtpotential durch schnelles Anfluten | | Übelkeit, Euphorie, Obstipation, Sedation, Atemdepression | | | Retardtabletten + Naloxon |
-| Opioide | WHO3 | Hydromorphon (Dihydromorphin) | analgetisch, 7,5-fach stärker als Morphin | starke bis sehr starke Schmerzen | | | | Retardkapseln |
+| Opioide | WHO3 | Hydromorphon (aka Dihydromorphin, Handelsnamen: Palladon / Dilaudid) | analgetisch, 7,5-fach stärker als Morphin | starke bis sehr starke Schmerzen | | | | Retardkapseln |
 | Opioide | WHO3 | Piritramid (Handelsname: Dipidolor) | analgetisch, Wirkstärke 70% von Morphin | auschließlich parenteral, postoperativ | | | | Methadonderivat |
 | Opioide | WHO3 | Pethidin | Wirkstärke 1/5 von Morphin, orale Bioverfügbarkeit 50% | Analgesie bei Geburtshilfe | Kumulationsgefahr bei chronischer Gabe -> nur akut, **Hautreaktion möglich** (wegen Histaminfreisetzung) | | | |
 | Opioide | WHO3 | Loperamid | Pethidin-Derivat, hohe Affinität zu MOP | Antidiarrhoikum | | | | |

@@ -987,6 +987,10 @@
     "dc": "-",
     "wp": "-"
   },
+  "Dilaudid": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Dilaudid"
+  },
   "Diltiazem": {
     "dc": "https://flexikon.doccheck.com/de/Diltiazem",
     "wp": "https://de.wikipedia.org/wiki/Diltiazem"
@@ -2214,6 +2218,10 @@
   "Paclitaxel": {
     "dc": "https://flexikon.doccheck.com/de/Paclitaxel",
     "wp": "https://de.wikipedia.org/wiki/Paclitaxel"
+  },
+  "Palladon": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Palladon"
   },
   "Palonosetron": {
     "dc": "https://flexikon.doccheck.com/de/Palonosetron",
