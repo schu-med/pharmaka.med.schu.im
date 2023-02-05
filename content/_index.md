@@ -285,7 +285,7 @@ layout = "indexpage-fluid"
 | Immunsuppressiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid (Handelsname: Thalidomide Celgene; früher Contergan), Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom, Lepra, Haut- und Autoimmunkrankheiten | | | | |
 | Zytostatika | Platinverbindungen | Cisplatin, Carboplatin, Oxaliplatin | | | | | | |
 | Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | Myelotixizität | | | |
-| Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat (aka MTX) | Hemmung der Thymidin-Synthese | | | ASS und andere NSAR/NSAID konkurrieren mit MTX um renalen Transporter -> verzögerte Ausscheidung | | |
+| Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat (aka MTX) | Hemmung der Thymidin-Synthese | | u.a. **Agranulozytose** | ASS und andere NSAR/NSAID konkurrieren mit MTX um renalen Transporter -> verzögerte Ausscheidung | | |
 | Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Vinca-Alkaloide (Vincristin, Vinblastin, Vindesin, Vinorelbin, Vinflunin), Estramustin, Ixabepilon, Eribulin | | Neurotoxizität, Myelosuppression | | | | | |
 | Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Taxane: Paclitaxel, Docetaxel, Cabazitaxel | | Myelosuppression, Neurotoxizität | | | | |
 | Zytostatika | Antimetaboliten | Mercaptopurin | Purinanaloga | Leukämien, Lymphome, Mamma-/Ovarialkarzinom | | | | |
