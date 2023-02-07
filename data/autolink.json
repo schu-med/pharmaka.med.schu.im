@@ -199,6 +199,10 @@
     "dc": "https://flexikon.doccheck.com/de/Allopregnanolon",
     "wp": "-"
   },
+  "Allopurinol": {
+    "dc": "https://flexikon.doccheck.com/de/Allopurinol",
+    "wp": "https://de.wikipedia.org/wiki/Allopurinol"
+  },
   "Alprazolam": {
     "dc": "https://flexikon.doccheck.com/de/Alprazolam",
     "wp": "https://de.wikipedia.org/wiki/Alprazolam"
@@ -734,6 +738,10 @@
   "Cimetidin": {
     "dc": "https://flexikon.doccheck.com/de/Cimetidin",
     "wp": "https://de.wikipedia.org/wiki/Cimetidin"
+  },
+  "Cinacalcet": {
+    "dc": "https://flexikon.doccheck.com/de/Cinacalcet",
+    "wp": "https://de.wikipedia.org/wiki/Cinacalcet"
   },
   "Ciprofloxacin": {
     "dc": "https://flexikon.doccheck.com/de/Ciprofloxacin",
@@ -1390,6 +1398,10 @@
   "Gemfibrozil": {
     "dc": "https://flexikon.doccheck.com/de/Gemfibrozil",
     "wp": "https://de.wikipedia.org/wiki/Gemfibrozil"
+  },
+  "Gentamicin": {
+    "dc": "https://flexikon.doccheck.com/de/Gentamicin",
+    "wp": "https://de.wikipedia.org/wiki/Gentamicin"
   },
   "Gentamycin": {
     "dc": "-",
@@ -2786,6 +2798,10 @@
   "Terbutalin": {
     "dc": "https://flexikon.doccheck.com/de/Terbutalin",
     "wp": "https://de.wikipedia.org/wiki/Terbutalin"
+  },
+  "Teriparatid": {
+    "dc": "https://flexikon.doccheck.com/de/Teriparatid",
+    "wp": "https://de.wikipedia.org/wiki/Teriparatid"
   },
   "Termazepam": {
     "dc": "-",

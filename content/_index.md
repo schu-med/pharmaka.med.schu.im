@@ -229,7 +229,7 @@ layout = "indexpage-fluid"
 | Antibiotika | Lipopeptide | Daptomycin | Porenbildung in Zellmembran, bakterizid (primär) | G+ | Myotoxizität, GI, allergische Reaktionen | Res.: Veränderung der Membran | | S. aureus Infekte |
 | Antibiotika | Polypeptide | Colistin, Polymyxin B | Schädigung der Membran von G- Bakterien, bakterizid (primär) | G- | Neurotoxizität, Nephrotoxizität, allergische Reaktionen | Res.: Veränderung von LPS (durch MCR-1) in der äußeren Membran | | Reserve-AB für Pseudomonas- und Klebsellien-Infekte |
 | Antibiotika | Oxazolidinone | Linezolid | Hemmung der Bildung des Initiationskomplex, bakteriostatisch | G+ | GI, Hepatotoxizität  | Res.: Veränderung der 23S-rRNA | | Reserve-AB für MRSA- und VRE-Infekte |
-| Antibiotika | Aminoglykoside | Gentamycin, Amikacin, Tobramycin, Paromomycin, Streptomycin | Bindung an 30S-UE, bakterizid (primär) | (G+), G-, **nur Aerobier** | Nephrotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
+| Antibiotika | Aminoglykoside | Gentamicin (aka Gentamycin), Amikacin, Tobramycin, Paromomycin, Streptomycin | Bindung an 30S-UE, bakterizid (primär) | (G+), G-, **nur Aerobier** | Nephrotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
 | Antibiotika | Tetracycline | Doxycyclin, Minocyclin, Tigecyclin (Tetracyclin-Derivat), Oxytetracyclin | Bindung an 30S-UE, bakteriostatisch | (G+), (G-), atypische (Mykoplasmen, Chlamydien, Legionellen) | GI, Phototoxizität, Einlagerung in Knochen und Zähne, Hepato- / Nephrotoxizität | Res.: Aktiver Auswärtstransport, Veränderung des 30S-Ribosoms | Schwangerschaft, Stillzeit, **Kinder bis zum 8. Lebensjahr**, Leber- / Niereninsuffizienz | bei Atemwegsinfektionen, Urogenitalinfektionen, Borreliose, Cholera; auch off-label als Malaria-Prophylaxe |
 | Antibiotika | Amphenicole | Chloramphenicol | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, G-, Aa, atypische | Knochenmarksschädigung, Neurotoxizität | Veränderung des AB | | Reserve-AB für lebensbedrohliche Erkrankungen; auch Reserve wegen Toxizität |
 | Antibiotika | Makrolide | Erythromycin, Clarithromycin, Azithromycin, Roxithromycin | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+ Kokken und Stäbchen, (G- Kokken), atypische | GI, Hepatotoxizität, **QT-Zeit-Verlängerung** | **CYP3A4 Hemmung** | | |
@@ -410,6 +410,9 @@ layout = "indexpage-fluid"
 | Schlafmittel | | Chloralhydrat | | | | | | |
 | Thyreostatikum | Thionamide | Thiamazol (aka Methimazol), Carbimazol, Propylthiouracil (PTU) | Hemmung der Synthese von Schilddrüsenhormonen | | | | | |
 | Thyreostatikum | Perchlorate | Perchlorat | Hemmung der Jodidaufnahme in Thyreozyten | | | | | |
+| Calcimimetikum | | Cinacalcet | | Hypercalicämie, pHPT | | | | |
+| Parathormon-Fragmen | | Teriparatid | osteoanabole Wirkung, da es die Bildung und Aktivität von Osteoblasten anregt. | Osteoporose | | | | |
+| Urikostatikum | | Allopurinol | unterbindet den Abbau von Purinen zu Harnsäure durch Hemmung des Enzyms Xanthinoxidase | | | | WW mit anderen Purin-Antimetaboliten (bspw. Azathioprin) | |
 
 {{</table >}}
 
