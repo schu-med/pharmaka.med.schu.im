@@ -328,9 +328,9 @@ layout = "indexpage-fluid"
 | Antiemetika | H1-Blocker | Dimenhydrinat (Handelsname: Vomex) | | | | | | |
 | Antiemetika | 5-HT3-Rezeptorantagonisten (Setrone) | Granisetron, Ondansetron, Tropisetron, Palonosetron | 5-HT3 ist ligandengesteuerter Na-K-Kanal, einziger nicht G-Protein gekoppelter Serotoninrezeptor | Zytostatika- und Strahlentherapie-induziertes Erbrechen, postoperatives Erbrechen, (Hyperemesis gravidarum) | | | | |
 | Antiemetika | Dopaminrezeptor-Antagonisten - Neuroleptika | Haloperidol, Droperidol, Perphenazin, Promethazin, Sulpirid, Prochlorperazin | | Übelkeit und Ebrechen (bei Nichtwirksamkeit von Alternativen), Opioid-indziertes Erbrechen, postoperatives Erbrechen, Morbus Meniere | | | | |
-| Antiemetika | Dopamin-Antagonist | Metoclopramid | auch antagonistisch an 5-HT3 | u.a. Akuttherapie bei Migräne-Attacke | EPS | | | |
+| Antiemetika | Dopamin-Antagonist | Metoclopramid (MCP) | auch antagonistisch an 5-HT3 | u.a. Akuttherapie bei Migräne-Attacke | EPS | | | |
 | Antiemetika | Dopamin-Antagonist | Domperidon | | u.a. Akuttherapie bei Migräne-Attacke | | | | |
-| Antiemetika | Neurokinin-1-Rezeptorantagonist | Aprepitant | | Chemotherapie | | | | |
+| Antiemetika | Neurokinin-1-Rezeptorantagonis (aka NK1- oder NK-1-Antagonist) | Aprepitant, Fosaprepitant | | Chemotherapie | | | | |
 | Laxantien | Anorganische Salze (Osmotika) | Bittersalz, Glaubersalz, NaH2PO4 + NaHPO4 | | | Belastung mit Na+/Mg++ Ionen | | | |
 | Laxantien | Zucker, Zuckeralkohole | Lactose, Lactulose, Lacitol, Sorbitol, Mannitol | | | Blähungen | | | |
 | Laxantien | Polyethylenglykole | Macrogol (aka Polyethylenglykol / Polyethylenglycol / PEG; Handelsname: Movicol) | werden nicht resorbiert -> osmotisch wirksam | | | | | |

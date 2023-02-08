@@ -1367,6 +1367,10 @@
     "dc": "https://flexikon.doccheck.com/de/Formoterol",
     "wp": "https://de.wikipedia.org/wiki/Formoterol"
   },
+  "Fosaprepitant": {
+    "dc": "https://flexikon.doccheck.com/de/Fosaprepitant",
+    "wp": "-"
+  },
   "Fosfomycin": {
     "dc": "https://flexikon.doccheck.com/de/Fosfomycin",
     "wp": "https://de.wikipedia.org/wiki/Fosfomycin"
@@ -1758,6 +1762,10 @@
   "Lutropin": {
     "dc": "https://flexikon.doccheck.com/de/Lutropin",
     "wp": "https://de.wikipedia.org/wiki/Lutropin"
+  },
+  "MCP": {
+    "dc": "https://flexikon.doccheck.com/de/MCP",
+    "wp": "https://de.wikipedia.org/wiki/MCP"
   },
   "MTX": {
     "dc": "https://flexikon.doccheck.com/de/MTX",
