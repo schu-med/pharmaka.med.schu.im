@@ -103,6 +103,10 @@
     "dc": "https://flexikon.doccheck.com/de/Abacavir",
     "wp": "https://de.wikipedia.org/wiki/Abacavir"
   },
+  "Abatacept": {
+    "dc": "https://flexikon.doccheck.com/de/Abatacept",
+    "wp": "-"
+  },
   "Abciximab": {
     "dc": "https://flexikon.doccheck.com/de/Abciximab",
     "wp": "https://de.wikipedia.org/wiki/Abciximab"
@@ -283,6 +287,10 @@
     "dc": "https://flexikon.doccheck.com/de/Ampicillin",
     "wp": "https://de.wikipedia.org/wiki/Ampicillin"
   },
+  "Anakinra": {
+    "dc": "https://flexikon.doccheck.com/de/Anakinra",
+    "wp": "https://de.wikipedia.org/wiki/Anakinra"
+  },
   "Anastrozol": {
     "dc": "https://flexikon.doccheck.com/de/Anastrozol",
     "wp": "https://de.wikipedia.org/wiki/Anastrozol"
@@ -398,6 +406,10 @@
   "Barbiturat": {
     "dc": "https://flexikon.doccheck.com/de/Barbiturat",
     "wp": "https://de.wikipedia.org/wiki/Barbiturat"
+  },
+  "Baricitinib": {
+    "dc": "https://flexikon.doccheck.com/de/Baricitinib",
+    "wp": "https://de.wikipedia.org/wiki/Baricitinib"
   },
   "Basiliximab": {
     "dc": "https://flexikon.doccheck.com/de/Basiliximab",
@@ -1507,6 +1519,10 @@
     "dc": "https://flexikon.doccheck.com/de/Hydroxocobalamin",
     "wp": "https://de.wikipedia.org/wiki/Hydroxocobalamin"
   },
+  "Hydroxychloroquin": {
+    "dc": "https://flexikon.doccheck.com/de/Hydroxychloroquin",
+    "wp": "https://de.wikipedia.org/wiki/Hydroxychloroquin"
+  },
   "Hydroxyharnstoffe": {
     "dc": "-",
     "wp": "-"
@@ -1570,6 +1586,10 @@
   "Infliximab": {
     "dc": "https://flexikon.doccheck.com/de/Infliximab",
     "wp": "https://de.wikipedia.org/wiki/Infliximab"
+  },
+  "Infliximab-Biosimilars": {
+    "dc": "-",
+    "wp": "-"
   },
   "Injektionsstelle": {
     "dc": "-",
@@ -1678,6 +1698,10 @@
   "Lefamulin": {
     "dc": "https://flexikon.doccheck.com/de/Lefamulin",
     "wp": "https://de.wikipedia.org/wiki/Lefamulin"
+  },
+  "Leflunomid": {
+    "dc": "https://flexikon.doccheck.com/de/Leflunomid",
+    "wp": "https://de.wikipedia.org/wiki/Leflunomid"
   },
   "Leinsamen": {
     "dc": "-",
@@ -1990,6 +2014,10 @@
   "Moxonidin": {
     "dc": "https://flexikon.doccheck.com/de/Moxonidin",
     "wp": "https://de.wikipedia.org/wiki/Moxonidin"
+  },
+  "Mycophenolat": {
+    "dc": "https://flexikon.doccheck.com/de/Mycophenolat",
+    "wp": "-"
   },
   "Mycophenolat-Mofetil": {
     "dc": "https://flexikon.doccheck.com/de/Mycophenolat-Mofetil",
@@ -2739,6 +2767,10 @@
     "dc": "-",
     "wp": "-"
   },
+  "TNF-Inhibitoren": {
+    "dc": "-",
+    "wp": "-"
+  },
   "Tacrolimus": {
     "dc": "https://flexikon.doccheck.com/de/Tacrolimus",
     "wp": "https://de.wikipedia.org/wiki/Tacrolimus"
@@ -2906,6 +2938,14 @@
   "Tobramycin": {
     "dc": "https://flexikon.doccheck.com/de/Tobramycin",
     "wp": "https://de.wikipedia.org/wiki/Tobramycin"
+  },
+  "Tocilizumab": {
+    "dc": "https://flexikon.doccheck.com/de/Tocilizumab",
+    "wp": "https://de.wikipedia.org/wiki/Tocilizumab"
+  },
+  "Tofacitinib": {
+    "dc": "https://flexikon.doccheck.com/de/Tofacitinib",
+    "wp": "https://de.wikipedia.org/wiki/Tofacitinib"
   },
   "Tolbutamid": {
     "dc": "https://flexikon.doccheck.com/de/Tolbutamid",
