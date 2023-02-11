@@ -100,8 +100,8 @@ layout = "indexpage-fluid"
 | PDE-Inhibitoren | PDE-5-Inhibitoren | Suffix: *-afil*, Tadalafil, Sildenafil, Vardenafil | | | | | | |
 | Leukotrien-Rezeptor-Antagonisten | | Montelukast | Antagonist von Cysteinyl-Leukotrien-Rezeptor (CYSLTR1); Bronchien: verhindert Konstriktion, Gefäße: reduziert Gefäßpermabilität -> Hemmung der allergenen Früh- und Spätreaktion; Anwendung: oral, **keine Monotherapie** | als Kombinationspräparat mit inhalativen Corticosterioiden bei Asthma und allergischer Rhinits; Neurodermitis, Urtikaria | unspezifisch: Kopfschmerzen, Bauchschmerzen, Aggression, Fieber, ... | | | |
 | "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
-| Antikörper | TNF-alpha-Antikörper (TNF-Hemmer) | Adalimumab | | CED | Kopfschmerzen, Bauchschmerzen, Übelkeit, Erbrechen, Hautausschläge, Gelenk- und Muskelschmerzen, erhöhte Leberwerte, opportunistische Infektionen, erhöhte Leberwerte, maligne Lymphome | | | |
-| Antikörper | TNF-alpha-Antikörper (TNF-Hemmer) | Infliximab | | Morbus Crohn | | | | |
+| Antikörper | TNF-alpha-Antikörper (TNF-Inhibitoren) | Adalimumab | | CED | Kopfschmerzen, Bauchschmerzen, Übelkeit, Erbrechen, Hautausschläge, Gelenk- und Muskelschmerzen, erhöhte Leberwerte, opportunistische Infektionen, erhöhte Leberwerte, maligne Lymphome | | | |
+| Antikörper | TNF-alpha-Antikörper (TNF-Inhibitoren) | Infliximab | | Morbus Crohn | | | | |
 | Antikörper | α4β7-Integrin-Antikörper | Vedolizumab | | CED | | | | |
 | Antikörper | IgE-Antikörper | Omalizumab | | schweres persistierendes Asthma | | | | |
 | Antikörper | IL-5-Antikörper | Mepolizumab | | schweres persistierendes Asthma | | | | |
@@ -179,8 +179,8 @@ layout = "indexpage-fluid"
 | Opioide | Antagonisten | Naltrexon | Antidot, nicht-selektiver Opioidrezeptor-Antagonist, wie Naloxon aber mit längerer HWZ (24-48h) | Rückfallprophylaxe | Hepatotoxizität | | | |
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | ASS | Irreversible Hemmung präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | GI, Blutung, Niere | | Kinder | Kinetik nullter Ordnung -> Kumulationsgefahr |
 | Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | Ibuprofen, Naproxen, Indometacin, Piroxicam | präferenziell COX1 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
+| Nicht-Opioid Analgetika / NSAR / NSAID | Antipyretisch, Antiphlogistisch | Meloxicam, Diclofenac (Handelsname: Voltaren) | präferenziell COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
 | Nicht-Opioid Analgetika | Antipyretisch, Analgetisch | Paracetamol | präferenziell COX2; genaue Wirkweise noch nicht aufgeklärt, diskutiert wird auch Wirkung über COX3 und TRPA1 | Anwendung in: Pädiatrie, Schwangerschaft, Stillzeit | Hepatotoxizität | | | Antidot bei Überdosierung ist Acetylcystein (ACC), nur effektiv bei Gabe innerhalb von ca. 8 Stunden nach Paracetamolaufnahme |
-| Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | Meloxicam, Diclofenac (Handelsname: Voltaren) | präferenziell COX2 | Analgetisch, Antipyretisch, Antiphlogistisch | | | | |
 | Nicht-Opioid Analgetika | Antipyretisch | Metamizol (Handelsname: Novalgin) | unselektiv COX1/COX2, **spasmolytisch** | Koliken der Galle- und ableitenden Harnwege, Tumorschmerzen, Therapie-resistentes Fieber, akute/chronische Schmerzen wenn Mangel an Therapiealternativen | **Agranulozytose**, Anaphylaktischer Schock bei oraler Gabe | | | |
 | Nicht-Opioid Analgetika | Antipyretisch, Antiphlogistisch | *-coxibe* | Selektive Hemmung COX2 | Arthrose, rheumatische Arthritis, postoperativ | MI, Apoplex | | | |
 | Nicht-Opioid Analgetika | Analgetisch | Flupirtin | öffnet K-Kanal -> Ruhemembranpotential wird stabilisiert -> Hemmung der Schmerzweiterleitung | | Hepatotoxizität | | | **Obsolet**: seit 2018 nicht mehr zugelassen! |
@@ -410,7 +410,7 @@ layout = "indexpage-fluid"
 | Schlafmittel | | Chloralhydrat | | | | | | |
 | Thyreostatikum | Thionamide | Thiamazol (aka Methimazol), Carbimazol, Propylthiouracil (PTU) | Hemmung der Synthese von Schilddrüsenhormonen | | | | | |
 | Thyreostatikum | Perchlorate | Perchlorat | Hemmung der Jodidaufnahme in Thyreozyten | | | | | |
-| Calcimimetikum | | Cinacalcet | | Hypercalicämie, pHPT | | | | |
+| Calcimimetikum | | Cinacalcet | | Hyperkalzämie, pHPT | | | | |
 | Parathormon-Fragmen | | Teriparatid | osteoanabole Wirkung, da es die Bildung und Aktivität von Osteoblasten anregt. | Osteoporose | | | | |
 | Urikostatikum | | Allopurinol | unterbindet den Abbau von Purinen zu Harnsäure durch Hemmung des Enzyms Xanthinoxidase | | | | WW mit anderen Purin-Antimetaboliten (bspw. Azathioprin) | |
 | DMARDs (disease-modifying anti-rheumatic drug) | sDMARDs - csDMARDs | Hydroxychloroquin, Leflunomid, Methotrexat (MTX), Mycophenolat, Sulfasalazin | | | | | | |
