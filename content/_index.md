@@ -25,7 +25,7 @@ layout = "indexpage-fluid"
 | Thrombozyten-Aggregationshemmer | PDE-Hemmer | Cilostazol | PDE-Hemmung | pAVK | | | | |
 | Thrombozyten-Aggregationshemmer | PAR1-Antagonisten (Protease-aktivierter Rezeptor, Thrombinrezeptor) | Vorapaxar | | pAVK, ACS (Sekundärprävention) | | | | |
 | Indirekte Antikoagulantien | Heparine | UFH | Steigert Antithrombin Affinität um etwa den Faktor 1000 -> Inaktivierung von hauptsächlich Gerinnungsfaktoren IIa und Xa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT (Heparin-induzierte Thrombozytopenie), Osteoporose | | HIT II | Antidot Protamin |
-| Indirekte Antikoagulantien | Heparine | NMH | Komplexbildung mit Antithrombin -> Inaktivierung von Xa > IIa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT, Osteoporose | | HIT II | |
+| Indirekte Antikoagulantien | Heparine | NMH (bspw. Tinzaparin) | Komplexbildung mit Antithrombin -> Inaktivierung von Xa > IIa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT, Osteoporose | | HIT II | |
 | Indirekte Antikoagulantien | Heparine | Fondaparinux | Komplexbildung mit Antithrombin -> Inaktivierung von Xa | Thromboseprophylaxe, ACS | weniger | | HIT II | |
 | Indirekte Antikoagulantien | Heparine | Enoxaparin (Handelsname: Clexane) | Komplexbildung mit Antithrombin -> Hemmung von XIa, IXa, Xa und IIa | Thromboseprophylaxe, TVT, ACS | Blutungsrisiko, LI, Thrombozytopenie | | | |
 | Indirekte Antikoagulantien | Heparinoide | Danaparoid | Komplexbildung mit Antithrombin -> Inaktivierung von Xa >> IIa | HIT II | | | | Kein Antidot verfügbar! |
@@ -86,11 +86,12 @@ layout = "indexpage-fluid"
 | Sympatholytika | beta-Blocker, 3. Generation | Betaxolol | auch Ca-Antagonist | Glaukom | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Celiprolol | **beta2 ISA**, **auch NO Donator** -> vasodilatierend | | | | | |
 | Sympatholytika | beta-Blocker, 3. Generation | Nebivolol | **auch NO Donator** -> vasodilatierend | | | | | |
+| If-Kanalblocker | | Ivabradin | | 2. Wahl bei beta-Blocker KI bei chronisch stabiler AP oder NYHA II-IV + LVEF < 35% | | | | |
 | Antiarrhythmikum | Klasse Ia | Procainamid | | | | | | |
 | Antiarrhythmikum | Klasse Ia | Disopyramid | | | | | | |
 | Antiarrhythmikum | Klasse Ia/Ic | Ajmalin | | | | | | |
 | Antiarrhythmikum | Klasse Ib | Lidocain | | | | | | |
-| Antiarrhythmikum | Klasse Ic | Flecainid | | | | | | |
+| Antiarrhythmikum | Klasse Ic | Flecainid, Propafenon | | | | | | |
 | Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Sotalol (auch beta-Blocker, siehe oben) | | | Torsade de pointes | CAVE: NI, wird kaum metabolisiert und zu ca. 90% renal eliminiert | Kombination mit anderen repolirations-verzögernden Pharmaka, Bradykardie, CAVE: Asthmatiker | |
 | Antiarrhythmikum | Klasse III (Kaliumkanalblocker) | Amiodaron | | | | Amiodaron hemmt CYP3A4 -> ungewünschter Effekt mit zum Beispiel Phenprocoumon (Abbau verlangsamt, Blutungsgefahr) | | |
 | Antisympathotonika | | Reserpin | Blockade der Wiederaufnahme von NA und Dopamin | | Orthostatische Dysregulation, Förderung Depression, GI | | | Gilt heute als obsolet (u.a. wegen UAW) |
@@ -172,7 +173,7 @@ layout = "indexpage-fluid"
 | Opioide | WHO3 | Hydromorphon (aka Dihydromorphin, Handelsnamen: Palladon / Dilaudid) | analgetisch, 7,5-fach stärker als Morphin | starke bis sehr starke Schmerzen | | | | Retardkapseln |
 | Opioide | WHO3 | Piritramid (Handelsname: Dipidolor) | analgetisch, Wirkstärke 70% von Morphin | auschließlich parenteral, postoperativ | | | | Methadonderivat |
 | Opioide | WHO3 | Pethidin | Wirkstärke 1/5 von Morphin, orale Bioverfügbarkeit 50% | Analgesie bei Geburtshilfe | Kumulationsgefahr bei chronischer Gabe -> nur akut, **Hautreaktion möglich** (wegen Histaminfreisetzung) | | | |
-| Opioide | WHO3 | Loperamid | Pethidin-Derivat, hohe Affinität zu MOP | Antidiarrhoikum | | | | |
+| Opioide | WHO3 | Loperamid | Pethidin-Derivat, hohe Affinität zu MOP | Antidiarrhoikum, kein Analgetikum (kann BHS nur wenig passieren und erreicht daher zentrale Opioidrezeptoren wenig) | | | | |
 | Opioide | WHO3 / Partielle Agonisten | Buprenorphin | Partialagonist an MOP, Antagonist an DOP, langsame Dissoziation vom Rezeptor, hoher First-Pass-Effekt | Applikation sublingual oder als Pflaster bei starken Schmerzen, Substitutionstherapie mit Naloxon | | | | |
 | Opioide | Partielle Agonisten | Nalbuphin | Partiell antagonistich an MOP, Agonist an KOP | Analgesie bei Geburtshilfe | | | | |
 | Opioide | Antagonisten | Naloxon | Antidot, nicht-selektiver Opioidrezeptor-Antagonist | Intoxikation, Suchtprävention | | | | Hoher First-Pass-Effekt -> wenig antagonisierende Wirkung bei oraler Gabe! |
@@ -225,7 +226,7 @@ layout = "indexpage-fluid"
 | Antibiotika | Monobactame | Aztreonam | | G- | | | | |
 | Antibiotika | Rifamycine | Rifaximin, Rifabutin | Breitband-AB, wird kaum resorbiert und ist so fast ausschließlich im Darm wirksam | Bakterielle Infektionen des Darm durch G+, G-, Aa | | | | |
 | Antibiotika | Glykopeptide | Vancomycin, Teicoplanin | Zellwand- und Membransynthesehemmstoff, Bindung an D-Ala-D-Ala -> Transpeptidase (PBP) kann sich nicht anlagern | G+ | Nephrotoxizität, Ototoxizität, Hypotonie | Res.: verändertes Peptid (D-Ser oder D-Lact) | | Reserve-AB für MRSA, pseudomembranöse Colitis |
-| Antibiotika | Epoxide | Fosfomycin | Zellwand- und Membransynthesehemmstoff, Hemmung der N-Acetyl-Muraminsäure Bildung (Mureinsynthese) | G+, G-, **Einmalgabe bei HWI** als Fosfomycin-Trometanol | GI | Res.: verminderte Aufnahme oder Inaktivierung von Fosfomycin | | Reserve-AB für lebensbedrohliche Infekte |
+| Antibiotika | Epoxide | Fosfomycin | Zellwand- und Membransynthesehemmstoff, Hemmung der N-Acetyl-Muraminsäure Bildung (Mureinsynthese) | G+, G-, **Einmalgabe bei HWI** als Fosfomycin-Trometanol | NI (Dosisanpassung!), GI | Res.: verminderte Aufnahme oder Inaktivierung von Fosfomycin | | Reserve-AB für lebensbedrohliche Infekte |
 | Antibiotika | Lipopeptide | Daptomycin | Porenbildung in Zellmembran, bakterizid (primär) | G+ | Myotoxizität, GI, allergische Reaktionen | Res.: Veränderung der Membran | | S. aureus Infekte |
 | Antibiotika | Polypeptide | Colistin, Polymyxin B | Schädigung der Membran von G- Bakterien, bakterizid (primär) | G- | Neurotoxizität, Nephrotoxizität, allergische Reaktionen | Res.: Veränderung von LPS (durch MCR-1) in der äußeren Membran | | Reserve-AB für Pseudomonas- und Klebsellien-Infekte |
 | Antibiotika | Oxazolidinone | Linezolid | Hemmung der Bildung des Initiationskomplex, bakteriostatisch | G+ | GI, Hepatotoxizität  | Res.: Veränderung der 23S-rRNA | | Reserve-AB für MRSA- und VRE-Infekte |
@@ -411,7 +412,7 @@ layout = "indexpage-fluid"
 | Thyreostatikum | Thionamide | Thiamazol (aka Methimazol), Carbimazol, Propylthiouracil (PTU) | Hemmung der Synthese von Schilddrüsenhormonen | | | | | |
 | Thyreostatikum | Perchlorate | Perchlorat | Hemmung der Jodidaufnahme in Thyreozyten | | | | | |
 | Calcimimetikum | | Cinacalcet | | Hyperkalzämie, pHPT | | | | |
-| Parathormon-Fragmen | | Teriparatid | osteoanabole Wirkung, da es die Bildung und Aktivität von Osteoblasten anregt. | Osteoporose | | | | |
+| Parathormon-Fragment | | Teriparatid | osteoanabole Wirkung, da es die Bildung und Aktivität von Osteoblasten anregt | Osteoporose | | | | |
 | Urikostatikum | | Allopurinol | unterbindet den Abbau von Purinen zu Harnsäure durch Hemmung des Enzyms Xanthinoxidase | | | | WW mit anderen Purin-Antimetaboliten (bspw. Azathioprin) | |
 | DMARDs (disease-modifying anti-rheumatic drug) | sDMARDs - csDMARDs | Hydroxychloroquin, Leflunomid, Methotrexat (MTX), Mycophenolat, Sulfasalazin | | | | | | |
 | DMARDs | sDMARDs - tsDMARDs | Tofacitinib, Baricitinib | | | | | | |

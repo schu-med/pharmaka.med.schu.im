@@ -1631,6 +1631,10 @@
     "dc": "https://flexikon.doccheck.com/de/Itraconazol",
     "wp": "https://de.wikipedia.org/wiki/Itraconazol"
   },
+  "Ivabradin": {
+    "dc": "https://flexikon.doccheck.com/de/Ivabradin",
+    "wp": "https://de.wikipedia.org/wiki/Ivabradin"
+  },
   "Ivermectin": {
     "dc": "https://flexikon.doccheck.com/de/Ivermectin",
     "wp": "https://de.wikipedia.org/wiki/Ivermectin"
@@ -2467,6 +2471,10 @@
     "dc": "https://flexikon.doccheck.com/de/Promethazin",
     "wp": "https://de.wikipedia.org/wiki/Promethazin"
   },
+  "Propafenon": {
+    "dc": "https://flexikon.doccheck.com/de/Propafenon",
+    "wp": "https://de.wikipedia.org/wiki/Propafenon"
+  },
   "Propofol": {
     "dc": "https://flexikon.doccheck.com/de/Propofol",
     "wp": "https://de.wikipedia.org/wiki/Propofol"
@@ -2927,6 +2935,10 @@
     "dc": "https://flexikon.doccheck.com/de/Timolol",
     "wp": "https://de.wikipedia.org/wiki/Timolol"
   },
+  "Tinzaparin": {
+    "dc": "https://flexikon.doccheck.com/de/Tinzaparin",
+    "wp": "https://de.wikipedia.org/wiki/Tinzaparin"
+  },
   "Tiotropium": {
     "dc": "https://flexikon.doccheck.com/de/Tiotropium",
     "wp": "https://de.wikipedia.org/wiki/Tiotropium"
@@ -3224,6 +3236,10 @@
     "wp": "-"
   },
   "bindet": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "bspw": {
     "dc": "-",
     "wp": "-"
   },
