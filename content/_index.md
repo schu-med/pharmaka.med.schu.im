@@ -291,6 +291,7 @@ layout = "indexpage-fluid"
 | Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Taxane: Paclitaxel, Docetaxel, Cabazitaxel | | Myelosuppression, Neurotoxizität | | | | |
 | Zytostatika | Antimetaboliten | Mercaptopurin | Purinanaloga | Leukämien, Lymphome, Mamma-/Ovarialkarzinom | | | | |
 | Zytostatika | Antimetaboliten | 5-Fluorouracil | Pyrimidinanaloga, hemmt außerdem Thymidilat-Synthase | | | | | |
+| Zytostatika | Antimetaboliten | Gemcitabin | Pyrimidinanaloga | | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Thiotepa | | lokal bei Blasenkarzinom, Konditionierung vor Stammzelltransplantation | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Mitomycin C | | palliative Kombinationstherapie | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Ifosfamid | | | | | | |
@@ -303,7 +304,7 @@ layout = "indexpage-fluid"
 | Zytostatika | Interkalierende Wirkstoffe / Antibiotika: Anthracycline | Daunorubicin, Doxorubicin, Epirubicin, Idarubicin | Interkalieren DNA-Doppelstränge, hemme Topoisomerase II, bilden Radikale | immer i.v., Doxorubicin bei vielen soliden Tumoren, andere Rubicine vorwiegend bei akuter lymphatischer/myeloischer Leukämie | KM-Suppression, Kardiotoxizität | | | |
 | Zytostatika | Interkalierende Wirkstoffe | Dactinomycin | Interkaliert DNA-Doppelstränge | Wilms-Tumor, Rhabdomyosarkom | Myelosuppression, SH-Schädigung | | | |
 | Signalweg-Inhibitoren | Tyrosinkinase-Inhibitoren | Imatinib | Hemmung der Abl-Kinase | CML, AML | Neutropenie, Thrombopenie | | | |
-| Signalweg-Inhibitoren | Tyrosinkinase-Inhibitoren | Erlotinib, Gefitinib, Afatinib, Osimertinib | EGF Hemmung | nicht-kleinzellige Lungenkarzinome, Hirnmetastasen | Hautaussschläge, schwere Diarrhoe, Transaminase-Erhöhung | | | |
+| Signalweg-Inhibitoren | Tyrosinkinase-Inhibitoren | -tinib, Erlotinib, Gefitinib, Afatinib, Osimertinib, Lapatinib, Sunitinib | EGF Hemmung | nicht-kleinzellige Lungenkarzinome, Hirnmetastasen | Hautaussschläge, schwere Diarrhoe, Transaminase-Erhöhung | | | |
 | Orale Antidiabetika | Biguanide | Metformin | Hemmung der hepatischen Glukoseproduktion; auch: Senkung VLDL, Erhöhung HDL, antithrombotischer Effekt -> Schutz vor makrovaskulären Komplikationen (Schlaganfall, MI, KHK) | | Laktatazidose (speziell bei NI/LI), GI | | | keine Gewichtszunahme, anti-kanzerogener Effekt, anti-aging Effekt (?) |
 | Orale Antidiabetika | Sulfonylharnstoffe | Tolbutamid, Glipizid, Gliclazid, Glimepirid, Glibenclamid, Chlorpropamid | längere HWZ, Applikation 1x täglich; Blockade des K-ATP-Kanal in Pankreas -> Depolarisation -> Insulin-Ausschüttung | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | |
 | Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | Repaglinid, Nateglinid | kürzere HWZ, Applikation 3x täglich | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | In Deutschland nicht mehr erstattungsfähig. |

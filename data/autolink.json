@@ -59,6 +59,10 @@
     "dc": "-",
     "wp": "-"
   },
+  "-tinib": {
+    "dc": "-",
+    "wp": "-"
+  },
   "-ximab": {
     "dc": "-",
     "wp": "-"
@@ -1411,6 +1415,10 @@
     "dc": "https://flexikon.doccheck.com/de/Gefitinib",
     "wp": "https://de.wikipedia.org/wiki/Gefitinib"
   },
+  "Gemcitabin": {
+    "dc": "https://flexikon.doccheck.com/de/Gemcitabin",
+    "wp": "https://de.wikipedia.org/wiki/Gemcitabin"
+  },
   "Gemfibrozil": {
     "dc": "https://flexikon.doccheck.com/de/Gemfibrozil",
     "wp": "https://de.wikipedia.org/wiki/Gemfibrozil"
@@ -1694,6 +1702,10 @@
   "Lansoprazol": {
     "dc": "https://flexikon.doccheck.com/de/Lansoprazol",
     "wp": "-"
+  },
+  "Lapatinib": {
+    "dc": "https://flexikon.doccheck.com/de/Lapatinib",
+    "wp": "https://de.wikipedia.org/wiki/Lapatinib"
   },
   "Lasix": {
     "dc": "https://flexikon.doccheck.com/de/Lasix",
@@ -2754,6 +2766,10 @@
   "Sulpirid": {
     "dc": "https://flexikon.doccheck.com/de/Sulpirid",
     "wp": "https://de.wikipedia.org/wiki/Sulpirid"
+  },
+  "Sunitinib": {
+    "dc": "https://flexikon.doccheck.com/de/Sunitinib",
+    "wp": "https://de.wikipedia.org/wiki/Sunitinib"
   },
   "Suprarenin": {
     "dc": "https://flexikon.doccheck.com/de/Suprarenin",
