@@ -339,6 +339,10 @@
     "dc": "https://flexikon.doccheck.com/de/Artesunat",
     "wp": "https://de.wikipedia.org/wiki/Artesunat"
   },
+  "Arthotec": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Arthotec"
+  },
   "Aspart": {
     "dc": "-",
     "wp": "-"
@@ -1635,6 +1639,10 @@
     "dc": "https://flexikon.doccheck.com/de/Isoprenalin",
     "wp": "https://de.wikipedia.org/wiki/Isoprenalin"
   },
+  "Isosorbiddinitrat": {
+    "dc": "https://flexikon.doccheck.com/de/Isosorbiddinitrat",
+    "wp": "https://de.wikipedia.org/wiki/Isosorbiddinitrat"
+  },
   "Itraconazol": {
     "dc": "https://flexikon.doccheck.com/de/Itraconazol",
     "wp": "https://de.wikipedia.org/wiki/Itraconazol"
@@ -1771,6 +1779,10 @@
     "dc": "https://flexikon.doccheck.com/de/Liraglutid",
     "wp": "https://de.wikipedia.org/wiki/Liraglutid"
   },
+  "Lisino": {
+    "dc": "-",
+    "wp": "-"
+  },
   "Lispro": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Lispro"
@@ -1786,6 +1798,10 @@
   "Loperamid": {
     "dc": "https://flexikon.doccheck.com/de/Loperamid",
     "wp": "https://de.wikipedia.org/wiki/Loperamid"
+  },
+  "Loratadin": {
+    "dc": "https://flexikon.doccheck.com/de/Loratadin",
+    "wp": "https://de.wikipedia.org/wiki/Loratadin"
   },
   "Lorazepam": {
     "dc": "https://flexikon.doccheck.com/de/Lorazepam",
@@ -2147,6 +2163,10 @@
     "dc": "https://flexikon.doccheck.com/de/Nifurtimox",
     "wp": "https://de.wikipedia.org/wiki/Nifurtimox"
   },
+  "Nintedanib": {
+    "dc": "https://flexikon.doccheck.com/de/Nintedanib",
+    "wp": "https://de.wikipedia.org/wiki/Nintedanib"
+  },
   "Nisoldipin": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Nisoldipin"
@@ -2399,6 +2419,10 @@
     "dc": "https://flexikon.doccheck.com/de/Piretanid",
     "wp": "https://de.wikipedia.org/wiki/Piretanid"
   },
+  "Pirfenidon": {
+    "dc": "https://flexikon.doccheck.com/de/Pirfenidon",
+    "wp": "-"
+  },
   "Piritramid": {
     "dc": "https://flexikon.doccheck.com/de/Piritramid",
     "wp": "https://de.wikipedia.org/wiki/Piritramid"
@@ -2406,6 +2430,10 @@
   "Piroxicam": {
     "dc": "https://flexikon.doccheck.com/de/Piroxicam",
     "wp": "https://de.wikipedia.org/wiki/Piroxicam"
+  },
+  "Pitolisant": {
+    "dc": "https://flexikon.doccheck.com/de/Pitolisant",
+    "wp": "https://de.wikipedia.org/wiki/Pitolisant"
   },
   "Pivmecillinam": {
     "dc": "https://flexikon.doccheck.com/de/Pivmecillinam",
@@ -2558,6 +2586,10 @@
   "Ranitidin": {
     "dc": "https://flexikon.doccheck.com/de/Ranitidin",
     "wp": "https://de.wikipedia.org/wiki/Ranitidin"
+  },
+  "Ranolazin": {
+    "dc": "https://flexikon.doccheck.com/de/Ranolazin",
+    "wp": "https://de.wikipedia.org/wiki/Ranolazin"
   },
   "Reboxetin": {
     "dc": "https://flexikon.doccheck.com/de/Reboxetin",

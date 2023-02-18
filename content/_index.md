@@ -304,7 +304,9 @@ layout = "indexpage-fluid"
 | Zytostatika | Interkalierende Wirkstoffe / Antibiotika: Anthracycline | Daunorubicin, Doxorubicin, Epirubicin, Idarubicin | Interkalieren DNA-Doppelstränge, hemme Topoisomerase II, bilden Radikale | immer i.v., Doxorubicin bei vielen soliden Tumoren, andere Rubicine vorwiegend bei akuter lymphatischer/myeloischer Leukämie | KM-Suppression, Kardiotoxizität | | | |
 | Zytostatika | Interkalierende Wirkstoffe | Dactinomycin | Interkaliert DNA-Doppelstränge | Wilms-Tumor, Rhabdomyosarkom | Myelosuppression, SH-Schädigung | | | |
 | Signalweg-Inhibitoren | Tyrosinkinase-Inhibitoren | Imatinib | Hemmung der Abl-Kinase | CML, AML | Neutropenie, Thrombopenie | | | |
+| Signalweg-Inhibitoren | Tyrosinkinase-Inhibitoren | Nintedanib | Hemmung VEGFR / FGF / PDGF | idiopathische Lungenfibrose (IPF) | | | | |
 | Signalweg-Inhibitoren | Tyrosinkinase-Inhibitoren | -tinib, Erlotinib, Gefitinib, Afatinib, Osimertinib, Lapatinib, Sunitinib | EGF Hemmung | nicht-kleinzellige Lungenkarzinome, Hirnmetastasen | Hautaussschläge, schwere Diarrhoe, Transaminase-Erhöhung | | | |
+| Antifibrotika | | Pirfenidon | | idiopathische Lungenfibrose (IPF) | | | | |
 | Orale Antidiabetika | Biguanide | Metformin | Hemmung der hepatischen Glukoseproduktion; auch: Senkung VLDL, Erhöhung HDL, antithrombotischer Effekt -> Schutz vor makrovaskulären Komplikationen (Schlaganfall, MI, KHK) | | Laktatazidose (speziell bei NI/LI), GI | | | keine Gewichtszunahme, anti-kanzerogener Effekt, anti-aging Effekt (?) |
 | Orale Antidiabetika | Sulfonylharnstoffe | Tolbutamid, Glipizid, Gliclazid, Glimepirid, Glibenclamid, Chlorpropamid | längere HWZ, Applikation 1x täglich; Blockade des K-ATP-Kanal in Pankreas -> Depolarisation -> Insulin-Ausschüttung | | Hypoglykämie (wegen langer HWZ und Gefahr der Überdosierung und Anreicherung), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | |
 | Orale Antidiabetika | Glinidine (Sulfonylharnstoff-Analoga) | Repaglinid, Nateglinid | kürzere HWZ, Applikation 3x täglich | | Hypoglykämie (weniger wahrscheinlich als mit Sulfonylharnstoffen, da kürzere HWZ), **Gewichtszunahme** | | Typ-1-Diabetes, LI, NI | In Deutschland nicht mehr erstattungsfähig. |
@@ -323,9 +325,10 @@ layout = "indexpage-fluid"
 | Säurehemmer | PPI | Suffix *-prazol*, Omeprazol, Pantoprazol, Lansoprazol, Rabeprazol | Prodrug: nach enteraler Resorption (Magensäure-resistente Kapseln) über Blut zu Belegzellen | Dyspepsie, Ulcus duodeni und ventriculi, Refluxösophagitis, Zollinger-Ellison-Syndrom (Übersekretion von Gastrin) | GI, **Osteoporose** | CYP2C19 / CYP3A4 Interaktion | | |
 | Säurehemmer | Antazida (Antazidum) | Natriumhydrogencarbonat, Magnesiumcarbonat, Calciumcarbonat, Aluminiumhydroxid, Magnesiumhydroxid, Al-Mg-Silikathydrat (Komplexverbindungen, Schichtgitterantazida) | | | | | | |
 | Säurehemmer | Protein-Komplexbildner | Sucralfat | bildet Komplexverbindung auf Ulcusoberfläche, verhindert Angriff von HCL; Achtung: zur Ulcus-Prophylaxe nicht geeignet (-> PPI) | | Obstipation | Tetrazyklin-Komplexe nicht resorbierbar | NI, Enzephalopathie | |
-| Säurehemmer | | Misoprostol | PGE2-Analogon, hemmt HCL-Sekretion, verstärkt Schleimsekretion | | Durchfälle, Magen- und Darmkrämpfe | | Schwangerschaft | |
+| Säurehemmer | | Misoprostol (Handelsname: Arthotec) | PGE2-Analogon, hemmt HCL-Sekretion, verstärkt Schleimsekretion | | Durchfälle, Magen- und Darmkrämpfe | | Schwangerschaft | |
 | Säurehemmer | | Proglumid | Gastrinantagonist (therapeutischer Wert umstritten) | | | | | |
-| Antihistaminikum | H1-Antagonist | Clemastin (Handelsname: Tavegil) | | Allergien (e.g. allergische Rhinits oder Konjunktivitis) | QT-Zeit-Verkängerung | | | |
+| Antihistaminikum | H1-Antagonist | Clemastin (Handelsname: Tavegil), Loratadin (Handelsname: Lisino) | | Allergien (e.g. allergische Rhinits oder Konjunktivitis) | QT-Zeit-Verkängerung | | | |
+| Antihistaminikum | H3-Antagonist | Pitolisant | | Narkolepsie | | | | |
 | Antiemetika | H1 Inverser Agonist | Diphenhydramin | | | QT-Zeit-Verlängerung | | | |
 | Antiemetika | H1-Blocker | Dimenhydrinat (Handelsname: Vomex) | | | | | | |
 | Antiemetika | 5-HT3-Rezeptorantagonisten (Setrone) | Granisetron, Ondansetron, Tropisetron, Palonosetron | 5-HT3 ist ligandengesteuerter Na-K-Kanal, einziger nicht G-Protein gekoppelter Serotoninrezeptor | Zytostatika- und Strahlentherapie-induziertes Erbrechen, postoperatives Erbrechen, (Hyperemesis gravidarum) | | | | |
@@ -416,9 +419,11 @@ layout = "indexpage-fluid"
 | Parathormon-Fragment | | Teriparatid | osteoanabole Wirkung, da es die Bildung und Aktivität von Osteoblasten anregt | Osteoporose | | | | |
 | Urikostatikum | | Allopurinol | unterbindet den Abbau von Purinen zu Harnsäure durch Hemmung des Enzyms Xanthinoxidase | | | | WW mit anderen Purin-Antimetaboliten (bspw. Azathioprin) | |
 | DMARDs (disease-modifying anti-rheumatic drug) | sDMARDs - csDMARDs | Hydroxychloroquin, Leflunomid, Methotrexat (MTX), Mycophenolat, Sulfasalazin | | | | | | |
-| DMARDs | sDMARDs - tsDMARDs | Tofacitinib, Baricitinib | | | | | | |
+| DMARDs | sDMARDs - tsDMARDs | Tofacitinib, Baricitinib | JAK-Inhibitoren | | | | | |
 | DMARDs | bDMARDs - boDMARDs | Abatacept, Rituximab, Anakinra, Tocilizumab, TNF-Inhibitoren (siehe oben) | | | | | | |
 | DMARDs | bDMARDs - bsDMARDs | Infliximab-Biosimilars | | | | | | |
+| Piperazin | | Ranolazin | nicht genau bekannt, mutmaßlich Hemmung des Na-Einstrom in Myokardzelle | 2. Wahl bei stabiler AP | | | | |
+| Nitrate | | Isosorbiddinitrat | | | | | | |
 
 {{</table >}}
 
