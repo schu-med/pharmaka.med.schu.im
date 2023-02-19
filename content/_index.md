@@ -103,11 +103,12 @@ layout = "indexpage-fluid"
 | "Mastzellstabilisatoren" | | Cromoglicinsäure, Nedocromil | antiallergisch, Hemmung von Histamin- und Leukotrien-Freisetzung aus Mastzellen | | | | | |
 | Antikörper | TNF-alpha-Antikörper (TNF-Inhibitoren) | Adalimumab | | CED | Kopfschmerzen, Bauchschmerzen, Übelkeit, Erbrechen, Hautausschläge, Gelenk- und Muskelschmerzen, erhöhte Leberwerte, opportunistische Infektionen, erhöhte Leberwerte, maligne Lymphome | | | |
 | Antikörper | TNF-alpha-Antikörper (TNF-Inhibitoren) | Infliximab | | Morbus Crohn | | | | |
+| Antikörper | TNF-alpha-Antikörper (TNF-Inhibitoren) | Etanercept | | | | | | |
 | Antikörper | α4β7-Integrin-Antikörper | Vedolizumab | | CED | | | | |
 | Antikörper | IgE-Antikörper | Omalizumab | | schweres persistierendes Asthma | | | | |
 | Antikörper | IL-5-Antikörper | Mepolizumab | | schweres persistierendes Asthma | | | | |
 | Antikörper | Antiinfektiva | Bezlotoxumab | | Clostridioides-difficile-Infektion | | | | |
-| Antikörper | | Trastuzumab | hemmt HER2/neu Aktivierung | Mamma-Ca | Kardiotoxisch | | | In Form von Trastuzumab-Emtansin als Konjugat mit dem Mitosehemmstoff Mertansin (DM1) |
+| Antikörper | | Trastuzumab (Herceptin) | hemmt HER2/neu Aktivierung | Mamma-Ca | Kardiotoxisch | | | In Form von Trastuzumab-Emtansin als Konjugat mit dem Mitosehemmstoff Mertansin (DM1) |
 | Antikörper | | Bevacizumab | VEGF-Inhibitor, bindet an VGEF und verhindert Interaktion mit Rezeptoren -> Hemmung der Angiogenese | | | | | |
 | Antikörper | | Blinatumomab | Anti-CD19-AK, aktiviert CD3-positive T-Zellen | ALL | | | | |
 | Antikörper | | Catumaxumab | Trifunktionaler AK, bindet gleichzeitig: EPCAM (Adhäsionsmolekül einer Tumorzelle), CD3 und Fcgamma-Rezeptor (auf Makrophagen, dendritischen Zellen oder NK-Zellen) | Karzinome, die zu Aszites führen | | | | |
@@ -417,7 +418,7 @@ layout = "indexpage-fluid"
 | Thyreostatikum | Perchlorate | Perchlorat | Hemmung der Jodidaufnahme in Thyreozyten | | | | | |
 | Calcimimetikum | | Cinacalcet | | Hyperkalzämie, pHPT | | | | |
 | Parathormon-Fragment | | Teriparatid | osteoanabole Wirkung, da es die Bildung und Aktivität von Osteoblasten anregt | Osteoporose | | | | |
-| Urikostatikum | | Allopurinol | unterbindet den Abbau von Purinen zu Harnsäure durch Hemmung des Enzyms Xanthinoxidase | | | | WW mit anderen Purin-Antimetaboliten (bspw. Azathioprin) | |
+| Urikostatikum | | Allopurinol, Febuxostat | unterbindet den Abbau von Purinen zu Harnsäure durch Hemmung des Enzyms Xanthinoxidase | | | | WW mit anderen Purin-Antimetaboliten (bspw. Azathioprin) | |
 | DMARDs (disease-modifying anti-rheumatic drug) | sDMARDs - csDMARDs | Hydroxychloroquin, Leflunomid, Methotrexat (MTX), Mycophenolat, Sulfasalazin | | | | | | |
 | DMARDs | sDMARDs - tsDMARDs | Tofacitinib, Baricitinib | JAK-Inhibitoren | | | | | |
 | DMARDs | bDMARDs - boDMARDs | Abatacept, Rituximab, Anakinra, Tocilizumab, TNF-Inhibitoren (siehe oben) | | | | | | |
