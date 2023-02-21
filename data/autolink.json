@@ -1527,6 +1527,10 @@
     "dc": "https://flexikon.doccheck.com/de/Hirudin",
     "wp": "https://de.wikipedia.org/wiki/Hirudin"
   },
+  "Hisfedin": {
+    "dc": "-",
+    "wp": "-"
+  },
   "Hydrochlorothiazid": {
     "dc": "https://flexikon.doccheck.com/de/Hydrochlorothiazid",
     "wp": "https://de.wikipedia.org/wiki/Hydrochlorothiazid"
@@ -2351,6 +2355,10 @@
     "dc": "https://flexikon.doccheck.com/de/Paroxetin",
     "wp": "https://de.wikipedia.org/wiki/Paroxetin"
   },
+  "Pegloticase": {
+    "dc": "https://flexikon.doccheck.com/de/Pegloticase",
+    "wp": "-"
+  },
   "Penbutolol": {
     "dc": "-",
     "wp": "-"
@@ -2602,6 +2610,10 @@
   "Ranolazin": {
     "dc": "https://flexikon.doccheck.com/de/Ranolazin",
     "wp": "https://de.wikipedia.org/wiki/Ranolazin"
+  },
+  "Rasburicase": {
+    "dc": "https://flexikon.doccheck.com/de/Rasburicase",
+    "wp": "https://de.wikipedia.org/wiki/Rasburicase"
   },
   "Reboxetin": {
     "dc": "https://flexikon.doccheck.com/de/Reboxetin",
@@ -2906,6 +2918,10 @@
   "Terbutalin": {
     "dc": "https://flexikon.doccheck.com/de/Terbutalin",
     "wp": "https://de.wikipedia.org/wiki/Terbutalin"
+  },
+  "Terfenadin": {
+    "dc": "https://flexikon.doccheck.com/de/Terfenadin",
+    "wp": "https://de.wikipedia.org/wiki/Terfenadin"
   },
   "Teriparatid": {
     "dc": "https://flexikon.doccheck.com/de/Teriparatid",

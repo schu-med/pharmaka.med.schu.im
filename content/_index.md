@@ -14,10 +14,10 @@ layout = "indexpage-fluid"
 | System | Kategorie | Wirkstoff | Wirkung | Indikation | UAW | Wechselwirkungen / Resistenzmechanismus | Kontraindikation | Sonstiges |
 |--------|-----------|-----------|---------|------------|-----|------------------|------------------|-----------|
 | Thrombozyten-Aggregationshemmer | COX Inhibitor | Acetylsalicylsäure (ASS) | Irreversible COX-1/COX-2 Hemmung | ACS, Prophylaxe ACS, Prophylaxe TIA, Arterielle Intervention, pAVK, Langzeittherapie nach Stent OP | Blutungsneigung, GI, Ulzera, Nephropathie, Reye-Syndrom | Ibuprofen | Kinder, letztes Trimon | |
-| Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist | Clopidogrel | Irreversible P2Y12 Hemmung, Prodrug, Wirkmaximum nach 4-6 Tagen, schneller Wirkeintritt durch Aufsättigung | ACS, Prophylaxe ACS, Prophylaxe TIA, Arterielle Intervention, pAVK | Blutungsrisiko (Leukopenien, TTP) | CYP2C19 Hemmung | | |
-| Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist | Prasugrel | Irreversible P2Y12 Hemmung, Prodrug, Wirkmaximum nach 4-6 Tagen, schneller Wirkeintritt durch Aufsättigung | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | bessere Wahl im Vergleich mit Ticagrelor |
-| Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist | Ticagrelor | Reversible P2Y12 Hemmung, schneller Wirkeintritt, schneller Wirkverlust | ACS, Prophylaxe ACS, TIA, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | |
-| Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist | Cangrelor | Reversible P2Y12 Hemmung, schneller Wirkeintritt, schneller Wirkverlust | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | |
+| Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist (Thienopyridine, P2Y12-Rezeptor-Antagonist) | Clopidogrel | Irreversible P2Y12 Hemmung, **Prodrug**, Wirkmaximum nach 4-6 Tagen, schneller Wirkeintritt durch Aufsättigung | ACS, Prophylaxe ACS, Prophylaxe TIA, Arterielle Intervention, pAVK | Blutungsrisiko (Leukopenien, TTP) | CYP2C19 Hemmung | | |
+| Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist (Thienopyridine, P2Y12-Rezeptor-Antagonist) | Prasugrel | Irreversible P2Y12 Hemmung, **Prodrug**, Wirkmaximum nach 4-6 Tagen, schneller Wirkeintritt durch Aufsättigung | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | bessere Wahl im Vergleich mit Ticagrelor |
+| Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist (Thienopyridine, P2Y12-Rezeptor-Antagonist) | Ticagrelor | Reversible P2Y12 Hemmung, **schneller Wirkeintritt**, schneller Wirkverlust | ACS, Prophylaxe ACS, TIA, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | |
+| Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist (Thienopyridine, P2Y12-Rezeptor-Antagonist) | Cangrelor | Reversible P2Y12 Hemmung, schneller Wirkeintritt, schneller Wirkverlust | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | |
 | Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist | Ticlopidin | | | | | | Heute überwiegend obsolet und teils nicht mehr zugelassen -> stattdessen Ticagrelor, Cangrelor |
 | Thrombozyten-Aggregationshemmer | GPIIb/IIIa Antagonisten | Abciximab | Fab-Fragment eines chimären monoklonalen Antikörpers gegen GPIIa/IIIb | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | |
 | Thrombozyten-Aggregationshemmer | GPIIb/IIIa Antagonisten | Tirofiban, Eptifibatid | Kompetitive reversible Hemmung von GPIIa/IIIb | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | NI | |
@@ -26,8 +26,8 @@ layout = "indexpage-fluid"
 | Thrombozyten-Aggregationshemmer | PAR1-Antagonisten (Protease-aktivierter Rezeptor, Thrombinrezeptor) | Vorapaxar | | pAVK, ACS (Sekundärprävention) | | | | |
 | Indirekte Antikoagulantien | Heparine | UFH | Steigert Antithrombin Affinität um etwa den Faktor 1000 -> Inaktivierung von hauptsächlich Gerinnungsfaktoren IIa und Xa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT (Heparin-induzierte Thrombozytopenie), Osteoporose | | HIT II | Antidot Protamin |
 | Indirekte Antikoagulantien | Heparine | NMH (bspw. Tinzaparin) | Komplexbildung mit Antithrombin -> Inaktivierung von Xa > IIa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT, Osteoporose | | HIT II | |
-| Indirekte Antikoagulantien | Heparine | Fondaparinux | Komplexbildung mit Antithrombin -> Inaktivierung von Xa | Thromboseprophylaxe, ACS | weniger | | HIT II | |
 | Indirekte Antikoagulantien | Heparine | Enoxaparin (Handelsname: Clexane) | Komplexbildung mit Antithrombin -> Hemmung von XIa, IXa, Xa und IIa | Thromboseprophylaxe, TVT, ACS | Blutungsrisiko, LI, Thrombozytopenie | | | |
+| Indirekte Antikoagulantien | Heparinoide | Fondaparinux | Komplexbildung mit Antithrombin -> Inaktivierung von Xa | Thromboseprophylaxe, ACS | weniger | | HIT II | |
 | Indirekte Antikoagulantien | Heparinoide | Danaparoid | Komplexbildung mit Antithrombin -> Inaktivierung von Xa >> IIa | HIT II | | | | Kein Antidot verfügbar! |
 | Indirekte Antikoagulantien | Cumarine | Phenprocoumon (Handelsname: Marcumar), Acenocoumarol, Warfarin | Hemmung der Vitamin K abhängigen Gerinnungsfaktoren ("1972"), unselektiver kompetitiver Antagonist der Vitamin-K-Epoxid-Reduktase | Thrombosen, Embolien | Blutungsrisiko, Nekrosen, Allergien | **wird durch CYP3A4 und CYP2C9 abgebaut** -> viele Wechselwirkungen: Antazida ↓, Barbiturate ↓, Vit-K-haltige Nahrungsmittel ↓, AB ↓ | Schwangerschaft | Erfordert "Bridging" mit Heparin, da Cumarin Wirkung verzögert und mit unterschiedlichen t1/2 Zeiten für Faktoren "1972" und Protein C/S einhergeht. |
 | Direkte Antikoagulantien | Neue orale Antikoagulantien (NOAK) bzw. Direkte orale Antikoagulantien (DOAK) | Dabigatran | Direkter Thrombin-Inhibitor, reversibel und kompetitiv | TVT (Tiefe Venenthrombose), Vorhofflimmern | Blutungsrisiko, LI, NI | | | Antidot: Idarucizumab |
@@ -146,7 +146,7 @@ layout = "indexpage-fluid"
 | Benzodiazepine | langanhaltend | Chloridazepoxid, Clobazam, Nitrazepam, Tetrazepam (seit 2013 nicht mehr zugelassen) | | | | | | |
 | Benzodiazepine | langanhaltend | Clotiazepam, Flurazepam | lange HWZ der Metabolite | | | | | |
 | Benzodiazepine | langanhaltend | Clonazepam | antikonvulsiv | | | | | |
-| Benzodiazepine | langanhaltend | Diazepam (Valium) | antikonvulsiv | | | Cimetidin (Antihistaminikum) erhöht Diazepam Plasmaspiegel | | |
+| Benzodiazepine | langanhaltend | Diazepam (Handelsname: Valium) | antikonvulsiv | | | Cimetidin (Antihistaminikum) erhöht Diazepam Plasmaspiegel | | |
 | Benzodiazepine | Z-Substanzen | Zolpidem, Zopiclon, Zaleplon | binden nicht an alpha2 Rezeptorsubtyp -> nicht anxiolytisch oder muskelrelaxierend, kurze HWZ, geringes Abhängigkeitspotential | Schlafstörungen | | | | |
 | Benzodiazepin-Antidot | | Flumazenil | Antagonist der Benzodiazepin-Bindungsstelle des GABA-Rezeptors | Narkosebeendigung, **Antidot bei Benzodiazepin-Überdosierung** (e.g. durch Midazolam) | | | | |
 | Lithium | | Lithium | "Mood Stabilizer", Alkalimetall, wird als Verbindung verabreicht (e.g. Carbonat), Wirkmechanismus nicht vollumfänglich geklärt | Manie Akuttherapie, Phaseprophylaxe, Augmentation von Antidepressiva, Lanzeitprohylaxe | Müdigkeit, Lethargie, Tremor, GI, Polyurie, Dehydration, Nephrotoxizität, Gewichtszunahme, Euthyreotes Struma, **geringe therapeutische Breite** | | | |
@@ -328,7 +328,7 @@ layout = "indexpage-fluid"
 | Säurehemmer | Protein-Komplexbildner | Sucralfat | bildet Komplexverbindung auf Ulcusoberfläche, verhindert Angriff von HCL; Achtung: zur Ulcus-Prophylaxe nicht geeignet (-> PPI) | | Obstipation | Tetrazyklin-Komplexe nicht resorbierbar | NI, Enzephalopathie | |
 | Säurehemmer | | Misoprostol (Handelsname: Arthotec) | PGE2-Analogon, hemmt HCL-Sekretion, verstärkt Schleimsekretion | | Durchfälle, Magen- und Darmkrämpfe | | Schwangerschaft | |
 | Säurehemmer | | Proglumid | Gastrinantagonist (therapeutischer Wert umstritten) | | | | | |
-| Antihistaminikum | H1-Antagonist | Clemastin (Handelsname: Tavegil), Loratadin (Handelsname: Lisino) | | Allergien (e.g. allergische Rhinits oder Konjunktivitis) | QT-Zeit-Verkängerung | | | |
+| Antihistaminikum | H1-Rezeptor-Antagonist | Clemastin (Handelsname: Tavegil), Loratadin (Handelsname: Lisino), Terfenadin (Handelsname: Hisfedin) | | Allergien (e.g. allergische Rhinits oder Konjunktivitis) | QT-Zeit-Verkängerung | | | |
 | Antihistaminikum | H3-Antagonist | Pitolisant | | Narkolepsie | | | | |
 | Antiemetika | H1 Inverser Agonist | Diphenhydramin | | | QT-Zeit-Verlängerung | | | |
 | Antiemetika | H1-Blocker | Dimenhydrinat (Handelsname: Vomex) | | | | | | |
@@ -419,6 +419,7 @@ layout = "indexpage-fluid"
 | Calcimimetikum | | Cinacalcet | | Hyperkalzämie, pHPT | | | | |
 | Parathormon-Fragment | | Teriparatid | osteoanabole Wirkung, da es die Bildung und Aktivität von Osteoblasten anregt | Osteoporose | | | | |
 | Urikostatikum | | Allopurinol, Febuxostat | unterbindet den Abbau von Purinen zu Harnsäure durch Hemmung des Enzyms Xanthinoxidase | | | | WW mit anderen Purin-Antimetaboliten (bspw. Azathioprin) | |
+| Urikolytika | | Rasburicase, Pegloticase | Umwandlung Harnsäure -> Allantoin | | | | | |
 | DMARDs (disease-modifying anti-rheumatic drug) | sDMARDs - csDMARDs | Hydroxychloroquin, Leflunomid, Methotrexat (MTX), Mycophenolat, Sulfasalazin | | | | | | |
 | DMARDs | sDMARDs - tsDMARDs | Tofacitinib, Baricitinib | JAK-Inhibitoren | | | | | |
 | DMARDs | bDMARDs - boDMARDs | Abatacept, Rituximab, Anakinra, Tocilizumab, TNF-Inhibitoren (siehe oben) | | | | | | |
