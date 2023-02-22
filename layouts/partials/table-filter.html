@@ -24,7 +24,16 @@ function focusFilter(e) {
   filterInput.scrollIntoView();
 }
 
-(function () {
+function focusOut() {
+  const filter = document.querySelector('#filter').value;
+  // Set `filter` query param and update history accordingly
+  const searchParams = new URLSearchParams(window.location.search)
+  searchParams.set('filter', filter);
+  const newPathname = window.location.pathname + '?' + searchParams.toString();
+  history.pushState(null, '', newPathname);
+}
+
+window.onload = () => {
   const listener = new window.keypress.Listener();
 
   const combos = [
@@ -33,7 +42,19 @@ function focusFilter(e) {
   ];
 
   listener.register_many(combos);
-})();
+
+  const filterEl = document.getElementById('filter');
+  filterEl.addEventListener('focusout', (event) => {
+    focusOut();
+  });
+
+  const searchParams = new URLSearchParams(window.location.search)
+  const filter = searchParams.get('filter');
+  if (filter && filter !== '') {
+    filterEl.value = filter;
+    tableFilter();
+  }
+};
 </script>
 
 <div class="row mb-2">
