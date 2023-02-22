@@ -91,6 +91,10 @@
     "dc": "https://flexikon.doccheck.com/de/5-Aminosalicyls\u00e4ure",
     "wp": "https://de.wikipedia.org/wiki/5-Aminosalicyls\u00e4ure"
   },
+  "5-FU": {
+    "dc": "https://flexikon.doccheck.com/de/5-FU",
+    "wp": "https://de.wikipedia.org/wiki/5-FU"
+  },
   "5-Flucytosin": {
     "dc": "https://flexikon.doccheck.com/de/5-Flucytosin",
     "wp": "https://de.wikipedia.org/wiki/5-Flucytosin"
@@ -355,6 +359,10 @@
     "dc": "https://flexikon.doccheck.com/de/Atenolol",
     "wp": "https://de.wikipedia.org/wiki/Atenolol"
   },
+  "Atezolizumab": {
+    "dc": "https://flexikon.doccheck.com/de/Atezolizumab",
+    "wp": "https://de.wikipedia.org/wiki/Atezolizumab"
+  },
   "Ativan": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Ativan"
@@ -603,6 +611,10 @@
     "dc": "-",
     "wp": "-"
   },
+  "Capecitabin": {
+    "dc": "https://flexikon.doccheck.com/de/Capecitabin",
+    "wp": "https://de.wikipedia.org/wiki/Capecitabin"
+  },
   "Capsaicin": {
     "dc": "https://flexikon.doccheck.com/de/Capsaicin",
     "wp": "https://de.wikipedia.org/wiki/Capsaicin"
@@ -710,6 +722,10 @@
   "Cerivastatin": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Cerivastatin"
+  },
+  "Cetuximab": {
+    "dc": "https://flexikon.doccheck.com/de/Cetuximab",
+    "wp": "https://de.wikipedia.org/wiki/Cetuximab"
   },
   "Chloralhydrat": {
     "dc": "https://flexikon.doccheck.com/de/Chloralhydrat",
@@ -1127,6 +1143,10 @@
     "dc": "https://flexikon.doccheck.com/de/Duloxetin",
     "wp": "https://de.wikipedia.org/wiki/Duloxetin"
   },
+  "Durvalumab": {
+    "dc": "https://flexikon.doccheck.com/de/Durvalumab",
+    "wp": "https://de.wikipedia.org/wiki/Durvalumab"
+  },
   "Dutasterid": {
     "dc": "https://flexikon.doccheck.com/de/Dutasterid",
     "wp": "https://de.wikipedia.org/wiki/Dutasterid"
@@ -1226,6 +1246,10 @@
   "Estramustin": {
     "dc": "https://flexikon.doccheck.com/de/Estramustin",
     "wp": "https://de.wikipedia.org/wiki/Estramustin"
+  },
+  "Etacryns\u00e4ure": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Etacryns\u00e4ure"
   },
   "Etanercept": {
     "dc": "https://flexikon.doccheck.com/de/Etanercept",
@@ -1599,6 +1623,10 @@
     "dc": "https://flexikon.doccheck.com/de/Imipramin",
     "wp": "https://de.wikipedia.org/wiki/Imipramin"
   },
+  "Inclisiran": {
+    "dc": "https://flexikon.doccheck.com/de/Inclisiran",
+    "wp": "https://de.wikipedia.org/wiki/Inclisiran"
+  },
   "Indapamid": {
     "dc": "https://flexikon.doccheck.com/de/Indapamid",
     "wp": "https://de.wikipedia.org/wiki/Indapamid"
@@ -1630,6 +1658,10 @@
   "Interferon-alpha": {
     "dc": "https://flexikon.doccheck.com/de/Interferon-alpha",
     "wp": "https://de.wikipedia.org/wiki/Interferon-alpha"
+  },
+  "Ipilimumab": {
+    "dc": "https://flexikon.doccheck.com/de/Ipilimumab",
+    "wp": "https://de.wikipedia.org/wiki/Ipilimumab"
   },
   "Ipratropium": {
     "dc": "https://flexikon.doccheck.com/de/Ipratropium",
@@ -2211,6 +2243,10 @@
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Nitrosoharnstoffe"
   },
+  "Nivolumab": {
+    "dc": "https://flexikon.doccheck.com/de/Nivolumab",
+    "wp": "https://de.wikipedia.org/wiki/Nivolumab"
+  },
   "Nizatidin": {
     "dc": "-",
     "wp": "-"
@@ -2275,6 +2311,10 @@
     "dc": "https://flexikon.doccheck.com/de/Osimertinib",
     "wp": "https://de.wikipedia.org/wiki/Osimertinib"
   },
+  "Oxaceprol": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Oxaceprol"
+  },
   "Oxacillin": {
     "dc": "https://flexikon.doccheck.com/de/Oxacillin",
     "wp": "https://de.wikipedia.org/wiki/Oxacillin"
@@ -2319,6 +2359,10 @@
     "dc": "https://flexikon.doccheck.com/de/Paclitaxel",
     "wp": "https://de.wikipedia.org/wiki/Paclitaxel"
   },
+  "Palbociclib": {
+    "dc": "https://flexikon.doccheck.com/de/Palbociclib",
+    "wp": "https://de.wikipedia.org/wiki/Palbociclib"
+  },
   "Palladon": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Palladon"
@@ -2358,6 +2402,10 @@
   "Pegloticase": {
     "dc": "https://flexikon.doccheck.com/de/Pegloticase",
     "wp": "-"
+  },
+  "Pembrolizumab": {
+    "dc": "https://flexikon.doccheck.com/de/Pembrolizumab",
+    "wp": "https://de.wikipedia.org/wiki/Pembrolizumab"
   },
   "Penbutolol": {
     "dc": "-",
@@ -2905,6 +2953,10 @@
   },
   "Tenofovirdisoproxilfumarat": {
     "dc": "https://flexikon.doccheck.com/de/Tenofovirdisoproxilfumarat",
+    "wp": "-"
+  },
+  "Teprotumumab": {
+    "dc": "https://flexikon.doccheck.com/de/Teprotumumab",
     "wp": "-"
   },
   "Terazosin": {
