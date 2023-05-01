@@ -127,6 +127,7 @@ layout = "indexpage-fluid"
 | Selektive Serotonin-Rückaufname-Inhibitoren (SSRI) | | Fluoxetin, Paroxetin, Citalopram, Escitalopram, Sertralin, Fluvoxamin | Antriebssteigernd, Unruhe, größere therapeutische Breite (im Vergleich mit NSMRI oben) | Fluoxetin: Zwangsstörungen | Übelkeit, Erregung / Unruhe, Schlafstörung, Suizidalität, serotonerges Syndrom, teils **QT-Zeit-Verlängerung** | | | |
 | Selektive Noradrenalin-Rückaufname-Inhibitoren (SNRI) | | Reboxetin | | | | | | |
 | Selektive Serotonin- und Noradrenalin-Rückaufname-Inhibitoren (SSNRI) | | Venlafaxin, Duloxetin | Antriebssteigernd | | | | | |
+| Noradrenalin- und Dopamin-Wiederaufnahmehemmer (NDRI) | | Bupropion | | | | | | |
 | alpha2-Antagonisten / Tetrazyklische Antidepressiva | | Mianserin, Mirtazapin | Hemmung der NA-Wiederaufnahme im ZNS | | | | | |
 | Monoaminooxidase-Hemmer (MAO-Hemmer) | | Moclobemid | reversibler MAO-Hemmer, antriebssteigernd | | Schwindel, Agitiertheit, Blutdruckschwankunen (Tranylcypromin-Abbau) | | Kombination mit anderen Antidepressiva | |
 | Monoaminooxidase-Hemmer (MAO-Hemmer) | | Tranylcypromin | irreversibler MAO-Hemmer, antriebssteigernd | | Schwindel, Agitiertheit, Blutdruckschwankunen (Tranylcypromin-Abbau) | | Kombination mit anderen Antidepressiva | |
