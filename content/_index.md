@@ -131,7 +131,7 @@ layout = "indexpage-fluid"
 | alpha2-Antagonisten / Tetrazyklische Antidepressiva | | Mianserin, Mirtazapin | Hemmung der NA-Wiederaufnahme im ZNS | | | | | |
 | Monoaminooxidase-Hemmer (MAO-Hemmer) | | Moclobemid | reversibler MAO-Hemmer, antriebssteigernd | | Schwindel, Agitiertheit, Blutdruckschwankunen (Tranylcypromin-Abbau) | | Kombination mit anderen Antidepressiva | |
 | Monoaminooxidase-Hemmer (MAO-Hemmer) | | Tranylcypromin | irreversibler MAO-Hemmer, antriebssteigernd | | Schwindel, Agitiertheit, Blutdruckschwankunen (Tranylcypromin-Abbau) | | Kombination mit anderen Antidepressiva | |
-| Antipsychotika (Neuroleptikum) | Phenothiazine | Fluphenazin, Perphenazin | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
+| Antipsychotika (Neuroleptikum) | Phenothiazine | Fluphenazin, Perphenazin, Perazin | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
 | Antipsychotika (Neuroleptikum) | Thioxanthene | Flupentixol | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
 | Antipsychotika (Neuroleptikum) | Butyrophenone | Haloperidol | hochpotent, Dopamin-D2-Antagonist | Schizophrenie, (manische) Psychosen, Erregung | oft schwere motorische NW, EPS | | | |
 | Antipsychotika (Neuroleptikum) | | Levomepromazin, Thioridazin, Chlorprothixen, Sulpirid | niederpotent, Dopamin-D2-Antagonist | | (EPS) | | | |
@@ -400,6 +400,8 @@ layout = "indexpage-fluid"
 | Lokalanästhetika | Kokain | Procain | wirkt bis zu 30-60 Minuten | | | | | |
 | Lokalanästhetika | Kokain | Lidocain | wirkt bis zu 60-120 Minuten, blockiert Na-Kanäle | | | | | |
 | Lokalanästhetika | Kokain | Bupivacain | wirkt bis zu 400 Minuten, blockiert Na-Kanäle | | | | | |
+| Anästhetikum | Barbiturate | Thiopental | kurzwirksam | Sedierung | | | | |
+| Anästhetikum | Barbiturate | Phenobarbital | kurzwirksam | Sedierung, Krampfanfälle | | | | |
 | Anästhetikum | | Etomidat | hypnotisch | | | | | |
 | Anästhetikum | | Propofol | wirkt nur hypnotisch, nicht analgetisch | | | | | |
 | Anästhetikum | | Ketamin | Antagonismus am NMDA-Rezeptor (nicht-kompetitive Hemmung); auch analgetische Wirkkomponente | | | | | |
