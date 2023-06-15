@@ -259,6 +259,7 @@ layout = "indexpage-fluid"
 | Antimykotika | Glukansynthese Inhibitoren - **Echinocandine** | Caspofungin, Anidulafungin, Micafungin | | | | | | |
 | Antimykotika | DNA-, Proteinsyntheseinhibition | 5-Flucytosin (Handelsname: Ancotil) | | | | | | |
 | Antimykotika | Multiple Angriffspunkte | Ciclopirox (Batrafen; ein Pyridon Derivat) | | Dermatomykosen, vaginale Pilzinfektionen | | | | |
+| Antimykotika | | Griseofulvin | | | | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Aciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Herpesviren: Herpes-simplex-Virus und Varizella-Zoster-Virus | selten: NI, allergische Reaktionen | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ganciclovir | Kettenabbruch, Fixierung der viruseigenen DNS-Polymerase | Cytomegalievirus: Erkrankung und Prävention, Herpes-simplex-Keratitis | diverse und teils schwere Nebenwirkungen: GI, Blutbildveränderungen, LI, NI, ... | | | |
 | Virostatikum | DNA-Syntheseinhibition (Nukleosidanaloga) | Ribavirin | dadurch Hemmung der Polymerase | Hepatitis C/E | | | | |
