@@ -293,7 +293,7 @@ layout = "indexpage-fluid"
 | Immunsuppressiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
 | Immunsuppressiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid (Handelsname: Thalidomide Celgene; früher Contergan), Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom, Lepra, Haut- und Autoimmunkrankheiten | | | | |
 | Zytostatika | Platinverbindungen | Cisplatin, Carboplatin, Oxaliplatin | | | | | | |
-| Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | Myelotixizität | | | |
+| Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | Myelotoxizität | | | |
 | Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat (aka MTX) | Hemmung der Thymidin-Synthese | | **Agranulozytose**, GI, kardio-, hepato-, nephrotoxisch, ... | ASS und andere NSAR/NSAID konkurrieren mit MTX um renalen Transporter -> verzögerte Ausscheidung | | |
 | Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Vinca-Alkaloide (Vincristin, Vinblastin, Vindesin, Vinorelbin, Vinflunin), Estramustin, Ixabepilon, Eribulin | | Neurotoxizität, Myelosuppression | | | | | |
 | Zytostatika | Mikrotubuli-Inhibitoren (MT-Inhibitoren) | Taxane: Paclitaxel, Docetaxel, Cabazitaxel | | Myelosuppression, Neurotoxizität | | | | |
