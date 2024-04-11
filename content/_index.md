@@ -144,7 +144,7 @@ layout = "indexpage-fluid"
 | Antidepressiva | | Brexanolon (aka Allopregnanolon) | | Postpartale Depression | | | | In den USA aber nicht Deutschland zugelassen |
 | Antidepressiva | Johanniskraut (Hypericum perforatum) | Hyperforin, Hypericin | Hyperforin: Hemmung der Wiederaufnahme von NA, DA, 5-HT, GABA, Glutamat; Hypericin: MAO-Hemmung | | | Enzyminduktion von CYP3A4 | | |
 | Benzodiazepine (positive allosterische Modulation von GABA-Rezeptoren -> erhöhte Öffnungswahrscheinlichkeit, verstärkte Wirkung von GABA (Chlorid-Einstrom -> Hyperpolarisation)) | kurzanhaltend | Brotizolam, Triazolam | | Anästhesiologie, Schlafstörung | | | | |
-| Benzodiazepine | kurzanhaltend | Midazolam (Dormicum) | | Anästhesiologie, Schlafstörung | Atemdepression | | | |
+| Benzodiazepine | kurzanhaltend | Midazolam (Handelsname: Dormicum) | | Anästhesiologie, Schlafstörung | Atemdepression | | | |
 | Benzodiazepine | mittellanganhaltend | Bromazepam, Flunitrazepam, Lormetazepam, Termazepam | | | | | | |
 | Benzodiazepine | mittellanganhaltend | Alprazolam | | anxiolytisch | | | | |
 | Benzodiazepine | mittellanganhaltend | Lorazepam (Handelsnamen: Ativan, Tavor) | | anxiolytisch, u.a. Therapie Serotonerges Syndrom, Notfallbehandlung Status epilepticus | | | | |
