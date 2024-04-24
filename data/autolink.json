@@ -1527,6 +1527,10 @@
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Guanethidin"
   },
+  "Haldol": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Haldol"
+  },
   "Haloperidol": {
     "dc": "https://flexikon.doccheck.com/de/Haloperidol",
     "wp": "https://de.wikipedia.org/wiki/Haloperidol"
@@ -2406,6 +2410,10 @@
   "Paroxetin": {
     "dc": "https://flexikon.doccheck.com/de/Paroxetin",
     "wp": "https://de.wikipedia.org/wiki/Paroxetin"
+  },
+  "Paspertin": {
+    "dc": "https://flexikon.doccheck.com/de/Paspertin",
+    "wp": "https://de.wikipedia.org/wiki/Paspertin"
   },
   "Pegloticase": {
     "dc": "https://flexikon.doccheck.com/de/Pegloticase",
