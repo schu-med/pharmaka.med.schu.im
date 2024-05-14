@@ -1279,6 +1279,10 @@
     "dc": "https://flexikon.doccheck.com/de/Etoposid",
     "wp": "https://de.wikipedia.org/wiki/Etoposid"
   },
+  "Everolimus": {
+    "dc": "https://flexikon.doccheck.com/de/Everolimus",
+    "wp": "https://de.wikipedia.org/wiki/Everolimus"
+  },
   "Evolocumab": {
     "dc": "https://flexikon.doccheck.com/de/Evolocumab",
     "wp": "https://de.wikipedia.org/wiki/Evolocumab"
@@ -1510,6 +1514,10 @@
   "Glycerintrinitrat": {
     "dc": "https://flexikon.doccheck.com/de/Glycerintrinitrat",
     "wp": "https://de.wikipedia.org/wiki/Glycerintrinitrat"
+  },
+  "Glycylcycline": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Glycylcycline"
   },
   "Granisetron": {
     "dc": "https://flexikon.doccheck.com/de/Granisetron",
@@ -2679,6 +2687,10 @@
     "dc": "https://flexikon.doccheck.com/de/Ranolazin",
     "wp": "https://de.wikipedia.org/wiki/Ranolazin"
   },
+  "Rapamycin": {
+    "dc": "https://flexikon.doccheck.com/de/Rapamycin",
+    "wp": "https://de.wikipedia.org/wiki/Rapamycin"
+  },
   "Rasburicase": {
     "dc": "https://flexikon.doccheck.com/de/Rasburicase",
     "wp": "https://de.wikipedia.org/wiki/Rasburicase"
@@ -2826,6 +2838,10 @@
   "Simvastatin": {
     "dc": "https://flexikon.doccheck.com/de/Simvastatin",
     "wp": "https://de.wikipedia.org/wiki/Simvastatin"
+  },
+  "Sirolimus": {
+    "dc": "https://flexikon.doccheck.com/de/Sirolimus",
+    "wp": "https://de.wikipedia.org/wiki/Sirolimus"
   },
   "Sitagliptin": {
     "dc": "https://flexikon.doccheck.com/de/Sitagliptin",

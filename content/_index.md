@@ -238,7 +238,7 @@ layout = "indexpage-fluid"
 | Antibiotika | Polypeptide | Colistin, Polymyxin B | Schädigung der Membran von G- Bakterien, bakterizid (primär) | G- | Neurotoxizität, Nephrotoxizität, allergische Reaktionen | Res.: Veränderung von LPS (durch MCR-1) in der äußeren Membran | | Reserve-AB für Pseudomonas- und Klebsellien-Infekte |
 | Antibiotika | Oxazolidinone | Linezolid | Hemmung der Bildung des Initiationskomplex, bakteriostatisch | G+ | GI, Hepatotoxizität  | Res.: Veränderung der 23S-rRNA | | Reserve-AB für MRSA- und VRE-Infekte |
 | Antibiotika | Aminoglykoside | Gentamicin (aka Gentamycin), Amikacin, Tobramycin, Paromomycin, Streptomycin | Bindung an 30S-UE, bakterizid (primär) | (G+), G-, **nur Aerobier** | Nephrotoxizität, Ototoxizität | Res.: Veränderung des AB (Acetylierung) | | bei lebensbedrohlichen Infektionen in Kombination mit beta-Lactam-AB |
-| Antibiotika | Tetracycline | Doxycyclin, Minocyclin, Tigecyclin (Tetracyclin-Derivat), Oxytetracyclin | Bindung an 30S-UE, bakteriostatisch | (G+), (G-), atypische (Mykoplasmen, Chlamydien, Legionellen) | GI, Phototoxizität, Einlagerung in Knochen und Zähne, Hepato- / Nephrotoxizität | Res.: Aktiver Auswärtstransport, Veränderung des 30S-Ribosoms | Schwangerschaft, Stillzeit, **Kinder bis zum 8. Lebensjahr**, Leber- / Niereninsuffizienz | bei Atemwegsinfektionen, Urogenitalinfektionen, Borreliose, Cholera; auch off-label als Malaria-Prophylaxe |
+| Antibiotika | Tetracycline | Doxycyclin, Minocyclin, Tigecyclin (Glycylcycline, Tetracyclin-Derivat), Oxytetracyclin | Bindung an 30S-UE, bakteriostatisch | (G+), (G-), atypische (Mykoplasmen, Chlamydien, Legionellen) | GI, Phototoxizität, Einlagerung in Knochen und Zähne, Hepato- / Nephrotoxizität | Res.: Aktiver Auswärtstransport, Veränderung des 30S-Ribosoms | Schwangerschaft, Stillzeit, **Kinder bis zum 8. Lebensjahr**, Leber- / Niereninsuffizienz | bei Atemwegsinfektionen, Urogenitalinfektionen, Borreliose, Cholera; auch off-label als Malaria-Prophylaxe |
 | Antibiotika | Amphenicole | Chloramphenicol | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+, G-, Aa, atypische | Knochenmarksschädigung, Neurotoxizität | Veränderung des AB | | Reserve-AB für lebensbedrohliche Erkrankungen; auch Reserve wegen Toxizität |
 | Antibiotika | Makrolide | Erythromycin, Clarithromycin, Azithromycin, Roxithromycin, Spiramycin | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | G+ Kokken und Stäbchen, (G- Kokken), atypische | GI, Hepatotoxizität, **QT-Zeit-Verlängerung** | **CYP3A4 Hemmung** | | |
 | Antibiotika | Lincosamide | Clindamycin | Proteinsynthesehemmstoff, Bindung an 50S-UE, bakteriostatisch | Grampositive Kokken, Anaerobier; Osteomyelitis, Spondylodiszitis, Infektionen der Haut und Weichteile (bspw. kutane Abszesse) | GI, pseudomembranöse Colitis, Osteomyelitis (Clindamycin **erreicht hohe Konzentrationen im Knochen**) | Methylierung der 23S-rRNA, aktiver Auswärtstransport | | |
@@ -275,7 +275,7 @@ layout = "indexpage-fluid"
 | Zytokine | Interferone | Interferon-alpha (IFN-alpha) | Bindet an Interferon-Rezeptor (IFNR) und induziert Transkription versch. antiviraler Gene | Hepatitis B und C, malignes Melanom | | | | Interferon heute kein Therapiestandard mehr |
 | Antiprotozoikum | | Artesunat | | Malaria tropica (Plasmodium falciparum) | | | | |
 | Antiprotozoikum | | Melarsoprol, Suramin, Nifurtimox, Benznidazol | | | | | | |
-| Antiparasitika | | Pyrimethamin | | Malaria, Toxoplasmose | | | | |
+| Antiparasitika | | Pyrimethamin | | Malaria, Toxoplasmose (in Kombination mit Sulfonamid) | | | | |
 | Antiparasitika | | Ivermectin | | Strongyloides Befall | | | | |
 | Antihelmintika | Benzimidazolcarbamate | Albendazol, Mebendazol | | | | | | |
 | Antihelmintika | Piperazinderivat | Diethylcarbamazin | | | | | | |
@@ -292,6 +292,7 @@ layout = "indexpage-fluid"
 | Immunsuppressiva | Calcineurin-Inhibitoren | Ciclosporin (Cyclosporin A), Tacrolimus | Hemmung der u.a. IL-2 Synthese | | | | | |
 | Immunsuppressiva | Mycophenolat | Mycophenolat-Mofetil | Hemmung der Purinsynthese -> Hemmung der B- und T-Zell-Proliferation | Hemmung/Prophylaxe von akuten Abwehrreaktionen | | | | |
 | Immunsuppressiva | Piperidindione (Barbiturat-Abwandlungen) | Thalidomid (Handelsname: Thalidomide Celgene; früher Contergan), Lenalidomid, Pomalidomid | beruhigend, schlaffördernd, entzündungshemmend, hemmt Tumorwachstum, induziert Angiogenese | multiples Myelom, Lepra, Haut- und Autoimmunkrankheiten | | | | |
+| Immunsuppressiva | | Sirolimus (aka Rapamycin), Everolimus | | | | | | |
 | Zytostatika | Platinverbindungen | Cisplatin, Carboplatin, Oxaliplatin | | | | | | |
 | Zytostatika | Oxazaphosphorine / Alkylantien | Cyclophosphamid | Alkylierung von DNA/RNA -> Vernetzung und Strangbrüche -> DNA-Synthese gestört | | Myelotoxizität | | | |
 | Zytostatika | Folsäure-Antagonisten, DMARD | Methotrexat (aka MTX) | Hemmung der Thymidin-Synthese | | **Agranulozytose**, GI, kardio-, hepato-, nephrotoxisch, ... | ASS und andere NSAR/NSAID konkurrieren mit MTX um renalen Transporter -> verzögerte Ausscheidung | | |
