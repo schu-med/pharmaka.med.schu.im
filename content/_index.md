@@ -21,7 +21,7 @@ layout = "indexpage-fluid"
 | Thrombozyten-Aggregationshemmer | ADP Rezeptorantagonist | Ticlopidin | | | | | | Heute überwiegend obsolet und teils nicht mehr zugelassen -> stattdessen Ticagrelor, Cangrelor |
 | Thrombozyten-Aggregationshemmer | GPIIb/IIIa Antagonisten | Abciximab | Fab-Fragment eines chimären monoklonalen Antikörpers gegen GPIIa/IIIb | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | | |
 | Thrombozyten-Aggregationshemmer | GPIIb/IIIa Antagonisten | Tirofiban, Eptifibatid | Kompetitive reversible Hemmung von GPIIa/IIIb | ACS, Arterielle Intervention | Blutungsrisiko (Leukopenien, TTP) | | NI | |
-| Thrombozyten-Aggregationshemmer | PDE-Hemmer | Dipirydamol | PDE-Hemmung und Adenosintransporter-Block | TIA | | | | in Kombination mit ASS |
+| Thrombozyten-Aggregationshemmer | PDE-Hemmer | Dipyridamol | PDE-Hemmung und Adenosintransporter-Block | TIA | | | | in Kombination mit ASS |
 | Thrombozyten-Aggregationshemmer | PDE-Hemmer | Cilostazol | PDE-Hemmung | pAVK | | | | |
 | Thrombozyten-Aggregationshemmer | PAR1-Antagonisten (Protease-aktivierter Rezeptor, Thrombinrezeptor) | Vorapaxar | | pAVK, ACS (Sekundärprävention) | | | | |
 | Indirekte Antikoagulantien | Heparine | UFH | Steigert Antithrombin Affinität um etwa den Faktor 1000 -> Inaktivierung von hauptsächlich Gerinnungsfaktoren IIa und Xa | Thromboseprophylaxe, ACS, DIC, Dialyse | Blutungsrisiko, HIT (Heparin-induzierte Thrombozytopenie), Osteoporose | | HIT II | Antidot Protamin |
@@ -216,7 +216,7 @@ layout = "indexpage-fluid"
 | Antidiarrhoikum | Opioid | Loperamid | m-Agonist, nicht ZNS-gängig | Durchfall | Somnolenz, Obstipation, Übelkeit | | | |
 | Bradykininrezeptorantagonisten | | Icatibant | selektive und kompetitive Hemmung des Bradykinin-B2-Rezeptoren | Therapie des hereditärem Angioödem (HAE) | | | | |
 | Antibiotika | Penicilline (Benzylpenicilline) | Penicillin G und V | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G+ | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
-| Antibiotika | Penicilline (Isoxazolylpenicillin) | Oxacillin, Flucloxacillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | Staphylococcus aureus Infekte | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
+| Antibiotika | Penicilline (Isoxazolylpenicillin) | Oxacillin, Flucloxacillin, Dicloxacillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | Staphylococcus aureus Infekte | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Penicilline (Aminopenicillin) | Ampicillin, Amoxicillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | (G+), G- | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
 | Antibiotika | Penicilline (Amidinopenicillin) | Pivmecillinam, Mecillinam | | | | | | |
 | Antibiotika | Penicilline (Acylaminopenicillin) | Azlocillin, Piperacillin, Mezlocillin | beta-Lactman-Antibiotika, Hemmung der D-Ala-D-Ala-Transpeptidase (Mureinsynthese) | G-, Aa | allergische Rekationen, GI, Gerinnungsstörungen | Res.: Bildung von beta-Lactamasen | | |
@@ -412,6 +412,7 @@ layout = "indexpage-fluid"
 | Aldosteronanalogon | | Fludrocortison | bindet an Mineralkortikoidrezeptoren -> gesteigerte Reabsorption von Na+ und Cl- in Niere -> Blutvolumen und -druck Steigerung | Morbus Addison | | | | |
 | Vasodilatoren | | Minoxidil | antihypertonisch; enthält NO -> vasodilatierend; öffnet Kaliumkanäle | In Kombination mit Schleifendiuretika und beta-Blockern bei therapierefraktärer Hypertonie | | | | |
 | Vasodilatoren | | Nitroglycerin (Synonym: Glycerintrinitrat) | | | | | | |
+| Stickstoffmonoxiddonatoren / NO-Donator | | Molsidomin | | Angina Pectoris (nur in symptomfreien Intervall) | | | | |
 | Toxin | Zootoxin | Tetrodotoxin | Natriumkanalblocker, extrem starke Bindung -> Blockade des peripheren NS -> Atemstillstand, Blutdruckkrise | | | | | |
 | Toxin | Pilzgifte / Amatoxine | Amanitin | Blockiert Bildung von mRNA durch Blockade der RNA-Polymerase II | | | | | Nicht zu verwechseln mit Amantadin (Virostatikum) |
 | Toxin | | Botulinumtoxin (Botox) | Hemmung der Acetylcholin Freisetzung | | | | | |
@@ -424,7 +425,6 @@ layout = "indexpage-fluid"
 | Antihypertensiva | | Guanethidin | | | | | | |
 | Antihypertensiva | | Methyldopa | | | | | | |
 | Antihypertensiva | alpha1-Antagonist | Urapidil | | Akuttherapie hypertensiver Krisen, als Kombinationspräparat Langzeittherapie arterieller Hypertonie | | | | |
-| Stickstoffmonoxiddonatoren / NO-Donator | | Molsidomin | | Angina Pectoris | | | | |
 | NMDA-Rezeptor-Antagonist | | Memantin, Amantadin | | Alzheimer | | | | |
 | Schlafmittel | | Chloralhydrat | | | | | | |
 | Thyreostatikum | Thionamide | Thiamazol (aka Methimazol), Carbimazol, Propylthiouracil (PTU) | Hemmung der Synthese von Schilddrüsenhormonen | | | | | |

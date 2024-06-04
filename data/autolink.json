@@ -1011,6 +1011,10 @@
     "dc": "https://flexikon.doccheck.com/de/Diclofenac",
     "wp": "https://de.wikipedia.org/wiki/Diclofenac"
   },
+  "Dicloxacillin": {
+    "dc": "https://flexikon.doccheck.com/de/Dicloxacillin",
+    "wp": "https://de.wikipedia.org/wiki/Dicloxacillin"
+  },
   "Diethylcarbamazin": {
     "dc": "https://flexikon.doccheck.com/de/Diethylcarbamazin",
     "wp": "https://de.wikipedia.org/wiki/Diethylcarbamazin"
@@ -1074,6 +1078,10 @@
   "Dipirydamol": {
     "dc": "-",
     "wp": "-"
+  },
+  "Dipyridamol": {
+    "dc": "https://flexikon.doccheck.com/de/Dipyridamol",
+    "wp": "https://de.wikipedia.org/wiki/Dipyridamol"
   },
   "Disopyramid": {
     "dc": "https://flexikon.doccheck.com/de/Disopyramid",
