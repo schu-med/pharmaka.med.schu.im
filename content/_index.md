@@ -140,6 +140,7 @@ layout = "indexpage-fluid"
 | Atypische Antipsychotika | Trizyklische | Olanzapin | Dopamin- / Serotonin-Antagonist | | sehr starke Gewichtszunahme (da H1-Antagonist), (EPS) | | | |
 | Atypische Antipsychotika | Benzamide | Amisulprid | Dopamin- / Serotonin-Antagonist | | | | | |
 | Atypische Antipsychotika | | Aripiprazol | Dopamin- / Serotonin-Antagonist | | | | | |
+| Dopamin-Agonisten | | Cabergolin | | M. Parkinson, Hyperprolaktinämie, Prolaktinom | | | | |
 | Dopamin-Agonisten | | Bromocriptin | | | Malignes neuroleptisches Syndrom | | | |
 | Antidepressiva | | Brexanolon (aka Allopregnanolon) | | Postpartale Depression | | | | In den USA aber nicht Deutschland zugelassen |
 | Antidepressiva | Johanniskraut (Hypericum perforatum) | Hyperforin, Hypericin | Hyperforin: Hemmung der Wiederaufnahme von NA, DA, 5-HT, GABA, Glutamat; Hypericin: MAO-Hemmung | | | Enzyminduktion von CYP3A4 | | |
@@ -301,7 +302,7 @@ layout = "indexpage-fluid"
 | Zytostatika | Antimetaboliten | Mercaptopurin | Purinanaloga | Leukämien, Lymphome, Mamma-/Ovarialkarzinom | | | | |
 | Zytostatika | Antimetaboliten | 5-Fluorouracil (5-FU) | Pyrimidinanaloga, hemmt außerdem Thymidilat-Synthase | | | | | |
 | Zytostatika | Antimetaboliten | Capecitabin | 5-FU Prodrug | | | | | |
-| Zytostatika | Antimetaboliten | Gemcitabin | Pyrimidinanaloga | | | | | |
+| Zytostatika | Antimetaboliten | Gemcitabin | Pyrimidinanaloga | Pankreaskarzinom | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Thiotepa | | lokal bei Blasenkarzinom, Konditionierung vor Stammzelltransplantation | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Mitomycin C | | palliative Kombinationstherapie | | | | |
 | Zytostatika | N-Lost Abkömmlinge | Ifosfamid | | | | | | |
@@ -339,6 +340,7 @@ layout = "indexpage-fluid"
 | Säurehemmer | | Misoprostol (Handelsname: Arthotec) | PGE2-Analogon, hemmt HCL-Sekretion, verstärkt Schleimsekretion | | Durchfälle, Magen- und Darmkrämpfe | | Schwangerschaft | |
 | Säurehemmer | | Proglumid | Gastrinantagonist (therapeutischer Wert umstritten) | | | | | |
 | Antihistaminikum | H1-Rezeptor-Antagonist | Clemastin (Handelsname: Tavegil), Loratadin (Handelsname: Lisino), Terfenadin (Handelsname: Hisfedin) | | Allergien (e.g. allergische Rhinits oder Konjunktivitis) | QT-Zeit-Verkängerung | | | |
+| Antihistaminikum | H1-Antagonist (der 2. Generation vom Ethylendiamin-Typ) | Cetirizin | | | | | | |
 | Antihistaminikum | H3-Antagonist | Pitolisant | | Narkolepsie | | | | |
 | Antiemetika | H1 Inverser Agonist | Diphenhydramin | | | QT-Zeit-Verlängerung | | | |
 | Antiemetika | H1-Blocker | Dimenhydrinat (Handelsname: Vomex) | | | | | | |
