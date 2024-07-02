@@ -107,6 +107,14 @@
     "dc": "-",
     "wp": "-"
   },
+  "ATO": {
+    "dc": "-",
+    "wp": "-"
+  },
+  "ATRA": {
+    "dc": "-",
+    "wp": "-"
+  },
   "Abacavir": {
     "dc": "https://flexikon.doccheck.com/de/Abacavir",
     "wp": "https://de.wikipedia.org/wiki/Abacavir"
@@ -206,6 +214,10 @@
   "Alkylphosphate": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Alkylphosphate"
+  },
+  "All-trans-Retins\u00e4ure": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/All-trans-Retins\u00e4ure"
   },
   "Allopregnanolon": {
     "dc": "https://flexikon.doccheck.com/de/Allopregnanolon",
@@ -338,6 +350,10 @@
   "Aripiprazol": {
     "dc": "https://flexikon.doccheck.com/de/Aripiprazol",
     "wp": "https://de.wikipedia.org/wiki/Aripiprazol"
+  },
+  "Arsentrioxid": {
+    "dc": "https://flexikon.doccheck.com/de/Arsentrioxid",
+    "wp": "https://de.wikipedia.org/wiki/Arsentrioxid"
   },
   "Artesunat": {
     "dc": "https://flexikon.doccheck.com/de/Artesunat",
@@ -947,6 +963,10 @@
     "dc": "https://flexikon.doccheck.com/de/Dalfopristin",
     "wp": "-"
   },
+  "Dalteparin": {
+    "dc": "https://flexikon.doccheck.com/de/Dalteparin",
+    "wp": "https://de.wikipedia.org/wiki/Dalteparin"
+  },
   "Danaparoid": {
     "dc": "https://flexikon.doccheck.com/de/Danaparoid",
     "wp": "https://de.wikipedia.org/wiki/Danaparoid"
@@ -994,6 +1014,10 @@
   "Desirudin": {
     "dc": "https://flexikon.doccheck.com/de/Desirudin",
     "wp": "https://de.wikipedia.org/wiki/Desirudin"
+  },
+  "Desmopressin": {
+    "dc": "https://flexikon.doccheck.com/de/Desmopressin",
+    "wp": "https://de.wikipedia.org/wiki/Desmopressin"
   },
   "Desogestrel": {
     "dc": "https://flexikon.doccheck.com/de/Desogestrel",
@@ -1575,6 +1599,10 @@
     "dc": "-",
     "wp": "-"
   },
+  "Heparine": {
+    "dc": "-",
+    "wp": "-"
+  },
   "Herceptin": {
     "dc": "-",
     "wp": "https://de.wikipedia.org/wiki/Herceptin"
@@ -1607,13 +1635,25 @@
     "dc": "https://flexikon.doccheck.com/de/Hydroxocobalamin",
     "wp": "https://de.wikipedia.org/wiki/Hydroxocobalamin"
   },
+  "Hydroxycarbamid": {
+    "dc": "https://flexikon.doccheck.com/de/Hydroxycarbamid",
+    "wp": "https://de.wikipedia.org/wiki/Hydroxycarbamid"
+  },
   "Hydroxychloroquin": {
     "dc": "https://flexikon.doccheck.com/de/Hydroxychloroquin",
     "wp": "https://de.wikipedia.org/wiki/Hydroxychloroquin"
   },
+  "Hydroxyharnstoff": {
+    "dc": "https://flexikon.doccheck.com/de/Hydroxyharnstoff",
+    "wp": "https://de.wikipedia.org/wiki/Hydroxyharnstoff"
+  },
   "Hydroxyharnstoffe": {
     "dc": "-",
     "wp": "-"
+  },
+  "Hydroxyurea": {
+    "dc": "https://flexikon.doccheck.com/de/Hydroxyurea",
+    "wp": "https://de.wikipedia.org/wiki/Hydroxyurea"
   },
   "Hyperforin": {
     "dc": "-",
@@ -2238,6 +2278,10 @@
   "Niclosamid": {
     "dc": "https://flexikon.doccheck.com/de/Niclosamid",
     "wp": "https://de.wikipedia.org/wiki/Niclosamid"
+  },
+  "Niedermolekulare": {
+    "dc": "-",
+    "wp": "-"
   },
   "Nifedipin": {
     "dc": "https://flexikon.doccheck.com/de/Nifedipin",
@@ -3187,6 +3231,10 @@
     "dc": "https://flexikon.doccheck.com/de/Trastuzumab",
     "wp": "https://de.wikipedia.org/wiki/Trastuzumab"
   },
+  "Tretinoin": {
+    "dc": "https://flexikon.doccheck.com/de/Tretinoin",
+    "wp": "https://de.wikipedia.org/wiki/Tretinoin"
+  },
   "Triamteren": {
     "dc": "https://flexikon.doccheck.com/de/Triamteren",
     "wp": "https://de.wikipedia.org/wiki/Triamteren"
@@ -3206,6 +3254,10 @@
   "Trimipramin": {
     "dc": "https://flexikon.doccheck.com/de/Trimipramin",
     "wp": "https://de.wikipedia.org/wiki/Trimipramin"
+  },
+  "Trisenox": {
+    "dc": "-",
+    "wp": "https://de.wikipedia.org/wiki/Trisenox"
   },
   "Tropicamid": {
     "dc": "https://flexikon.doccheck.com/de/Tropicamid",
